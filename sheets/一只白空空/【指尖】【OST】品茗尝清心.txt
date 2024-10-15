@@ -1,0 +1,48 @@
+《0.275》
+/(ZE)+T+/(SGW)+(SGT)+/(SGQ)+T+/(SGH)+T+/
+/(ZG)++/(SG)++/(SG)++/H++/
+/(ZE)+T+/(SGW)+(SGT)+/(SGQ)+T+/(SGH)+T+/
+/(ZG)++/(SG)++/(SG)++/G-H-Q-W-/
+
+/(ZE)++/B+A+/(ST)++/(DY)++/
+/(MW)++/B+E-W-/(SQ)+H+/(DQ)+W+/
+/(NE)++/C+A+/(DT)++/(GY)++/
+/(BE)-T-E+/(SG)++/(SG)++/++/
+
+/(VE)++/S+D+/(GT)++/(DY)++/
+/(CW)++/B+E-W-/(SQ)+H+/(DQ)+E+/
+/(XW)++/N+S-E=W=/(DQ)++/(SE)++/
+/(BSW)++/X++/X-B-N-A-/S-D-G-H-/
+
+/(ZQ)++/B+A-W=Q=/(BH)+G+/(ND)+H+/
+/(MSG)++/B+Q-H-/(AG)+(ND)+/(AS)+(SG)+/
+/(ND)++/C+D-S-/(NA)+N+/A+S+/
+/(BA)+B+/X++/(XB)++/B-N-A-S-/
+
+/(VD)++/A+(SQ)-W=Q=/(DH)+G+/(AD)+H+/
+/(CG)++/B+Y-T-/(AE)+W+/Q+H+/
+/(XG)++/(NT)++/(BSE)++/(BW)++/
+/(ZQ)+Z-X-/C-X-C-B-/N-B-N-A-/S-A-S-D-/
+
+/(ZVQ)++/W+V+/(AGQ)++/(VW)++/
+/(CBG)+C+/H+C+/(BSG)++/H++/
+/(XNQ)++/W+X+/(NSQ)++/(XH)++/
+/(ZG)+Z-X-/C-X-C-B-/(ZN)-B-N-A-/(ZS)-A-S-D-/
+
+/(ZVQ)++/W+V+/(AGQ)++/ (VW)++/
+/(CBG)+C+/H+C+/(BSG)++/  H++/
+/(XNQ)++/H+X+/(BSQ)++/ W+E-W-/
+/(ZQ)-Z-X-C-/B-C-B-N-/(ZA)-N-A-S-/(ZD)-S-D-G-/
+
+/(ZVQ)++/W+V+/(AGQ)++/(VW)++/
+/(CBG)+C+/H+C+/(BSG)++/H++/
+/(XNQ)++/W+X+/(NSQ)+-W-/
+(XQ)+H+/(ZG)+Y-T-/E-T-(ZW)-E-/(BQ)-W-H-Q-/(ZG)-D-H+
+
+/(ZVQ)++/W+V+/(AGQ)++/(VW)++/
+/(CBG)+C+/H+C+/(BSG)++/H++/
+/ (XNQ)++/H+X+/(BSQ)++/(BW)+E-W-/
+/(ZQ)-H-G-H-/G-D-(ZS)-D-/(BA)-N-S-A-/(ZS)-D-G-H-/
+
+/(GQ)++/++/
+
