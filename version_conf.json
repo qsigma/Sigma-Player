@@ -1,0 +1,14 @@
+{
+    "current_version_pro": 4.25,
+    "current_version_normal": 4.33,
+    "current_version_name_pro": "4.25",
+    "current_version_name_normal": "4.33",
+    "current_version_name_beta": "4.1",
+    "new_version_description":"Sigma Player Pro 4.25: 流式编曲的瀑布流文本同步功能中新增精确位置指示：点击文本会跳转到对应瀑布流列，点击列或单元格会跳转到并高亮对应文本；\n修复了练习模式的编辑下，按1时异常不保存当前句子改动内容的问题；\n新增歌词适配：自动演奏、排序不会读取【】内的内容；\n新增关于软件页面，包含快捷链接、公告系统、赞助感谢和更新日志；\n修复了4.2以来排序功能无法正常运行的问题；\n流式编曲新增ctrl+空格快捷键，在 + A 模式之间切换；\n回调软件的字体至微软雅黑",
+    "new_version_description_normal":"Sigma Player Pro 4.33: 流式编曲的瀑布流文本同步功能中新增精确位置指示：点击文本会跳转到对应瀑布流列，点击列或单元格会跳转到并高亮对应文本；\n修复了练习模式的编辑下，按1时异常不保存当前句子改动内容的问题；\n新增歌词适配：自动演奏、排序不会读取【】内的内容；\n新增关于软件页面，包含快捷链接、公告系统、赞助感谢和更新日志；\n修复了4.2以来排序功能无法正常运行的问题；\n流式编曲新增ctrl+空格快捷键，在 + A 模式之间切换；\n回调软件的字体至微软雅黑",
+    "new_version_description_beta":"Sigma Player 5.0 Beta 4.1: Midi转谱,Midi播放支持保留黑键, 以#形式输出字符; 在按键映射冲突的时候自动演奏快捷键需要shift才会同时触发",
+    "black_lisk": "[]",
+    "broadcast_normal": "Get ready for Sigma Player 5.0!",
+    "broadcast_pro": "Get ready for Sigma Player Pro 5.0!",
+    "sponsor": "百毒不侵\n雪琳娜LinnaSnow\n夜有星辰伴皓月\n爱情是件奢侈品\n一只白空空\n破忒头"
+}
