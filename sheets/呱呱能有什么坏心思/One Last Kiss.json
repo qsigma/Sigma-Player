@@ -1,0 +1,114 @@
+{
+    "name":"One Last Kiss",
+    "format":1,
+    "intreval":130,
+    "amend":{
+        "Q":"q", "W":"w", "E":"e", "R":"r", "T":"t", "Y":"y", "U":"u",
+        "A":"a", "S":"s", "D":"d", "F":"f", "G":"g", "H":"h", "J":"j",
+        "Z":"z", "X":"x", "C":"c", "V":"v", "B":"b", "N":"n", "M":"m"
+    },
+    "meter":{"+": "    ", "-": "  ", "=": " "},
+    "score":[
+        "XAFH-=XAFH-=XAFH-=XAFH-=XAFH-XAFH-",
+        "VADH-=VADH-=VADH-=VADH-=VADH-VADH-",
+        "BDGJ-=BDGJ-=BDGJ-=BDGJ-=BDGJ-BDGJ-",
+        "CSGJ-=CSGJ-=CSGJ-Q=CSGJ=E-CSGJT=E=CSGJ=T=",
+
+        "XAFHE-=XAFH-=XAFH-=XAFH-=XAFH-XAFH-",
+        "VADH-=VADH-=VADH-=VADH-=VADH-VADH-",
+        "BDGJ-=BDGJ-=BDGJ-=BDGJ-=BDGJ-BDGJ-",
+        "CSGJ-=CSGJ-=CSGJ-=CSGJ-=CSGJ-CSGJ-   ++++",
+
+        "XAFHY=Y=Y=XAFHY=Y=E=XAFH=W=E=XAFHW-=XAFH-XAFH-",
+        "VADHY-Y=VADHY=Y=E=VADH=W=E=VADHW-=VADHQ-VADH-",
+        "BDGJY=Y=Y=BDGJY=Y=E=BDGJ=W=E=BDGJW-=BDGJQ-BDGJ-",
+        "CSGJY-Y=CSGJY=Y=E=CSGJ=W=E=CSGJW-=CSGJW-CSGJ-",
+
+        "XAFHY=Y=Y=XAFHY=Y=E=XAFH=W=E=XAFHW-=XAFH-XAFHQ=Q=",
+        "VADHY-Y=VADHY=Y=E=VADH=W=E=VADHW-=VADHQ-VADH-",
+        "BDGJY=Y=Y=BDGJY=Y=E=BDGJ=W=E=BDGJW-=BDGJ-BDGJ-",
+        "CSGJY=Y=Y=Y=Y=E=E=Q=W-Q-C+",
+
+        "ZVNQEY-=ZVN-=ZVN-=ZVN-=ZVNG-ZVNH-",
+        "ZCNE-=ZCN=H-ZCN-G=ZCN=H-ZCN-ZCNH-",
+        "CBM-=CBM-=CBM-=CBM-=CBMH-CBME-",
+        "XBMW-Q=XBM=Q-XBME-GW=XBM=Q-XBMW-XBM-",
+
+        "ZVN-=ZVN-=ZVN-=ZVN-=ZVNDG-ZVNDH-",
+        "ZCNQE-=ZCN=H-ZCN-DG=ZCN=DH-ZCN-ZCNDH-",
+        "CBM-=CBM-=CBM-=CBM-=CBMGH-CBMQE-",
+        "XBMDHW-HQ=XBM=GQ-XBMQE-GDW=XBM=Q-XBMGJW-XBM-",
+
+
+        "XH-=NSH=X-NSH-X=H=S=N=XQ-NSW-",
+        "VH-=AFH=V-AFH-V=E=F=A=VW-AFQ-",
+        "BH-=SH=B-SH-B=H=G=S=BH-SE-",
+        "CW-Q=MD=CQ-MDE-CW-Q=MD=CW-MD-",
+
+        "XH-=NSH=X-NSH-X=H=S=N=XHQ-NSW-",
+        "VH-=AFH=V-AFH-VAFH+VFAH+",
+        "BH-=SH=B-SH-B=HE=G=S=BH-SHE-",
+        "CGW-GQ=MD=CGQ-MDGE-CGW-GQ=MD=CGW-MD-",
+
+        "X-=NS=X-NS-QX-E=NS=XT=E=NS=T=",
+        "VE-T=AFE=V=T=AFE-VQ-E=AF=VT=E=AF=T=",
+        "BE-T=SGE=B=T=SGE-BQ-E=SG=BR=E=SG=R=",
+        "CE-R=BDE=C=R=BDE-C-=BD=C-MD-",
+
+        "X-=NS=X-NS-QX-E=NS=XT=E=NS=T=",
+        "VE-T=AFE=V=T=AFE-VQ-E=AF=VT=E=AF=T=",
+        "BE-T=SGE=B=T=SGE-BQ-E=SG=BR=E=SG=R=",
+        "CE-T=BDE=C=T=BDE-C=Y-MD=T=CY-MDT=Y=",
+
+
+        "ZVN+++G-H-",
+        "ZCNE+H+G-H+H-",
+        "CBMA+++H-E-",
+        "XBMW-Q-Q-E-W-Q-W+",
+
+        "ZVN+++G-H-",
+        "ZCNE+H+G-H+H-",
+        "CBMA+++H-E-",
+        "XBMDHW-HQ=XBM=GQ-XBMQE-GDW=XBM=Q-XBMGJW-XBM-",
+
+        "ZVH-=ZVH=Z-VH-ZV=HE-ZV=ZH-VE-",
+        "CNS-A=CN=CNA-CND-CNS-A=CN=CH-CNE-",
+        "MDW-Q=MD=MDQ-MDE-MDW-Q=MD=MDH-MDE-",
+        "NSW-Q=NS=NSQ-NSE-NSW-Q=NS=NSW-NS-",
+
+        "ZVH-=ZVH=Z-VH-ZV=HE-ZV=ZH-VE-",
+        "CNS-A=CN=CNA-CND-CNS-A=CN=NH-DE-",
+        "CMSW-AQ-AQ-ED-SW-QA-SW+",
+        "XH-=NSH=X-NSH-X=H=S=N=XQ-NSW-",
+
+        "VH-=AFH=V-AFH-V=E=F=A=VW-AFQ-",
+        "BH-=SH=B-SH-B=H=G=S=BH-SE-",
+        "CW-Q=MD=CQ-MDE-CW-Q=MD=CW-MD-",
+        "XH-=NSH=X-NSH-X=H=S=N=XHQ-NSW-",
+
+        "VH-=AFH=V-AFH-VAFH+VFAH+",
+        "BH-=SH=B-SH-B=HE=G=S=BH-SHE-",
+        "CMDSW-AQ-AQ-ED-SW-QA-CSW+",
+        "XH=S=NF=H=XS=F=VH=S=XF=H=NS=F=XQ=S=VW=S=",
+
+        "VH=A=ND=H=VA=D=NH=D=VH=E=ND=H=VW=D=NQ=D=",
+        "CH=A=ND=H=CA=D=NH=A=CD=H=NA=D=CH=D=NE=D=",
+        "MW=D=BQ=D=CQ=D=BE=D=MW=D=BQ=D=CW=G=J=W=",
+        "XHY=S=NF=H=XS=F=VH=S=XF=H=NS=F=XQ=S=VW=S=",
+
+        "VH=A=ND=H=VA=D=NH=D=VH=E=ND=H=VW=D=NQ=D=",
+        "CH=A=ND=H=CA=D=NH=A=CD=H=NA=D=CH=D=NE=D=",
+        "CMDW=H=Q=D=Q=D=E=D=W=D=Q=D=CW+",
+        "X-=NS=X-NS-QX-E=NS=XT=E=NS=T=",
+
+        "VE-T=AFE=V=T=AFE-VQ-E=AF=VT=E=AF=T=",
+        "BE-T=SGE=B=T=SGE-BQ-E=SG=BR=E=SG=R=",
+        "CE-R=BDE=C=R=BDE-C-=BD=C-MD-",
+        "X-=NS=X-NS-QX-E=NS=XT=E=NS=T=",
+
+        "VE-T=AFE=V=T=AFE-VQ-E=AF=VT=E=AF=T=",
+        "BE-T=SGE=B=T=SGE-BQ-E=SG=BR=E=SG=R=",
+        "CE-T=BDE=C=T=BDE-C=Y-MD=T=CY-MDT=Y="
+    ],
+    "explain":""
+}
