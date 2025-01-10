@@ -1,5 +1,6 @@
 # Sigma Player 说明书
 适用于 Sigma Player v5.0 & Sigma Player Pro v5.0
+
 *Sigma Player v5.0 和 Sigma Player Pro v5.0 对文件结构进行了较大调整，建议您下载完整安装包运行。*
 
 ## 欢迎使用
