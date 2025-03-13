@@ -28,7 +28,7 @@
 > 缺失上述文件夹可能导致 Sigma Player 无法正常运行。在不修改文件夹名称的前提下，您可以创建新的文件夹用于存放 midi 文件或其它用途。
 
 ### 验证 Sigma Player Pro
-- Sigma Player Pro 包含了 midi 转谱的独家功能以及标准版的全部功能。如果您是 midi 制曲者或者高水平手弹玩家，可以前往 [如下问卷地址](https://wjx.cn/vm/e3srfbj.aspx) 申请使用 Sigma Player Pro。
+- Sigma Player Pro 包含了 midi 转谱的独家功能以及标准版的全部功能。如果您是 midi 制曲者或者高水平手弹玩家，可以前往 [如下问卷地址](https://wjx.cn/vm/e3srfbj.aspx#) 申请使用 Sigma Player Pro。
 - 在填写申请问卷前，您需要准备好**活跃平台的账号主页截图、设备的MAC地址和联系邮箱**；如果您的申请审核通过，我们会给您的邮箱发放激活码。
 - 如果您获得了 Sigma Player Pro 的使用资格，请在所提交机器码的设备上解压 Sigma Player Pro 的安装包，双击.exe 文件，输入发放的激活码。此后，您可以正常使用，无需再次验证.
 
