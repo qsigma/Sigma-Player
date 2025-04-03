@@ -252,7 +252,7 @@ Sigma Player在过去的两年半为爱发电。你的赞助支持是支撑西�
 ### 内置诗琴
 - 如果在控制中心的输出模式选择了【音频】，且保持软件的页面在【音频中枢】页面，则可以将软件变成原琴模拟器。按下对应按键时，软件顶部的对应琴键会发生变色
 
-  <img width="529" alt="image" src="https://github.com/user-attachments/assets/9478dec4-e345-416e-8b1b-474b435f3c66">
+  <img width="280" alt="image" src="https://github.com/user-attachments/assets/9478dec4-e345-416e-8b1b-474b435f3c66">
 
   - 在 Sigma Player v5.0, 我们支持了 SF2 音源文件。你可以自行导入 SF2 或传统音频音源文件。如果你的 SF2 文件中设置了延音，Sigma Player 可以在内置诗琴手弹演奏、流式编曲等地方正确地应用它们。
   - 对于音源文件，可以在软件音频中枢页面左上角点击【乐器配置】，进行乐器的快捷重命名以适配 Sigma Player。在全量软件包中，你可以调用 Librosa 库分析音源频率，快捷获取命名建议。
