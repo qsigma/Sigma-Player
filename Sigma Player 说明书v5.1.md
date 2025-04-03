@@ -16,25 +16,30 @@
 |----------------------|---------------------------------------|-------------------------------|
 |  -  |Sigma Player (Pro) vx.x.exe                               | 软件本体                      |
 | - | Sigma Player 使用说明.pdf              | 软件说明书                    |
-| audios               | 风物之诗琴, ...                         | 软件的内置音源                |
-| autosave             | flowsave.txt                           | 存放流式编曲自动保存的文件    |
+| audios               | 风物之诗琴, ...                         | 软件的[内置音源](#内置诗琴)                |
+| autosave             | flowsave.txt                           | 存放[流式编曲](##流式编曲)自动保存的文件    |
 |                      | mainsave.txt                           | 存放主文本框自动保存的文件    |
 |                      | helpersave.txt                         | 存放副文本框自动保存的文件    |
 | config               | config.json, ...                       | 软件的配置文件                |
-|                      | file_list.txt                          | 存放在线曲库的文件列表，以便快速给出搜索结果|
+|                      | file_list.txt                          | 存放[在线曲库](###选择琴谱文件)的文件列表，以便快速给出搜索结果|
 | icons                | icons.ico, pin.png, ...                | 软件的图标等图片文件          |
-| keymap               | ...                                    | 存放按键映射脚本             |
-| midi                 | ...                                    | 存放用户导出的midi文件       |
+| keymap               | ...                                    | 存放[按键映射](###按键映射)脚本             |
+| midi                 | ...                                    | 存放用户[导出的midi文件](###导出为Midi)       |
 | playlist             | ...                                    | 存放用户定义的播放列表        |
-| scripts              | ...                                    | 存放万向转谱脚本             |
+| scripts              | ...                                    | 存放[万向转谱](###万向转谱)脚本             |
 | sheets               | ...                                    | 存放曲谱                      |
 > 缺失上述文件夹可能导致 Sigma Player 无法正常运行。在不修改文件夹名称的前提下，你可以创建新的文件夹用于存放 midi 文件或其它用途。
 
 ### 历史版本迁移助手
-从Sigma Player 5.1起，你可以点击软件右上角的 ⬇️ 图标，将历史版本的资源文件迁移到当前版本中。该功能会将你在历史版本中的 `sheets`, `midi`, `playlist`, `scripts`, `keymap`, `config`, `audios`, `autosave` 等文件夹中的内容复制到当前版本的文件夹中。
+从Sigma Player 5.1起，你可以点击软件右上角的 <img width="17" alt="image" src="https://github.com/user-attachments/assets/cd8ee0a3-362a-4aa4-a7bd-346438321a39" />
+图标，将历史版本的资源文件迁移到当前版本中。该功能会将你在历史版本中的 `sheets`, `midi`, `playlist`, `scripts`, `keymap`, `config`, `audios`, `autosave` 等文件夹中的内容复制到当前版本的文件夹中。
 
+- 点击【选择文件夹】后，软件会读取你选择的文件夹下，是否有audios等各个文件夹存在，并将存在的选项高亮，供你选择是否迁移。你选择的文件夹须是audios, exe等文件的上一级。
 - 如果遇到同名文件，迁移助手会用历史版本的文件覆盖当前版本的文件，除了`config.json`中关于版本号的信息；
 - 默认情况下，原位置的文件不会被删除。我们提供了“同时删除整个原软件目录”的选项，但是我们**非常不建议**你冒着丢失其他重要数据的风险选中它。
+
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/b9d3544e-ba5a-4567-881d-200f261e05a6" />
+
 
 ### 验证 Sigma Player Pro
 - Sigma Player Pro 包含了 midi 转谱的独家功能以及标准版的全部功能。如果你是 midi 制曲者或者高水平手弹玩家，可以前往[如下问卷地址](https://wjx.cn/vm/e3srfbJ.aspx#)申请使用 Sigma Player Pro。
@@ -71,33 +76,39 @@ Sigma Player在过去的两年半为爱发电。你的赞助支持是支撑西�
 当前版本的 Sigma Player 由四个页面构成。
 
 #### 音频中枢
-在这个界面无需打开游戏，即可进行手弹练习；同时也是练习模式、自动演奏按键指示、Midi 播放的入口。
+在这个界面无需打开游戏，即可进行手弹练习；同时也是与音频播放相关的所有功能的入口。
 
-<img width="719" alt="image" src="https://github.com/user-attachments/assets/5191ba34-280f-4a5f-a46b-71b4277805c0" />
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/ccfd0637-f1a4-48af-95e2-b17c28e3d114" />
+
 
 
 #### 琴谱转换
 在这个界面可以编辑琴谱，调用丰富的琴谱格式转换功能，或使用换行、排序等功能按钮。
 
-<img width="732" alt="image" src="https://github.com/user-attachments/assets/f2c59843-88c9-4e27-bbce-fda887c41cc7" />
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/5f69cf8c-22da-4925-b668-5fc0423581eb" />
+
 
 
 #### 流式编曲
 在这个界面可以使用双向同步的文本框和瀑布流，创作自己的作品，或者进行手弹录制。也是 Sigma Player Pro 的 Midi 转谱的入口。
 
-<img width="739" alt="image" src="https://github.com/user-attachments/assets/475c2160-f3ba-4f9b-9b4b-3de9f603556c" />
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/ef9b0982-f776-4900-aa53-1c89b40676ac" />
+
 
 
 #### 关于软件
 在这个界面可以查看赞助鸣谢、公告系统、更新日志和快捷链接。
 
-<img width="735" alt="image" src="https://github.com/user-attachments/assets/2da50de4-8cd6-43ce-b009-18b1ba56d4f1" />
+<img width="711" alt="image" src="https://github.com/user-attachments/assets/d5bdc060-e520-4132-815a-c2c01d0b364b" />
+
 
 
 ### 顶部与底部的常驻 UI
 - 顶部的常驻 UI，包含导入琴谱和几个使用软件时的图标按键。
 
-  <img width="379" alt="image" src="https://github.com/user-attachments/assets/55a2d406-0846-4d33-914b-05c3809dfdda" />
+ <img width="377" alt="image" src="https://github.com/user-attachments/assets/3037e4a4-d364-4d07-ba61-db171dc22a11" />
+
+
 
   - **图钉**：点按后会变成<img width="17" alt="image" src="https://github.com/user-attachments/assets/baabc154-8c08-4c21-ab2f-ccd758b1736c">，表示软件窗口具有了置顶的特性；再次点按则取消置顶；
   - **皮肤**：点按后打开自定义主题配置向导。
@@ -110,8 +121,11 @@ Sigma Player在过去的两年半为爱发电。你的赞助支持是支撑西�
     - 选色窗口提供了丰富的选色支持，包括一个从屏幕上吸取颜色的按钮。
       <img width="1273" alt="截屏2025-01-06 13 26 20" src="https://github.com/user-attachments/assets/df68ecf1-d5f2-4903-91fa-1dfffe17426a" />
 
-
   - **刷新**：点按后刷新琴谱目录、检测版本更新。
+  - **更新**：当软件在启动时或刷新后检测到GitHub仓库存在更新的版本号，则跳出在线更新。
+  - 导入**文件**：从本地文件导入`.mid`或`.txt`文件。
+  - 导入**在线曲库**：从[在线曲库](###在线曲库)导入歌曲。
+  - **[历史版本迁移助手](###历史版本迁移助手)**：将资源文件从历史版本进行迁移。
 - 底部的常驻 UI，包含自动演奏进度条和控制中心。
 
   <img width="506" alt="image" src="https://github.com/user-attachments/assets/b8633625-77db-45d9-9858-df7bd2fef402">
