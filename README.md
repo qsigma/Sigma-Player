@@ -9,9 +9,9 @@ git clone https://github.com/qsigma/Sigma-Player.git
 ```
 以保存全部在线曲库。
 
+- 软件和音源的获取，请查看本仓库的 [releases](https://github.com/qsigma/Sigma-Player/releases)
 - 软件的详细说明书可以参见[此处](Sigma%20Player%20说明书v5.0.md)。
 - Sigma Player Pro 的申请链接请点击 [此处](https://www.wjx.cn/vm/e3srfbJ.aspx#)。
-- 软件和音源的获取，请查本仓库的 releases。
 - 欢迎给本仓库点 star。如果你有任何问题，可以阅读说明书，在 Issues 里提出，或者在软件交流群 881443431 与我们交流。
 
 
