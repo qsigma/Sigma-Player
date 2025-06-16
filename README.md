@@ -1,6 +1,10 @@
 # Sigma Player
 > 最强大的游戏键盘钢琴演奏辅助与编曲软件
 
+# 在[这里](https://github.com/qsigma/Sigma-Player/releases)下载软件
+## 在[这里](https://github.com/qsigma/Sigma-Player/blob/main/documents/Sigma%20Player%20%E8%AF%B4%E6%98%8E%E4%B9%A6v5.1.md)查看软件说明书
+## 在[这里](https://www.wjx.cn/vm/e3srfbJ.aspx#)申请Sigma Player Pro
+
 本仓库包含 Sigma Player 的软件包体，音源文件，在线曲库，说明书等信息。在线曲库由各位 up 主自愿同意上传，请尊重知识产权，禁止将它们商用。
 
 你可以运行
@@ -9,10 +13,7 @@ git clone https://github.com/qsigma/Sigma-Player.git
 ```
 以保存全部在线曲库。
 
-- 软件和音源的获取，请查看本仓库的 [releases](https://github.com/qsigma/Sigma-Player/releases)
-- 软件的详细说明书可以参见[此处](Sigma%20Player%20说明书v5.0.md)。
-- Sigma Player Pro 的申请链接请点击 [此处](https://www.wjx.cn/vm/e3srfbJ.aspx#)。
-- 欢迎给本仓库点 star。如果你有任何问题，可以阅读说明书，在 Issues 里提出，或者在软件交流群 881443431 与我们交流。
+欢迎给本仓库点 star。如果你有任何问题，可以阅读说明书，在 Issues 里提出，或者在软件交流群 881443431 与我们交流。
 
 
 
