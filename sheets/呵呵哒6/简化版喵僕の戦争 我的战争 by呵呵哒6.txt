@@ -1,0 +1,109 @@
+第一版为一行一小节 排版版本往下翻
+(CAH)  C  C (XMG)/
+(CAH)  C  C (CAQ)   (DE)/
+(CAH)  C  C (XMG)/
+(CAH)  C  C (NHY) (BGT) (VFR) (CDE)/
+(NAH)   (NH) (NH) (CAQ) (NH) C (NH)/
+(VFH) (VDE) (ZDE) (DE) (BDE) B (XAQ) (MJ)/
+(NAH)   (NH) (NH) (CAQ) (NH) C (NH)/
+(VAH) (VDE) (ZDE) (DE) (BEY) (BGT) (XFR) (DE)/
+(NAH)   (NH) (NH) (CAQ) (NH) C (NH)/
+(VFH) (VDE) (ZDE) (DE) (BDE) B (XAQ) (MJ)/
+(NAH)   (NQY) N (CQY)   (CQY)/
+(NAH) (NQY) (NQY) (NQY) (NQY) (GT) (CFR) (CHE)J/
+(NQ) J (ZNW) Q (CE) (CW) (XNR) E/
+(NW) E (ZNQ) J (CQ) (CE) (XNJ) E/
+(NH) D (ZNH) J (CQ) (CD) (XNJ) D/
+(NH) D (NH) (ZD) (CNH)   D/
+(NA) N (CNS) M C (CA) (XM) N/
+N (BM) (ZC) N C C (XM) C/
+(NA) N (ZCS) M C (CA) (XM) N/
+N (NG) (ZC) H (CH) C (XVN)/
+(NA) N (CNS) M C (CA) (XM) N/
+N (BM) (ZC) N C C (XM) C/
+(NA) N S (BM) C (CA)   (CN)/
+(CN) N [(CN)NADHQEY(JU)] (HY) (GT) (FR)/
+(NAH)   (NH) (NH) (CAQ) (NH) C (NH)/
+(VFH) (VDE) (ZDE) (DE) (BDE) B (XAQ) (MJ)/
+(XAH)   (XNH) (XNH) (ZAQ) (NH) Z (NH)/
+(NAH) (NAQ) (VST) (FR) (CHE) C (XAQ) (MJ)/
+(NAH)   (NH) (NH) (CAQ) (NH) C (NH)/
+(VFH) (VDE) (ZDE) (DE) (BDE) B (XAQ) (MJ)/
+(VAH)   (VQY) V (BQY)   (BQY) B/
+(NAH) (NHY) (NHY) (NHY) (NQY)   (CHY) (CJU)/
+(NDQ)   (ZCN) (BMJ)(NH)(BMJ)   (XMG) B/
+(VQY) V (ZVN) (GT)(FR)(CGT) Z (CAE)/
+(XHR) N (XVN) (DE)(SW)(ZDE) N (ZNQ)/
+(MJ) X (VDE)   (CSW) (AQ) (CMJ) (AQ)/
+(NAH)   (NH) (NH) (CAQ) (NH) C (NH)/
+(VFH) (VDE) (ZDE) (DE) (BDE) B (XAQ) (MJ)/
+(VAH)   (VQY) V (BQY)   (BQY) B/
+(NAH) (NHY) (NHY) (NHY) (NQY) N N ET/
+(HEY) V (ZHY)   (BDE) (BSW) (XNQ) B/
+(BSJ) N (ZC) N (BDQ) B (ZC) (BDE)(GT)/
+(VEY) V (ZNY) (VDE)(GT)(BEY) B (XMY) (BDE)(GT)/
+(NQY) N (ZNY) N (XHE)/
+(MH) (MH) (AH) (AH) (MH) (MH) (AH) (AH)/
+(MH) (MH) (AH) (AH) (MH) (MH) (AH) (AH)/
+(MH) (MH) (AH) (AH) (MH) (MH) (AH) (AH)/
+(MH) (MH) (AD) (AD) (MS) (MS) (AD) (AD)/
+(MH) (MH) (AH) (AH) (MH) (MH) (AH) (AH)/
+(MH) (MH) (AH) (AH) (MH) (MH) (AH) (AH)/
+(VFR) (CDE) (XSW) (CDE) (XSW) (ZAQ) (XSW) (ZAQ)/
+(MJ) (ZAQ) (MJ) (NH) (MJ) (NH) (NDH)/
+
+
+
+
+(CAH)  C/  C /(XMG)   /    /
+(CAH)  C/  C /(CAQ)   /(DE)   /
+(CAH)  C/  C /(XMG)   /    /
+(CAH)  C/  C /(NHY) (BGT) /(VFR) (CDE) /
+(NAH)   /(NH) (NH) /(CAQ) (NH) /C (NH) /
+(VFH) (VDE) /(ZDE) (DE) /(BDE) B /(XAQ) (MJ) /
+(NAH)   /(NH) (NH) /(CAQ) (NH) /C (NH) /
+(VAH) (VDE) /(ZDE) (DE) /(BEY) (BGT) /(XFR) (DE) /
+(NAH)   /(NH) (NH) /(CAQ) (NH) /C (NH) /
+(VFH) (VDE) /(ZDE) (DE) /(BDE) B /(XAQ) (MJ) /
+(NAH)   /(NQY) N /(CQY)   /(CQY)   /
+(NAH) (NQY) /(NQY) (NQY) /(NQY) (GT) /(CFR) (CHE)J/
+(NQ) J /(ZNW) Q /(CE) (CW) /(XNR) E /
+(NW) E /(ZNQ) J /(CQ) (CE) /(XNJ) E /
+(NH) D /(ZNH) J /(CQ) (CD) /(XNJ) D /
+(NH) D /(NH) (ZD) /(CNH)   /D   /
+(NA) N /(CNS) M /C (CA) /(XM) N /
+N (BM) /(ZC) N /C C /(XM) C /
+(NA) N /(ZCS) M /C (CA) /(XM) N /
+N (NG) /(ZC) H /(CH) C /(XVN)   /
+(NA) N /(CNS) M /C (CA) /(XM) N /
+N (BM) /(ZC) N /C C /(XM) C /
+(NA) N /S (BM) /C (CA) /  (CN) /
+N N /[(CN)NADHQEY(JU)] (HY) /(GT) (FR) /(NAH)   /
+(NH) (NH) /(CAQ) (NH) /C (NH) /(VFH) (VDE) /
+(ZDE) (DE) /(BDE) B /(XAQ) (MJ) /(XAH)   /
+(XNH) (XNH) /(ZAQ) (NH) /Z (NH) /(NAH) (NAQ) /
+(VST) (FR) /(CHE) C /(XAQ) (MJ) /(NAH)   /
+(NH) (NH) /(CAQ) (NH) /C (NH) /(VFH) (VDE) /
+(ZDE) (DE) /(BDE) B /(XAQ) (MJ) /(VAH)   /
+(VQY) V /(BQY)   /(BQY) B /(NAH) (NHY) /
+(NHY) (NHY) /(NQY)   /(CHY) (CJU) /(NDQ)   /
+(ZCN) (BMJ)(NH)/(BMJ)   /(XMG) B /(VQY) V /
+(ZVN) (GT)(FR)/(CGT) Z /(CAE)   /(XHR) N /
+(XVN) (DE)(SW)/(ZDE) N /(ZNQ)   /(MJ) X /
+(VDE)   /(CSW) (AQ) /(CMJ) (AQ) /(NAH)   /
+(NH) (NH) /(CAQ) (NH) /C (NH) /(VFH) (VDE) /
+(ZDE) (DE) /(BDE) B /(XAQ) (MJ) /(VAH)   /
+(VQY) V /(BQY)   /(BQY) B /(NAH) (NHY) /
+(NHY) (NHY) /(NQY) N /N ET/(HEY) V /
+(ZHY)   /(BDE) (BSW) /(XNQ) B /(BSJ) N /
+(ZC) N /(BDQ) B /(ZC) (BDE)(GT)/(VEY) V /
+(ZNY) (VDE)(GT)/(BEY) B /(XMY) (BDE)(GT)/(NQY) N /
+(ZNY) N /(XHE)   /    /(MH) (MH) /
+(AH) (AH) /(MH) (MH) /(AH) (AH) /(MH) (MH) /
+(AH) (AH) /(MH) (MH) /(AH) (AH) /(MH) (MH) /
+(AH) (AH) /(MH) (MH) /(AH) (AH) /(MH) (MH) /
+(AD) (AD) /(MS) (MS) /(AD) (AD) /(MH) (MH) /
+(AH) (AH) /(MH) (MH) /(AH) (AH) /(MH) (MH) /
+(AH) (AH) /(MH) (MH) /(AH) (AH) /(VFR) (CDE) /
+(XSW) (CDE) /(XSW) (ZAQ) /(XSW) (ZAQ) /(MJ) (ZAQ) /
+(MJ) (NH) /(MJ) (NH) /(NDH)/

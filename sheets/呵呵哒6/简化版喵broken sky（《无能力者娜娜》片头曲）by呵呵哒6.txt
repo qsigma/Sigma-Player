@@ -1,0 +1,164 @@
+第一版为一行一小节 排版版本往下翻
+H         H/
+(NH) E (NW)Q WNQ W(NE) HH/
+(NH) E (NW)Q WNEWQ(NH) G/
+(NH)   (NG)   (NW)   (NQ)  G/
+(NT)   (NE) QTN T (NY)/
+N   N   (NGT)   N/
+N   N   (NET)   N/
+(NW)   N   (NGT)   N/
+N   N   (NET)   N/
+(NW)   N   (NG) (NJ) (NH) (NG)/
+(NH) (NJ) (NH) (NG) (NH) (NJ) (NH) (NG)/
+(NH) N (NG) N (NG) N (NJ) N/
+(NH) (NG)HN (NQ) (NJ) (NJ)Q(NJ) (NG)/
+(NJ)J(NQ)JNHN (NG) (NJ) (NH) (NG)/
+(NH) (NJ) (NH) (NG) (NH) (NJ) (NH) (NG)/
+(NH) N (NG) N (NG) N (NJ) N/
+(NQ) (NJ) (NH) (NG) N N N N/
+N N N N (NG) N (NH) NJ/
+N (NJ) (NH) (NG) (NG) N (NH) (NW)J/
+N N N (NQ) N (NJ) (NQ) (NJ)/
+(NQ) (NJ) (NQ) (NW) (NE) (NJ)ENR(NE)/
+N N N (NH)H(NH) (NE) (NW)QNW/
+NQNW(NE) (NH)H(NH) (NE) (NW)QNW/
+NE(NW)Q(NH) (NG) (NH) N (NQ) N/
+(NW) (NQ)WN (NT) (NE) N (NE) (NR)T/
+N (NR)ENR(NE) (NH) (NE) (NW)QNW/
+NQNW(NE) (NH)H(NH) (NE) (NW)QNW/
+N (NE) (NH) (NG) (NH) N (NG) N/
+(NW) N (NQ) NQ(NT) N (NW) (NQ)T/
+N (NT) (NY) N (NGT) N N N/
+N N N N (NET) N N N/
+(NW) N N N (NGT) N N N/
+N N N N (NET) N N N/
+(NW) N N N (NG) (NJ) (NH) (NG)/
+(NH) (NJ) (NH) (NG) (NH) (NJ) (NH) (NG)/
+(NH) N (NG) N (NG) N (NJ) N/
+(NH) (NG)HN (NQ) (NJ) (NJ)Q(NJ) (NG)/
+(NJ)J(NQ)JNHN (NG) (NJ) (NH) (NG)/
+(NH) (NJ) (NH) (NG) (NH) (NJ) (NH) (NG)/
+(NH) N (NG) N (NG) N (NJ) N/
+(NQ) (NJ) (NH) (NG) N N N N/
+N N N N (NG) N (NH) NJ/
+N (NJ) (NH) (NG) (NG) N (NH) (NW)J/
+N N N (NQ) N (NJ) (NQ) (NJ)/
+(NQ) (NJ) (NQ) (NW) (NE) (NJ)ENR(NE)/
+N N N (NH)H(NH) (NE) (NW)QNW/
+NQNW(NE) (NH)H(NH) (NE) (NW)QNW/
+NE(NW)Q(NH) (NG) (NH) N (NQ) N/
+(NW) (NQ)WN (NT) (NE) N (NE) (NR)T/
+N (NR)ENR(NE) (NH) (NE) (NW)QNW/
+NQNW(NE) (NH)H(NH) (NE) (NW)QNW/
+N (NE) (NH) (NG) (NH) N (NG) N/
+(NW) N (NQ) NQ(NT) N (NW) (NQ)T/
+N (NT) (NY) N N N NG(NH)J/
+(NQ) (NJ) (NQ)WNQN N NG(NH)J/
+(NQ) (NJ) (NQ)WNWN NE(NE) N/
+(NH) (NE) (NW) (NQ) (NJ) (NQ) (NJ) (NG)/
+(NH) (NG)HN (NQ) (NE) (NW)RNEN/
+(NE)E(NE)ENWNTN (NR) (NE) (NW)/
+(NE)E(NE)ENWNTN (NY)ENWN/
+(NH) (NQ)JNJNQN NJ(NQ)WN/
+(NE) (NJ)ENRNEN N N (NW)/
+(NE) (NJ)ENRNEN N N (NH)H/
+(NH) (NE) (NW)JNWNJNW(NE) (NH)H/
+(NH) (NE) (NW)QNWNQNW(NE) (NH)H/
+(NH) (NE) (NW)QNWNE(NW)Q(NH) (NG)/
+(NH) N (NQ) N (NW) (NQ)WN (NT)/
+(NE) N (NE) (NR)TN (NR)ENR(NE)/
+(NH) (NE) (NW)QNWNQNW(NE) (NH)H/
+(NH) (NE) (NW)QNWN (NE) (NH) (NG)/
+(NH) N (NG) N (NW) N (NQ) NQ/
+(NT) N (NW) (NQ)TN (NT) (NY) N/
+(NGT) N N N N N N N/
+(NET) N N N (NW) N N N/
+(NGT) N N N N N N N/
+(NET) N N N (NW) N N (NH)H/
+(NH) (NE) (NW)QNWNQNW(NE) N/
+(NET) N N N (NW) N N (NH)H/
+(NH) (NE) (NW)QNWNE(NW)Q(NH) (NG)/
+(NET) N N N (NRY) N N N/
+
+
+
+    /    /    /HH  /
+(NH) E /(NW)Q W/NQ W/(NE) HH/
+(NH) E /(NW)Q W/NEWQ/(NH) G /
+(NH)   /(NG)   /(NW)   /(NQ)  G/
+(NT)   /(NE) QT/N T /(NY)   /
+N   /N   /(NGT)   /N   /
+N   /N   /(NET)   /N   /
+(NW)   /N   /(NGT)   /N   /
+N   /N   /(NET)   /N   /
+(NW)   /N   /(NG) (NJ) /(NH) (NG) /
+(NH) (NJ) /(NH) (NG) /(NH) (NJ) /(NH) (NG) /
+(NH) N /(NG) N /(NG) N /(NJ) N /
+(NH) (NG)H/N (NQ) /(NJ) (NJ)Q/(NJ) (NG) /
+(NJ)J(NQ)J/NHN /(NG) (NJ) /(NH) (NG) /
+(NH) (NJ) /(NH) (NG) /(NH) (NJ) /(NH) (NG) /
+(NH) N /(NG) N /(NG) N /(NJ) N /
+(NQ) (NJ) /(NH) (NG) /N N /N N /
+N N /N N /(NG) N /(NH) NJ/
+N (NJ) /(NH) (NG) /(NG) N /(NH) (NW)J/
+N N /N (NQ) /N (NJ) /(NQ) (NJ) /
+(NQ) (NJ) /(NQ) (NW) /(NE) (NJ)E/NR(NE) /
+N N /N (NH)H/(NH) (NE) /(NW)QNW/
+NQNW/(NE) (NH)H/(NH) (NE) /(NW)QNW/
+NE(NW)Q/(NH) (NG) /(NH) N /(NQ) N /
+(NW) (NQ)W/N (NT) /(NE) N /(NE) (NR)T/
+N (NR)E/NR(NE) /(NH) (NE) /(NW)QNW/
+NQNW/(NE) (NH)H/(NH) (NE) /(NW)QNW/
+N (NE) /(NH) (NG) /(NH) N /(NG) N /
+(NW) N /(NQ) NQ/(NT) N /(NW) (NQ)T/
+N (NT) /(NY) N /(NGT) N /N N /
+N N /N N /(NET) N /N N /
+(NW) N /N N /(NGT) N /N N /
+N N /N N /(NET) N /N N /
+(NW) N /N N /(NG) (NJ) /(NH) (NG) /
+(NH) (NJ) /(NH) (NG) /(NH) (NJ) /(NH) (NG) /
+(NH) N /(NG) N /(NG) N /(NJ) N /
+(NH) (NG)H/N (NQ) /(NJ) (NJ)Q/(NJ) (NG) /
+(NJ)J(NQ)J/NHN /(NG) (NJ) /(NH) (NG) /
+(NH) (NJ) /(NH) (NG) /(NH) (NJ) /(NH) (NG) /
+(NH) N /(NG) N /(NG) N /(NJ) N /
+(NQ) (NJ) /(NH) (NG) /N N /N N /
+N N /N N /(NG) N /(NH) NJ/
+N (NJ) /(NH) (NG) /(NG) N /(NH) (NW)J/
+N N /N (NQ) /N (NJ) /(NQ) (NJ) /
+(NQ) (NJ) /(NQ) (NW) /(NE) (NJ)E/NR(NE) /
+N N /N (NH)H/(NH) (NE) /(NW)QNW/
+NQNW/(NE) (NH)H/(NH) (NE) /(NW)QNW/
+NE(NW)Q/(NH) (NG) /(NH) N /(NQ) N /
+(NW) (NQ)W/N (NT) /(NE) N /(NE) (NR)T/
+N (NR)E/NR(NE) /(NH) (NE) /(NW)QNW/
+NQNW/(NE) (NH)H/(NH) (NE) /(NW)QNW/
+N (NE) /(NH) (NG) /(NH) N /(NG) N /
+(NW) N /(NQ) NQ/(NT) N /(NW) (NQ)T/
+N (NT) /(NY) N /N N /NG(NH)J/
+(NQ) (NJ) /(NQ)WNQ/N N /NG(NH)J/
+(NQ) (NJ) /(NQ)WNW/N NE/(NE) N /
+(NH) (NE) /(NW) (NQ) /(NJ) (NQ) /(NJ) (NG) /
+(NH) (NG)H/N (NQ) /(NE) (NW)R/NEN /
+(NE)E(NE)E/NWNT/N (NR) /(NE) (NW) /
+(NE)E(NE)E/NWNT/N (NY)E/NWN /
+(NH) (NQ)J/NJNQ/N NJ/(NQ)WN /
+(NE) (NJ)E/NRNE/N N /N (NW) /
+(NE) (NJ)E/NRNE/N N /N (NH)H/
+(NH) (NE) /(NW)JNW/NJNW/(NE) (NH)H/
+(NH) (NE) /(NW)QNW/NQNW/(NE) (NH)H/
+(NH) (NE) /(NW)QNW/NE(NW)Q/(NH) (NG) /
+(NH) N /(NQ) N /(NW) (NQ)W/N (NT) /
+(NE) N /(NE) (NR)T/N (NR)E/NR(NE) /
+(NH) (NE) /(NW)QNW/NQNW/(NE) (NH)H/
+(NH) (NE) /(NW)QNW/N (NE) /(NH) (NG) /
+(NH) N /(NG) N /(NW) N /(NQ) NQ/
+(NT) N /(NW) (NQ)T/N (NT) /(NY) N /
+(NGT) N /N N /N N /N N /
+(NET) N /N N /(NW) N /N N /
+(NGT) N /N N /N N /N N /
+(NET) N /N N /(NW) N /N (NH)H/
+(NH) (NE) /(NW)QNW/NQNW/(NE) N /
+(NET) N /N N /(NW) N /N (NH)H/
+(NH) (NE) /(NW)QNW/NE(NW)Q/(NH) (NG) /
+(NET) N /N N /(NRY) N /N N/

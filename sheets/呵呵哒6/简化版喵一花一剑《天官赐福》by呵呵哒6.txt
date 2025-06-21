@@ -1,0 +1,55 @@
+第一版为一行一小节 排版版本往下翻
+(NDQ)   J   H   G/
+D   G   H   J/
+(VAQ)   J   H   G/
+D/
+(NDQ)   J   H   G/
+D   G   H   J/
+(VAQ)   J   H   G/
+(NY) C N M A M N/
+(VH)Z(VG)(NH)  Q (BJ)X(BG)MG D/
+(NG)C(NH)(AH)   NCNMA/
+(VH)Z(VG)(NH)  Q (BJ)X(BG)MG D/
+(NW)C(NE)(AE)   NCNMA/
+(VW)Z(VQ)(NW)  E (BW)X(BQ)MH Q/
+(NW)CN(AQ)Q G NCNMA DG/
+(VH)ZVN  E (BW)XBMQ J/
+(NJ)CN(AH)H   NCNM(AW) Q/
+(VW)ZV(NQ)  (AJ) (BG)XBMD S/
+(NS)C(NA)S  D (ND)CNAS A/
+(VS)ZV(NQ)  (AJ) (BG)XBMW S/
+(NJ)C(NH)(AJ)  (DQ) (NQ)CNA(DQ) J/
+(VH)ZV(NE) AH (BG)XBME S/
+(NJ)CN(AQ)  (DW) (NQ)CNAD HJ/
+(VQ)Z(VJ)(NH) AG (BD)X(BG)M(SH) J/
+(NJ)CN(AH)  D NCNAD HJ/
+(VAQ) JHH G (VAD) G H J/
+(NDJ) H/
+
+
+(NDQ)   /J   /H   /G   /
+D   /G   /H   /J   /
+(VAQ)   /J   /H   /G   /
+D   /    /    /    /
+(NDQ)   /J   /H   /G   /
+D   /G   /H   /J   /
+(VAQ)   /J   /H   /G   /
+(NY) C /N M /A M /N   /
+(VH)Z(VG)(NH)/  Q /(BJ)X(BG)M/G D /
+(NG)C(NH)(AH)/    /NCNM/A   /
+(VH)Z(VG)(NH)/  Q /(BJ)X(BG)M/G D /
+(NW)C(NE)(AE)/    /NCNM/A   /
+(VW)Z(VQ)(NW)/  E /(BW)X(BQ)M/H Q /
+(NW)CN(AQ)/Q G /NCNM/A DG/
+(VH)ZVN/  E /(BW)XBM/Q J /
+(NJ)CN(AH)/H   /NCNM/(AW) Q /
+(VW)ZV(NQ)/  (AJ) /(BG)XBM/D S /
+(NS)C(NA)S/  D /(ND)CNA/S A /
+(VS)ZV(NQ)/  (AJ) /(BG)XBM/W S /
+(NJ)C(NH)(AJ)/  (DQ) /(NQ)CNA/(DQ) J /
+(VH)ZV(NE)/ AH /(BG)XBM/E S /
+(NJ)CN(AQ)/  (DW) /(NQ)CNA/D HJ/
+(VQ)Z(VJ)(NH)/ AG /(BD)X(BG)M/(SH) J /
+(NJ)CN(AH)/  D /NCNA/D HJ/
+(VAQ) JH/H G /(VAD) G /H J /
+(NDJ) H/

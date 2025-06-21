@@ -1,0 +1,167 @@
+第一版为一行一小节 排版版本往下翻
+(FHQ)/(AGQ)/(GJW)G            /        G    (NDG)  /
+  H    E    Q(VAW)  /          W    W/
+    W    W    W /   W(CAW)    W      /
+      G    G    /H    E    Q(BSW)    /
+
+        W    W  /  W    W    Q   /
+ H(BSG)             /       G    (CAG)   /
+ H    E    Q(VAW)   /         W    W /
+   W    W    W  /  W(CAQ)    H       /
+
+     G    G    H/    E    Q(BSW)     /
+       W    W   / W    W    Q    /
+H(BSG)              /      Q    (CNA)    /
+H(VAJ)            Q /           Q    /
+
+        G(CAE)      /      T    E    /
+        E       /     Q(BSJ)         /
+   Q            /Q            G(BSE) /
+           T    /E    (CNA)    W     /
+
+       Q(VAJ)       /     Q          /
+  Q            W/(CAE)            T  /
+  E            W/    W(BSW)(BMS)GQ    H  /
+  G    (CAQ)    Q   / H    G(VNA)    Y   /
+
+ (VAT)    E    (VAT)    /E    (VAW)    Q(CAW)    /
+Q    (CAH)    G    (CAH)/    Q    (CAE)    W(BAW)/
+            (BA)   / QQ(BAQ)    E    (BA)  /
+  HG(BSQ)    E    (BMS) /   HG(CAQ)    Q    (CAH)/
+
+(VNA)    Y    (VAT)    E/    (VAT)    E    (VAW) /
+   Q(CAW)    Q    (CAH) /   G    (CAH)    Q  /
+  (CAE)    W(BAW)       /     (BA)    QQ(BAQ)   /
+ E    (BA)    HG(BSQ)  /  E    (BMS)    HH(CAQ) /
+
+   Q    (CAH)(VAR)      /      (VNA)         /
+   (VNA)    T    (VAE)  /  T(CAT)    Q    (CBA)  /
+          (CBA)    T/    (CAE)    T(BST)    Q/
+    (BMS)           / (BMS)    T    (BSE)    /
+
+T(BST)    Q    (BMS)    /        (CNA)    T  /
+  (CAT)    Q(VNA)    Y  /  (VAT)    E    (VAT)   /
+ E    (VAW)    Q(CAW)   / Q    (CAH)    G    /
+(CAH)    Q    (CAE)    W/(BAW)            (BA)  /
+
+  QQ(BAQ)    E    (BA) /   HG(BSQ)    E    (BMS)/
+    HG(CAQ)    Q    /(CAH)               /
+ GG    G    H   / E    Q(VAW)        /
+    W    W    W /   W    W    W(CAW) /
+
+   W            /        G    H  /
+  E    Q(BSW)       /     W    W    W/
+    W    Q    H(BSG)/                /
+    G    (CAG)    H /   E    Q(VAW)      /
+
+      W    W    /W    W    E    W/
+(CAQ)    H          /          E    W/
+    W    W(BSW)     /       W    E   /
+ W    Q    Q    /H(BSG)              /
+
+      Q    (CNA)    /H(VAJ)            Q /
+           Q    /        G(CAE)      /
+      T    E    /        E       /
+     Q(BSJ)         /   Q            /
+
+Q            G(BSE) /           T    /
+E    (CNA)    W     /       Q(VAJ)       /
+     Q          /  Q            W/
+(CAE)            T  /  E            W/
+
+    W(BSW)(BMS)GQ    H  /  G    (CAQ)    Q   /
+ H    G(VNA)    Y   / (VAT)    E    (VAT)    /
+E    (VAW)    Q(CAW)    /Q    (CAH)    G    (CAH)/
+    Q    (CAE)    W(BAW)/            (BA)   /
+
+ QQ(BAQ)    E    (BA)  /  HG(BSQ)    E    (BMS) /
+   HG(CAQ)    Q    (CAH)/(VNA)    Y    (VAT)    E/
+    (VAT)    E    (VAW) /   Q(CAW)    Q    (CAH) /
+   G    (CAH)    Q  /  (CAE)    W(BAW)       /
+
+     (BA)    QQ(BAQ)   / E    (BA)    HG(BSQ)  /
+  E    (BMS)    HH(CAQ) /   Q    (CAH)(VAR)      /
+      (VNA)         /   (VNA)    T    (VAE)  /
+  T(CAT)    Q    (CBA)  /          (CBA)    T/
+
+    (CAE)    T(BST)    Q/    (BMS)           /
+ (BMS)    T    (BSE)    /T(BST)    Q    (BMS)    /
+        (CNA)    T  /  (CAT)    Q(VNA)    Y  /
+  (VAT)    E    (VAT)   / E    (VAW)    Q(CAW)   /
+
+ Q    (CAH)    G    /(CAH)    Q    (CAE)    W/
+(BAW)            (BA)  /  QQ(BAQ)    E    (BA) /
+   HG(BSQ)    E    (BMS)/    HG(CAQ)    Q    /
+(CAH)/
+
+
+
+(FHQ)   /    /    /    /
+(AGQ)   /    /    /    /
+(GJW)   /    /    /    /
+    /  G /(NDG) H /E Q /
+(VAW)   /W W /W W /W W /
+(CAW) W /  G /G H /E Q /
+(BSW)   /W W /W W /Q H /
+(BSG)   /  G /(CAG) H /E Q /
+(VAW)   /W W /W W /W W /
+(CAQ) H /  G /G H /E Q /
+(BSW)   /W W /W W /Q H /
+(BSG)   /  Q /(CNA) H /    /
+(VAJ)   /Q   /Q   /G   /
+(CAE)   /T E /  E /  Q /
+(BSJ)   /Q   /Q   /G   /
+(BSE)   /T E /(CNA) W /  Q /
+(VAJ)   /Q   /Q   /W   /
+(CAE)   /T E /  W /W   /
+(BMS)   /    /    /    /
+(BMS)GQ /H G /(CAQ) Q /H G /
+(VNA) Y /(VAT) E /(VAT) E /(VAW) Q /
+(CAW) Q /(CAH) G /(CAH) Q /(CAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BSQ) E /(BMS) HG/(CAQ) Q /(CAH)   /
+(VNA) Y /(VAT) E /(VAT) E /(VAW) Q /
+(CAW) Q /(CAH) G /(CAH) Q /(CAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BSQ) E /(BMS) HH/(CAQ) Q /(CAH)   /
+(VAR)   /(VNA)   /(VNA) T /(VAE) T /
+(CAT) Q /(CBA)   /(CBA) T /(CAE) T /
+(BST) Q /(BMS)   /(BMS) T /(BSE) T /
+(BST) Q /(BMS)   /(CNA) T /(CAT) Q /
+(VNA) Y /(VAT) E /(VAT) E /(VAW) Q /
+(CAW) Q /(CAH) G /(CAH) Q /(CAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BSQ) E /(BMS) HG/(CAQ) Q /(CAH)   /
+    / GG /G H /E Q /
+(VAW)   /W W /W W /W W /
+(CAW) W /    /G H /E Q /
+(BSW)   /W W /W W /Q H /
+(BSG)   /  G /(CAG) H /E Q /
+(VAW)   /W W /W W /E W /
+(CAQ) H /    /E W /W W /
+(BSW)   /W E /W Q /Q H /
+(BSG)   /  Q /(CNA) H /    /
+(VAJ)   /Q   /Q   /G   /
+(CAE)   /T E /  E /  Q /
+(BSJ)   /Q   /Q   /G   /
+(BSE)   /T E /(CNA) W /  Q /
+(VAJ)   /Q   /Q   /W   /
+(CAE)   /T E /  W /W   /
+(BMS)   /    /    /    /
+(BMS)GQ /H G /(CAQ) Q /H G /
+(VNA) Y /(VAT) E /(VAT) E /(VAW) Q /
+(CAW) Q /(CAH) G /(CAH) Q /(CAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BSQ) E /(BMS) HG/(CAQ) Q /(CAH)   /
+(VNA) Y /(VAT) E /(VAT) E /(VAW) Q /
+(CAW) Q /(CAH) G /(CAH) Q /(CAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BSQ) E /(BMS) HH/(CAQ) Q /(CAH)   /
+(VAR)   /(VNA)   /(VNA) T /(VAE) T /
+(CAT) Q /(CBA)   /(CBA) T /(CAE) T /
+(BST) Q /(BMS)   /(BMS) T /(BSE) T /
+(BST) Q /(BMS)   /(CNA) T /(CAT) Q /
+(VNA) Y /(VAT) E /(VAT) E /(VAW) Q /
+(CAW) Q /(CAH) G /(CAH) Q /(CAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BSQ) E /(BMS) HG/(CAQ) Q /(CAH)/

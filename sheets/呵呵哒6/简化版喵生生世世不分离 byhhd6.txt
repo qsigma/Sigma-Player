@@ -1,0 +1,61 @@
+第一版为一行一小节 排版版本往下翻
+(ZQE)  W  (VH)  W
+(ZQ) B A S D
+(ZD) BG(AH) (DQ) (MG) (BG) M S
+(NE) CW(NQ) (AE) (BW) (XW) M B
+(VQ) (ZQ)H(VE) (NW) (CQ) (ZW)E(CH) (BG)
+(XH) NQ(XH)G(VD)H(BG) (XG) M B
+(NQ) (CQ) N (ZH)G(BE) (CW) (BE) A
+(BT)E(CW)QBEMWVWXT(VY) N
+(VQ) ZW(VE) (NT)E(VW) (XE)W(VQ) (NH)G
+(BD) XG(BE) (MW) (ZQ) B A
+(ZD) BG(AH) (DQ) (MG) (BG) M S
+(NE) CW(NQ) (AE) (BW) (XW) M B
+(VQ) (ZQ)H(VE) (NW) (CQ) (ZW)E(CH) (BG)
+(XH) NQ(XH)G(VD)H(BG) (XG) M B
+(NQ) (CQ) N (ZH)G(BE) (CW) (BE) A
+(BT)E(CW)QBEMWVWXT(VY) N
+(VQ) ZW(VE) (NT)E(VW) (XE)W(VQ) (NH)G
+(BD) XG(BE) (MW) (ZQ) B A
+(ZD) G(AH) Q(MG) G M S
+(NE) W(NQ) E(BW) W M B
+(VQ) QH(VE) W (CQ) WE(CH) G
+(XH) Q(XH)G(VD)H(BG) (XG) M B
+(NQ) (CQ) N (ZH)G(BE)W(CE) B A
+(BT) (CE)W(BQ) (ME) (VW) (XW) (VT)YN
+(VQ) ZW(VE) (NT)E(VW) (XE)W(VQ) (NH)G
+(BD) XG(BE) (MW) (ZQ) B A
+(VQ) W(VE) TE(VW) EW(VQ) HG
+(BD) G(BE) W (ZQ) B A S
+
+
+
+
+(ZQE)   /W   /(VH)   /W   /
+(ZQ) B /A S /D   /    /
+(ZD) BG/(AH) (DQ) /(MG) (BG) /M S /
+(NE) CW/(NQ) (AE) /(BW) (XW) /M B /
+(VQ) (ZQ)H/(VE) (NW) /(CQ) (ZW)E/(CH) (BG) /
+(XH) NQ/(XH)G(VD)H/(BG) (XG) /M B /
+(NQ) (CQ) /N (ZH)G/(BE) (CW) /(BE) A /
+(BT)E(CW)Q/BEMW/VWXT/(VY) N /
+(VQ) ZW/(VE) (NT)E/(VW) (XE)W/(VQ) (NH)G/
+(BD) XG/(BE) (MW) /(ZQ) B /A   /
+(ZD) BG/(AH) (DQ) /(MG) (BG) /M S /
+(NE) CW/(NQ) (AE) /(BW) (XW) /M B /
+(VQ) (ZQ)H/(VE) (NW) /(CQ) (ZW)E/(CH) (BG) /
+(XH) NQ/(XH)G(VD)H/(BG) (XG) /M B /
+(NQ) (CQ) /N (ZH)G/(BE) (CW) /(BE) A /
+(BT)E(CW)Q/BEMW/VWXT/(VY) N /
+(VQ) ZW/(VE) (NT)E/(VW) (XE)W/(VQ) (NH)G/
+(BD) XG/(BE) (MW) /(ZQ) B /A   /
+(ZD)  G/(AH)  Q/(MG) G /M S /
+(NE)  W/(NQ)  E/(BW) W /M B /
+(VQ) QH/(VE) W /(CQ) WE/(CH) G /
+(XH)  Q/(XH)G(VD)H/(BG) (XG) /M B /
+(NQ) (CQ) /N (ZH)G/(BE)W(CE) /B A /
+(BT) (CE)W/(BQ) (ME) /(VW) (XW) /(VT)YN /
+(VQ) ZW/(VE) (NT)E/(VW) (XE)W/(VQ) (NH)G/
+(BD) XG/(BE) (MW) /(ZQ) B /A   /
+(VQ)  W/(VE) TE/(VW) EW/(VQ) HG/
+(BD)  G/(BE) W /(ZQ) B /A S/

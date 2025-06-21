@@ -1,0 +1,84 @@
+第一版为一行一小节 排版版本往下翻
+(VE) A F H Q Q W Q/
+(BG) S G S J S G S/
+(NQ)  D D  D  W/
+N U (HQ) Q (BW) S G/
+V Z A F H (FQ) (HY) (FQ)/
+(BT) E S Y J  T/
+(NY)   J H G H/
+N D H Q/
+(VHQ)    (HQR)  F/
+(BJW)  S  (GJW)  S/
+(NHQ)  D  (HQ)  D/
+(JWT)/
+(VHQ)    (HQR)  G/
+(BJW)    (JWT)  B/
+(AQE)/
+(NQE)    (GJW)/
+(VHQ)  A  (FHQ)  F/
+(BJW)    (GJW)  S/
+(NHQ)    (HQ)/
+(NQE)    (GJW)/
+(BJW)  F  (FHQ)  F/
+(BJW)    (GJW)  B/
+(NHY)    (HQE)  D/
+B/
+(VHQ)/
+(BJ)  S  (GJ)  G/
+(NDH)/
+N C D A B B G/
+N C N A H V F A/
+(BE) Q  G J (SG) G G/
+N     N D/
+N    N/
+(VHQ)  (FHQ) F V   F/
+(BJW)  S  B/
+(NHQ)  (DHQ) (NHQ) (NHQ) (DHQ) (DHQ) D/
+(NQE) (ND) (DHQ) D (BJW) (GJW) (GJW) B/
+(NQE) (NQE) (NQE) (NQE) (VHQ) (VHQ) (VHQ) (VHQ)/
+(BGJ) (BGJ) (SGJ) (GJ) (BGJ) (GJ) (SGJ) (GJ)/
+(NQE) (NQE) (NQE) (NQE) (NQE) (NQE) (NQE) (NQE)(NQE)/
+(NHQ)/
+
+
+
+(VE) A /F H /Q Q /W Q /
+(BG) S /G S /J S /G S /
+(NQ)   /D D /  D /  W /
+N U /(HQ) Q /(BW) S /G   /
+V Z /A F /H (FQ) /(HY) (FQ) /
+(BT) E /S Y /J   /T   /
+(NY)   /  J /H G /H   /
+N D /H Q /    /    /
+(VHQ)   /    /(HQR)   /F   /
+(BJW)   /S   /(GJW)   /S   /
+(NHQ)   /D   /(HQ)   /D   /
+    /    /(JWT)   /    /
+(VHQ)   /    /(HQR)   /G   /
+(BJW)   /    /(JWT)   /B   /
+(AQE)   /    /    /    /
+(NQE)   /    /(GJW)   /    /
+(VHQ)   /A   /(FHQ)   /F   /
+(BJW)   /    /(GJW)   /S   /
+(NHQ)   /    /(HQ)   /    /
+(NQE)   /    /(GJW)   /    /
+(BJW)   /F   /(FHQ)   /F   /
+(BJW)   /    /(GJW)   /B   /
+(NHY)   /    /(HQE)   /D   /
+    /    /B   /    /
+(VHQ)   /    /    /    /
+(BJ)   /S   /(GJ)   /G   /
+(NDH)   /    /    /    /
+N C /D A /B B /G   /
+N C /N A /H V /F A /
+(BE) Q /  G /J (SG) /G G /
+N   /    /  N /D   /
+N   /    /N   /    /
+(VHQ)   /(FHQ) F /V   /  F /
+(BJW)   /S   /B   /    /
+(NHQ)   /(DHQ) (NHQ) /(NHQ) (DHQ) /(DHQ) D /
+(NQE) (ND) /(DHQ) D /(BJW) (GJW) /(GJW) B /
+(NQE) (NQE) /(NQE) (NQE) /(VHQ) (VHQ) /(VHQ) (VHQ) /
+(BGJ) (BGJ) /(SGJ) (GJ) /(BGJ) (GJ) /(SGJ) (GJ) /
+(NQE) (NQE) /(NQE) (NQE) /(NQE) (NQE) /(NQE) (NQE)(NQE)/
+(NHQ)/

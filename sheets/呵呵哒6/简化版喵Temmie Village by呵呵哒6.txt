@@ -1,0 +1,44 @@
+第一版为一行一小节 排版版本往下翻
+Z (BD) B (BD) Z (BD) B (BD)(BD)/
+Z (NF) N (NF) Z (NF) N (NF)(MG)/
+Z (BD) B (BD) Z (BD) B (BD)(BD)/
+Z (NF) N (NF) Z (NF) N (NF)(MG)/
+Z (BDT) (BE) (BD) (ZQ) (BDW)QBQ(BDW)(BDE)/
+Z (NFQ) (NW) (NF)RZE(NF) (NQ)W(NFQ)(MG)/
+(ZV)R(BD)V(BR) (CBD) (ZR) (BD) B (BD)(BD)/
+(ZR)V(NF)R(VN) (NF) (ZR)V(NF)R(VN) (NF)(MG)/
+Z (BDT) (BE) (BD) (ZQ) (BDW)QBQ(BDW)(BDE)/
+Z (NFQ) (NW) (NF)YZT(NF) (NT)Q(NFW)(MG)/
+(ZV)R(BD)V(BR) (CBD) (ZR) (BD) B (BD)(BD)/
+(ZR)V(NF)R(VN) (NF) (ZR)V(NF)R(VN) (NF)(MG)/
+M (VS) V (VS) M (VS) V (VS)(CD)/
+Z (BD) B (BD) Z (BD) B (BD)(VD)/
+M (VS) V (VS) M (VS) V (VS)(CD)/
+Z (BD) B (BD) Z (BD) B (BD)(VD)/
+M (VS) V (VS) M (VS) V (VS)(CD)/
+Z (BD) B (BD) Z (BD) B (BD)(VD)/
+M (VS) V (VS) M (VS) V (VS)(CS)/
+N (CA) Z (CA) M (VS) (JW)/
+
+
+
+Z (BD) /B (BD) /Z (BD) /B (BD)(BD)/
+Z (NF) /N (NF) /Z (NF) /N (NF)(MG)/
+Z (BD) /B (BD) /Z (BD) /B (BD)(BD)/
+Z (NF) /N (NF) /Z (NF) /N (NF)(MG)/
+Z (BDT) /(BE) (BD) /(ZQ) (BDW)Q/BQ(BDW)(BDE)/
+Z (NFQ) /(NW) (NF)R/ZE(NF) /(NQ)W(NFQ)(MG)/
+(ZV)R(BD)V/(BR) (CBD) /(ZR) (BD) /B (BD)(BD)/
+(ZR)V(NF)R/(VN) (NF) /(ZR)V(NF)R/(VN) (NF)(MG)/
+Z (BDT) /(BE) (BD) /(ZQ) (BDW)Q/BQ(BDW)(BDE)/
+Z (NFQ) /(NW) (NF)Y/ZT(NF) /(NT)Q(NFW)(MG)/
+(ZV)R(BD)V/(BR) (CBD) /(ZR) (BD) /B (BD)(BD)/
+(ZR)V(NF)R/(VN) (NF) /(ZR)V(NF)R/(VN) (NF)(MG)/
+M (VS) /V (VS) /M (VS) /V (VS)(CD)/
+Z (BD) /B (BD) /Z (BD) /B (BD)(VD)/
+M (VS) /V (VS) /M (VS) /V (VS)(CD)/
+Z (BD) /B (BD) /Z (BD) /B (BD)(VD)/
+M (VS) /V (VS) /M (VS) /V (VS)(CD)/
+Z (BD) /B (BD) /Z (BD) /B (BD)(VD)/
+M (VS) /V (VS) /M (VS) /V (VS)(CS)/
+N (CA) /Z (CA) /M (VS) /W/

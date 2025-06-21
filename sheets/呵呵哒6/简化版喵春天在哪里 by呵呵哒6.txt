@@ -1,0 +1,74 @@
+第一版为一行一小节 排版版本往下翻
+(ZET) Y (BET) (RY) (CT) R (ZE) Q/
+(BG)   (CJE)   (XJW) (ZQ)/
+(CQE) E (ZE) Q (BG)   (BGQ) W/
+(CE) E (ZE) Q (CE)   Q E/
+(BT) T (CE) Q (ZGE) G (BGQ)/
+(BH) J (NQE) E (BW)   T R/
+(CE) E (ZQE) Q (BG)   (BGQ) W/
+(CE) E (ZE) Q (CE)   Q E/
+(ZT) Y (BT) Y (CT) R (ZE) Q/
+(BG)   (CE)   (XJW) (ZQ) W E/
+(VR)RR R T (NY) Y (RY) E/
+(XW)WW W W (BT) (ET)Y(ET)R(QE)W/
+(ZQ)QQ Q W (NE) E (QE) E/
+(BGT)GG G G (XW)GHJQWER/
+(ZT) Y (BT) Y (CT) R (ZE) Q/
+(XW)   (BG)   (ZQ) (CE) Q E/
+(ZT) Y (BT) Y (CT) R (ZE) Q/
+(BG)   (CE)   (XW) (ZQ)/
+(CQE) E (ZE) Q (BG)   (BGQ) W/
+(CE) E (ZE) Q (CE) QW(QE)WER/
+(BT) T (CE) Q (ZGE) G (BGQ)/
+(BH) J (NQE) E (BW) GH(JT)H(JR)Q/
+(CE) E (ZQE) Q (BG)   (BGQ) W/
+(CE) E (ZE) Q (CE) QW(QE)WER/
+(ZT) Y (BT) Y (CT) R (ZE) Q/
+(BG) Q (CE) T (XWR) (ZQE) W E/
+(VQR)RR R T (NY) Y (RY) E/
+(XJW)WW W W (BT) (ET)Y(ET)R(QE)W/
+(ZGQ)QQ Q W (NE) E (QE) E/
+(BJT)GG G G (XW)GHJQWER/
+(ZT) Y (BT) Y (CT) R (ZE) Q/
+(XW)   (BG)   (ZQ) (CE) Q E/
+(ZET) (RY) (BET) (RY) (CT) R (ZE) Q/
+(BG) Q (CE) T (XWR) (ZQE)/
+
+
+
+
+    /    /    /    /
+(ZET) Y /(BET) (RY) /(CT) R /(ZE) Q /
+(BG)   /(CJE)   /(XJW) (ZQ) /    /
+(CQE) E /(ZE) Q /(BG)   /(BGQ) W /
+(CE) E /(ZE) Q /(CE)   /Q E /
+(BT) T /(CE) Q /(ZGE) G /(BGQ)   /
+(BH) J /(NQE) E /(BW)   /T R /
+(CE) E /(ZQE) Q /(BG)   /(BGQ) W /
+(CE) E /(ZE) Q /(CE)   /Q E /
+(ZT) Y /(BT) Y /(CT) R /(ZE) Q /
+(BG)   /(CE)   /(XJW) (ZQ) /W E /
+(VR)RR /R T /(NY) Y /(RY) E /
+(XW)WW /W W /(BT) (ET)Y/(ET)R(QE)W/
+(ZQ)QQ /Q W /(NE) E /(QE) E /
+(BGT)GG /G G /(XW)GHJ/QWER/
+(ZT) Y /(BT) Y /(CT) R /(ZE) Q /
+(XW)   /(BG)   /(ZQ) (CE) /Q E /
+(ZT) Y /(BT) Y /(CT) R /(ZE) Q /
+(BG)   /(CE)   /(XW) (ZQ) /    /
+(CQE) E /(ZE) Q /(BG)   /(BGQ) W /
+(CE) E /(ZE) Q /(CE) QW/(QE)WER/
+(BT) T /(CE) Q /(ZGE) G /(BGQ)   /
+(BH) J /(NQE) E /(BW) GH/(JT)H(JR)Q/
+(CE) E /(ZQE) Q /(BG)   /(BGQ) W /
+(CE) E /(ZE) Q /(CE) QW/(QE)WER/
+(ZT) Y /(BT) Y /(CT) R /(ZE) Q /
+(BG) Q /(CE) T /(XWR) (ZQE) /W E /
+(VQR)RR /R T /(NY) Y /(RY) E /
+(XJW)WW /W W /(BT) (ET)Y/(ET)R(QE)W/
+(ZGQ)QQ /Q W /(NE) E /(QE) E /
+(BJT)GG /G G /(XW)GHJ/QWER/
+(ZT) Y /(BT) Y /(CT) R /(ZE) Q /
+(XW)   /(BG)   /(ZQ) (CE) /Q E /
+(ZET) (RY) /(BET) (RY) /(CT) R /(ZE) Q /
+(BG) Q /(CE) T /(XWR) (ZQE)/

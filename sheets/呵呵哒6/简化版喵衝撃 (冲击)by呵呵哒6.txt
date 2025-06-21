@@ -1,0 +1,63 @@
+第一版为一行一小节 排版版本往下翻
+(VFH)  (QT) R (BFR) E W (GQ)
+(NGQ)  F W[W(MHE)] W V (BDQ)
+(VFH)  (HQT) R (BFR) E (FW)D(GQ)
+(NDQ) Q Q  (MWU) ER(QE) Q
+V  (AHT) R (FHR) E (BW) (SGQ)
+(NHQ) D G  (MGJ) M(DQ)M(DQ)
+(DQ)  WM A(DGW)  R M
+(SHE)  W  (GJT)B A (AGQ)M
+(HRY)N(VND)(NF)DNB (JU)NBN(DWU)N(BHE)R
+(QEY)N(VND)(NF)(ND)N(BQ)R(JTU)N(BQE)(NA)(DGJ)B(HQ)
+(DQ)  WM A(DGW)  R M
+(SHE)  W  (GJT)B A (AGQ)M
+(HRY)N(VND)(NF)DNB (JU)NBN(DWU)N(BHE)R
+(QEY)N(VND)(NF)(ND)N(BQ)R(JTU)N(BQE)(NA)(DGJ)B(HQ)
+(HRY)N(VND)(NF)DN(BJU) (JTU)N(VND)(NF)DN(BQ)
+(QEY)N(VND)(NF)(ND)B(NQ)R(JET) GS[(AWU)M][MB]
+(QEY) N(AGT)N(JTU)N(QE) M(MD)(MQ)(QEY)M
+(QEY) (QEY)N(AD)ND(NF)(MSG) S (GWT) GH
+(SHQ) D (WR)EWQ(AGJ) D ERT(HT)
+(AHT) D (WR)EWQA  [(BY)T(ME)J(NH)GDM]
+(SFJ) J (VSH) (NH)(FJ)(FJ)[JQ] (BDG) (NH)
+(JTU) (VN) (SHE) [Y(GJT)](HQY) (BJU) (MS) C
+(NS) M (CWU)    (JEU) DC
+(BMS)CD (MSG)  (GJ)WJ (CFW) E
+(CMG) MS(BSH) D M  (BDG) (JW)
+(NGW) (QE) (NDW) (JE) (JW) (JE)BCM(NAD)G
+(NSG) J (BSJ)SGHJJ(DW)T(NSG)D(SH)D
+(DH)D(DH)(GW)N(DG)H(JW)(JE)(ET)Q E
+(QE)  E  A
+
+
+
+
+(VFH)   /(QT) R /(BFR) E /W (GQ) /
+(NGQ)   /F W /W(MHE) W/ V (BDQ) /
+(VFH)  / (HQT) R/ (BFR) E/ (FW)D(GQ) /
+(NDQ) Q/ Q  / (MWU) E/R(QE)  /
+QV  / (AHT) R/ (FHR) E/ (BW) (SGQ) /
+(NHQ) D/ G  / (MGJ)  /M(DQ)M(DQ)/
+    / WM /A(DGW)  / R  /
+M(SHE)  / W  / (GJT)B /A  (AGQ)/
+M(HRY)N(VND)/(NF)DNB/ (JU)NB/N(DWU)N(BHE)/
+R(QEY)N(VND)/(NF)(ND)N(BQ)/R(JTU)N(BQE)/(NA)(DGJ)B(HQ) /
+(DQ)  / WM /A(DGW)  / R  /
+M(SHE)  / W  / (GJT)B /A  (AGQ)/
+M(HRY)N(VND)/(NF)DNB/ (JU)NB/N(DWU)N(BHE)/
+R(QEY)N(VND)/(NF)(ND)N(BQ)/R(JTU)N(BQE)/(NA)(DGJ)B(HQ) /
+(HRY)N(VND)/(NF)DN(BJU)/ (JTU)N(VND)/(NF)DN(BQ) /
+(QEY)N(VND)/(NF)(ND)B(NQ)/R(JET)  /GS[(AWU)M][MB]  /
+(QEY) / N(AGT)N/(JTU)N(QE) / M(MD)(MQ)/
+(QEY)M  /(QEY)N(AD)N/D(NF)(MSG) /S (GWT) /
+GH(SHQ) /D (WR)E/WQ(AGJ) /D ER/
+T(HT)(AFH) /D (WR)E/WQA /  [(BY)T(ME)J(NH)GDM(SFJ)] /
+J (VSH) /(NH)(FJ)(FJ) /JQ (BDG)/ (NH)   /
+(JTU) (VN)/ [(SHE)Y] (GJT)/ (HQY) (BJU)/ (MS)C(NS) /
+M (CWU)/    /   (JEU)/ DC(BMS)/
+CD (MSG)/   (GJ)/WJ (CFW)/ E M /
+MS(BSH)/ D M/   (BDG)/ (JW)   /
+(QE) (NDW)/ (JE) (JW)/ (JE)BC/M(NAD)G(NSG) /
+J (BSJ)/SGHJ/J(DW)T(NSG)/D(SH)DH/
+D(DH)(GW)N/(DG)H(JW)(JE)/(ET)Q E/       /
+E/   A/

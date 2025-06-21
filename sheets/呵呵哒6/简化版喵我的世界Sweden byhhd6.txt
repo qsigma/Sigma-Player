@@ -1,0 +1,48 @@
+第一版为一行一小节 排版版本往下翻
+(XV)  C  (CBA)  N
+(CB)  V  (ZMS)
+(XVN)  C  (CAD)  N
+(CBM)  V  (ZMS)
+(XVN)  C  (CAD)  N
+(CBM)  V  (ZMS)
+(XVN)  (CG) H (CAD)  N AS
+(CBM)  V DG(ZMS)
+(XVN) Q (CH) G (CAD)  N AS
+(CBM)  V GD(ZMS)
+(XVN)  (CG) H (CAQ)  N (AE)(SW)
+(CMJ)  V (DQ)J(ZMG)
+(XVN)  (CH) G (CAD)  N AS
+(CBM)  V DG(ZMS)
+(XVN)  (CG) H (CAD)  N AS
+(CBM)  V DG(ZMS)
+(XVN)  (CG) H (CAQ)  N QW
+(CMJ)  (VE) DG(ZMS)
+(VAD)   HG(XSG)  S A
+(XBM)  A S (XVN)
+(NDQ)   HG(XSG)  S (AW)
+(BSJ)  Q (AW)S(VAH)
+
+
+
+(XV)   /C   /(CBA)   /N   /
+(CB)   /V   /(ZMS)   /    /
+(XVN)   /C   /(CAD)   /N   /
+(CBM)   /V   /(ZMS)   /    /
+(XVN)   /C   /(CAD)   /N   /
+(CBM)   /V   /(ZMS)   /    /
+(XVN)   /(CG) H /(CAD)   /N AS/
+(CBM)   /V DG/(ZMS)   /    /
+(XVN) Q /(CH) G /(CAD)   /N AS/
+(CBM)   /V GD/(ZMS)   /    /
+(XVN)   /(CG) H /(CAQ)   /N (AE)(SW)/
+(CMJ)   /V (DQ)J/(ZMG)   /    /
+(XVN)   /(CH) G /(CAD)   /N AS/
+(CBM)   /V DG/(ZMS)   /    /
+(XVN)   /(CG) H /(CAD)   /N AS/
+(CBM)   /V DG/(ZMS)   /    /
+(XVN)   /(CG) H /(CAQ)   /N QW/
+(CMJ)   /(VE) DG/(ZMS)   /    /
+(VAD)   /  HG/(XSG)   /S A /
+(XBM)   /A S /(XVN)   /    /
+(NDQ)   /  HG/(XSG)   /S (AW) /
+(BSJ)   /Q (AW)S/(VAH)/

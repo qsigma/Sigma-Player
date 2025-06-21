@@ -1,0 +1,128 @@
+H  J Q W
+[(XF)HQE] (VAD) H G H
+(BE)  (VDW)  Q
+[(ZD)GJ] (CMQ)  J
+(BG)  (BMD)
+[(XH)QE] (VAD) H G H
+[(BF)JE] (VDT)  Q
+[(ZD)GJ] (CMS)
+(NH)  (BAD)
+[(XF)HQE] (VAD) H G H
+(BE)  (VAT)  Q
+[(ZD)GJ] (XMQ)  J
+(CG)  (BM)  D
+(XF)  (XVA)  Q
+(VFQ)  (XNA)  J
+(CDJ)  (XVN)  D
+F  (XMD)
+D
+G    F
+D
+N  (ZCM)  (ZCM)
+C  (ZCB)  (ZCN)
+N  (ZCM)  (ZCN)
+B  (CBM)  (CBA)
+(XE)  (VAD)  (VDH)
+(BE)  (VMS) W (VSQ)
+(ZJ)  (CSQ)  (CSJ)
+(BG)  (BAD)  (BAD)
+(XAF)  (VDG)  (VDH)
+(BH)  (VSF) H(VFJ) Q
+(ZGW)  (CSQ)  (CST)
+(ZQE)  (CBA)  (CBA)
+[(XF)HE] (VAD)  (VDH)
+(BE)  (VMS) W (VSQ)
+(ZJ)  (CSQ)  (CSJ)
+(BG)  (BAD)  (BDG)
+(XH)  (VDJ)  (VDQ)
+(BW)  (VDQ)  (VDJ)
+(ZQ)  (CBA)  (CBA)
+(ZMS)  (ZMS)  (ZMS)
+(XQE)  (VAD)  (VDH)
+(BW)  (VSE) T (VSQ)
+(ZJ)  (CSQ)  (CSJ)
+(ZG)  (CBS)  (CAD)
+(XS)SD(VAF)GG(VAG)HJ
+(BQ)  (BSJ)  (BS) Q
+(ZGW)  (CSQ)  (CST)
+(ZQE)  (CBS)  (CBS)
+[(XH)QE] (VNA)  (VAT)
+(BQ) U(VST) W(VSQ)
+(ZJE)  (CSQ)  (CSW)
+(ZET)  (CBS)  (CSE)
+[(XQ)RY] (VAT)  (VAE)
+(BW)  (VSQ)  (VSJ)
+(ZQ)  C  A
+S  (ZA)  [(ZCA)DHQ]
+(XE)  (VAE)  (VAD)
+B  [(VAD)GW] (VDT)
+(ZHE)  (BMD)  (BMD)
+(BGE)  (XMW)  (XST) [AHQ]
+(XDE)  (CMW)  (VAQ)
+(BMJ)  (VAQ)  (CMW)
+(ZDE)  (BMD)  (BMD)
+N  (BDE)  (BDT)
+(VET)  (ZNA)  (ZNA)
+M  (NWU)  (NFE)
+(ZAJ)  (CMQ)  (CMJ)
+(NG)  (CN)  (CND)
+(XF)  (XNA)  (XNQ)
+(BHQ)  (XB)  (XBM) [SFJ]
+(XE)  (VAE)  (VAD)
+B  (VMW)  (VMT)
+(ZE)  (BMD)  (BMD)
+(BE)  (BDW)  (BDT) [FHQ]
+(XDE)  (CMW)  (VAQ)
+(BMJ)  (VAQ)  (VSW)
+(ZDE)  (BMD)  (BMD)
+N  (BDE)  (BDT)
+(VET)  (ZBA)  (ZBA)
+B  (VJT)  (VSQ)
+(ZJ)  (CMQ)  (CMJ)
+(NG)  (CN)  (CND)
+(XF)  (XNA)  (XNQ)
+(BHQ)  (XB)  (XBM) (AF)
+(VHY)  (VST)  (DE)
+(VSW)  (VAE)  (GT)
+(NDE)CNMZC(NG)(MH)(AJ)
+(AQ)(MJ)(NH)CZM(NH)CN
+(VMH)  (VNW)  (NAQ)
+(SHW)  (DHE)  (NFU)
+(NT)CNMZ(CH)(NJ)[MQA]
+(AQ)MN(CQ)ZM(NW)CN
+(BE)XC(NW)SDH
+(VHW)XCNSD
+(CGW)ZX(BQ)SDG
+(CGQ)ZXBSD
+BXB(NWY) M (HWY)
+(NWY)MS(GWT)SM(SWT)MB
+(MSW)BX(BFR)XM(XFR)MB
+(BFR)XB(NDE)MZ(VDE)[BWA]
+(FQ)
+Q   U Y
+(JWT)   U Y
+T R
+W  (FHQ)
+(XE)  (VAE)  (VAD)
+B  (VSW)  (VST)
+(ZE)  (BMD)  (BMD)
+B  (BDW)  (BDT) [FHQ]
+(XE)  (VAW)  (VAQ)
+(BJ)  (VSQ)  (VSW)
+(ZE)  (BMD)  (BMD)
+N  (BDE)  (BDT) [GW]
+(CT)  (BSF)  (BSF)
+(XH)  (ZNW)  (ZNG)
+(BF)  (ZMG)  (ZMF)
+(CS)  (CM)  (CM)
+(NA)  (XVN)  (ZNG)
+(XG)  (XVN)  (ZNF)
+(ZBQ)  (ZBG)FD(ZBS)AM
+(ZAG)  (ZBT)RE(ZBW)QJ
+(ZGT)  (ZAT)RE(AJW)QJ
+(QE)UY(GQT)RE(GQE)WQ
+(ZHR)  (ZJW)
+(ZHR)  (ZHR)  (ZJR)
+(ZHR)
+(ZQY)
+(ZB)

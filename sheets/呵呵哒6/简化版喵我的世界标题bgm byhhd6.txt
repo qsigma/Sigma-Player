@@ -1,0 +1,115 @@
+第一版为一行一小节 排版版本往下翻
+(BQE) W(AH)
+(DQ)
+(BQE) W(AH)
+G
+(BQE) W(AH)
+(DQ)
+(BQE) W(AH)
+G
+(BQE) (GW)(AH)
+(DQ)
+(BQE) W(AH)
+QG D
+(BQE) G(AH)
+(DQ)(GW)
+(BQE) W(AHE)
+D(GT)
+(BQE) (WT)(AHY)
+(DQT)EW
+(BQE) W(AHE)
+(GQ)
+(BG) (AH)
+(DQ)
+(BW) E(AQ)
+G
+(ZDE) (SW)(ZNH)
+(CAQ)
+(ZDE) (SW)(ZNH)
+(BG)
+(ZDE) (SW)(ZNH)
+(CAQ)
+(ZDE) (SW)(ZNH)
+(BG)
+(ZDE) (SW)(ZNH)
+(CAQ)
+(ZDE) (SW)(ZNH)
+(BG)
+(ZDE) (SW)(ZNH)
+(CAQ)
+(ZDE) (SW)(ZNH)
+(BG)
+(ZBE) W(ZH)
+(CQ)
+(ZBE) W(ZH)
+G
+[(ZBG)QE]W(ZH)
+(CQ)
+(ZBE) W(ZH)
+G
+(ZBE) W(ZH)
+(CQ)
+(ZBE) W(ZH)
+G
+[(ZBG)QE]W(ZH)
+(CQ)
+(ZBE) W(ZH)
+G
+
+
+(BQE)   /    /W   /(AH)   /
+    /(DQ)   /    /    /
+(BQE)   /    /W   /(AH)   /
+    /G   /    /    /
+(BQE)   /    /W   /(AH)   /
+    /(DQ)   /    /    /
+(BQE)   /    /W   /(AH)   /
+    /G   /    /    /
+(BQE)   /    /(GW)   /(AH)   /
+    /(DQ)   /    /    /
+(BQE)   /    /W   /(AH)   /
+Q   /G   /    /D   /
+(BQE)   /    /G   /(AH)   /
+    /(DQ)   /    /(GW)   /
+(BQE)   /    /W   /(AHE)   /
+D   /(GT)   /    /    /
+(BQE)   /    /(WT)   /(AHY)   /
+    /(DQT)   /E   /W   /
+(BQE)   /    /W   /(AHE)   /
+    /(GQ)   /    /    /
+(BG)   /    /    /(AH)   /
+    /(DQ)   /    /    /
+(BW)   /    /E   /(AQ)   /
+    /G   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(CAQ)   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(BG)   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(CAQ)   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(BG)   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(CAQ)   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(BG)   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(CAQ)   /    /    /
+(ZDE)   /    /(SW)   /(ZNH)   /
+    /(BG)   /    /    /
+(ZBE)   /    /W   /(ZH)   /
+    /(CQ)   /    /    /
+(ZBE)   /    /W   /(ZH)   /
+    /G   /    /    /
+[(ZBG)QE]   /   W/   (ZH)/       /
+(CQ)/    /    /   (ZBE)/
+    /   W/   (ZH)/       /
+G/    /    /   (ZBE)/
+    /   W/   (ZH)/       /
+(CQ)/    /    /   (ZBE)/
+    /   W/   (ZH)/       /
+G/    /    /   [(ZBG)QE]/
+    /  W /  (ZH) /      /
+(CQ) /    /    /  (ZBE) /
+    /  W /  (ZH) /      /
+G/

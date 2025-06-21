@@ -1,0 +1,60 @@
+N   A   C   A/
+N   A   C   A/
+N   A   C   A/
+N   A   C   A/
+(NQ)   (AQ) W (CE)   (AQ)/
+(MW)   (SW) E (CJ)   (AD)/
+(NQ)   (AQ) W (CE)   (AY)/
+(XR)   N   (ME)   (DE)/
+(NQ)   (AQ) W (CE)   (AQ)/
+(MW)   (SW) E (CJ)   (SG)/
+(XQ)   (NQ) W (MJ)   (SG)/
+(NH)   A   (NY)/
+N   A   C   A/
+N   A   C   A/
+N   A   C   A/
+N   A   C   A/
+(NQ)   (AQ) W (CE)   (AQ)/
+(MW)   (SW) E (CJ)   (AD)/
+(NQ)   (AQ) W (CE)   (AY)/
+(XR)   N   (ME)   (DE)/
+(NQ)   (AQ) W (CE)   (AQ)/
+(MW)   (SW) E (CJ)   (SG)/
+(XQ)   (NQ) W (MJ)   (SG)/
+(NH)   A   (NY)/
+N   A   C   A/
+N   A   C   A/
+B   M   X   M/
+B   M   X   M/
+(BJ)   (MJ) Q (XW)   (MJ)/
+(NQ)   (AQ) W (XH)   (MS)/
+(BJ)   (MJ) Q (XW)   (MT)/
+(XE)   B   (NW)   (SW)/
+(BJ)   (MJ) Q (XW)   (MJ)/
+(NQ)   (AQ) W (XH)   (AG)/
+(ZJ)   (BJ) Q (NH)   (AG)/
+(BG)   M   (BT)/
+B   M   X   M/
+B   M   X   M/
+B   M   X   M/
+B   M   X   M/
+(BJ)   (MJ) J (XW)   (MJ)/
+(NJ)   (MJ) W (XH)   (MS)/
+(BJ)   (MJ) J (XW)   (MT)/
+(ME)   B   (NW)   (SW)/
+(BJ)   (MJ) J (XW)   (MJ)/
+(NJ)   (MJ) W (XH)   (MF)/
+(MJ)   (BJ) J (MG)   (CD)/
+(CS)   (BM)/
+H   Q   D   Q/
+H   Q   D   Q/
+H   J   D   J/
+H   J   D   J/
+(NH)   (NQ) M (AD)   (NQ)/
+(MH)   (MJ) A (ND)   (CJ)/
+(NH)   (NQ) M (AD)   (GQ)/
+(FW)   R   (DH)   E/
+(NH)   (NQ) M (AD)   (NQ)/
+(MH)   (MJ) A (ND)   (CJ)/
+(MH)   (MJ) A (ND)   (CJ)/
+(NH)   J [DFGG(DH)]   J/

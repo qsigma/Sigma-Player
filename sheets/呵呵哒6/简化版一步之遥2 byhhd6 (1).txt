@@ -1,0 +1,73 @@
+C N  C
+N  (AQ) C (ZAQ) (SW)N(DE)
+(BGE) B B (CDJ)  B
+V  (NH) V (ZAH) (MJ)V(AQ)
+(CGQ)   C (ZBG)  C
+X  (VF) X (XNF) (BG)X(NH)
+(NH) (AD)  C (ZNH) (MJ) N (AQ)(NH)
+(MDJ) V (XMJ) M (CSG) (XNH)  (MJ)(BG)
+(ZNH)   C (NA) [(MS)(MS)]C (MS)(AD)
+(ZFH) (DG) (ZCB)  (SF) [(DG)(DG)]B (FH)(FJ)
+(ZFW) (DQ) (ZCB)  (GE) [(HR)(HR)]B (FW)(GE)
+(ZDQ) (ZBW)  (ZBJ)Q(ZBJ)  C G
+(XSF)  (XVN)  (HR) (GE) N (JT)(HR)
+(XFW)  (XVN)  (FW) (FQ) N EW
+(BFJ)  (CBM)  (GJ) (HQ) X (HQ)(JW)
+(BJE) (CMW)  (CMJ)G(CMH) (MJ) B HF
+(ZAD)  (ZCB)  (AD) (SF) B (SF)(DG)
+(ZFH) (DG) (ZCB)  (SF) (DG) B (FH)(FJ)
+(ZFW) (DQ) (ZCB)  (DQ) (FW) B (GE)(HQ)
+(ZJW) (ZMQ)  (ZMW)E(ZMW)  Z (HQ)
+(VQY)  (ZVN)  (FHW) Q Z (AH)F
+(VND) (ZNS)  (ZND)F(ZAH) (AHQ) V HG
+(BDQ) G (ZCB)  (ADQ) (SFW) B (DGE)(ADQ)
+(NGW) N (ZSW) X (BFJ) (XNQ)  (SW)(MJ)
+(ZAQ)   B Z  B
+N  (AQ) C (ZAQ) (SW)N(DE)
+(BGE) B B (CDJ)  B
+V  (NH) V (ZAH) (MJ)V(AQ)
+(CGQ)   C (ZBG)  C
+X  (VF) X (XNF) (BG)X(NH)
+(NH) (AD)  C (ZAH) (MJ) N (AQ)(NH)
+(MDJ)  (MDJ) B (CMH) (MJ) B (AQ)(NH)
+(CAQ)  V  (CSJ) X  ZM
+N  (AQ) C (ZAQ) (SW)N(DE)
+(BGE) BM[ABS](CMJ)F[GBH]J
+(VQ)  (NH) V (ZAH) (MJ)V(AQ)
+(CGQ) C B[NCM][(ZBG)SDFG(CH)JQWE]
+(XR)  (VF) X (XNF) (BG)X(NH)
+(NH) (AD)  C (ZNH) (MJ) N (AQ)(NH)
+(MDJ) B (CMJ) M (CSG) (ZNH)  (MJ)(BG)
+(ZNH)   C (NS) (MS) C (AD)(SF)
+(ZFH) (DG) (ZCB)  (SF) (DG) B (FH)(FJ)
+(ZFW) (DQ) (ZCB)  (GE) (HR) B (FW)(GE)
+(ZDQ) (ZBW)  (ZBJ)Q(ZBJ)  C G
+[(XF)GF](XND)  (XVN)G(XNR) (GE) N (JT)(HR)
+(XHW) (XNG)  (XNJ)H(XFW) (FQ) N (FE)(FW)
+(BFJ) (CMD)  (CMG)F(CMJ) (HQ) X (HQ)(JW)
+(BJE) (CMW)  (CMJ)G(CMH) (MJ) B HF
+(ZDG) (ZBF)  (ZBF)D(ZAG) (SF) B (SF)(DG)
+(ZFH) (ZGT)  (ZBR)T(ZBY) T B (GJR)E
+(ZQ) D  FG(BG) G (BH) H
+(ZJ)  (MGJ)  B (MDH) Z FG
+(VNH)GDFGH(ZAH)  Z (MJ)
+(VFQ)   V (ZNR) (HY) V (GT)(FR)
+(BDE) (GT)  (BAQ)(DE)(ZBT) W  EQ
+(XGW) N (XSW) X (BFJ) (XNQ)  (CMW)(MJ)
+(ZAQ)   B Z  B
+N  (AQ) C (ZAQ) (SW)N(DE)
+(BGE) B J B (CDJ) (NH)B(BG)
+(VAH)  (NH) V (ZAH) (MJ)V(AQ)
+(CGQ) C G C (ZBG) (VF)C(CD)
+(XNF)  (VF) X (XNF) (BG)X(NH)
+(NH) (AD)  C (ZNH) (MJ) N (AQ)(NH)
+(MDJ)  (MDJ) B (CMH) (MJ) B (AQ)(NH)
+(CAQ)  V  (CSJ) X  ZM
+N  (AQ) C (ZAQ) (SW)N(DE)
+(BGE) B (JU) B (CJU) (HY)B(GT)
+(VQY)  (NH) V (ZAH) (MJ)V(AQ)
+(CGQ) C (GT) C (ZGT) (FR)C(DE)
+(XHR)  (VF) X (XNF) (BG)X(NH)
+(NH) (AD)  C (ZNH) (MJ) N (AQ)(NH)
+(MDJ)  (CDJ) B (CSG) (NH) (XN) (CMJ)(BG)
+[(NSH)(CA)(ND)(ZH)C]

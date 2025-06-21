@@ -1,0 +1,141 @@
+第一版为一行一小节 排版版本往下翻
+WHGSGHWHGS(BG)H(BW)HGS
+Z Z (ZQR) Z (ZQE) (ZGQ) Z (ZQR)
+Z (ZQE) Z Z Z (ZQE) Z (ZQE)
+M (MJR) (MJR) M (MJR) M M M
+(VMS) M M (VM) M M M M
+(NJE) N N N N N N N
+(NEY) N N N N N N N
+Z Z (ZAF) Z (ZAD) (ZBA) Z (ZDG)
+Z (ZDG) (ZSF) (ZSF) (ZAD) (ZDG) Z (ZDG)
+(MDG) (MSF) M (MFQ) M M M M
+(MWT) (MWR) M (MSQ) M M (MS) (NAD)
+N N N N (BSF) N N N
+(NDG) N N (NDH) N N N (BDJ)
+C (CDJ) (CDH) (CH) (CDG) (CF) (CD) (CG)
+B B B B (BU)T(BW)J(BG)F(BS)M
+Z Z (ZF) Z (ZD) (ZA) Z (ZA)
+(ZDG) (ZDG) (ZSF) (ZSF) (ZAD) (ZDG) Z (ZDG)
+(MDG) (MSF) M (MFQ) M M M M
+(MWT) (MWR) M (MSQ) M M (MS) (MD)
+N N N N (BSF) N N N
+(NDG) N (NDH) N (NDJ) N (NDH) (NDH)
+B (BSG) (BSG) B B B B B
+BM(BS)F(BG)J(BW)R(BT) B B B
+(NDH) N N N N (NAD) (NH) (NSG)
+M M (MF) M (MD) M (MS) M
+(ZAF) A Z A Z A (ZAD) (BAD)
+Z A Z A (ZGT) A (ZFR) A
+(NAQ) M (NA) M (MF) (MD) (NA) (MF)
+M (MD) (NA) M (MGT) M (MFR) M
+(NFQ) N (NA) N (NF) (ND) (NA) (NAF)
+N (ND) N (NA) (NAF) N (NG) (BSG)
+B B B B B B B B
+(CN) A D (CNA) D G H
+(VFQ) V V (VGW) B B B B
+(VFQ) V (VFQ) (VGW) B B B B
+Z A (ZQE) A (VQR) V (VQR) (VJW)
+B (BE) (BR) B (NJE) N (NW) (NW)
+(NDH) (NQ) (NQ) N B B B (BQR)
+V (VR) (VE) (VE) (MHQ) (MW) M (MJW)
+B B B B B B B B
+(BFJ) B B (BSG) B B B B
+(VFQ) V V (VGW) B B B B
+(VFQ) V (VFQ) (VGW) B B B B
+Z A (ZQE) A (VHR) V (VQR) (VJW)
+B (BE) (BR) B (NJE) N (NW) (NW)
+(NDH) (NQ) (NQ) N N (NH) (NQ) (NW)
+(NHE) N (NHE) N (NHE) N (NHE) N
+(VFQ) V V (VGW) B B B B
+(VFQ) V (VFQ) (VGW) B B B B
+Z A (ZQE) A (VQR) V (VQR) (VJW)
+B (BE) (BR) B (NJE) N (NW) (NW)
+(NDH) (NQ) (NQ) N B B B (BQR)
+V (VR) (VE) (VE) (MHQ) (MW) M (MJW)
+B B B B B B B B
+(BFJ) B B (BSG) B B B B
+(VFQ) V V (VGW) B B B B
+(VFQ) V (VFQ) (VGW) B B B B
+Z A (ZQE) A (VHR) V (VQR) (VJW)
+B (BE) (BR) B (NJE) N (NW) (NW)
+(NDH) (NQ) (NQ) N N (NH) (NQ) (NW)
+(NHE) N (NHE) N (NHE) N (NHE) N
+(NHE)  N  N  N
+(MFJ)  M  M  M
+(BSG)  B  B  B
+(NQR)  N  N  N
+(MJR)  M  M  (MJR) (ZGT)
+U  TRQRTUTRQRT
+UTRQGFAFGQGF(ZA)
+
+
+
+
+WHGS/GHWH/GS(BG)H/(BW)HGS/
+Z Z /(ZQR) Z /(ZQE) (ZGQ) /Z (ZQR) /
+Z (ZQE) /Z Z /Z (ZQE) /Z (ZQE) /
+M (MJR) /(MJR) M /(MJR) M /M M /
+(VMS) M /M (VM) /M M /M M /
+(NJE) N /N N /N N /N N /
+(NEY) N /N N /N N /N N /
+Z Z /(ZAF) Z /(ZAD) (ZBA) /Z (ZDG) /
+Z (ZDG) /(ZSF) (ZSF) /(ZAD) (ZDG) /Z (ZDG) /
+(MDG) (MSF) /M (MFQ) /M M /M M /
+(MWT) (MWR) /M (MSQ) /M M /(MS) (NAD) /
+N N /N N /(BSF) N /N N /
+(NDG) N /N (NDH) /N N /N (BDJ) /
+C (CDJ) /(CDH) (CH) /(CDG) (CF) /(CD) (CG) /
+B B /B B /(BU)T(BW)J/(BG)F(BS)M/
+Z Z /(ZF) Z /(ZD) (ZA) /Z (ZA) /
+(ZDG) (ZDG) /(ZSF) (ZSF) /(ZAD) (ZDG) /Z (ZDG) /
+(MDG) (MSF) /M (MFQ) /M M /M M /
+(MWT) (MWR) /M (MSQ) /M M /(MS) (MD) /
+N N /N N /(BSF) N /N N /
+(NDG) N /(NDH) N /(NDJ) N /(NDH) (NDH) /
+B (BSG) /(BSG) B /B B /B B /
+BM(BS)F/(BG)J(BW)R/(BT) B /B B /
+(NDH) N /N N /N (NAD) /(NH) (NSG) /
+M M /(MF) M /(MD) M /(MS) M /
+(ZAF) A /Z A /Z A /(ZAD) (BAD) /
+Z A /Z A /(ZGT) A /(ZFR) A /
+(NAQ) M /(NA) M /(MF) (MD) /(NA) (MF) /
+M (MD) /(NA) M /(MGT) M /(MFR) M /
+(NFQ) N /(NA) N /(NF) (ND) /(NA) (NAF) /
+N (ND) /N (NA) /(NAF) N /(NG) (BSG) /
+B B /B B /B B /B B   /
+(CN) /A D /(CNA) D /G H /
+(VFQ) V /V (VGW) /B B /B B /
+(VFQ) V /(VFQ) (VGW) /B B /B B /
+Z A /(ZQE) A /(VQR) V /(VQR) (VJW) /
+B (BE) /(BR) B /(NJE) N /(NW) (NW) /
+(NDH) (NQ) /(NQ) N /B B /B (BQR) /
+V (VR) /(VE) (VE) /(MHQ) (MW) /M (MJW) /
+B B /B B /B B /B B /
+(BFJ) B /B (BSG) /B B /B B /
+(VFQ) V /V (VGW) /B B /B B /
+(VFQ) V /(VFQ) (VGW) /B B /B B /
+Z A /(ZQE) A /(VHR) V /(VQR) (VJW) /
+B (BE) /(BR) B /(NJE) N /(NW) (NW) /
+(NDH) (NQ) /(NQ) N /N (NH) /(NQ) (NW) /
+(NHE) N /(NHE) N /(NHE) N /(NHE) N /
+(VFQ) V /V (VGW) /B B /B B /
+(VFQ) V /(VFQ) (VGW) /B B /B B /
+Z A /(ZQE) A /(VQR) V /(VQR) (VJW) /
+B (BE) /(BR) B /(NJE) N /(NW) (NW) /
+(NDH) (NQ) /(NQ) N /B B /B (BQR) /
+V (VR) /(VE) (VE) /(MHQ) (MW) /M (MJW) /
+B B /B B /B B /B B /
+(BFJ) B /B (BSG) /B B /B B /
+(VFQ) V /V (VGW) /B B /B B /
+(VFQ) V /(VFQ) (VGW) /B B /B B /
+Z A /(ZQE) A /(VHR) V /(VQR) (VJW) /
+B (BE) /(BR) B /(NJE) N /(NW) (NW) /
+(NDH) (NQ) /(NQ) N /N (NH) /(NQ) (NW) /
+(NHE) N /(NHE) N /(NHE) N /(NHE) N /
+(NHE)   /N   /N   /N   /
+(MFJ)   /M   /M   /M   /
+(BSG)   /B   /B   /B   /
+(NQR)   /N   /N   /N   /
+(MJR)   /M   /M   /(MJR) (ZGT) /
+    /UTRQ/RTUT/RQRT/
+UTRQ/GFAF/GQGF/(ZA)/

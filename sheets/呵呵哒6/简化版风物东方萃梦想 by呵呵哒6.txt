@@ -1,0 +1,145 @@
+          (SW) (DE)/
+(ZNT)  (HY)  (VDE) /
+ (SW)  (XME)  (NH)/
+  (AQ)  (MSW)(CAJ) /
+ (AQ)  (BSJ)  (BDG)/
+
+  (ZDH)    (ZNQ)/
+  (MSW)(ZAE)  N /
+ (NDH)  (NDE)  (XMW)/
+  (ADQ)  (MGJ)(CAQ) /
+
+  (CN) N N /
+(ZCB) B (CN)   /
+(CN) N N (ZCB) /
+B(CAQ)   (CN) N/
+
+ N (ZCB) B (CNA)/
+   (CN) N (CNS)/
+ (XBD) D(CNA)   /
+(CN) N N (ZCB) /
+
+B (CN)   (CN) /
+N N (ZCB) B(CN)/
+   (CN) N (CN)/
+ (XB)  (CN)  C/
+
+ C (ZAH) X (BSJ)/
+(CDQ)   N N /
+ (CGE)  (NFW)  (DQ)/
+ N (NSJ) C (BFW)/
+
+(ZAH)   V V /
+ (ZSJ)  (VFQ)   /
+V V Z (VAH)(XDW)/
+   B B  /
+
+(XDQ)  (BFW)  (DQ)[(FW)B(DQ)]/
+(BFW) X (BGE)(CDE)  /
+ C C  (MFW) /
+E (CDE)  X C/
+
+  C (NAH) (BSJ)(CDQ)/
+   N N  /
+(CGE)  (NFW)  (DQ) /
+N (NFW) C (BGE)(ZDT)/
+
+   V V  /
+(ZFY)  (VDQ)   V/
+ V Z (VAH)(XSJ) /
+  B B  (XAH)/
+
+  (BSJ)  (DQ) B/
+ (BFW) X (BSJ)(CDJ) /
+  N N C /
+(BAQ) (SJ) (CAH)   /
+
+ (XST)(ZAQ)  (NF) Z/
+ (VQE) M (ZNF)  /
+(XME)  (MG) (XA) (DJW)/
+ X (XSG)(CAE)  (AT)/
+
+ N (DQE)  (CMT) /
+ (XBM)  G (XN) /
+(ND)  (BMS)(ZAQ)  (NF)/
+ Z (VHQ) M (ZNF)/
+
+  (XME)  (MG) (XA)/
+ (SJW) (XM) (XBG)(CAE) /
+ A N (DQE)  /
+(CM)  N  G /
+
+N (CAD)  (XMS)(ZNQ) /
+ V Z (NAY) M/
+ (ZVF)  (XMT)  B/
+ X (MSY) X (XGY)/
+
+(CNA)  A N D/
+  (CM)  (XBM)  /
+G (XN) (ND)  (BMS)/
+(ZAQ)  (NF) Z (VHQ)/
+
+ M (ZNF)  (XME) /
+ (MG) X (SJW) X/
+ (XBG)(CAE)  A N/
+ (DQE)  (CM)  (NQE)/
+
+  A N (CDE) /
+ (XMG)(ZAQ)  (NF) Z/
+ (VQE) M (ZNF)  /
+(XME)  (MG) (XA) (DJW)/
+
+ X (XSG)(CAE)  (AT)/
+ N (DQE)  (CMT) /
+ (XBM)  G (XN) /
+(ND)  (BMS)(ZAQ)  (NF)/
+
+ Z (VHQ) M (ZNF)/
+  (XME)  (MG) (XA)/
+ (SJW) (XM) (XBG)(CAE) /
+ A N (DQE)  /
+
+(CM)  N  G /
+N (CAD)  (XMS)(ZNQ) /
+ V Z (NAY) M/
+ (ZVF)  (XMT)  B/
+
+ X (MSY) X (XGY)/
+(CNA)  A N D/
+  (CM)  (XBM)  /
+G (XN) (ND)  (BMS)/
+
+(ZAQ)  (NF) Z (VHQ)/
+ M (ZNF)  (XME) /
+ (MG) X (SJW) X/
+ (XBG)(CAY)  A N/
+
+ (DEY)  (CM)  (NQE)/
+   N (XSW)  /
+(CDE)(XHT)  (VY)  (ZQE)/
+  (VW)  (BJE)  /
+
+(BH)  (XFQ)  (BW)(CDJ)/
+  (NQ)  (XJ)  /
+(BSG)  (ZDH)  V /
+ (MQ)  (CW)(VHE)  /
+
+V  (ZH)  (VE) /
+ (XGW)  (XDQ)  (XDJ)/
+(CN)   (CN) N /
+N (XB)  (CN)  /
+
+ (CN) N N (XB)/
+(CN)   (CN) N /
+N (XB)  (CN) A/
+  (CNA) N (CNS) /
+
+(XBD) (ND)(CDH)   (CDH)/
+ N N (XSG)  /
+(CDH)   (CDH) N /
+N (XSG)(CDH)   (CDH)/
+
+ N N (XSG)  /
+(CDH) H  (CMD) (CD)/
+  (XSG)(CDH)    /
+(CN)/

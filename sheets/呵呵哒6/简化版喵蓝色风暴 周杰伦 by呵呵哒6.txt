@@ -1,0 +1,20 @@
+第一版为一行一小节 排版版本往下翻
+(CN) (NH)(CN)(AH) (CNH) Q (CN) (CNW) E/
+(ZV) (NH)(ZV)(MH) (ZAH) Q (ZV) (ZVW) E/
+(XN) (AW)(XN) (XN)  (XN) (XN) Q/
+(CNW) (AW)C(CW) (CNQ) E (CAQ) (CNH) H/
+(CN) (NH)(CN)(AH) (CNH) Q (CN) (CNW) E/
+(ZV) (NH)(ZV)(MH) (ZAH) Q (ZV) (ZVW) E/
+(XN) (AW)(XN) (XN)  (XN) (XN) Q/
+(CNW) (AW)C(CW) (CNQ) E (CAQ) (CNH)/
+
+
+
+(CN) (NH)(CN)/(AH) (CNH) /Q (CN) /(CNW) E /
+(ZV) (NH)(ZV)/(MH) (ZAH) /Q (ZV) /(ZVW) E /
+(XN) (AW)(XN)/  (XN) /  (XN) /(XN) Q /
+(CNW) (AW)C/(CW) (CNQ) /E (CAQ) /(CNH) H /
+(CN) (NH)(CN)/(AH) (CNH) /Q (CN) /(CNW) E /
+(ZV) (NH)(ZV)/(MH) (ZAH) /Q (ZV) /(ZVW) E /
+(XN) (AW)(XN)/  (XN) /  (XN) /(XN) Q /
+(CNW) (AW)C/(CW) (CNQ) /E (CAQ) /(CNH)/

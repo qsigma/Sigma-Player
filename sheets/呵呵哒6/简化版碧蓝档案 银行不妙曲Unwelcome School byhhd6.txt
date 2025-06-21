@@ -1,0 +1,90 @@
+(NH) (AD) /(NQ) (AD) /(NW) (AD)E/N (ADG) /
+(NH) (ADQ) /(NW) (ADQ) /(NW) (ADW)E/N (AD) /
+(VT) (ADR) /(VR) (ADE) /(VW) (ADQ) /(VJ) (ADH) /
+(CJ) (BMQ) /(CW) (BMW) /(CE) (BM) /(CD) (BM) /
+(NH) (AD) /(NQ) (AD) /(NW) (AD)E/N (ADG) /
+(NH) (ADQ) /(NW) (ADQ) /(NW) (ADW)E/N (AD) /
+(VT) (ADR) /(VE) (ADW) /(VE) (ADR) /(VR) (ADT) /
+(CGT) (BGT) /(CHY) (BHY) /(CJU) M /(CMD)   /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/Z (CN) /
+(VGT) (MFR) /(VDE) (ADW) /(VSW) (ADQ) /(VMJ) (NDH) /
+(CMJ) (VAQ) /(CSW) (BSW) /(CDE)   /(CD)   /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/Z (CN) /
+(VGT) (MFR) /(VDE) (ADW) /(VDE) (MFR) /(VFR) (AGT) /
+(CGT) (BGT) /(CHY) (BHY) /(CJU) (CMD) /(XVF) (BMG) /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/Z (CN) /
+(VGT) (MFR) /(VDE) (ADW) /(VSW) (ADQ) /(VMJ) (NDH) /
+(CMJ) (VAQ) /(CSW) (BSW) /(CDE)   /(CD)   /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/Z (CN) /
+(VGT) (MFR) /(VDE) (ADW) /(VDE) (MFR) /(VFR) (AGT) /
+(CGT) (BGT) /(CHY) (BHY) /(CJU) (BM) /C (BM) /
+(XDE) (VSW) /(XDE) (VSR) /(XDE) (VSW) /(XAQ) (VSW) /
+(CDE) (VAW) /(CDE) (BSR) /(CDE) (VAW) /(CAQ) (BDJ) /
+(NH) (CN) /(NHY) (CNH) /(NGT) (CNG) /(NGT) (CNG) /
+(ZFR) (CNF) /(ZDE) (CND) /(ZSW) (CNS) /(ZDE) (CND) /
+(XDE) (VSW) /(XDE) (VSR) /(XDE) (VSW) /(XAQ) (VSW) /
+(CDE) (VAW) /(CDE) (BSR) /(CDE) (VAW) /(CAQ) (VAW) /
+(NDE) (CN) /(NH) (CN) /(BMJ) (CBM) /(NAQ) (CNA) /
+(ZAQ) (CNA) /(ZSW) (CNS) /(ZFR) (CNF) /(ZSW) (CNS) /
+(XDE) (VSW) /(XDE) (VSR) /(XDE) (VSW) /(XAQ) (VSW) /
+(CDE) (VAW) /(CDE) (BSR) /(CDE) (VAW) /(CAQ) (BDJ) /
+(NH) (CN) /(NHY) (CNH) /(NGT) (CNG) /(NGT) (CNG) /
+(ZFR) (CNF) /(ZDE) (CND) /(ZSW) (CNS) /(ZDE) (CND) /
+(XDE) (VSW) /(XDE) (VSR) /(XDE) (VSW) /(XAQ) (VSW) /
+(CDE) (VAW) /(CDE) (BSR) /(CDE) (VAW) /(CAQ) (BDJ) /
+(NH)   /W(EY)Q /Q(WY)Q /H Q /
+W(EY)Q /Q(WY)Q /  C /(CB) (VN) /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/(ZD) (ZBS) /
+(VGT) (MFR) /(VFR) (ADE) /(VSW) (ADQ) /(VMJ) (NDH) /
+(CMJ) (VAQ) /(CSW) (BSW) /(CDE)   /(CD) (ZBS) /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/(ZD) (ZBS) /
+(VGT) (MFR) /(VFR) (ADW) /(VDE) (MFR) /(VFR) (AGT) /
+(CGT) (BGT) /(CHY) (BHY) /(CJU) (CMD) /(XVF) (BMG) /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/(ZD) (ZBS) /
+(VGT) (MFR) /(VFR) (ADE) /(VSW) (ADQ) /(VMJ) (NDH) /
+(CMJ) (VAQ) /(CSW) (BSW) /(CDE)   /(CD) (ZBS) /
+(NH) (CN) /(NAQ) (CN) /(NSW) (CN)(DE)/N (XNG) /
+(ZNH) (CAQ) /(ZSW) (CAQ) /(ZSW) (CSW)(DE)/(ZD) (ZBS) /
+(VGT) (MFR) /(VFR) (ADW) /(VDE) (MFR) /(VFR) (AGT) /
+(CGT) (BGT) /(CHY) (BHY) /(CJU) (BM) /(CU) (VGY) /
+(NH)G(CNH)Q/(NH)G(CNH)Q/(NH)G(CNH)Q/(NH)G(CNH)Q/
+(ZH)G(CNH)Q/(ZH)G(CND)S/(ZS)A(CN)B/(ZC)X(ZCN)Z/
+(XV)X(CAD)B/(VN)B(NAD)A/(VS)D(MSF)G/(VH)Q(ADW)E/
+(CDE) (BMD)E/D(CE)DE/(BMD)ED(CDE)/   C /
+YT(NE)/W(CNQ)E(NW)/Q(CNE)W(NQ)/E(CNW)Q(NE)/
+W(CNQ)H(ZG)/H(CNE)WQ/(ZW)E(CNQ)H/G(ZG)H(CND)/
+SA(ZS)A/(CN)B(VN)H/(BAD)G(VA)Q/(BAD)G(VN)H/
+(BAD)G(VA)Q/(AD)W(CD)E/(VNA)Q(CS)W/(VNA)Q(CD)E/
+DE(CF)R/DW(NE)H/(CNE)H(NJ) /(CNQ) (NQ) /
+(CNW) (NW) /(CNE) (ZE) /(CWY)W(ZQ)(WY)/(CNW)Q(ZWY)W/
+(CNQ)(WY)(ZW)Q/(CWY)Q(VY)U/(ADQ)T(VY)W/(ADQ)G(VH)J/
+(ADQ)W(VW)E/(ADR)E(CD)F/(BMG)H(CJ)Q/(BMW)E(CR)E/
+WE(CJ)G/DM(NQ)J/(CNH)J(NQ)W/(CNE)Y(NQ)U/
+(CNT)U(NY)E/(CNW)Q(ZW) /(CNW)Q(ZW) /(CNW)Q(ZW) /
+(CNE) (ZH) /(CNQ) (VD) /(MSF) (VG) /(ADH) (VJ) /
+(ADQ) (VW) /(ADE) (CE) /(BME) (CDE) /(BDE) (CDE) /
+(BM) C /(BM) (XDE) /(VSW) (XDE) /(VSR) (XDE) /
+(VSW) (XAQ) /(VSW) (CDE) /(VAW) (CDE) /(BSR) (CDE) /
+(VAW) (CAQ) /(BDJ) (NH) /(CN) (NHY) /(CNH) (NGT) /
+(CNG) (NGT) /(CNG) (ZFR) /(CNF) (ZDE) /(CND) (ZSW) /
+(CNS) (ZDE) /(CND) (XDE) /(VSW) (XDE) /(VSR) (XDE) /
+(VSW) (XAQ) /(VSW) (CDE) /(VAW) (CDE) /(BSR) (CDE) /
+(VAW) (CAQ) /(VAW) (NDE) /(CN) (NH) /(CN) (BMJ) /
+(CBM) (NAQ) /(CNA) (ZAQ) /(CNA) (ZSW) /(CNS) (ZFR) /
+(CNF) (ZSW) /(CNS) (XDE) /(VSW) (XDE) /(VSR) (XDE) /
+(VSW) (XAQ) /(VSW) (CDE) /(VAW) (CDE) /(BSR) (CDE) /
+(VAW) (CAQ) /(BDJ) (NH) /(CN) (NHY) /(CNH) (NGT) /
+(CNG) (NGT) /(CNG) (ZFR) /(CNF) (ZDE) /(CND) (ZSW) /
+(CNS) (ZDE) /(CND) (XDE) /(VSW) (XDE) /(VSR) (XDE) /
+(VSW) (XAQ) /(VSW) (CDE) /(VAW) (CDE) /(BSR) (CDE) /
+(VAW) (CAQ) /(BDJ) (NH) /  W(EY)/Q Q(WY)/
+Q H /Q W(EY)/Q Q(WY)/Q     /
+(BG) /  (NH) /  W(EY)/Q Q(WY)/
+Q H /Q W(EY)/Q Q(WY)/Q/

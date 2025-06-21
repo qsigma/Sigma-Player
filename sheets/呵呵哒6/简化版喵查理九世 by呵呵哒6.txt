@@ -1,0 +1,39 @@
+第一版为一行一小节 排版版本往下翻
+H          Q/
+(MFW)QQHQH W(AG)QQHQH E/
+(SH)REQHG H     HQ/
+(MFW)QQHQH W(AG)QQHQH E/
+(SH)REQHGH     NAN/
+(VMS)AAN(VNA)N S(ZB)AAN(ZBA)N D/
+(XN)FDANB N(XN)   ANA/
+(VMS)AAN(VNA)N S(ZB)AAN(ZBA)N D/
+(XN)FDA[NADFHQER(XNY)]   (NH)(AQ)(NH)/
+(VSW)(AQ)(VAQ)(NH)(VAQ)(NH)(VM)(SW)(ZB)(AQ)(ZAQ)(NH)(ZAQ)(NH)(ZB)(DE)/
+(XN)(FR)(XDE)(AQ)(XNH)(BG)(XN)(NH)(XNH) (XN) (XN)(AQ)(XNH)(AQ)/
+(VSW)(AQ)(VAQ)(NH)(VAQ)(NH)(VM)(SW)(ZB)(AQ)(ZAQ)(NH)(ZAQ)(NH)(ZB)(DE)/
+(XN)(FR)(XDE)(AQ)(XNH)(BG)(XN)(NH)(XN) (XN) (XN)(NH)(XAQ)(NH)/
+(VSW)(AQ)(AQ)(NH)(VAQ)(NH) (SW)(ZB)(AQ)(AQ)(NH)(ZAQ)(NH) (DE)/
+(XN)(FR)(DE)(AQ)(XNH)(BG) (NH)(XNH)   (XN)(AQ)(NH)(AQ)/
+(VSW)(AQ)(AQ)(NH)(VAQ)(NH) (SW)(ZB)(AQ)(AQ)(NH)(ZAQ)(NH) (DE)/
+(XN)(FR)(XDE)(AQ)(XNH)(BG)(XN)(NH)(XN)(GT)(FR)(DE)(AQ)(NH)(BG)(VF)/
+(XSW)/
+
+
+
+    /    /    /  HQ/
+(MFW)QQH/QH W/(AG)QQH/QH E/
+(SH)REQ/HG H/    /  HQ/
+(MFW)QQH/QH W/(AG)QQH/QH E/
+(SH)REQ/HGH /    / NAN/
+(VMS)AAN/(VNA)N S/(ZB)AAN/(ZBA)N D/
+(XN)FDA/NB N/(XN)   / ANA/
+(VMS)AAN/(VNA)N S/(ZB)AAN/(ZBA)N D/
+(XN)FDA/[NADFHQER(XNY)]   / (NH)(AQ)(NH)/(VSW)(AQ)(VAQ)(NH)/
+(VAQ)(NH)(VM)(SW)/(ZB)(AQ)(ZAQ)(NH)/(ZAQ)(NH)(ZB)(DE)/(XN)(FR)(XDE)(AQ)/
+(XNH)(BG)(XN)(NH)/(XNH) (XN) /(XN)(AQ)(XNH)(AQ)/(VSW)(AQ)(VAQ)(NH)/
+(VAQ)(NH)(VM)(SW)/(ZB)(AQ)(ZAQ)(NH)/(ZAQ)(NH)(ZB)(DE)/(XN)(FR)(XDE)(AQ)/
+(XNH)(BG)(XN)(NH)/(XN) (XN) /(XN)(NH)(XAQ)(NH)/(VSW)(AQ)(AQ)(NH)/
+(VAQ)(NH) (SW)/(ZB)(AQ)(AQ)(NH)/(ZAQ)(NH) (DE)/(XN)(FR)(DE)(AQ)/
+(XNH)(BG) (NH)/(XNH)   /(XN)(AQ)(NH)(AQ)/(VSW)(AQ)(AQ)(NH)/
+(VAQ)(NH) (SW)/(ZB)(AQ)(AQ)(NH)/(ZAQ)(NH) (DE)/(XN)(FR)(XDE)(AQ)/
+(XNH)(BG)(XN)(NH)/(XN)(GT)(FR)(DE)/(AQ)(NH)(BG)(VF)/(XSW)/

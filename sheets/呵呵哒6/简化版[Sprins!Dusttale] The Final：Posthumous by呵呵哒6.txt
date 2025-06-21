@@ -1,0 +1,42 @@
+(ZCN) N H   D    D   S   A   N A S
+(ZCN) N H   D    D D S   A   N A S
+(XVN) N H   D   F H   G   D (BD) G F D
+(ZVN) N H   (CAD)   H Q (CBM) J   H (CNA) G G H
+(ZCN) (ZCN) H   (ZND) (ZCN) F D (XMD) (XMS)   A (XBM) (XBM) A M
+(ZCN) (ZCN) H D (ZNF) (ZNG) Q   (ZNJ) (ZCN) H   (CMG) (CBM) D
+(ZNA) (ZCN) S   (ZND) (ZCN) G   (XBM) (XBM) D   (XMS) (XBM) D G
+(ZAH)   (ZAH)   (ND)   (MH)   (ZAQ) (ZA) (ZA) (ZA) (ZAQ) (ZA) (ZAY)(ZJY)
+(ZNH) N (ZNH) (NW) (ZNY) N (ZCN) (VNG) (XMG) (BQ) (XMT) B (XME) (BW) (XMG) (BA)
+(ZNQ) (NW) (ZNE) N (ZNQ) (NW) (ZNE) N (ZNH) (NQ) (ZNE) N (ZNT) Z (ZNT) (ZGT)(GT)
+(ZNQ) N (ZNY) N (ZNT) N (ZNE) N (XMT) B (XMW) B (XME) B (XMW) B
+(ZNQ) N (ZNW) N (ZNE) N (ZNW) (NSW) (ZNQ) N (ZNW) N (ZNE) N (ZNY) N
+(ZNH) N (ZNH) (NW) (ZNY) N (ZCN) (VNG) (XMG) (BQ) (XMT) B (XME) (BW) (XMG) (BA)
+(ZNQ) (NW) (ZNE) N (ZNQ) (NW) (ZNE) N (ZNQ) N (ZNW) N (ZNE) Z (ZNE) (ZDE)(DE)
+(ZNQ) N (ZNY) N (ZNT) N (ZNE) N (XMT) B (XMW) B (XME) B (XMW) B
+(ZNQ) (NW) (ZNE) N (ZNQ) (NW) (ZNE) N (ZNE) N (ZNH) N (ZNT) N (ZNH) N
+(NT) (NGT) (NRY) N (ZNY) (NHY) (ZCN) (NGT)(GT)(XMG) (BAQ) (XMT) B (XME) B (XMG) B
+(ZNQ) (NSW) (ZNE) N (ZNQ) (NSW) (ZNE) N (ZNQ) N (ZNW) N (ZNE) Z (ZNE) (ZDE)(DE)
+(XNG) N (ZNY) N (ZNT) N (ZCN) (NDE) (XMT) B (XMW) B (XME) B (XMW) B
+(ZNQ) N (ZNW) N (ZNE) N (ZNW) (NSW) (ZNQ) N (ZNW) N (XME) B (XMY)(BWY)
+(ZNY) (NGT) (ZNY) N (ZNY) N (ZCN) (NGT) (XNQ) B (XMY) B (XMT) B (XNQ) B
+(ZNQ) (NSW) (ZNE) N (ZNQ) (NSW) (ZNE) N (ZNQ) N (ZNW) N (ZNE) Z (ZNE) (ZDE)(DE)
+(ZNQ) N (ZNY) N (ZNT) N (ZCN) (NDE) (XMT) B (XMW) B (XME) B (XMW) B
+(ZNE) (NAQ) (ZNQ) (NAQ) (ZNQ) (NAQ) (ZNQ) (NAQ) (ZNH) N (ZCN) N (ZBJ) N (ZCN) N
+(ZNH) N (ZCN) N (ZNJ) N (ZCN) N (XMG) B (XBM) B (XMJ) B (XBM) B
+(ZNH) N (ZCN) N (ZNT) N (ZCN) N (ZNE) N (ZCN) N (ZNQ) Z (ZCN) Z
+(ZNH) N (ZCN) N (ZNJ) N (ZCN) N (XMG) B (XBM) B (XMT) B (XBM) B
+(ZNE) N (ZCN) N (ZNQ) N (ZCN) N (ZNH) N (ZCN) N (ZBJ) Z (ZCN) Z
+(ZNH) N (ZCN) N (ZNJ) N (ZCN) N (XMG) B (XBM) B (XMJ) B (XBM) B
+(ZNH) N (ZCN) N (ZNT) N (ZCN) N (ZNE) N (ZCN) N (ZNQ) Z (ZCN) Z
+(ZNH) N (ZCN) N (ZNJ) N (ZCN) N (XMG) B (XBM) B (XMT) B (XBM) B
+(ZNE) N (ZCN) N (ZNQ) N (ZCN) N (ZNH) N (ZCN) N (ZBJ) Z (ZCN) Z
+(ZNY) (NT) (ZNY) N (ZNY) N (ZCN) N (XME) B (XBM) B (XBM) B (XBM) B
+(ZNW) N (ZCN) N (ZNY) N (ZCN) N (ZNH) N (ZCN) N (ZNJ) Z (ZCN) Z
+(ZNY) (NT) (ZNY) N (ZNW) N (ZCN) N (XMY) B (XBM) B (XMT) B (XMU) B
+(ZNY) N (ZCN) N (ZNE) N (ZCN) N (ZNW) N (ZCN) N (ZCN) Z (ZCN) Z
+(ZNQ) N (ZCN) N (ZNY) N (ZCN) N (XME) B (XBM) B (XBM) B (XBM) B
+(ZNW) N (ZCN) N (ZNY) N (ZCN) N (ZNH) N (ZCN) N (ZNJ) Z (ZCN) Z
+(ZNY) (NT) (ZNY) N (ZNW) N (ZCN) N (XMY) B (XBM) B (XBM) B (XMU) B
+(ZNY) N (ZCN) N (ZNE) N (ZCN) N (ZNW) N (ZCN) N (NSW) (NSW) (NSW) (NSW)
+(DH) N (SH) N (DY) N (SR) N (DE) N (SW) N (DQ) N (SW) N
+(DE) N S N (DQ) N (SU) (NU) (DY)Y(NY)Y(SY)Y(NY)YYYYYYYYY

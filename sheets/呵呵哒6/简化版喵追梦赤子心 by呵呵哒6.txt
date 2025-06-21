@@ -1,0 +1,152 @@
+第一版为一行一小节 排版版本往下翻
+(CAD) D (CAD) D (CAD) D (CMS) A/
+(XMD) A (XMD) S (XBM)   (XNA) S/
+(CAD) D (CAD) D (CAD) D (CAD) D/
+(VAD) S (VNA) B (VNA)   (VNA)/
+(CAD) D (CAD) D (CAD) D (CMS) A/
+(XMD) G (XMD) S (XBM) B (XNA) S/
+(CAD) S (CNA) B (CNA) A (CNA) A/
+(VNA)   (VNA)   (VNA)   (VNA) B/
+(CAD) D (CAD) D (CAD) D (CMS) A/
+(XMD) A (XMD) S (XBM)   (XNA) S/
+(CAD) D (CAD) D (CAD) D (CAD) D/
+(VAD) S (VNA) B (VNA)   (VNA)/
+(CAD) D (CAD) D (CAD) D (CMS) A/
+(XMD) G (XMD) S (XBM) B (XNA) S/
+(CAD) S (CNA) B (CNA) A (CNA) A/
+(VNA)   (VNA)   (VNA) S (VNA) S/
+(XMD) S (XNA) S (XBM) A (XMS) A/
+(VAD) S (VNA) S (VNA) A (CMS) A/
+(VAD) S (CMS) S (VNS) S (VAD) SN/
+(CNA)   (CNA)   (CNA) S (CNA) S/
+(VAD) S (CMS) S (VNS) A (VNS) A/
+(VAD) S (VNA) S (VNA) A (CMS) A/
+(VAD) S (CMS) S (VAD) S (CMS) G/
+(XMG)   (XBM)   (XBM)   (XMH) G/
+(CAE)   (CBA)   (CBA) G (CAH) G/
+(CMW) Q (CMJ) Q (CBM) G (CMH) G/
+(CAW) Q (CAJ) Q (CAW) Q (CAG) G/
+(XMS) D (XBM) S (XBM) D (XMF) G/
+(CMJ) J (CMJ) J (CMJ) J (CBM) E/
+(CNA) W (CNA) Q (CNA)   (CAQ) Q/
+(VNA) Q (VAQ) Q (VAQ) J (VAQ) W/
+(XBM)   (XBM)   (XBM)   (XMH) G/
+(CAE)   (CBA)   (CBA) G (CAH) G/
+(CMW) Q (CMJ) Q (CBM) G (CMH) G/
+(CAW) Q (CAJ) Q (CAW) Q (CAG) G/
+(XMS) D (XBM) S (XBM)   (XMD) F/
+(CMJ) J (CMJ) J (CMJ) J (CBM) E/
+(CNA) W (CNA) Q (CAQ)   (CAJ) Q/
+(VNA) Q (VAQ) J (VAQ) W (VAE) W/
+(XBM)   (XBM)   (XBM)   (XBM)/
+(CAD) D (CAD) D (CAD) D (CMS) A/
+(XMD) A (XMD) S (XBM)   (XNA) S/
+(CAD) D (CAD) D (CAD) D (CAD) D/
+(VAD) S (VNA) B (VNA)   (VNA)/
+(CAD) D (CAD) D (CAD) D (CMS) A/
+(XMD) G (XMD) S (XBM)   (XNA) S/
+(CAD) S (CNA) B (CNA) A (CMS) A/
+(VNA)   (VNA)   (VNA) A (CMS) A/
+(XMD) S (XNA) S (XBM) A (XMS) A/
+(CAD) S (CBA) S (CBA) A (CMS) A/
+(VAD) S (CMS) S (VNS) S (VAD) SN/
+(CNA)   (CNA)   (CNA) S (CNA) S/
+(VAD) S (CMS) S (VNS) A (VNS) A/
+(VAD) S (VNA) S (VNA) A (CMS) A/
+(CAD) S (CNA) S (CAD) S (CNA) G/
+(XMG)   (XBM)   (XBM)   (XMH) G/
+(CAE)   (CBA)   (CBA) G (CAH) G/
+(CMW) Q (CMJ) Q (CBM) G (CMH) G/
+(CAW) Q (CAJ) Q (CAW) Q (CAG) G/
+(XMS) D (XBM) S (XBM) D (XMF) G/
+(CMJ) J (CMJ) J (CMJ) J (CBM) E/
+(CNA) W (CNA) Q (CNA)   (CAQ) Q/
+(VNA) Q (VAQ) Q (VAQ) J (VAQ) W/
+(XBM)   (XBM)   (XBM)   (XMH) G/
+(CAE)   (CBA)   (CBA) G (CAH) G/
+(CMW) Q (CMJ) Q (CBM) G (CMH) G/
+(CAW) Q (CAJ) Q (CAW) Q (CAG) G/
+(XMS) D (XBM) S (XBM)   (XMD) F/
+(CMJ) J (CMJ) J (CMJ) J (CBM) E/
+(CNA) W (CNA) Q (CAQ)   (CAJ) Q/
+(VNA) Q (VAQ) J (VAQ) W (VAE) W/
+(XBM)   (XBM)   (XBM)   (XBM)/
+(VNA) H (VAH) Q (VAW) Q (VAJ) Q/
+(CBA)   (CBA)   (CBA)   (CBA)/
+
+
+
+(CAD) D /(CAD) D /(CAD) D /(CMS) A /
+(XMD) A /(XMD) S /(XBM)   /(XNA) S /
+(CAD) D /(CAD) D /(CAD) D /(CAD) D /
+(VAD) S /(VNA) B /(VNA)   /(VNA)   /
+(CAD) D /(CAD) D /(CAD) D /(CMS) A /
+(XMD) G /(XMD) S /(XBM) B /(XNA) S /
+(CAD) S /(CNA) B /(CNA) A /(CNA) A /
+(VNA)   /(VNA)   /(VNA)   /(VNA) B /
+(CAD) D /(CAD) D /(CAD) D /(CMS) A /
+(XMD) A /(XMD) S /(XBM)   /(XNA) S /
+(CAD) D /(CAD) D /(CAD) D /(CAD) D /
+(VAD) S /(VNA) B /(VNA)   /(VNA)   /
+(CAD) D /(CAD) D /(CAD) D /(CMS) A /
+(XMD) G /(XMD) S /(XBM) B /(XNA) S /
+(CAD) S /(CNA) B /(CNA) A /(CNA) A /
+(VNA)   /(VNA)   /(VNA) S /(VNA) S /
+(XMD) S /(XNA) S /(XBM) A /(XMS) A /
+(VAD) S /(VNA) S /(VNA) A /(CMS) A /
+(VAD) S /(CMS) S /(VNS) S /(VAD) SN/
+(CNA)   /(CNA)   /(CNA) S /(CNA) S /
+(VAD) S /(CMS) S /(VNS) A /(VNS) A /
+(VAD) S /(VNA) S /(VNA) A /(CMS) A /
+(VAD) S /(CMS) S /(VAD) S /(CMS) G /
+(XMG)   /(XBM)   /(XBM)   /(XMH) G /
+(CAE)   /(CBA)   /(CBA) G /(CAH) G /
+(CMW) Q /(CMJ) Q /(CBM) G /(CMH) G /
+(CAW) Q /(CAJ) Q /(CAW) Q /(CAG) G /
+(XMS) D /(XBM) S /(XBM) D /(XMF) G /
+(CMJ) J /(CMJ) J /(CMJ) J /(CBM) E /
+(CNA) W /(CNA) Q /(CNA)   /(CAQ) Q /
+(VNA) Q /(VAQ) Q /(VAQ) J /(VAQ) W /
+(XBM)   /(XBM)   /(XBM)   /(XMH) G /
+(CAE)   /(CBA)   /(CBA) G /(CAH) G /
+(CMW) Q /(CMJ) Q /(CBM) G /(CMH) G /
+(CAW) Q /(CAJ) Q /(CAW) Q /(CAG) G /
+(XMS) D /(XBM) S /(XBM)   /(XMD) F /
+(CMJ) J /(CMJ) J /(CMJ) J /(CBM) E /
+(CNA) W /(CNA) Q /(CAQ)   /(CAJ) Q /
+(VNA) Q /(VAQ) J /(VAQ) W /(VAE) W /
+(XBM)   /(XBM)   /(XBM)   /(XBM)   /
+(CAD) D /(CAD) D /(CAD) D /(CMS) A /
+(XMD) A /(XMD) S /(XBM)   /(XNA) S /
+(CAD) D /(CAD) D /(CAD) D /(CAD) D /
+(VAD) S /(VNA) B /(VNA)   /(VNA)   /
+(CAD) D /(CAD) D /(CAD) D /(CMS) A /
+(XMD) G /(XMD) S /(XBM)   /(XNA) S /
+(CAD) S /(CNA) B /(CNA) A /(CMS) A /
+(VNA)   /(VNA)   /(VNA) A /(CMS) A /
+(XMD) S /(XNA) S /(XBM) A /(XMS) A /
+(CAD) S /(CBA) S /(CBA) A /(CMS) A /
+(VAD) S /(CMS) S /(VNS) S /(VAD) SN/
+(CNA)   /(CNA)   /(CNA) S /(CNA) S /
+(VAD) S /(CMS) S /(VNS) A /(VNS) A /
+(VAD) S /(VNA) S /(VNA) A /(CMS) A /
+(CAD) S /(CNA) S /(CAD) S /(CNA) G /
+(XMG)   /(XBM)   /(XBM)   /(XMH) G /
+(CAE)   /(CBA)   /(CBA) G /(CAH) G /
+(CMW) Q /(CMJ) Q /(CBM) G /(CMH) G /
+(CAW) Q /(CAJ) Q /(CAW) Q /(CAG) G /
+(XMS) D /(XBM) S /(XBM) D /(XMF) G /
+(CMJ) J /(CMJ) J /(CMJ) J /(CBM) E /
+(CNA) W /(CNA) Q /(CNA)   /(CAQ) Q /
+(VNA) Q /(VAQ) Q /(VAQ) J /(VAQ) W /
+(XBM)   /(XBM)   /(XBM)   /(XMH) G /
+(CAE)   /(CBA)   /(CBA) G /(CAH) G /
+(CMW) Q /(CMJ) Q /(CBM) G /(CMH) G /
+(CAW) Q /(CAJ) Q /(CAW) Q /(CAG) G /
+(XMS) D /(XBM) S /(XBM)   /(XMD) F /
+(CMJ) J /(CMJ) J /(CMJ) J /(CBM) E /
+(CNA) W /(CNA) Q /(CAQ)   /(CAJ) Q /
+(VNA) Q /(VAQ) J /(VAQ) W /(VAE) W /
+(XBM)   /(XBM)   /(XBM)   /(XBM)   /
+(VNA) H /(VAH) Q /(VAW) Q /(VAJ) Q /
+(CBA)   /(CBA)   /(CBA)   /(CBA)/

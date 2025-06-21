@@ -1,0 +1,282 @@
+第一版为一行一小节 排版版本往下翻
+(VNG)HGHQ (VNH)/
+(BMG)  GH(BMG)H/
+(ZNG)HGHQ (ZNH)/
+(ZDG) S (BMD) G/
+(VNG)HGHQ (VNH)/
+(BMG)  SD(BMG)D/
+(ZNG) H Q (ZNW)/
+(ZNE) QW(BMW) W/
+(VNW) E(VN) (VN)/
+(BME) Q(BMW)W (BMW)/
+(ZNW) E(ZN) (ZN)/
+(ZNE)QQ(ZNW)WW(BMW)W/
+(VNW) E(VN) (VNQ)/
+(BMW) E(BM)Q (BM)/
+(ZNH) (ZN) (ZN)/
+(ZN) Q(ZNW)W (BMW)/
+(VNW) E(VN) (VN)/
+(BME)GQ(BMW)WW(BMW)W/
+(ZNW) E(ZN) (ZN)/
+(ZNE) Q(ZNW)WW(BMW)W/
+(VNW) E(VN) (VN)Q/
+(BMW) E(BM) (BMQ)/
+(ZNH) (ZN) (ZN)/
+(ZN) (ZN) G/
+(VNH) Q(VN) (VNH)/
+(BMG)  GH(BM)H/
+(ZNH) Q(ZN) (ZNH)/
+(BMG)  (BMG)HHH/
+(VNH) Q(VN) (VNH)/
+(BMG)  H (BMG)/
+(ZNQ)W (ZNW) W(ZNQ)/
+(BME)  (BMQ)/
+(VNH)H (VN)HG(VNH)/
+(BMQ)  GH(BM)Q/
+(ZNQ)W (ZNW) W(ZNQ)/
+(BME)  (BME)EWW/
+(VNH) Q(VN) (VNH)/
+(BMG)   (BMH)/
+(ZNG) H(ZN)Q (ZNW)/
+(BME) W Q H/
+(VNG)HG(VNH)WE(VNT)E/
+(BET) (BM)WE(BMT)E/
+(ZET) (ZN)WE(ZNT)E/
+(ZET) W(ZN)E (ZNT)/
+(VGT)H(NG)(VNH)WE(VNT)E/
+(BET) (BM) (BMH)/
+(ZNG) H(ZN)Q (ZNW)/
+(BME) W(BM)Q (BMH)/
+(VNG)HG(VNH)WE(VNT)E/
+(BET) M(BE)(WT) (BME)/
+(ZET) (ZN)WE(ZNT)E/
+(ZET) W(ZN)E (ZNT)/
+(VET) W(VNW)W (VNW)W/
+(BMW) W(BM)H (BMG)/
+(ZNG) H(ZN)Q (ZNW)/
+(BME) (BW)MQ (BM)/
+(VNG)HGHQ H/
+(VFQ) QWW W/
+(VNW) E(VN) (VN)/
+(BME) Q(BMW)WW(BMW)W/
+(ZNW) E(ZN) (ZN)/
+(ZNE) Q(ZN)W (BMW)/
+(VNW) E(VN) (VN)/
+(BMW) E(BM)Q (BM)/
+(ZHE) (ZN) (ZN)/
+(ZN)HQ(ZNW)W (BMW)W/
+(VNW) E(VN) (VN)/
+(BME) Q(BMW)W (BMW)/
+(ZNW) E(ZN) (ZN)/
+(ZQE) (ZNQ)WW(BM)/
+(VNW) E(VN) (VN)/
+(BME) E(BM) (BMQ)/
+(ZQE) Z(NQ)(JW) (ZN)/
+(ZHQ) (ZN) G/
+(VNH) Q(VN) (VNH)/
+(BMG) (BM)GH(BM)H/
+(ZNH) Q(ZN) (ZNH)/
+(ZFQ) (ZN)GH(BMH)H/
+(VNH) Q(VN) (VNH)/
+(BMG) (BM)H (BMG)/
+(ZNG) H(ZN) (ZNW)/
+(ZNQ) (ZN) (BM)/
+(VNH) Q(VN) (VNH)/
+(BMG) (BM)GH(BM)H/
+(ZNH) Q(ZN)H (ZN)/
+(ZNG) (ZN)GH(BMH)H/
+(VNH) Q(VN) (VNH)/
+(BMG) (BM)H (BMG)/
+(ZN) G(ZNH)H (ZN)Q/
+(ZHQ) Q(ZNW) WE/
+(VNE) WWW W/
+(BMW) W H WE/
+(ZHE) WWW W/
+(BMW) W H WE/
+(VNE) WWW WW/
+(BMW) WH H/
+(ZNG) H Q W/
+(BME) W  WE/
+(VNE) WWW W/
+(BMW) W H WE/
+(ZNE) WWW W/
+(BMW) W H WE/
+(VNE) WWW WW/
+(BMW) W H H/
+(ZFW) H Q W/
+(BME) W Q H/
+(VNG)HG(VNH)WE(VNT)E/
+(BET) (BM)WE(BMT)E/
+(ZET) (ZN)WE(ZNT)E/
+(ZET) W(ZN)E (ZNT)/
+(VGT)HG(VNH)WE(VNT)E/
+(BET) (BM) (BMH)/
+(ZNG) H(ZN)Q (ZNW)/
+(BME) W(BM)Q (BMH)/
+(VNG)HG(VNH)WE(VNT)E/
+(BET) (BM)WE(BMT)E/
+(ZNE) (ZN)WE(ZNT)E/
+(ZET) W(ZN)E (ZNT)/
+(VNE) W(VNW)W (VNW)W/
+(BMW) W(BM)H (BMG)/
+(ZNG) H(ZN)Q (ZNW)/
+(BME) W(BM)Q (BMH)/
+(VNG)HG(VNH)Q (VNH)/
+(BMG) (BM)GH(BMG)H/
+(ZNG)HG(ZNH)Q (ZNH)/
+(ZFH) (ZN)GH(ZN)/
+(VNG)HG(VNH)Q (VNH)/
+(BMG) (BM) (BMH)/
+(ZNG) H(ZN)Q (ZNW)/
+(BMW)ET(BMY)TE(BM)/
+(VNG)HG(VNH)Q (VNH)/
+(BMG) (BM)GH(BMG)H/
+(ZNG)HG(ZNH)Q (ZNH)/
+(ZFQ) (ZN)GH(ZN)/
+(VNG)HG(VNH)Q (VNH)/
+(BMG) (BM) (BMH)/
+(ZNG) H Q W/
+(ZQE)  Q H///
+
+
+
+
+
+(VNG) H /G H /Q   /(VNH)   /
+(BMG)   /    /G H /(BMG) H /
+(ZNG) H /G H /Q   /(ZNH)   /
+(ZDG)   /S   /(BMD)   /G   /
+(VNG) H /G H /Q   /(VNH)   /
+(BMG)   /    /S D /(BMG) D /
+(ZNG)   /H   /Q   /(ZNW)   /
+(ZNE)   /Q W /(BMW)   /W   /
+(VNW)   /E (VN) /    /(VN)   /
+(BM)   /Q (BMW) /W   /(BMW)   /
+(ZNW)   /E (ZN) /    /(ZN)   /
+(ZN) Q /Q (ZNW) /W W /(BMW) W /
+(VNW)   /E (VN) /    /(VNQ)   /
+(BMW)   /E (BM) /Q   /(BM)   /
+(ZNH)   /  (ZN) /    /(ZN)   /
+(ZN)   /Q (ZNW) /W   /(BMW)   /
+(VNW)   /E (VN) /    /(VN)   /
+(BM) G /Q (BMW) /W W /(BMW) W /
+(ZNW)   /E (ZN) /    /(ZN)   /
+(ZN)   /Q (ZNW) /W W /(BMW) W /
+(VNW)   /E (VN) /    /(VN) Q /
+(BMW)   /E (BM) /    /(BMQ)   /
+(ZNH)   /  (ZN) /    /(ZN)   /
+(ZN)   /  (ZN) /    /G   /
+(VNH)   /Q (VN) /    /(VNH)   /
+(BMG)   /    /G H /(BM) H /
+(ZNH)   /Q (ZN) /    /(ZNH)   /
+(BMG)   /    /(BMG) H /H H /
+(VNH)   /Q (VN) /    /(VNH)   /
+(BMG)   /    /H   /(BMG)   /
+(ZNQ) W /  (ZNW) /  W /(ZNQ)   /
+(BME)   /    /(BMQ)   /    /
+(VNH) H /  (VN) /H G /(VNH)   /
+(BMQ)   /    /G H /(BM) Q /
+(ZNQ) W /  (ZNW) /  W /(ZNQ)   /
+(BME)   /    /(BME) E /W W /
+(VNH)   /Q (VN) /    /(VNH)   /
+(BMG)   /    /    /(BMH)   /
+(ZNG)   /H (ZN) /Q   /(ZNW)   /
+(BME)   /W   /Q   /H   /
+(VNG) H /G (VNH) /W E /(VNT) E /
+(BM)   /  (BM) /W E /(BMT) E /
+(ZN)   /  (ZN) /W E /(ZNT) E /
+(ZN)   /W (ZN) /E   /(ZNT)   /
+(VNG) H /(NG) (VNH) /W E /(VNT) E /
+(BM)   /  (BM) /    /(BMH)   /
+(ZNG)   /H (ZN) /Q   /(ZNW)   /
+(BME)   /W (BM) /Q   /(BMH)   /
+(VNG) H /G (VNH) /W E /(VNT) E /
+(BM)   /M (BE) /(WT)   /(BME)   /
+(ZN)   /  (ZN) /W E /(ZNT) E /
+(ZN)   /W (ZN) /E   /(ZNT)   /
+(VNE)   /W (VNW) /W   /(VNW) W /
+(BMW)   /W (BM) /H   /(BMG)   /
+(ZN)   /H (ZN) /Q   /(ZNW)   /
+(BME)   /(BW) M /Q   /(BM)   /
+(VNG) H /G H /Q   /H   /
+G   /Q W /W   /W   /
+(VNW)   /E (VN) /    /(VN)   /
+(BM)   /Q (BMW) /W W /(BMW) W /
+(ZNW)   /E (ZN) /    /(ZN)   /
+(ZN)   /Q (ZN) /W   /(BMW)   /
+(VNW)   /E (VN) /    /(VN)   /
+(BMW)   /E (BM) /Q   /(BM)   /
+(ZNH)   /  (ZN) /    /(ZN)   /
+(ZN) H /Q (ZNW) /W   /(BMW) W /
+(VNW)   /E (VN) /    /(VN)   /
+(BM)   /Q (BMW) /W   /(BMW)   /
+(ZNW)   /E (ZN) /    /(ZN)   /
+(ZN)   /  (ZNQ) /W W /(BM)   /
+(VNW)   /E (VN) /    /(VN)   /
+(BMW)   /E (BM) /    /(BMQ)   /
+(ZQE)   /Z (NQ) /(JW)   /(ZN)   /
+(ZNH)   /  (ZN) /    /G   /
+(VNH)   /Q (VN) /    /(VNH)   /
+(BMG)   /  (BM) /G H /(BM) H /
+(ZNH)   /Q (ZN) /    /(ZNH)   /
+(ZNG)   /  (ZN) /G H /(BMH) H /
+(VNH)   /Q (VN) /    /(VNH)   /
+(BMG)   /  (BM) /H   /(BMG)   /
+(ZN)   /H (ZN) /    /(ZNW)   /
+(ZNQ)   /  (ZN) /    /(BM)   /
+(VNH)   /Q (VN) /    /(VNH)   /
+(BMG)   /  (BM) /G H /(BM) H /
+(ZNH)   /Q (ZN) /H   /(ZN)   /
+(ZNG)   /  (ZN) /G H /(BMH) H /
+(VNH)   /Q (VN) /    /(VNH)   /
+(BMG)   /  (BM) /H   /(BMG)   /
+(ZN)   /G (ZNH) /H   /(ZN) Q /
+(ZN)   /Q (ZNW) /    /W E /
+(VNE)   /W W /W   /W   /
+(BMW)   /W   /H   /W E /
+(ZNE)   /W W /W   /W   /
+(BMW)   /W   /H   /W E /
+(VNE)   /W W /W   /W W /
+(BMW)   /W H /    /H   /
+(ZNG)   /H   /Q   /W   /
+(BME)   /W   /    /W E /
+(VNE)   /W W /W   /W   /
+(BMW)   /W   /H   /W E /
+(ZNE)   /W W /W   /W   /
+(BMW)   /W   /H   /W E /
+(VNE)   /W W /W   /W W /
+(BMW)   /W   /H   /H   /
+(ZNG)   /H   /Q   /W   /
+(BME)   /W   /Q   /H   /
+(VNG) H /G (VNH) /W E /(VNT) E /
+(BM)   /  (BM) /W E /(BMT) E /
+(ZN)   /  (ZN) /W E /(ZNT) E /
+(ZN)   /W (ZN) /E   /(ZNT)   /
+(VNG) H /G (VNH) /W E /(VNT) E /
+(BM)   /  (BM) /    /(BMH)   /
+(ZNG)   /H (ZN) /Q   /(ZNW)   /
+(BME)   /W (BM) /Q   /(BMH)   /
+(VNG) H /G (VNH) /W E /(VNT) E /
+(BM)   /  (BM) /W E /(BMT) E /
+(ZN)   /  (ZN) /W E /(ZNT) E /
+(ZN)   /W (ZN) /E   /(ZNT)   /
+(VNE)   /W (VNW) /W   /(VNW) W /
+(BMW)   /W (BM) /H   /(BMG)   /
+(ZN)   /H (ZN) /Q   /(ZNW)   /
+(BME)   /W (BM) /Q   /(BMH)   /
+(VNG) H /G (VNH) /Q   /(VNH)   /
+(BMG)   /  (BM) /G H /(BMG) H /
+(ZNG) H /G (ZNH) /Q   /(ZNH)   /
+(ZNG)   /  (ZN) /G H /(ZN)   /
+(VNG) H /G (VNH) /Q   /(VNH)   /
+(BMG)   /  (BM) /    /(BMH)   /
+(ZNG)   /H (ZN) /Q   /(ZNW)   /
+(BMW) E /T (BMY) /T E /(BM)   /
+(VNG) H /G (VNH) /Q   /(VNH)   /
+(BMG)   /  (BM) /G H /(BMG) H /
+(ZNG) H /G (ZNH) /Q   /(ZNH)   /
+(ZNG)   /  (ZN) /G H /(ZN)   /
+(VNG) H /G (VNH) /Q   /(VNH)   /
+(BMG)   /  (BM) /    /(BMH)   /
+(ZNG)   /H   /Q   /W   /
+(QE)   /    /Q   /H/

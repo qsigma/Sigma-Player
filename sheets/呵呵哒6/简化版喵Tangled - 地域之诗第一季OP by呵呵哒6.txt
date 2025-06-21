@@ -1,0 +1,76 @@
+第一版为一行一小节 排版版本往下翻
+H          J
+(CNQ) J G D    S
+A      S G H D
+(XBS) A M F   A M H
+G    D S A M B
+(XB) N A D   G H Q
+E Q J G S A M B
+(ZVF) H Q R   F H Q
+(XBG) J W T G J W T
+(CNQ) J G D    S
+A      S G H D
+(XBS) A M F   A M H
+G    D S A M B
+(XB) N A D   G H Q
+E Q J G S A M B
+(ZVF) H Q R   F H Q
+(XBG) J W T G J W T
+BGBGBGBGB
+(NDH)  (NDH)(NAD) (NDH) (NHW) N(NDH)(NAD) (VDG)
+(NSH) N (NAD)S(ND)G(NW)D(NQ)D(NDH)D(NG)H
+(BSG)  (BSG)(BMS) (BSG) (BGJ) B(BSG)(BMS) (CSF)
+(BSG) B (BMS) (BGJ) (BDH) (BSG) (VAD) (BMS)
+(BA) (NS) (VAD) (BA) (BSG) (BA) (VAD) (BMS)
+(BA) (VNS) (VAD) (BA) (BSG) (BA) (VAD) (BMS)
+(VN) (NS) (VAF) (VGQ) (VDH) (VSG) (VAF) (VMD)
+(BM) (SG) (BSQ) (BAD) (BG)D(BQ)G(BSW)Q(BH)D
+(NDH)  (NDH)(NAD) (NDH) (NHW) N(NDH)(NAD) (VDG)
+(NSH) N (NAD)S(ND)G(NW)D(NQ)D(NDH)D(NG)H
+(BSG)  (BSG)(BMS) (BSG) (BGJ) B(BSG)(BMS) (CSF)
+(BSG) B (BMS) (BGJ) (BDH) (BSG) (VAD) (BMS)
+(BA) (NS) (VAD) (BA) (BSG) (BA) (VAD) (BMS)
+(BA) (VNS) (VAD) (BA) (BSG) (BA) (VAD) (BMS)
+(VN) (NS) (VAF) (VGQ) (VDH) (VSG) (VAF) (VMD)
+(BM) (SG) (BSQ) (BAD) (BG)D(BQ)G(BSW)Q(BH)D
+(NQY)
+
+
+
+
+
+    /    /    /  HJ/
+(CNQ) J /G D /    /S   /
+    /    /A S /G H /
+D (XBS) /A M /F   /A M /
+H G /    /D S /A M /
+B (XB) /N A /D   /G H /
+Q E /Q J /G S /A M /
+B (ZVF) /H Q /R   /F H /
+Q (XBG) /J W /T G /J W /
+T (CNQ) /J G /D   /  S /
+    /    /  A /S G /
+H D /(XBS) A /M F /  A /
+M H /G   /  D /S A /
+M B /(XB) N /A D /  G /
+H Q /E Q /J G /S A /
+M B /(ZVF) H /Q R /  F /
+H Q /(XBG) J /W T /G J /
+W T /BGBG/BGBG/B   /
+    /(NDH)  (NDH)/(NAD) (NDH) /(NHW) N(NDH)/
+(NAD) (VDG) /(NSH) N /(NAD)S(ND)G/(NW)D(NQ)D/
+(NDH)D(NG)H/(BSG)  (BSG)/(BMS) (BSG) /(BGJ) B(BSG)/
+(BMS) (CSF) /(BSG) B /(BMS) (BGJ) /(BDH) (BSG) /
+(VAD) (BMS) /(BA) (NS) /(VAD) (BA) /(BSG) (BA) /
+(VAD) (BMS) /(BA) (VNS) /(VAD) (BA) /(BSG) (BA) /
+(VAD) (BMS) /(VN) (NS) /(VAF) (VGQ) /(VDH) (VSG) /
+(VAF) (VMD) /(BM) (SG) /(BSQ) (BAD) /(BG)D(BQ)G/
+(BSW)Q(BH)D/(NDH)  (NDH)/(NAD) (NDH) /(NHW) N(NDH)/
+(NAD) (VDG) /(NSH) N /(NAD)S(ND)G/(NW)D(NQ)D/
+(NDH)D(NG)H/(BSG)  (BSG)/(BMS) (BSG) /(BGJ) B(BSG)/
+(BMS) (CSF) /(BSG) B /(BMS) (BGJ) /(BDH) (BSG) /
+(VAD) (BMS) /(BA) (NS) /(VAD) (BA) /(BSG) (BA) /
+(VAD) (BMS) /(BA) (VNS) /(VAD) (BA) /(BSG) (BA) /
+(VAD) (BMS) /(VN) (NS) /(VAF) (VGQ) /(VDH) (VSG) /
+(VAF) (VMD) /(BM) (SG) /(BSQ) (BAD) /(BG)D(BQ)G/
+(BSW)Q(BH)D/(NQY)/

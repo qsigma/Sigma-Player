@@ -1,0 +1,67 @@
+每一行为一小节
+风琴第十七小节开始
+(NAD)    (NAF)
+(BAD)    (BMD)
+(NAD)    (NAF)
+(BAD)    (BMS)
+(SFH)    (SFJ)
+(AFH)    (ADG)
+(MSF)
+(ADG)
+(NAD)    (NAF)
+(BAD)    (BMD)
+(NAD)    (NAF)
+(BAD)    (BMS)
+(NAD)    (NAF)
+(ADG)    (MSG)
+(NAF)
+(BMD)
+(HQE)    (HQR)
+(GQE)    (GJE)
+(HQE)    (HQR)
+(GQE)    (GJW)
+(WRY)    (WRU)
+(QRY)    (QET)
+(JWR)
+(QET)
+
+
+
+ A    F
+D    S
+(ND)  M  (AH)  (DG)
+H  G     HJ
+H    Q  Q
+(DH)
+F     D (SG) A
+(AD) D A
+F F G H (GJ)  W
+(HQ) J H
+F     D (SG) A
+(AD) D (AH)  J  Q
+Q F (DG) H Q  J
+(HQ) J H    J
+Q
+(NAD)    (MSG)
+(ADG)    (NAD)
+(BAD)    (BMS)
+(NAD)    (NAF)
+(NAD)    (BMD)
+(NAF)
+(MSG)
+(DGJ)    (DGQ)
+(SGJ)    (SGJ)
+(DGJ)    (DGQ)
+(GJW)    (FHW)
+(HQE)    (FHQ)
+(DGQ)    (GJW)
+(FHQ)
+(GJW)
+H   HJQ   HJ
+Q   J   J G
+Q    R
+E    W
+R    W
+Q    E
+W
+(AQT)

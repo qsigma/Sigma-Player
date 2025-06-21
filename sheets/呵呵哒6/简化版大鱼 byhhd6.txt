@@ -1,0 +1,88 @@
+[(FJ)Q(WT)]
+[(AD)(GJ)(HQ)W]
+(SHE)Q J H J Q
+(VFE) W E Y (BGE) W E U
+(NHE) W E Q [WU] [JT]
+[(VFH)QE]W E Y (BGE) W E U
+(NT) D Q D J
+[(VE)AF]W E Y [(BE)SG]W E U
+(NE) (DW) E Q [WU] T
+[(VW)NAF]E H  [(BW)MSG]E H G
+(NH) D Q D J
+(VH) (AQ) (GQ) (HW) (DW) E E Y
+(CT) M A (SE) (JW)
+(VH) (AQ) (GQ) (SW) (HW) E E
+(CH) M (DG) S (AQ)  (MJ)
+(VNH) (AQ) (GQ) (HW) W E E Y
+(CT) M A (SE) W
+[(XF)(SH)W]E H  [(CG)(DJ)W]E H G
+(NH) C A M S  H Q
+(VW) Z N Q (BH) X (MH) Q
+(NW) C A (MQ) (SE)  E T
+(VY) Z (NY) T (BE) (XW) (MQ)
+(ZW) BES B D  (BH) Q
+(VW) Z V Q (BH) X (BH) Q
+(NW) C (NQ)  (BE) Z C
+(XW) (NE) (ZH)  (CW) E H G
+(NH) C A M S A (DE) (ST)
+(VQ) Z V U (BE) X (BE) W
+(NQ) C (NQ) (MW) (AE)  E W
+(VQ) Z (NY) Q (BU) (XY) (NT) W
+(ZE) B X Z C  E T
+(VQ) Z V U (BE) X (BE) W
+(NQ) C (NQ) (MW) (AE)
+[(XSF)HW]E H  [(CDG)JW]E H G
+(NH) C A C M
+(VFE)HWEYEWH(BGE)JWEUEWJ
+(NHE)QWEQEWQ[WU] [JT]
+(VFE)HWEYEWH(BGE)JWEUEWJ
+(NT) D Q D J
+(VH) (AQ) (GQ) (HW) W E E Y
+(CT) M A (SE) W
+(VH) (AQ) (FQ) (GW) W E E
+(CH) M (BMJ) M (AQ)  (SW)
+(VH) (AQ) (GQ) (SW) W E E Y
+(CT) A G (SE) W
+[(XSF)HW]E H  [(CDG)JW]E H G
+(NH) C A M S N (DH) Q
+(VFW) Z N Q (BH) X (MH) Q
+(NHW) C M (AQ) (DQE)  E T
+(VQY) Z (NY) T (BE) (XW) (MQ)
+(ZJW) BEX B C  (ZH) Q
+(BGW) N Z Q (VFH) N (ZH) Q
+(CHW) (NH) (MJ) Q (NHE) Z C
+(XFW) (NE) (ZH)  (CGW) E (CH) G
+(NH) C A M S  E T
+(VDQ) Z V (WU) (BGE) X (BE) W
+(NDQ) C (NDQ) (FW) (BGE) C (ME) W
+(VFQ) Z (NEY) (DQ) (BWU) (XQY) (NJT) (QY)
+(NDQ) C (NAJ) M (NSH) A E T
+(VDQ) Z V (WU) (BGE) X (BGE) (FW)
+(NDQ) C (NDQ) (MFW) (AGE)
+[(XF)(NH)(SW)]E H  [(CG)(MJ)(DW)]E (CH) G
+[(VQY)H](ZW)E(NY)E(CW)HXH(NW)E(BY)E(CW)H
+VH(ZW)E(NSJ) C (XDQ) N B (XDW)
+[(CG)JW(HT)](MW)E(BY)E(CW)HMH(BW)E(CY)E(XW)H
+CH(MW)E(BY)E(CW)HMH(BW)E(CHW) X
+[(VQY)H](ZW)E(NY)E(CW)HXH(NW)E(BGE) C
+(BEU)J(XW)E(MU)E(BW)J(SWT)J(MW)E(BU)E(XW)J
+[(ND)HJ(SE)](XD)G(CH)W(BE)T(NH) [C(HQE)]X[(HEY)N]
+NMADHJQE(NDQ)HD(MDW)HD(ZDE)
+(JE)  (ET)
+[(VH)D]HD[(ZH)D]HD[(VGJ)D]HD[(FH)D]HD[(BH)D]HD[(XH)D]HD(BG)
+[(ND)A]DA[(CD)A]DA[(NDG)A]DA[(BD)A]DA[(MD)A]DA[DA]DAD G
+[(VH)D]HD[(ZH)D]HD[(VGJ)D]HD[(FH)D]HD[(BH)D]HD[(XH)D]HD(BJ)DJDJDJD
+[(NQ)D]QD[(CQ)D]QD[(AQ)D]QD[(MQ)D]QD[(SQ)D]QD[QD]QD(NH) (DE)
+[(VS)WSW(ZS)WSW(VNH)] (DE) [(BS)WSW(XS)WSW(BA)QAQAQAQ]
+[(BM)JMJ(CM)JMJ(VN)GBG(ZB)GBG(CB)DCDCDCDCDCDCDCD]
+[(VF)(ZH)(VW)]E H  [(BG)(XJ)(BW)]E H G
+(NH) C A M S
+(VE)H(ZW)E(VY)E(ZW)H(BE)J(XW)E(BU)E(XW)J
+(NE)Q(CW)E(NQ)E(CW)Q(AE)Q(CW)E(NU)E(CW)Q
+(VE)H(ZW)E(VY)E(ZW)H(BE)J(XW)E(BU)E(XW)J
+(NE)Q(CW)E(NQ)E(CW)Q(AU)E(CW)Q(NY)E(CW)Q
+(VE)H(ZJ)Q(VE)Q(ZJ)H(BE)H(XJ)Q(BW)Q(XJ)H
+(NQ)D(CH)J(NQ)J(CH)D(NE)
+[(XF)(XH)W]E H  [(CG)(CJ)W]E H G
+(NH)CNAMSDHGJQEWYTU
+Y

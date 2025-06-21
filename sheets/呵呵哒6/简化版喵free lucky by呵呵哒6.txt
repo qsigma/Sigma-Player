@@ -1,0 +1,93 @@
+第一版为一行一小节 排版版本往下翻
+(VA) D G D (BS) D M A/
+N D G D (BS) D S A/
+(VA) D G D (BS) D M A/
+N D G D (BS) D S A/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VA) D G (VD)V(BS) D MBAB/
+N D G (ND)N(BS) D (BS)BA/
+(VAQ) D G D (BS) D (MT)EA/
+(NW) D G (DQ) (BS) D S (AJ)/
+(VAQ) D G D (BS) D (MT)YA/
+(NE) D G (DW) (BS) D S A/
+(VAQ) D G DV(BS) D (MT)EAB/
+(NW)  D GQ(ND)BS D (BS)JA/
+(VAQ) D G DV(BS) D (MT)YAB/
+(NE)  D GW(ND)(BW)S D (BS) A/
+(VAQ) D G DV(BS) D (MT)EAB/
+(NW)  D GQ(ND)BS D (BS)JA/
+(VAQ) D G DV(BS) D (MT)YAB/
+(NE)  D GW(ND)(BW)S D (BS) A/
+(VAQ) D G DV(BS) D (MT)EAB/
+(NW)  D G(NQ)(ND)BS D (BS)JA/
+(VAQ) D G DV(BS) D (MT)YAB/
+(NE)  D GW(ND)(BW)S D (BS) A/
+(VAQ) D G DV(BS) D (MT)EAB/
+(NW)  D G(NQ)(ND)BS D (BS)JA/
+(VAQ) D G DV(BS) D (MT)YAB/
+(NE)  D GW(ND)(BW)S D (BS) A/
+(VA) D G D (BS) D M A/
+N D G D (BS) D S A/
+(VA) D G D (BS) D M A/
+N D G D (BS) D S A/
+
+
+
+
+(VA) D /G D /(BS) D /M A /
+N D /G D /(BS) D /S A /
+(VA) D /G D /(BS) D /M A /
+N D /G D /(BS) D /S A /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VA) D /G (VD)V/(BS) D /MBAB/
+N D /G (ND)N/(BS) D /(BS)BA /
+(VAQ) D /G D /(BS) D /(MT)EA /
+(NW) D /G (DQ) /(BS) D /S (AJ) /
+(VAQ) D /G D /(BS) D /(MT)YA /
+(NE) D /G (DW) /(BS) D /S A /
+(VAQ) D /G DV/(BS) D /(MT)EAB/
+(NW)  D/ GQ(ND)/BS D/ (BS)JA/
+(VAQ) D /G DV/(BS) D /(MT)YAB/
+(NE)  D/ GW(ND)/(BW)S D/ (BS) A/
+(VAQ) D /G DV/(BS) D /(MT)EAB/
+(NW)  D/ GQ(ND)/BS D/ (BS)JA/
+(VAQ) D /G DV/(BS) D /(MT)YAB/
+(NE)  D/ GW(ND)/(BW)S D/ (BS) A/
+(VAQ) D /G DV/(BS) D /(MT)EAB/
+(NW)  D/ G(NQ)(ND)/BS D/ (BS)JA/
+(VAQ) D /G DV/(BS) D /(MT)YAB/
+(NE)  D/ GW(ND)/(BW)S D/ (BS) A/
+(VAQ) D /G DV/(BS) D /(MT)EAB/
+(NW)  D/ G(NQ)(ND)/BS D/ (BS)JA/
+(VAQ) D /G DV/(BS) D /(MT)YAB/
+(NE)  D/ GW(ND)/(BW)S D/ (BS) A/
+(VA) D /G D /(BS) D /M A /
+N D /G D /(BS) D /S A /
+(VA) D /G D /(BS) D /M A /
+N D /G D /(BS) D /S A/

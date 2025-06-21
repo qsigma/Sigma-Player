@@ -1,0 +1,198 @@
+第一版为一行一小节 排版版本往下翻
+B
+(ZBS)D(ZC) (ZC) (ZC) (ZC) (ZC) (ZCB) (ZCB)
+(ZCG) (ZCF) (ZBD) (ZCS) (XM) (XNA) (XBM) (XNA)
+(CN) (CN) (CN) (CN) (CN) (CN) (CN) (XVN)
+(ZVG) (ZVF) (ZND) (ZVS) (ZV) (ZVA) (ZBM) (ZVD)
+(ZC) (ZC) (ZCB) (ZC) (ZC) (ZCD) (ZBS) (ZCA)S
+(XM) (XM) (XBM) (XM) (XM) (XM) (XBM) AD
+(ZCB) (ZC) (ZC) (ZC) (ZC) (ZC) (ZCB) (ZCB)
+(ZCG) (ZCF) (ZBD) (ZCS) (XM) (XNA) (XBM) (XNA)
+(CN) (CN) (CN) (CN) (CN) (CNA) (CNA) (CNA)
+(ZVH) (ZVG) (ZNG) (ZVG) (ZVG) (ZVD) (ZNA) (ZVD)
+(ZC) (ZC) (ZCB) (ZC) (ZC) (ZCD) (ZBS) (ZCA)S
+(XM) (XM) (XBM) (XMQ) (XMQ) W Q T
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBQ) (ZCT)(ZC)
+(CN) (CN) (CN) (CNQ) (CNQ) (CNW) (CNQ) (CNY)(CN)
+(ZV) (ZVY) (ZNT) (ZVT) (ZBT) (ZVQ) (XNW) (XVE)(ZV)
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBE) (ZCW)(ZC)
+(CGQ) (CNQ) (CN) (CNQ) (CNQ) (CNW) (CNE) (CHW)(CN)
+(ZGQ) (ZVQ) (ZNQ) (ZV) (ZV) (ZVG) (ZNY) (ZVT)(ZV)
+(ZCQ) (ZC) (ZCB) (ZC) (ZC) (ZC) (ZBQ) (ZCW)(ZC)
+(XMJ) (XBM) (XBM) (XMQ) (XMQ) (XMW) (XMQ) (XMT)(XM)
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBQ) (ZCT)(ZC)
+(CN) (CNE) (CN) (CNQ) (CN) (CNW) (CNQ) (CNY)(CN)
+(ZV) (ZVY) (ZNT) (ZVT) (ZBT) (ZVQ) (XNW) (XVE)(ZV)
+(ZC) (ZC) (ZCB) (ZCG) (ZCT) (ZCR) (ZBE) (ZCW)(ZC)
+(CGQ) (CNQ) (CN) (CNQ) (CNQ) (CNW) (CNE) (CHW)(CN)
+(ZGQ) (ZVQ) (ZVN) (ZV) (ZV) (ZVG) (ZNY) (ZVT)(ZV)
+(ZCQ) (ZC) (ZCB) (ZC) (ZC) (ZC) (ZBQ) (ZCW)(ZC)
+(XMJ) (XBM) (XBM) (XBM) (XBM) (XBM) (XBM) (XBM)(XM)
+(ZBS)D(ZC) (ZC) (ZC) (ZC) (ZC) (ZCB) (ZCB)
+(ZCG) (ZCF) (ZBD) (ZCS) (XBM) (XNA) (XBM) (XNA)
+(CN) (CN) (CN) (CN) (CN) (CN) (CN) (XVN)
+(ZVG) (ZVF) (ZND) (ZVS) (ZV) (ZVA) (ZBM) (ZVD)
+(ZC) (ZC) (ZCB) (ZC) (ZC) (ZCD) (ZBS) (ZCA)S
+(XBM) (XBM) (XBM) (XBM) (XBM) (XBM) (XBM) (BA)D
+(ZCB) (ZC) (ZC) (ZC) (ZC) (ZC) (ZCB) (ZCB)
+(ZCG) (ZCF) (ZBD) (ZCS) (XBM) (XNA) (XBM) (XNA)
+(CN) (CN) (CN) (CN) (CN) (CNA) (CNA) (CNA)
+(ZVH) (ZVG) (ZNG) (ZVG) (ZVG) (ZVD) (ZNA) (ZVD)
+(ZC) (ZC) (ZCB) (ZC) (ZC) (ZCD) (ZBS) (ZCA)S
+(XBM) (XBM) (XBM) (XMQ) (XMQ) W Q T
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBQ) (ZCT)(ZC)
+(CN) (CN) (CN) (CNQ) (CNQ) (CNW) (CNQ) (CNY)(CN)
+(ZV) (ZVY) (ZNT) (ZVT) (ZBT) (ZVQ) (XNW) (XVE)(ZV)
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBE) (ZCW)(ZC)
+(CGQ) (CNQ) (CN) (CNQ) (CNQ) (CNW) (CNE) (CHW)(CN)
+(ZGQ) (ZVQ) (ZNQ) (ZV) (ZV) (ZVG) (ZNY) (ZVT)(ZV)
+(ZCQ) (ZC) (ZCB) (ZC) (ZC) (ZC) (ZBQ) (ZCW)(ZC)
+(XMJ) (XBM) (XBM) (XMQ) (XMQ) (XMW) (XMQ) (XMT)(XM)
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBQ) (ZCT)(ZC)
+(CN) (CNE) (CN) (CNQ) (CN) (CNW) (CNQ) (CNY)(CN)
+(ZV) (ZVY) (ZNT) (ZVT) (ZBT) (ZVQ) (XNW) (XVE)(ZV)
+(ZC) (ZC) (ZCB) (ZCG) (ZCT) (ZCR) (ZBE) (ZCW)(ZC)
+(CGQ) (CNQ) (CN) (CNQ) (CNQ) (CNW) (CNE) (CHW)(CN)
+(ZGQ) (ZVQ) (ZVN) (ZV) (ZV) (ZVG) (ZNY) (ZVT)(ZV)
+(ZCQ) (ZC) (ZCB) (ZC) (ZC) (ZC) (ZBQ) (ZCW)(ZC)
+(XMJ) (XBM) (XBM) (XBM) (XBM) (XBM) (XBM) (XBM)(XM)
+(VAD)    (VAD)
+(VAD)   (VN) (VAD)   (VN) (VAD) (VN)(VN)
+(ZCB)    (ZCB)   (ZCB) (ZCB) (ZCB)(ZCB)
+(XB) (XB) (XBS) (XB)(XB)(XB) (XB) (XBS)(XBS)(XBS)(XBS)
+(VAD)    (VAD)   (VN) (VN) (VAD)
+(VN) (VN) (VN) (VAD)   (VN) (VN) (VN)(VN)
+(ZCB) (ZCB) (ZCB) (ZCB) (ZCB) (ZCB) (ZCB) (ZCB)(ZCB)
+(XBS) (XBS) (XBS) (XBS) (XBS) (XBS) (XMS)(XBS)(XBS)(XBS)
+(ZGQ) (ZGQ) (ZBQ) (ZGQ) (ZGQ) (ZGQ) (ZBQ) (ZGQ)(ZC)
+(CGW) (CGW) (CGW) (CGQ) (CN) (CN) (CND) (CND)(CN)
+(ZVA) (ZV) (ZND) (ZAD) (ZAD) (ZAD) (ZND) (ZAD)(ZV)
+(ZAD) (ZAD) (ZBF) (ZAD) (ZAD) (ZAD) (ZBF) (ZAD)(ZC)
+(CNG) (CN) (CNQ) (CNG) (CNW) (CN) (CNE) (CN)(CN)
+(ZVQ) (ZV) (ZNJ) (ZV) (ZVH) (ZV) (ZNG) (ZV)(ZV)
+(ZCQ) (ZC)W(ZCB) (ZCE) (ZCW) (ZC) (ZBQ) (ZCG)(ZC)
+(XST) (XBS)(XSQ)(XSG) (XST)(XBS)(XSQ) (GW) (QT) (QT)
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBQ) (ZCT)(ZC)
+(CN) (CN) (CN) (CNQ) (CNQ) (CNW) (CNQ) (CNY)(CN)
+(ZV) (ZVY) (ZNT) (ZVT) (ZBT) (ZVQ) (XNW) (XVE)(ZV)
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBE) (ZCW)(ZC)
+(CGQ) (CNQ) (CN) (CNQ) (CNQ) (CNW) (CNE) (CHW)(CN)
+(ZGQ) (ZVQ) (ZNQ) (ZV) (ZV) (ZVG) (ZNY) (ZVT)(ZV)
+(ZCQ) (ZC) (ZCB) (ZC) (ZC) (ZC) (ZBQ) (ZCW)(ZC)
+(XMJ) (XBM) (XBM) (XMQ) (XMQ) (XMW) (XMQ) (XMT)(XM)
+(ZC) (ZC) (ZCB) (ZCQ) (ZCQ) (ZCW) (ZBQ) (ZCT)(ZC)
+(CN) (CNE) (CN) (CNQ) (CN) (CNW) (CNQ) (CNY)(CN)
+(ZV) (ZVY) (ZNT) (ZVT) (ZBT) (ZVQ) (XNW) (XVE)(ZV)
+(ZC) (ZC) (ZCB) (ZCG) (ZCT) (ZCR) (ZBE) (ZCW)(ZC)
+(CGQ) (CNQ) (CN) (CNQ) (CNQ) (CNW) (CNE) (CHW)(CN)
+(ZGQ) (ZVQ) (ZVN) (ZV) (ZV) (ZVG) (ZNY) (ZVT)(ZV)
+(ZCQ) (ZC) (ZCB) (ZC) (ZC) (ZC) (ZBQ) (ZCW)(ZC)
+(XMJ) (XBM) (XBM) (XBM) (XBM) (XBM) (XBM) (XBM)(XM)
+(ZCB)    (ZCB)   (ZC) (ZCB) (ZC)
+(ZCB)    (ZCB)   (ZC) (ZCB) (ZCB)
+(ZBS)D(ZC) (ZCB) (ZC) (ZC) (ZC) (ZCB) (ZCB)
+(ZCG) (ZCF) (ZBD) (ZCS) (XM) (XNA) (XBM) (XNA)
+(CN) (CN) (CN)   (CN)(CN)(CN) (CN) (XVN)
+(ZVG) (ZVF) (ZND) (ZVS) (ZV) (ZVA) (ZBM) (ZVD)
+(ZC) (ZC) (ZCB) (ZC) (ZC) (ZCD) (ZBS) (ZCA)S
+(XBM) (XBM) (XBM) (XBM) (ZCB)
+
+
+
+    /    /    /  B /
+(ZBS)D(ZC) /(ZC) (ZC) /(ZC) (ZC) /(ZCB) (ZCB) /
+(ZCG) (ZCF) /(ZBD) (ZCS) /(XM) (XNA) /(XBM) (XNA) /
+(CN) (CN) /(CN) (CN) /(CN) (CN) /(CN) (XVN) /
+(ZVG) (ZVF) /(ZND) (ZVS) /(ZV) (ZVA) /(ZBM) (ZVD) /
+(ZC) (ZC) /(ZCB) (ZC) /(ZC) (ZCD) /(ZBS) (ZCA)S/
+(XM) (XM) /(XBM) (XM) /(XM) (XM) /(XBM) AD/
+(ZCB) (ZC) /(ZC) (ZC) /(ZC) (ZC) /(ZCB) (ZCB) /
+(ZCG) (ZCF) /(ZBD) (ZCS) /(XM) (XNA) /(XBM) (XNA) /
+(CN) (CN) /(CN) (CN) /(CN) (CNA) /(CNA) (CNA) /
+(ZVH) (ZVG) /(ZNG) (ZVG) /(ZVG) (ZVD) /(ZNA) (ZVD) /
+(ZC) (ZC) /(ZCB) (ZC) /(ZC) (ZCD) /(ZBS) (ZCA)S/
+(XM) (XM) /(XBM) (XMQ) /(XMQ) W /Q T /
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBQ) (ZCT)(ZC)/
+(CN) (CN) /(CN) (CNQ) /(CNQ) (CNW) /(CNQ) (CNY)(CN)/
+(ZV) (ZVY) /(ZNT) (ZVT) /(ZBT) (ZVQ) /(XNW) (XVE)(ZV)/
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBE) (ZCW)(ZC)/
+(CGQ) (CNQ) /(CN) (CNQ) /(CNQ) (CNW) /(CNE) (CHW)(CN)/
+(ZGQ) (ZVQ) /(ZNQ) (ZV) /(ZV) (ZVG) /(ZNY) (ZVT)(ZV)/
+(ZCQ) (ZC) /(ZCB) (ZC) /(ZC) (ZC) /(ZBQ) (ZCW)(ZC)/
+(XMJ) (XBM) /(XBM) (XMQ) /(XMQ) (XMW) /(XMQ) (XMT)(XM)/
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBQ) (ZCT)(ZC)/
+(CN) (CNE) /(CN) (CNQ) /(CN) (CNW) /(CNQ) (CNY)(CN)/
+(ZV) (ZVY) /(ZNT) (ZVT) /(ZBT) (ZVQ) /(XNW) (XVE)(ZV)/
+(ZC) (ZC) /(ZCB) (ZCG) /(ZCT) (ZCR) /(ZBE) (ZCW)(ZC)/
+(CGQ) (CNQ) /(CN) (CNQ) /(CNQ) (CNW) /(CNE) (CHW)(CN)/
+(ZGQ) (ZVQ) /(ZVN) (ZV) /(ZV) (ZVG) /(ZNY) (ZVT)(ZV)/
+(ZCQ) (ZC) /(ZCB) (ZC) /(ZC) (ZC) /(ZBQ) (ZCW)(ZC)/
+(XMJ) (XBM) /(XBM) (XBM) /(XBM) (XBM) /(XBM) (XBM)(XM)/
+(ZBS)D(ZC) /(ZC) (ZC) /(ZC) (ZC) /(ZCB) (ZCB) /
+(ZCG) (ZCF) /(ZBD) (ZCS) /(XBM) (XNA) /(XBM) (XNA) /
+(CN) (CN) /(CN) (CN) /(CN) (CN) /(CN) (XVN) /
+(ZVG) (ZVF) /(ZND) (ZVS) /(ZV) (ZVA) /(ZBM) (ZVD) /
+(ZC) (ZC) /(ZCB) (ZC) /(ZC) (ZCD) /(ZBS) (ZCA)S/
+(XBM) (XBM) /(XBM) (XBM) /(XBM) (XBM) /(XBM) (BA)D/
+(ZCB) (ZC) /(ZC) (ZC) /(ZC) (ZC) /(ZCB) (ZCB) /
+(ZCG) (ZCF) /(ZBD) (ZCS) /(XBM) (XNA) /(XBM) (XNA) /
+(CN) (CN) /(CN) (CN) /(CN) (CNA) /(CNA) (CNA) /
+(ZVH) (ZVG) /(ZNG) (ZVG) /(ZVG) (ZVD) /(ZNA) (ZVD) /
+(ZC) (ZC) /(ZCB) (ZC) /(ZC) (ZCD) /(ZBS) (ZCA)S/
+(XBM) (XBM) /(XBM) (XMQ) /(XMQ) W /Q T /
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBQ) (ZCT)(ZC)/
+(CN) (CN) /(CN) (CNQ) /(CNQ) (CNW) /(CNQ) (CNY)(CN)/
+(ZV) (ZVY) /(ZNT) (ZVT) /(ZBT) (ZVQ) /(XNW) (XVE)(ZV)/
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBE) (ZCW)(ZC)/
+(CGQ) (CNQ) /(CN) (CNQ) /(CNQ) (CNW) /(CNE) (CHW)(CN)/
+(ZGQ) (ZVQ) /(ZNQ) (ZV) /(ZV) (ZVG) /(ZNY) (ZVT)(ZV)/
+(ZCQ) (ZC) /(ZCB) (ZC) /(ZC) (ZC) /(ZBQ) (ZCW)(ZC)/
+(XMJ) (XBM) /(XBM) (XMQ) /(XMQ) (XMW) /(XMQ) (XMT)(XM)/
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBQ) (ZCT)(ZC)/
+(CN) (CNE) /(CN) (CNQ) /(CN) (CNW) /(CNQ) (CNY)(CN)/
+(ZV) (ZVY) /(ZNT) (ZVT) /(ZBT) (ZVQ) /(XNW) (XVE)(ZV)/
+(ZC) (ZC) /(ZCB) (ZCG) /(ZCT) (ZCR) /(ZBE) (ZCW)(ZC)/
+(CGQ) (CNQ) /(CN) (CNQ) /(CNQ) (CNW) /(CNE) (CHW)(CN)/
+(ZGQ) (ZVQ) /(ZVN) (ZV) /(ZV) (ZVG) /(ZNY) (ZVT)(ZV)/
+(ZCQ) (ZC) /(ZCB) (ZC) /(ZC) (ZC) /(ZBQ) (ZCW)(ZC)/
+(XMJ) (XBM) /(XBM) (XBM) /(XBM) (XBM) /(XBM) (XBM)(XM)/
+(VAD)   /  (VAD) /    /    /
+(VAD)   /(VN) (VAD) /  (VN) /(VAD) (VN)(VN)/
+(ZCB)   /  (ZCB) /  (ZCB) /(ZCB) (ZCB)(ZCB)/
+(XB) (XB) /(XBS) (XB)(XB)/(XB) (XB) /(XBS)(XBS)(XBS)(XBS)/
+(VAD)   /  (VAD) /  (VN) /(VN) (VAD) /
+(VN) (VN) /(VN) (VAD) /  (VN) /(VN) (VN)(VN)/
+(ZCB) (ZCB) /(ZCB) (ZCB) /(ZCB) (ZCB) /(ZCB) (ZCB)(ZCB)/
+(XBS) (XBS) /(XBS) (XBS) /(XBS) (XBS) /(XMS)(XBS)(XBS)(XBS)/
+(ZGQ) (ZGQ) /(ZBQ) (ZGQ) /(ZGQ) (ZGQ) /(ZBQ) (ZGQ)(ZC)/
+(CGW) (CGW) /(CGW) (CGQ) /(CN) (CN) /(CND) (CND)(CN)/
+(ZVA) (ZV) /(ZND) (ZAD) /(ZAD) (ZAD) /(ZND) (ZAD)(ZV)/
+(ZAD) (ZAD) /(ZBF) (ZAD) /(ZAD) (ZAD) /(ZBF) (ZAD)(ZC)/
+(CNG) (CN) /(CNQ) (CNG) /(CNW) (CN) /(CNE) (CN)(CN)/
+(ZVQ) (ZV) /(ZNJ) (ZV) /(ZVH) (ZV) /(ZNG) (ZV)(ZV)/
+(ZCQ) (ZC)W/(ZCB) (ZCE) /(ZCW) (ZC) /(ZBQ) (ZCG)(ZC)/
+(XST) (XBS)(XSQ)/(XSG) (XST)(XBS)/(XSQ) (GW) /(QT) (QT) /
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBQ) (ZCT)(ZC)/
+(CN) (CN) /(CN) (CNQ) /(CNQ) (CNW) /(CNQ) (CNY)(CN)/
+(ZV) (ZVY) /(ZNT) (ZVT) /(ZBT) (ZVQ) /(XNW) (XVE)(ZV)/
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBE) (ZCW)(ZC)/
+(CGQ) (CNQ) /(CN) (CNQ) /(CNQ) (CNW) /(CNE) (CHW)(CN)/
+(ZGQ) (ZVQ) /(ZNQ) (ZV) /(ZV) (ZVG) /(ZNY) (ZVT)(ZV)/
+(ZCQ) (ZC) /(ZCB) (ZC) /(ZC) (ZC) /(ZBQ) (ZCW)(ZC)/
+(XMJ) (XBM) /(XBM) (XMQ) /(XMQ) (XMW) /(XMQ) (XMT)(XM)/
+(ZC) (ZC) /(ZCB) (ZCQ) /(ZCQ) (ZCW) /(ZBQ) (ZCT)(ZC)/
+(CN) (CNE) /(CN) (CNQ) /(CN) (CNW) /(CNQ) (CNY)(CN)/
+(ZV) (ZVY) /(ZNT) (ZVT) /(ZBT) (ZVQ) /(XNW) (XVE)(ZV)/
+(ZC) (ZC) /(ZCB) (ZCG) /(ZCT) (ZCR) /(ZBE) (ZCW)(ZC)/
+(CGQ) (CNQ) /(CN) (CNQ) /(CNQ) (CNW) /(CNE) (CHW)(CN)/
+(ZGQ) (ZVQ) /(ZVN) (ZV) /(ZV) (ZVG) /(ZNY) (ZVT)(ZV)/
+(ZCQ) (ZC) /(ZCB) (ZC) /(ZC) (ZC) /(ZBQ) (ZCW)(ZC)/
+(XMJ) (XBM) /(XBM) (XBM) /(XBM) (XBM) /(XBM) (XBM)(XM)/
+(ZCB)   /  (ZCB) /  (ZC) /(ZCB) (ZC) /
+(ZCB)   /  (ZCB) /  (ZC) /(ZCB) (ZCB) /
+(ZBS)D(ZC) /(ZCB) (ZC) /(ZC) (ZC) /(ZCB) (ZCB) /
+(ZCG) (ZCF) /(ZBD) (ZCS) /(XM) (XNA) /(XBM) (XNA) /
+(CN) (CN) /(CN)   /(CN)(CN)(CN) /(CN) (XVN) /
+(ZVG) (ZVF) /(ZND) (ZVS) /(ZV) (ZVA) /(ZBM) (ZVD) /
+(ZC) (ZC) /(ZCB) (ZC) /(ZC) (ZCD) /(ZBS) (ZCA)S/
+(XBM) (XBM) /(XBM) (XBM) /(ZCB)/

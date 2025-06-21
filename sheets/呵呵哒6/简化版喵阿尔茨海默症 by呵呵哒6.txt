@@ -1,0 +1,143 @@
+第一版为一行一小节 排版版本往下翻
+G/
+NCMANCMA/
+NCMANCMA/
+BCMABCMA/
+BCMABCMA/
+VCNDVCND/
+VCNDVCND/
+CCBDCCBD/
+CCBDCCBD/
+NCMANCMA/
+NCMANCMA/
+BCMABCMA/
+BCMABCMA/
+VCNDVCND/
+VCNDVCND/
+CCBDCCBD/
+CCBDCCBD/
+(NHQ)CMANCMA/
+NCMANCMA/
+(BGJ)CMABCMA/
+BCMABCMA/
+(VDH)CNDVCND/
+VCNDVCND/
+(CNG)CBDCCBD/
+CCBDCCBD/
+(NHQ)CMANCMA/
+NCMANCMA/
+(BGJ)CMABCMA/
+BCMABCMA/
+(VHE)CNDVCND/
+(VHE)CNDVCND/
+(CJW)CBDCCBD/
+(CJW)CBSCCAM/
+(CNA)(CAD)(CNA)(CNA)(CNA)(CAD)(CAD)(CAD)/
+(CNA)(CAD)(CNA)(CNA)(CNA)(CAD)(CAD)(CAD)/
+(CBM)(CMS)(CBM)(CBM)(CBM)(CMS)(CMS)(CMS)/
+(CBM)(CMS)(CBM)(CBM)(CBM)(CMS)(CMS)(CMS)/
+(XVN)(XNA)(XVN)(XVN)(XVN)(XNA)(XNA)(XNA)/
+(XVN)(XNA)(XVN)(XVN)(XVN)(XNA)(XNA)(XNA)/
+(CBM)(CBM)(CBM)(CBM)(CBM)(CBM)(CBM)(CBM)/
+(CBM)(CBM)(CBM)(CBM)(CBM)(CBM)(CBM)(CBM)/
+(CNA)(CAD)(CNA)(CNA)(CNA)(CAD)(CAD)(CAD)/
+(CNA)(CAD)(CNA)(CNA)(CNA)(CAD)(CAD)(CAD)/
+(CBM)(CMS)(CBM)(CBM)(CBM)(CMS)(CMS)(CMS)/
+(CBM)(CMS)(CBM)(CBM)(CBM)(CMS)(CMS)(CMS)/
+(CNA)(CAD)(CNA)(CAD)(CNA)(CAD)(CAD)(CAD)/
+(CNA)(CAD)(CNA)(CAD)(CNA)(CAD)(CAD)(CAD)/
+(CBM)(CMS)(CBM)(CMS)(CBM)(CMS)(CMS)(CMS)/
+(CBM)(CMS)(CBM)(CMS)(CBM)(CBM)(ZBA)(CMD)/
+(CAD)(CAH)(CDE)(CN)(CDW)(CNE)(CNW)(CNE)/
+(CDQ)(CNE)(CNQ)(CNE)(CDJ)(CNE)(CNJ)(CNE)/
+(CMS)(CAH)(CDE)(CB)(CDW)(CBE)(CBW)(CBE)/
+(CDQ)(CBE)(CBQ)(CBE)(CDJ)(CBE)(CBJ)(CBE)/
+(XND)(XAH)(XDE)(XV)(XDW)(XVE)(XVW)(XVE)/
+(XDQ)(XVE)(XVQ)(XVE)(XDJ)(XVE)(XVJ)(XVE)/
+(CMD)(CAH)(CDE)(CM)(CDW)(CME)(CMW)(CME)/
+(CDQ)(CME)(CMQ)(CME)(CDJ)(CME)(CMJ)(CME)/
+(CAD)(CAH)(CDE)(CN)(CDW)(CNE)(CNW)(CNE)/
+(CDQ)(CNE)(CNQ)(CNE)(CDJ)(CNE)(CNJ)(CNE)/
+(CMS)(CAH)(CDE)(CB)(CDW)(CBE)(CBW)(CBE)/
+(CDQ)(CBE)(CBQ)(CBE)(CDJ)(CBE)(CBJ)(CBE)/
+(XND)(XAH)(XDE)(XV)(XDW)(XVE)(XVW)(XVE)/
+(XDQ)(XVE)(XVQ)(XVE)(XDJ)(XVE)(XVJ)(XVE)/
+(CMD)(CAH)(CDE)(CM)(CDW)(CME)(CMW)(CME)/
+(CDQ)(CME)(CMQ)(CME)(CDJ)(CME)(CMJ)(CME)/
+(CAD)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)/
+(CAD)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)/
+(CAD)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)/
+(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)(CNA)/
+
+
+
+
+G   /    /    /    /
+N C /M A /N C /M A /
+N C /M A /N C /M A /
+B C /M A /B C /M A /
+B C /M A /B C /M A /
+V C /N D /V C /N D /
+V C /N D /V C /N D /
+C C /B D /C C /B D /
+C C /B D /C C /B D /
+N C /M A /N C /M A /
+N C /M A /N C /M A /
+B C /M A /B C /M A /
+B C /M A /B C /M A /
+V C /N D /V C /N D /
+V C /N D /V C /N D /
+C C /B D /C C /B D /
+C C /B D /C C /B D /
+(NHQ) C /M A /N C /M A /
+N C /M A /N C /M A /
+(BGJ) C /M A /B C /M A /
+B C /M A /B C /M A /
+(VDH) C /N D /V C /N D /
+V C /N D /V C /N D /
+(CNG) C /B D /C C /B D /
+C C /B D /C C /B D /
+(NHQ) C /M A /N C /M A /
+N C /M A /N C /M A /
+(BGJ) C /M A /B C /M A /
+B C /M A /B C /M A /
+(VHE) C /N D /V C /N D /
+V C /N D /V C /N D /
+(CJW) C /B D /C C /B D /
+C C /B S /C C /A M /
+(CNA) (CAD) /(CNA) (CNA) /(CNA) (CAD) /(CAD) (CAD) /
+(CNA) (CAD) /(CNA) (CNA) /(CNA) (CAD) /(CAD) (CAD) /
+(CBM) (CMS) /(CBM) (CBM) /(CBM) (CMS) /(CMS) (CMS) /
+(CBM) (CMS) /(CBM) (CBM) /(CBM) (CMS) /(CMS) (CMS) /
+(XVN) (XNA) /(XVN) (XVN) /(XVN) (XNA) /(XNA) (XNA) /
+(XVN) (XNA) /(XVN) (XVN) /(XVN) (XNA) /(XNA) (XNA) /
+(CBM) (CBM) /(CBM) (CBM) /(CBM) (CBM) /(CBM) (CBM) /
+(CBM) (CBM) /(CBM) (CBM) /(CBM) (CBM) /(CBM) (CBM) /
+(CNA) (CAD) /(CNA) (CNA) /(CNA) (CAD) /(CAD) (CAD) /
+(CNA) (CAD) /(CNA) (CNA) /(CNA) (CAD) /(CAD) (CAD) /
+(CBM) (CMS) /(CBM) (CBM) /(CBM) (CMS) /(CMS) (CMS) /
+(CBM) (CMS) /(CBM) (CBM) /(CBM) (CMS) /(CMS) (CMS) /
+(CNA) (CAD) /(CNA) (CAD) /(CNA) (CAD) /(CAD) (CAD) /
+(CNA) (CAD) /(CNA) (CAD) /(CNA) (CAD) /(CAD) (CAD) /
+(CBM) (CMS) /(CBM) (CMS) /(CBM) (CMS) /(CMS) (CMS) /
+(CBM) (CMS) /(CBM) (CMS) /(CBM) (CBM) /(ZBA) (CMD) /
+(CAD) (CAH) /(CDE) (CN) /(CDW) (CNE) /(CNW) (CNE) /
+(CDQ) (CNE) /(CNQ) (CNE) /(CDJ) (CNE) /(CNJ) (CNE) /
+(CMS) (CAH) /(CDE) (CB) /(CDW) (CBE) /(CBW) (CBE) /
+(CDQ) (CBE) /(CBQ) (CBE) /(CDJ) (CBE) /(CBJ) (CBE) /
+(XND) (XAH) /(XDE) (XV) /(XDW) (XVE) /(XVW) (XVE) /
+(XDQ) (XVE) /(XVQ) (XVE) /(XDJ) (XVE) /(XVJ) (XVE) /
+(CMD) (CAH) /(CDE) (CM) /(CDW) (CME) /(CMW) (CME) /
+(CDQ) (CME) /(CMQ) (CME) /(CDJ) (CME) /(CMJ) (CME) /
+(CAD) (CAH) /(CDE) (CN) /(CDW) (CNE) /(CNW) (CNE) /
+(CDQ) (CNE) /(CNQ) (CNE) /(CDJ) (CNE) /(CNJ) (CNE) /
+(CMS) (CAH) /(CDE) (CB) /(CDW) (CBE) /(CBW) (CBE) /
+(CDQ) (CBE) /(CBQ) (CBE) /(CDJ) (CBE) /(CBJ) (CBE) /
+(XND) (XAH) /(XDE) (XV) /(XDW) (XVE) /(XVW) (XVE) /
+(XDQ) (XVE) /(XVQ) (XVE) /(XDJ) (XVE) /(XVJ) (XVE) /
+(CMD) (CAH) /(CDE) (CM) /(CDW) (CME) /(CMW) (CME) /
+(CDQ) (CME) /(CMQ) (CME) /(CDJ) (CME) /(CMJ) (CME) /
+(CAD) (CNA) /(CNA) (CNA) /(CNA) (CNA) /(CNA) (CNA) /
+(CAD) (CNA) /(CNA) (CNA) /(CNA) (CNA) /(CNA) (CNA) /
+(CAD) (CNA) /(CNA) (CNA) /(CNA) (CNA) /(CNA) (CNA) /
+(CNA) (CNA) /(CNA) (CNA) /(CNA) (CNA) /(CNA) (CNA)/

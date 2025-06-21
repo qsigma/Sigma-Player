@@ -1,0 +1,65 @@
+H/
+H   H JQJ/
+H       H/
+E/
+G      G H/
+J    J JQ/
+H/
+W/
+Q     Q R R R/
+RQ Q   Q Q H H/
+QQ      R R R/
+RR Q Q Q H H HH/
+HQ Q    R R R/
+RR Q Q   R R R/
+RR Q G   H H/
+H H H F F S F F/
+F S F      Y/
+T/
+Y   R   R/
+R R Y R   R R R/
+R R W  Q  Q Y/
+Y   T/
+Y   R   R/
+RR Y R R   R R/
+RR Y Y R R Y/
+T/
+R     R R Y/
+T/
+R     R R Y U/
+YR/
+R     R R Y U/
+YR/
+Q   QQY R   R/
+RRQ Q Q Q Q Q R/
+Q   QQY R R R/
+R Q Q Q Q Q Q R R/
+R         R R/
+R Y Y R R RRR Y/
+R RRR R R R Y/
+Y Y Q R R R Q/
+Q Q Q Q Q Q R R/
+Q      QQY Y/
+R RRR Q Q Q Q Q/
+R R/
+E/
+QQ(QE) R/
+RR R R Q Q Q QQQ/
+RR/
+E/
+R R RRY Y R R/
+RRR Y Y RRR R R/
+R R Y Y Y Y Q R/
+R R R R Q Q Q Q/
+Q R RRR Y Y R RR/
+RRR Y   RRR R RR/
+R R Y   Y Y Q R/
+R R Q Q Q Q Q Q/
+Q R R G GH/
+J J JQJ/
+H/
+W/
+G    G H/
+J J JQJ/
+H/
+W/

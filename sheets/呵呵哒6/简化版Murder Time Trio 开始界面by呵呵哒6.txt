@@ -1,0 +1,29 @@
+(NH)   Q   W   Q/
+(BG)   Q   W   Q/
+(VF)   Q   J   Q/
+(CG)   W   (CJ)   Q/
+(NH)   (AQ)   (SW)   (AQ)/
+(BG)   (AQ)   (SW) DS(AQ) M/
+(VF)   (AQ)   (MJ)   (AQ)/
+(CBG)   (SW)   (CMJ)   (AQ)/
+(NH)NH (DQ)  DWS AQNAS/
+(BG)BH (DQ)  DWS AQNAS/
+(VF)VH (DQ)  DJS AQNAS/
+(CG)CH (DW)  D(CJ)S AQNAS/
+(NH)NH (DQ)  DWS AQNAS/
+(BG)BH (DQ)  DWS AQNAS/
+(VF)VH (DQ)  DJS AQNAS/
+(CG)CH (DW)  D(CJ)S AQNAS/
+N/
+M/
+(ZA)/
+M      (XS)/
+N/
+M/
+(ZA)/
+M      (XS)/
+(NH)   Q   W   Q/
+(BG)   Q   W   Q/
+(VF)   Q   J   Q/
+(CG)   W   (CJ)   Q/
+(NH)   (AQ)   (SW)   (AQ)/

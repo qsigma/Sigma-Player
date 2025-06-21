@@ -1,0 +1,298 @@
+(XMT)   R T W   /J G W Q W Q /
+J   G(XMF)   S F/ G   J   Q  /
+ E   W   Q(XNT) /  R T W   J /
+G W Q W Q J /  G(ZNF)   T F W/
+
+   F W F Q F/ J   G J Q(XMT) /
+  R T W   J /G W Q W Q J /
+  G(XMF)   S F G/   J   Q   E/
+   W   Q(XNT)   /R T W   J G /
+
+W Q W Q J   /G(ZNF)   T F W  /
+ F W F Q F J/   G J Q(XMT)   /
+R T W   J G /W Q W Q J   /
+G(XMF)   S F G  / J   Q   E  /
+
+ W   Q(XNT)   R /T W   J G W /
+Q W Q J   G(XNF)/   T F W   F/
+ W F Q F J  / G J Q(XMT)   R /
+T W   J G W /Q W Q J   G(XMF)/
+
+   S F G   J/   Q   E   W/
+   Q(XNT)   R T /W   J G W Q /
+W Q J   G(XMF)  / T F W F   W/
+ F Q F J   G/ J Q(XMJ)       /
+
+  Q   J   F /  G   J(XNQ)   W/
+      J   W /  Q   J   J(XMG)/
+ F S F H G F/ S J H G F S/
+   F(XMG)   R   /   E      W /
+
+  Q   J(XMJ)    /     Q   J  /
+ F   G   J(XNQ) /  W      T  /
+    R   Q   /J(XMG) F S F H G/
+ F S J H G F/ S   F(XMG)   T /
+
+     R   W  / Q   J   G(ZVN) /
+  F   S    S/    A   M B /
+M A(ZVN)   G   S/    S    A  /
+ M M N N(XBM)   /G   S    S  /
+
+  A   M B M /A(XVM)   J   G  /
+  F    D   S/ S A M(ZBD)   Q /
+  J    G    /F    D D S(ZBS) /
+  W   J    W/    J   G F /
+
+D D(XNS)   W   J/   G   W    /
+R    J(ZNF)   R /  W   G   (ZNT) /
+  E   G   T(XBM)/   (XB)   (XB)   (XB)/
+   (XB)   (XB)   (XB)/   (XB)(XBM)   (XB)   /
+
+(XB)   (XB)   (XB)   /(XB)   (XB)   (XB)(XNG)  /
+ (XBG)   (XBG)   (XBG)  / (XBG)   (XBG)   (XBG)  /
+ (XBG)(XNG)   (XBG)   (XBG) /  (XBG)   (XBG)   (XBG) /
+  (XBG)   (XBG)(XBM)   (XB)/   (XB)   (XB)   (XB)/
+
+   (XB)   (XB)   (XB)/(XBM)   (XB)   B   /
+(XB)   (XB)   (XB)   /B   B(XNG)   (XBG)  /
+ (XBG)   (XBG)   (XBG)  / (XBG)   (XBG)   (XBG)(XVM) /
+  M   M   M /  M   M   M /
+
+  M(XMT)   R T W/   J G W Q W/
+ Q J   G(XMF)   /S F G   J   /
+Q   E   W   /Q(XNT)   R T W  /
+ J G W Q W Q/ J   G(XNF)   T /
+
+F W   F W F /Q F J   G J /
+Q(XMT)   R T W  / J G W Q W Q/
+ J   G(XMF)   S /F G   J   Q /
+  E   W   Q(XNT)/   R T W   J/
+
+ G W Q W Q J/   G(XNF)   T F /
+W   F W F Q /F J   G J Q(XBM)/
+   B   B   B/   B   B   B/
+   (XB)(XBM)   (XB)   /B   (XB)   (XB)   /
+
+B   B   B(ZVN)  / V   V   V  /
+ V   V   V  / V(CBM)   C   C /
+  C   (XVN)   X /  X   X(XBM)   B/
+   B   B   B/   B   B   B/
+
+(XBM)   B   B   /B   B   B   /
+B   B(ZVN)   V  / V   V   V  /
+ V   V   V(CBM) /  C   (CD)   C /
+  (XVN)   (XS)   (XS) /  X(XBM)      D /
+
+     S(XMF)     / S      A(ZNA)  /
+ A   M   N  / M A M N M A/
+(CBM)      N    /  (XVN)      S(XBM) /
+     D      /S(XMF)      S   /
+
+   A(ZBM)   A   /M   N   M A /
+M N M A N(CBM)  /    N      (XVN)/
+      S(XBM)(XMG) S /D A S      S/
+ A   M   (BG) M/ A(ZVN) S D (ZA) S /
+
+   V   G J  / G   A(CMD) S D /
+A S      F  / D   S   A(XNS) /
+  G   S   G /  J   H   Q /
+  W(XBM) S D A S/      S A   /
+
+M   B M A(ZVN) S/ D A S    V /
+  G J   G   /A(CMD) S D A S  /
+    F   D   /S   A(XNS)   G  /
+ S   G   J  / H   Q   W(ZVN) /
+
+  F   S    S/    A   M B /
+M A(ZVN)   G   S/    S    A  /
+ M M N N(XBM)   /G   S    S  /
+  A   M B M /A(XVM)   J   G  /
+
+  F    D   S/ S A M(ZBD)   Q /
+  J    G    /F    D D S(ZBS) /
+  W   J    W/    J   G F /
+D D(XNS)   W   J/   G   W    /
+
+R    J(ZNF)   R /  W   G   (ZNT) /
+  E   G   T(XBM)/         G J/
+ Q   W   Q  / J(XNG)         /
+G         G(XMR)/      G   F /
+
+  W   E   W /  Q J(XNQ) F G J/
+ F G J G J  /    G   F(XMT)  /
+       G   (CMW)/    W   B Q(ZNJ)/
+ H J Q J H G/ F (XMG)        /
+
+ G(XMG)         /G   (CMG)       /
+  G(ZNG)      W /  J Q (XMW)   W /
+  R   T(XMG)   T/   W   J W  /
+ J Q   J G F/ G(ZNF)   T   W /
+
+  G J W R W /R W W Q J(XMG)  /
+ T   W   J G/ W E W Q J  /
+ H G(XNG) G J F /G J Q G W   /
+J W   Q J H(XMG)/   T   W   J/
+
+ W   J Q   J/ G F G(ZNF)   T /
+  W   G J Q /J Q W Q   J /
+G(CMD) T Q G J G/ Q J W Q W W/
+ Q G J Q(CMW) G /W T U   T   /
+
+(ZNR) T   W T   /T(XMT)   R   T  /
+ G J Q W R W/   Q J G(XBM)   /
+R   T   G H /J W R W   Q /
+J G(XMS)   R   T/   G H J Q R/
+
+   W Q J G(XMJ) /  R   T G J /
+Q G   T   W /W Q(XMJ)   R   T/
+   G J (CMQ) W R/ W   Q J G(ZND) /
+  R   T   G /H (XMJ) W R W   /
+
+Q J G(XBM)   R  / T   G H (CMJ) Q/
+ R   W Q J G/(ZNJ)   R   T G /
+J Q (XMG)   T   /W W Q J(XBM)   V/
+ B   V B   B/B(XBM)   V B   V/
+
+ B   B(BG)   G /  S    S    /
+A   M B M A(ZVN)/   F   S    /
+S    A   M B/ M A(ZVN)   G   /
+S    S    A /  M M N N(XBM)  /
+
+ G   S    S /   A   M B M/
+ A(XVM)   J   G /   F    D   /
+S S A M(ZBA)   Q/   J    G   /
+ F    D D S(ZBS)/   W   J    /
+
+W    J   G F/ D D(XNS)   W   /
+J   G   W   / R    J(ZNF)   R/
+   W   G   (ZNT)/   E   G   T/
+(ZVN)   F   S   / S    A   M /
+
+B M A(ZVN)   G  / S    S    A/
+   M M N N(XBM) /  G   S    S/
+    A   M B /M A(XVM)   J   G/
+    F    D  / S S A M(ZBA)   /
+
+Q   J    G  /  F    D D S/
+(ZBS)   W   J   / W    J   G /
+F D D(XNS)   W  / J   G   W  /
+  R    J(ZNF)   /R   W   G   /
+
+(ZNT)   E   G   /T(XBM)      B   /
+B   (CMH)      N/   N(ZCN)      (NA)/
+   N   (XVM)    /  M(XBM)      B /
+  B   (CBM)     / N   N(ZCN)   N /
+
+  N   N   (XVM) /     A   S(XBM) /
+  X   B   B /  (CBM)      N  /
+ N(ZCN)      N  / N   (XVM)      /
+M(XMG)      B   /B   (CBM)      (NH)/
+
+   (NH)(ZCN)      N/   N   (XVM)(BM) XT/
+(XVM)(XVM)(ZVN)RY(XMT) RTW J/GWQWQJ G(XMF) SF/
+G J Q E W Q(XNT)/ RTW JGWQWQJ/
+ G(ZNF) TFW FWFQ/FJ GJQ(XMT) RTW /
+
+JGWQWQJ G(XMF) S/FG J Q E W Q/
+(XNT) RTW JGWQWQ/J G(ZNF) TFW FWF/
+QFJ GJQ(XMT) RTW/ JGWQWQJ G(XMF) /
+SFG J Q E W /Q(XNT) RTW JGWQW/
+
+QJ G(XNF) TFW FW/FQFJ GJQ(XMT) RT/
+W JGWQWQJ G(XMF)/ SFG J Q E W/
+ Q(XNT) RTW JGWQ/WQJ G(XMF) TFWF /
+WFQFJ GJQ(XMJ)  /  Q J F G J(XNQ)/
+
+ W   J W Q J/ J(XMG)FSFHGFSJH/
+GFS F(XMG) R   E/   W Q J(XMJ)   /
+ Q J F G J(XNQ) /W   T   R Q /
+J(XMG)FSFHGFSJHG/FS F(XMG) T   R /
+
+W Q J G(ZVN) F S/  S  A MBMA(ZVN)/
+ G S  S  A M/MNN(XBM) G S  S /
+ A MBMA(XVM) J G/  F  D SSAM(ZBD)/
+ Q J  G  F  /DDS(ZBS) W J  W /
+
+ J GFDD(XNS) W J/ G W  R  J(ZNF) /
+R W G (ZNT) E G /T(XBM) (XB) (XB) (XB) (XB) (XB)/
+ (XB) (XB)(XBM) (XB) (XB) (XB) /(XB) (XB) (XB) (XB)(XNG) (XBG) (XBG)/
+ (XBG) (XBG) (XBG) (XBG) (XBG)(XNG) /(XBG) (XBG) (XBG) (XBG) (XBG) (XBG) /
+
+(XBG)(XBM) (XB) (XB) (XB) (XB) (XB)/ (XB) (XB)(XBM) (XB) B (XB) /
+(XB) (XB) B B(XNG) (XBG) (XBG)/ (XBG) (XBG) (XBG) (XBG) (XBG)(XVM) /
+M M M M M M /M(XMT) RTW JGWQW/
+QJ G(XMF) SFG J /Q E W Q(XNT) RTW/
+
+ JGWQWQJ G(XNF) /TFW FWFQFJ G/
+JQ(XMT) RTW JGWQ/WQJ G(XMF) SFG J/
+ Q E W Q(XNT) RT/W JGWQWQJ G(XNF)/
+ TFW FWFQFJ /GJQ(XBM) B B B B/
+
+ B B (XB)(XBM) (XB) B /(XB) (XB) B B B(ZVN) V/
+ V V V V V V/(CBM) C C C (XVN) X /
+X X(XBM) B B B B/ B B B(XBM) B B /
+B B B B B(ZVN) V/ V V V V V V/
+
+(CBM) C (CD) C (XVN) (XS) /(XS) X(XBM)   D   S/
+(XMF)   S   A(ZNA) A/ M N MAMNMA(CBM)/
+   N   (XVN)   S/(XBM)   D   S(XMF)  /
+ S   A(ZBM) A M /N MAMNMAN(CBM)  /
+
+ N   (XVN)   S(XBM)(XMG)/SDAS   SA M /
+(BG)MA(ZVN)SD(ZA)S  V /GJ G A(CMD)SDAS /
+  F D S A(XNS) G/ S G J H Q W/
+(XBM)SDAS   SA M/ BMA(ZVN)SDAS  V/
+
+ GJ G A(CMD)SDAS/   F D S A(XNS) /
+G S G J H Q /W(ZVN) F S  S  A/
+ MBMA(ZVN) G S  /S  A MMNN(XBM) G/
+ S  S  A MBM/A(XVM) J G  F  D/
+
+ SSAM(ZBD) Q J  /G  F  DDS(ZBS) W/
+ J  W  J GFD/D(XNS) W J G W  /
+R  J(ZNF) R W G /(ZNT) E G T(XBM)    /
+GJQ W Q J(XNG)  /  G    G(XMR)   /
+
+G F W E W QJ/(XNQ)FGJFGJGJ   /
+G F(XMT)    G (CMW) / W BQ(ZNJ)HJQJHG/
+F(XMG)    G(XMG)    /G (CMG)    G(ZNG)   /
+W JQ(XMW) W R T(XMG)/ T W JW JQ J/
+
+GFG(ZNF) T W GJW/RWRWWQJ(XMG) T W/
+ JGWEWQJ HG(XNG)/GJFGJQGW JW /
+QJH(XMG) T W JW /JQ JGFG(ZNF) T W/
+ GJQJQWQ JG(CMD)/TQGJGQJWQWWQ/
+
+GJQ(CMW)GWTU T (ZNR)/T WT T(XMT) R T /
+GJQWRW QJG(XBM) /R T GHJWRW Q/
+JG(XMS) R T GHJQ/R WQJG(XMJ) R TG/
+JQG T WWQ(XMJ) R/ T GJ(CMQ)WRW QJ/
+
+G(ZND) R T GH(XMJ)WR/W QJG(XBM) R T G/
+H(CMJ)QR WQJG(ZNJ) R/ TGJQ(XMG) T WWQ/
+J(XBM) VB VB BB(XBM)/ VB VB B(BG) G /
+S  S  A MBMA/(ZVN) F S  S  A /
+
+MBMA(ZVN) G S  S/  A MMNN(XBM) G /
+S  S  A MBMA/(XVM) J G  F  D /
+SSAM(ZBA) Q J  G/  F  DDS(ZBS) W /
+J  W  J GFDD/(XNS) W J G W  R/
+
+  J(ZNF) R W G (ZNT)/ E G T(ZVN) F S /
+ S  A MBMA(ZVN) /G S  S  A MM/
+NN(XBM) G S  S  /A MBMA(XVM) J G /
+ F  D SSAM(ZBA) /Q J  G  F  D/
+
+DS(ZBS) W J  W  /J GFDD(XNS) W J /
+G W  R  J(ZNF) R/ W G (ZNT) E G T/
+(XBM)   B B (CMH)   /N N(ZCN)   (NA) N (XVM)/
+   M(XBM)   B B /(CBM)   N N(ZCN) N N/
+
+ N (XVM)   A S(XBM) /X B B (CBM)   N /
+N(ZCN)   N N (XVM)  / M(XMG)   B B (CBM) /
+  (NH) (NH)(ZCN)   N N/ (XVM)(BM)XT(XVM)(XVM)(ZVN)RY(XMU) /
+  T      S F/J W R T U W /
+
+R T(XMU)      T /           S/
+   FJ   W   /R   T   U   /
+W   R   T/

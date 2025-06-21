@@ -1,0 +1,24 @@
+V   (FE) (VD) (ZFW)   (CD) (CD)/
+(VF) (HQR) D (VNA) Z (MF) (CN) (MF)/
+M   (FJE) (MD) (VJW)   (ZA) (CD)/
+(VMF) (FJR) E [(MQ)J] V J (NH)/
+V   (FHE) (VD) (ZHW)   (CD) (CD)/
+(VF) (HQR) D (VNA) Z (MF) (CN) (MF)/
+M   (FJE) (MD) (VJW)   (ZA) (CD)/
+(VMF) [ER] E (MQ) [J(VJ)] H (BM) A/
+S   (FHW) (AD) (NHW)   (CD) (CD)/
+(BAG) (GQE) D (MS) B (MSG) (BM)NM/
+S   (MFJ) (SH) (BFJ)  [SA] M/
+(BA) [RT] E (BQ) (ZD) (GE) (CDE) (GE)/
+V   (FHE) (VD) (ZHW)   (CD) (CD)/
+(VF) (HQR) D (VNA) Z (MF) (CN) (MF)/
+M   (FJE) (MD) (VJW)   (ZA) (CD)/
+(VMF) (FJR) E [(MQ)J] V J (NH)/
+V   (FHE) (VD) (ZHW)   (CD) (CD)/
+(VF) (HQR) D (VNA) Z (MF) (CN) (MF)/
+M   (FJE) (MD) (VJW)   (ZA) (CD)/
+(VMF) [ER] E (MQ) [J(VJ)] H (BM) A/
+S   (FHW) (AD) (NHW)   (CD) (CD)/
+(BAG) (GQE) D (MS) B (MSG) (BM)NM/
+S   (MFJ) (SH) (BFJ)  [SA] M/
+(BA) [RT] E (BQ) (ZD) (GE) (CDE) (GE)/

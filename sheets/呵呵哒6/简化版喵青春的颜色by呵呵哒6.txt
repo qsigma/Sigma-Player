@@ -1,0 +1,82 @@
+第一版为一行一小节 排版版本往下翻
+(NY) (CY) (NT) (MY) (AE) C (NW) T/
+(ZE) B (AW) (ST) (DE) B (AW) Q/
+(BW) (XW) (BW) (NW) (MW) (XQ) (BG) J/
+(NH) C N M A/
+(NY) (CY) (NT) (MY) (AE)  C W NT/
+(ZE) B (AW) (ST) (DE) B (AW) Q/
+(BW) (XW) (BW) (NW) (MW) (XQ) (BQ) T/
+(NE) C N M A/
+(NY) (CY) (NT) (MY) (AE)  C W NT/
+(ZE) B (AW) (ST) (DE) B (AW) Q/
+(BW) (XW) (BW) (NW) (MW) (XQ) (BG) J/
+(NH) C N M A/
+(NY) (CY) (NT) (MY) (AE)  C W NT/
+(ZE) B (AW) (ST) (DE)  B W AQ/
+(BW) (XW) (BW) (NW) (MW) (XQ) (BQ) T/
+(NE) C N M A   Q J/
+(NH) C (AJ) Q (VH) Z (NJ) Q/
+(BJ) (XJ) (MJ) Q (NH) C (AJ) Q/
+(NH) C (AJ) Q (VH) Z (NJ) Q/
+(BJ) (XJ) (MQ) W N (CH) A Q/
+N (CH) A Q V (ZH) N J/
+B (XJ) (MJ) Q (NH) C (AJ) Q/
+(NH) C (AJ) Q (VH) Z (NJ) Q/
+(BJ) (XJ) (MQ) W N (CH) A Q/
+(CT) (NT) (ST) (NY) (FY) N (SY) T/
+(NE) (CE) (NE) (CY) (AY) C (NY) Q/
+(BT) (XT) (BT) (XT) (MR) (XE) B J/
+B X B N M/
+(ZT) (BT) (ZT) (CT) (BR) (CE) Z W/
+B (XW) (BW) (XE) (MW) (XQ) B J/
+(NH) C N M A/
+(BJ) (XJ) (BJ) (XW) (MW) X (BW) J/
+(XH) (NH) (XH) (NW) (VW)  N W XR/
+(BT) (XT) (BT) (XT) (MR) (XE) B J/
+B X B N M/
+(ZT) (BT) (ZT) (CT) (BR) (CE) Z W/
+B (XW) (BW) (XE) (MW) (XQ) B J/
+(ZH) N Z C B/
+(XFW)/
+
+
+
+(NY) (CY) /(NT) (MY) /(AE) C /(NW) T /
+(ZE) B /(AW) (ST) /(DE) B /(AW) Q /
+(BW) (XW) /(BW) (NW) /(MW) (XQ) /(BG) J /
+(NH) C /N M /A   /    /
+(NY) (CY) /(NT) (MY) /(AE)  C/ W N/
+T (ZE) /B (AW) /(ST) (DE) /B (AW) /
+Q (BW) /(XW) (BW) /(NW) (MW) /(XQ) (BQ) /
+T (NE) /C N /M A /      /
+(NY) /(CY) (NT) /(MY) (AE) / C W /
+NT /(ZE) B /(AW) (ST) /(DE) B /
+(AW) Q /(BW) (XW) /(BW) (NW) /(MW) (XQ) /
+(BG) J /(NH) C /N M /A   /
+    /(NY) (CY) /(NT) (MY) /(AE)  C /
+W N/T (ZE) /B (AW) /(ST) (DE)  /
+B W/ AQ /(BW) (XW) /(BW) (NW) /
+(MW) (XQ) /(BQ) T /(NE) C /N M /
+A   /Q J /(NH) C /(AJ) Q /
+(VH) Z /(NJ) Q /(BJ) (XJ) /(MJ) Q /
+(NH) C /(AJ) Q /(NH) C /(AJ) Q /
+(VH) Z /(NJ) Q /(BJ) (XJ) /(MQ) W /
+N (CH) /A Q /N (CH) /A Q /
+V (ZH) /N J /B (XJ) /(MJ) Q /
+(NH) C /(AJ) Q /(NH) C /(AJ) Q /
+(VH) Z /(NJ) Q /(BJ) (XJ) /(MQ) W /
+N (CH) /A Q /(CT) (NT) /(ST) (NY) /
+(FY) N /(SY) T /(NE) (CE) /(NE) (CY) /
+(AY) C /(NY) Q /(BT) (XT) /(BT) (XT) /
+(MR) (XE) /B J /B X /B N /
+M   /    /(ZT) (BT) /(ZT) (CT) /
+(BR) (CE) /Z W /B (XW) /(BW) (XE) /
+(MW) (XQ) /B J /(NH) C /N M /
+A   /    /(BJ) (XJ) /(BJ) (XW) /
+(MW) X /(BW) J /(XH) (NH) /(XH) (NW) /
+(VW)  N/ W X/R (BT) /(XT) (BT) /
+(XT) (MR) /(XE) B /J B /X B /
+N M /    /  (ZT) /(BT) (ZT) /
+(CT) (BR) /(CE) Z /W B /(XW) (BW) /
+(XE) (MW) /(XQ) B /J (ZH) /N Z /
+C B /    /  (XFW)/

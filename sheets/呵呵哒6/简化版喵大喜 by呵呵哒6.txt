@@ -1,0 +1,54 @@
+第一版为一行一小节 排版版本往下翻
+(ZVH)   H   (ZBH)  GG/
+(XMS)   G D (ZNA)/
+(ZVH)   H   (ZBH)  GG/
+(XMJ)   J Q (ZNQ)/
+(BG)TZQQQQ (XW)Q(NW)QQ/
+(BG)TZQQQQ (XW)Q(NW)EE/
+(BG)YZTT Q (XW) (NT) EWQJ/
+(BH) ZGE Q (XW) (NJ) QGEW/
+(VE) T Q YTB    GEW/
+(VE) T Q YTBET  GEW/
+(VE) T Q YTB    GEW/
+(VE) T Q YTBU Y/
+(VAG)TT(ZBT)QQ(ZBQ) (XMW)WW(CAQ)WE(CAQ)/
+(VAE)EE(ZBQ)TT(ZBE) (XMW)WW(CAQ)TE(CAE)/
+(VAG)TT(ZBT)QQ(ZBQ) (XMW)WW(CAQ)WE(CAR)E/
+(VAT)TT(ZBY)T (ZBQ) (XMW)  (CNA)EQ(CAH)/
+(VHQ) E W YTBEWEW Q/
+(VH) E W YTBEWETEWQ/
+(VH) E W YTBEWEW Q/
+(VH) E W YTBEWEQWGH/
+(ZVE)WEW(ZVE) Q (ZAJ)   (ZAG)/
+(XBW)   (XBJ) E (CNQ) (CN) (CN)  G/
+(ZVE)WEW(ZVE) Q (ZAJ)   (ZAG)/
+(XBW)   (XBJ) E (CNQ)/
+/
+
+
+
+
+(ZVH)   /H   /(ZBH)  G/G   /
+(XMS)   /G D /(ZNA)   /    /
+(ZVH)   /H   /(ZBH)  G/G   /
+(XMJ)   /J Q /(ZNQ)   /    /
+(BG)TZQ/QQQ /(XW)Q(NW)Q/Q   /
+(BG)TZQ/QQQ /(XW)Q(NW)E/E   /
+(BG)YZT/T Q /(XW) (NT) /EWQJ/
+(BH) ZG/E Q /(XW) (NJ) /QGEW/
+(VE) T /Q YT/B   / GEW/
+(VE) T /Q YT/BET / GEW/
+(VE) T /Q YT/B   / GEW/
+(VE) T /Q YT/BU Y/    /
+(VAG)TT(ZBT)/QQ(ZBQ) /(XMW)WW(CAQ)/WE(CAQ) /
+(VAE)EE(ZBQ)/TT(ZBE) /(XMW)WW(CAQ)/TE(CAE) /
+(VAG)TT(ZBT)/QQ(ZBQ) /(XMW)WW(CAQ)/WE(CAR)E/
+(VAT)TT(ZBY)/T (ZBQ) /(XMW)  (CNA)/EQ(CAH) /
+(VHQ) E /W YT/BEWE/W Q /
+(VH) E /W YT/BEWE/TEWQ/
+(VH) E /W YT/BEWE/W Q /
+(VH) E /W YT/BEWE/QWGH/
+(ZVE)WEW/(ZVE) Q /(ZAJ)   /(ZAG)   /
+(XBW)   /(XBJ) E /(CNQ) (CN) /(CN)  G/
+(ZVE)WEW/(ZVE) Q /(ZAJ)   /(ZAG)   /
+(XBW)   /(XBJ) E /(CNQ)/

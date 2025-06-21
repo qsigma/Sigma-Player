@@ -1,0 +1,67 @@
+第一版为一行一小节 排版版本往下翻
+H/
+(ZQ)(BJ)(ZH)(CG)FGD/
+(ZD)  SM G (NS)  FB/
+(ZNH)   (XMJ)   (ZNQ)/
+D F G    A   HJQ/
+(VF)ZV(BQ)N JH(BG)XBNMXBM/
+ZB(ZB)(CA)ASSA(CMS)D G D B/
+N (CN) NMZCN    DD/
+(XF)N(XD)(CS) A(VA)NV Z (VN) A D/
+(BS)XBNM BXBXVNMXVB/
+ZB(ZB)(CA)ASSD(CBM) GGG B/
+NC(NA)MZCZMNCMNZN(CD)(ZD)/
+(VF)[ZD]V[SB](NA) ZN(BD)(XG)BN(MG)A(XS)A/
+ZBZXCBZCZ  GQ JG/
+(ZG)B(MH)(XG)C Z ZBZ(XG)(CQ) (ZJ)G/
+(NH)C(ND)(MH)Z N NC(NH)(MH)(ZH) (NG)D/
+XN(XD)(CF)V XVXN(XF)(CF)(VF) (XG)H/
+(BD)XBNMN(BF)(XS)BXV(BG)(MQ)X(VJ)(BG)/
+(ZG)B(ZH)(XG)C ZCZBZ(XG)(CQ) (ZJ)(CG)/
+(NH)C(ND)(MH)ZMNZNC(NH)(MH)(ZH)M(NG)(CD)/
+XN(XD)(CF)V XVBX(BF)(NF)(MF) (BD)A/
+(ZA)B(ZS)(XA)(ZCA)BAS   GQ JG/
+(ZG)B(MH)(XG)C Z ZBZ(XG)(CQ) (ZJ)G/
+(NH)C(ND)(MH)Z N NC(NH)(MH)(ZH) (NG)D/
+XN(XD)(CF)V XVXN(XF)(CF)(VF) (XG)H/
+(BD)XBNMN(BF)(XS)BXV(BG)(MQ)X(VJ)(BG)/
+(ZG)B(ZH)(XG)C ZCZBZ(XG)(CQ) (ZJ)(CG)/
+(NH)C(ND)(MH)ZMNZNC(NH)(MH)(ZH)M(NG)(CD)/
+XN(XD)(CF)V XVBX(BF)(NF)(MF) (BD)A/
+(ZA)(BS)(ZA)X(CA)BZXCBASDGQW/
+(ZJT)/
+
+
+
+
+    /    /    /  H /
+(ZQ)(BJ)(ZH)(CG)/FGD /    /    /
+(ZD)  S/M G /(NS)  F/B   /
+(ZNH)   /(XMJ)   /(ZNQ)   /    /
+D F /G   /  A /  HJ/
+Q (VF)Z/V(BQ)N /JH(BG)X/BNMX/
+BMZB/(ZB)(CA)AS/SA(CMS)D/ G D /
+BN /(CN) NM/ZCN /    /
+DD(XF)N/(XD)(CS) A/(VA)NV /Z (VN) /
+A D /(BS)XBN/M BX/BXVN/
+MXVB/ZB(ZB)(CA)/ASSD/(CBM) GG/
+G B /NC(NA)M/ZCZM/NCMN/
+ZN(CD)(ZD)/(VF)[ZD]V[SB]/(NA) ZN/(BD)(XG)BN/
+(MG)A(XS)A/ZBZX/CBZC/Z  G/
+Q JG/(ZG)B(MH)(XG)/C Z /ZBZ(XG)/
+(CQ) (ZJ)G/(NH)C(ND)(MH)/Z N /NC(NH)(MH)/
+(ZH) (NG)D/XN(XD)(CF)/V XV/XN(XF)(CF)/
+(VF) (XG)H/(BD)XBN/MN(BF)(XS)/BXV(BG)/
+(MQ)X(VJ)(BG)/(ZG)B(ZH)(XG)/C ZC/ZBZ(XG)/
+(CQ) (ZJ)(CG)/(NH)C(ND)(MH)/ZMNZ/NC(NH)(MH)/
+(ZH)M(NG)(CD)/XN(XD)(CF)/V XV/BX(BF)(NF)/
+(MF) (BD)A/(ZA)B(ZS)(XA)/(ZCA)BAS/   G/
+Q JG/(ZG)B(MH)(XG)/C Z /ZBZ(XG)/
+(CQ) (ZJ)G/(NH)C(ND)(MH)/Z N /NC(NH)(MH)/
+(ZH) (NG)D/XN(XD)(CF)/V XV/XN(XF)(CF)/
+(VF) (XG)H/(BD)XBN/MN(BF)(XS)/BXV(BG)/
+(MQ)X(VJ)(BG)/(ZG)B(ZH)(XG)/C ZC/ZBZ(XG)/
+(CQ) (ZJ)(CG)/(NH)C(ND)(MH)/ZMNZ/NC(NH)(MH)/
+(ZH)M(NG)(CD)/XN(XD)(CF)/V XV/BX(BF)(NF)/
+(MF) (BD)A/(ZA)(BS)(ZA)X/(CA)BZX/CBAS/
+DGQW/(ZJT)/

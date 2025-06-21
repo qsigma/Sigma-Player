@@ -1,0 +1,54 @@
+(XSG)/
+(MSJ)  M (SH) M  (MSJ)  (MJW)  M  M  M/
+(MSJ)  (MSH)  (MSJ)  (MJW)  M  (MJE)  (MGJ)  (MSH)/
+(MSJ)  (MSH)  (MSJ)  (MJW)  M  M  M  M/
+(MSJ)  (MSH)  (MSJ)  (MWT)  M  (MWT)  (MQE)  M/
+(BSJ)  (BSH)  (BSJ)  (BJW)  B  B  B  B/
+(BSJ)  (BSH)  (BSJ)  (BJW)  B  (BQE)  (BGJ)  (BSH)/
+(BSJ)  (BSH)  (BSJ)  (BJW)  B  B  B  B/
+(NSJ)  (NSH)  (NSJ)  (NWT)  N  (NWT)  (NQE)  N/
+(MSJ)  M (SH) M  (MSJ)  (MJW)  M  M  M/
+(MSJ)  (MSH)  (MSJ)  (MJW)  M  (MJE)  (MGJ)  (MSH)/
+(MSJ)  (MSH)  (MSJ)  (MJW)  M  M  M  M/
+(MSJ)  (MSH)  (MSJ)  (MWT)  M  (MWT)  (MQE)  M/
+(BSJ)  (BSH)  (BSJ)  (BJW)  B  B  B  B/
+(BSJ)  (BSH)  (BSJ)  (BJW)  B  (BQE)  (BGJ)  (BSH)/
+(BSJ)  (BSH)  (BSJ)  (BJW)  B  B  B  B/
+(NSJ)  (NSH)  (NSJ)  (NWT)  N  (NWT)  [(NSF)(DG)(DG)(FH)(FH)(GJ)(NGJ)(HQ)(JW)(JW)(QE)(QE)]/
+(MFW)  (DQ)  (FW)  (ZWR)    (QE) (GQ) (DG)/
+(XSW)  H  S  H  (ZMS)  (DG)  (AF)  G/
+(XSH)  H  F W H  (ZSF)  H  FH(FW)HF/
+(BMS)  S  G  J  (BMW)  (SJ)  (DG)  (SH)/
+(XMW)  F  S F W  (ZAQ)  (DW)  (AQ)W(DQ)WG/
+(XSH)  H  D H   (XNS)  H  (DE) H/
+(XSR)  H  F W R  (ZAE)  (FR)  (NY) D E/
+(BMT)  (SW)  (GJ)  (JT)  W  J  (ZGE)  S/
+(VMR)  (FW)  (SH) F R  (ZAE)  G  (AD) G E/
+(XSE)  H  F W W  (XHW)  (SF)  D  (NF)/
+(XSH)  H  F W H  (ZSF)  H  FH(FW)HF/
+(BMS)  S  G  J  (BMW)  (SJ)  (DG)  (SH)/
+(XMW)  F  S F W  (ZAQ)  (DW)  (AQ)W(DQ)WG/
+(XSH)  H  D H   (XNS)  H  (DE) H/
+(XSR)  H  F W R  (ZAE)  (FR)  (NY) D E/
+(BMT)  (SW)  (GJ)  (JT)  W  J  (ZGE)  S/
+(VMR)  (FW)  (SH) F R  (ZAE)  G  (AD) G E/
+(XSE)  H  F W W  (XHW)  (SF)  (XD)  (NF)/
+(XSH)  H  F W H  (ZSF)  H  FH(FW)HF/
+(BMS)  S  G  J  (BMW)  (SJ)  (MDG)  (SH)/
+(XMW)  F  S F W  (ZAQ)  (DW)  (AQ)W(DQ)WG/
+(XSH)  H  D H   (XNS)  H  (XDE) H/
+(XSR)  H  F W R  (ZAE)  (FR)  (NY) D E/
+(BMT)  (SW)  (GJ)  (JT)  W  J  (ZGE)  S/
+(VMR)  (FW)  (SH) F R  (ZAE)  G  (AD) G E/
+(XSE)  H  F W W  (XHW)  (SF)  (XD)  (NF)/
+(XSH)  H  F W H  (ZSF)  H  FH(FW)HF/
+(BMS)  S  G  J  (BMW)  (SJ)  (MDG)  (SH)/
+(XMW)  F  S F W  (ZAQ)  (DW)  (AQ)W(DQ)WG/
+(XSH)  H  D H   (XNS)  H  (XDE) H/
+(XSR)  H  F W R  (ZAE)  (FR)  (NY) D E/
+(BMT)  (SW)  (GJ)  (JT)  W  J  (ZGE)  S/
+(VMR)  (FW)  (SH) F R  (ZAE)  G  (AD) G E/
+(XSE)  H  F W W  (XHW)  F  (XDY)  N/
+(MY)  R  W  Y  (ZT)  E  Q  T/
+(XT)      Y  R    X  Y/
+(MY)  R  W  Y  (ZQ)  T  [(SGE)(DG)(DH)(FH)(GJ)(GJ)(HQ)(HW)(JW)(JE)(QE)(WR)]/

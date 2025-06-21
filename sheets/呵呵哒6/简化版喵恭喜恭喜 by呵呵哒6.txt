@@ -1,0 +1,118 @@
+第一版为一行一小节 排版版本往下翻
+(NHE) N N D (MGW) S S D/
+(NFQ) D S F (BDJ)/
+(NHE) N N D (SHW) S S D/
+(AGJ) A M AM(NHQ)/
+(NDQ)  (NDJ)  Q  (NDW)/
+R  (ADE)  E  (NAD) (NAD)/
+(NHE)  (NDY)  Y  (NDE)/
+(NHE)  (VAW)  W  (VNS)/
+(NHW)  (VSR)  E  (VSW)/
+(FHW)  (NAF) Q Q  (NAF)/
+(DHQ)  (NDJ)  H  (BDH)/
+(NH)  (NAD)  H  (NAD) E/
+(VSW)  (HW) E (CAQ)  (DGQ) (DQE)/
+(CME)  (DJE)  (CDH)  (DQE)/
+(VSW)  (SHW) (SQE) (CAQ)  (DGQ) E/
+(CMJ)  (CDE)  (CDQ)/
+(NHQ)  (NDJ)  Q  (NDW)/
+R  (NDE)  (DE)  (NAD) (NAD)/
+(NHE)  (NDY)  Y  (NDE)/
+(NHE)  (VAW)  (HW)  (VNS)/
+(HW)  (VSR)  E  (VSW)/
+(HW)  (NAF) Q Q  (NAF)/
+(DHQ)  (NDJ)  H  (BDH)/
+(DHQ)  (NAD)  H  (NAD) E/
+(VSW)  H E (CAQ)  (DG) E/
+(CME)  (DGE)  (CNH)  (DHE)/
+(VSW)  (FH) E (CAQ)  (DG) E/
+(CDJ)  (CDE)  (CHQ)/
+(NDQ) N N D (MGJ) S S D/
+(NFQ) D S F (NGJ)/
+(NHE) N N D (SHW) S S D/
+(AGJ) A M AM(NHQ)/
+(NHE)  (NDJ)  Q  (NDW)/
+R  (NDE)  E  (NAD) (NAD)/
+(NDE)  (NDY)  Y  (NDE)/
+(NHE)  (VAW)  W  (VNS)/
+(NHW)  (VSR)  E  (VSW)/
+(FHW)  (NAF) Q Q  (NAF)/
+(DQ)  (ADJ)  H  (MDH)/
+(NQE)  (NAD)  H  (NAD) E/
+(VSW)  (HW) E (CAQ)  (DGQ) (DQE)/
+(CME)  (DJE)  (CDH)  (DQE)/
+(VSW)  (SHW) (SQE) (CAQ)  (DGQ) E/
+(CMJ)  (CDE)  (CDQ)/
+(NHQ)  (NDJ)  Q  (NDW)/
+R  (NDE)  (DE)  (NAD) (NAD)/
+(NHE)  (NDY)  Y  (NDE)/
+(NHE)  (VAW)  (HW)  (VNS)/
+(HW)  (VSR)  E  (VSW)/
+(HW)  (NAF) Q Q  (NAF)/
+(DQE)  (NDJ)  H  (BDH)/
+(DQE)  (NAD)  H  (NAD) E/
+(VSW)  H E (CAQ)  (DG) E/
+(CME)  (DGE)  (CNH)  (DHE)/
+(VSW)  (FH) E (CAQ)  (DG) E/
+(CDJ)  (CDE)  (CHE)  (AQY)/
+
+
+
+
+    /    /    /    /
+(NHE) N /N D /(MGW) S /S D /
+(NFQ) D /S F /(BDJ)   /    /
+(NHE) N /N D /(SHW) S /S D /
+(AGJ) A /M AM/(NHQ)   /    /
+(NDH)   /(NDJ)   /Q   /(NDW)   /
+R   /(ADE)   /E   /(NAD) (NAD) /
+(NHE)   /(NDY)   /Y   /(NDE)   /
+(NHE)   /(VAW)   /W   /(VNS)   /
+(NHW)   /(VSR)   /E   /(VSW)   /
+(FHW)   /(NAF) Q /Q   /(NAF)   /
+(DHQ)   /(NDJ)   /H   /(BDH)   /
+(NH)   /(NAD)   /H   /(NAD) E /
+(VSW)   /(HW) E /(CAQ)   /(DGQ) (DQE) /
+(CMJ)   /(DJE)   /(CDH)   /(DQE)   /
+(VSW)   /(SHW) (SQE) /(CAQ)   /(DGQ) E /
+(CMJ)   /(CDE)   /(CDQ)   /    /
+(NHQ)   /(NDJ)   /Q   /(NDW)   /
+R   /(NDE)   /(DE)   /(NAD) (NAD) /
+(NHE)   /(NDY)   /Y   /(NDE)   /
+(NHE)   /(VAW)   /(HW)   /(VNS)   /
+(HW)   /(VSR)   /E   /(VSW)   /
+(HW)   /(NAF) Q /Q   /(NAF)   /
+(DHQ)   /(NDJ)   /H   /(BDH)   /
+(DHQ)   /(NAD)   /H   /(NAD) E /
+(VSW)   /H E /(CAQ)   /(DG) E /
+(CMJ)   /(DGE)   /(CNH)   /(DHE)   /
+(VSW)   /(FH) E /(CAQ)   /(DG) E /
+(CDJ)   /(CDE)   /(CHQ)   /    /
+(NDQ) N /N D /(MGJ) S /S D /
+(NFQ) D /S F /(NGJ)   /    /
+(NHE) N /N D /(SHW) S /S D /
+(AGJ) A /M AM/(NHQ)   /    /
+(NHE)   /(NDJ)   /Q   /(NDW)   /
+R   /(NDE)   /E   /(NAD) (NAD) /
+(NDE)   /(NDY)   /Y   /(NDE)   /
+(NHE)   /(VAW)   /W   /(VNS)   /
+(NHW)   /(VSR)   /E   /(VSW)   /
+(FHW)   /(NAF) Q /Q   /(NAF)   /
+(DQ)   /(ADJ)   /H   /(MDH)   /
+(NQE)   /(NAD)   /H   /(NAD) E /
+(VSW)   /(HW) E /(CAQ)   /(DGQ) (DQE) /
+(CMJ)   /(DJE)   /(CDH)   /(DQE)   /
+(VSW)   /(SHW) (SQE) /(CAQ)   /(DGQ) E /
+(CMJ)   /(CDE)   /(CDQ)   /    /
+(NHQ)   /(NDJ)   /Q   /(NDW)   /
+R   /(NDE)   /(DE)   /(NAD) (NAD) /
+(NHE)   /(NDY)   /Y   /(NDE)   /
+(NHE)   /(VAW)   /(HW)   /(VNS)   /
+(HW)   /(VSR)   /E   /(VSW)   /
+(HW)   /(NAF) Q /Q   /(NAF)   /
+(DQE)   /(NDJ)   /H   /(BDH)   /
+(DQE)   /(NAD)   /H   /(NAD) E /
+(VSW)   /H E /(CAQ)   /(DG) E /
+(CMJ)   /(DGE)   /(CNH)   /(DHE)   /
+(VSW)   /(FH) E /(CAQ)   /(DG) E /
+(CDJ)   /(CDE)   /(CHE)   /(AQY)/

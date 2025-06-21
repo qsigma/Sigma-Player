@@ -1,0 +1,51 @@
+第一版为一行一小节 排版版本往下翻
+(ZG)   T   (CW)/
+(CQ)   T   (XG)/
+(ZG)   Q   (CT)   Y/
+(CT)   W   (XQ)/
+(ZG)   T   (CW)/
+(CQ)   T   (XG)/
+(ZG)   Q   (CT)   Y/
+(CT)   W   (XQ)     [VB]/
+(CB) Z (XG) (ZD) (VS) (ZA) (XM) (ZA)/
+(CS) Z (XJ) Z[JH(CG)] Z X Z/
+(XN) Z (XG) (ZD) (BS) (ZA) (XS) (ZD)/
+(CM) Z (XS) Z (NS) (NA) (BM) (BA)/
+(CB) Z (XG) (ZD) (VS) (ZA) (XM) (ZA)/
+(CS) Z (XJ) Z[JH(CG)] Z X Z/
+(XN) Z (XG) (ZD) (BS) (ZA) (XS) (ZD)/
+(CM) Z (XS) Z (NS) (NA) (BM) (BA)/
+(AT) Q W Q (SG) Q W Q/
+(VF) Q W R (AE) W Q G/
+(AT) Q W Q (SG) Q W Q/
+(VF) Q W R (AE) W Q G/
+T Q W Q G Q W Q/
+F Q W R E W Q G/
+T Q W Q G Q W Q/
+F Q W R E W Q G/
+
+
+(ZG)   /T   /(CW)   /    /
+(CQ)   /T   /(XG)   /    /
+(ZG)   /Q   /(CT)   /Y   /
+(CT)   /W   /(XQ)   /    /
+(ZG)   /T   /(CW)   /    /
+(CQ)   /T   /(XG)   /    /
+(ZG)   /Q   /(CT)   /Y   /
+(CT)   /W   /(XQ)   /   [VB(CB)] /
+Z (XG)/ (ZD) (VS)/ (ZA) (XM)/ (ZA) (CS) /
+Z (XJ)/ Z[JH(CG)] /Z X /Z (XN) /
+Z (XG) /(ZD) (BS) /(ZA) (XS) /(ZD) (CM) /
+Z (XS) /Z (NS) /(NA) (BM) /(BA) (CB) /
+Z (XG) /(ZD) (VS) /(ZA) (XM) /(ZA) (CS) /
+Z (XJ) /Z[JH(CG)] Z/ X Z/ (XN) Z /
+(XG) (ZD)/ (BS) (ZA)/ (XS) (ZD)/ (CM) Z /
+(XS) Z/ (NS) (NA)/ (BM) (BA)/ (AT) Q /
+W Q/ (SG) Q/ W Q/ (VF) Q /
+W R/ (AE) W/ Q G/ (AT) Q /
+W Q/ (SG) Q/ W Q/ (VF) Q /
+W R/ (AE) W/ Q G/ T Q /
+W Q/ G Q/ W Q/ F Q /
+W R/ E W/ Q G/ T Q /
+W Q/ G Q/ W Q/ F Q /
+W R/ E W/ Q G/

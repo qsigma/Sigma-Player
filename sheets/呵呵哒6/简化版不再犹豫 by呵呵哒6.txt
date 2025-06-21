@@ -1,0 +1,42 @@
+Q   W/
+(ZBE) (ADT) (ADT)E(AD)W/
+(XBW) (BM) (BM) (BME)T/
+(CNY) (NAU) (NAY)T(NA)E/
+(CME) (CB) (CB) (CBE)W/
+(XNQ) (XVQ)W(XV) (XV)/
+(ZVQ) (VNQ)W(VN)E(VN)W/
+(XBW) (BM) (BM) (BM)/
+(XB) (BM) (BM) (BMQ)W/
+(ZBE) (ADT) (ADT)E(AD)W/
+(XBW) (BM) (BM) (BME)T/
+(CNY) (NAU) (NAY)T(NA)E/
+(CME) (CB) (CB) (CBE)W/
+(XNQ) (XVQ)W(XV) (XV)/
+(ZVQ) (VNQ)W(VN)E(VN)W/
+(XBW) (BM) (BM) (BM)/
+(XB) (BM) (BM) (BME)T/
+(CNY) YY(CN) U/
+(CNY) TT(CNE)WQ/
+(XBW)  (XB)/
+(XB)  (XBM) ET/
+(ZNY) YY(ZCN) U/
+(ZNY) T (ZNE) TT/
+(XMT)  (XBM)/
+(XB)  (XMY) UQ/
+(ZBQ) (AD) (ZB) (AD)/
+(XBU) (BM) (XB) (BMT)T/
+(CNY) (NAU)Y(CN) (NAT)E/
+(CME) (CB) (CM) (CBT)T/
+(XNY) (XVR)R(XN) (XVE)/
+(ZVE) (VNW) (ZVQ) (VNW)/
+(XBE) (BM) (XB)R(BME)W/
+(XBW) (BM) (XBY) (BMU)Q/
+(ZBQ) (AD) (ZB) (AD)/
+(XBU) (BM) (XB) (BMT)T/
+(CNY) (NAU)Y(CN) (NAT)E/
+(CME) (CB) (CM) (CBT)T/
+(XNY) (XVR)R(XN) (XVE)/
+(ZVE) (VNW) (ZVQ) (VNW)/
+(XBE) (BM) (XB)R(BME)W/
+(XBW)  E WQ/
+(ZBQ)/
