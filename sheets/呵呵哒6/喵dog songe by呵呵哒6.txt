@@ -1,0 +1,72 @@
+第一版为一行一小节 排版版本往下翻
+A (DGT) AE(DG)/
+(AQ) (DGW)QAG(SFH)Q/
+V (NAH) VQ(NA)/
+(BJ) (MSQ)WB (MS)/
+A (DGT) AE(DG)/
+(AQ) (DGW)QAG(SFH)Q/
+(NAFR)EW (MSGW)QH/
+(NAFH) (ADGQ) (DGQ)  G/
+A (DGT) AE(DG)/
+(AQ) (DGW)QAG(SFH)Q/
+V (NAH) VQ(NA)/
+(BMSJ) Q(BMSW)  G/
+A (DGT) AE(DG)/
+(AQ) (DGW)QAG(SFH)Q/
+(NAFR)EW (MSGW)QH/
+(NAFH) (ADGQ) (DGQ)/
+V (NAH) VH(NA)/
+(VH) (NAQ)JVH(NAG)H/
+Z (CBD) ZD(CB)/
+(ZS) (CBD)FZD(CBS)/
+V (NAH) VH(NA)/
+(VH) (NAQ)JVH(NAG)H/
+B (MSJ)  (MSG)/
+(MSJ) W(MSQ) J(MSH)J/
+V (NAH) VH(NA)/
+(VH) (NAQ)JVH(NAG)H/
+Z (CBD) ZD(CB)/
+(ZS) (CBD)FZD(CBS)/
+V (NAH) VH(NA)/
+(VH) (NAQ)JVH(NAG)H/
+(MSF) J  (MSG)/
+(MSFJ) W(MSFQ)  (MSFJ)/
+(MSFJ) (MSFJ) (MDGQ) (MSFJ)/
+(MSFJ)/
+
+
+
+A   /(DGT)   /A E /(DG)   /
+(AQ)   /(DGW) Q /A G /(SFH) Q /
+V   /(NAH)   /V Q /(NA)   /
+(BJ)   /(MSQ) W /B   /(MS)   /
+A   /(DGT)   /A E /(DG)   /
+(AQ)   /(DGW) Q /A G /(SFH) Q /
+(NAFR) E /W   /(MSGW) Q /H   /
+(NAFH)   /(ADGQ)   /(DGQ)   /  G /
+A   /(DGT)   /A E /(DG)   /
+(AQ)   /(DGW) Q /A G /(SFH) Q /
+V   /(NAH)   /V Q /(NA)   /
+(BMSJ)   /Q (BMSW) /    /G   /
+A   /(DGT)   /A E /(DG)   /
+(AQ)   /(DGW) Q /A G /(SFH) Q /
+(NAFR) E /W   /(MSGW) Q /H   /
+(NAFH)   /(ADGQ)   /(DGQ)   /    /
+V   /(NAH)   /V H /(NA)   /
+(VH)   /(NAQ) J /V H /(NAG) H /
+Z   /(CBD)   /Z D /(CB)   /
+(ZS)   /(CBD) F /Z D /(CBS)   /
+V   /(NAH)   /V H /(NA)   /
+(VH)   /(NAQ) J /V H /(NAG) H /
+B   /(MSJ)   /  (MSG) /    /
+(MSJ)   /W (MSQ) /  J /(MSH) J /
+V   /(NAH)   /V H /(NA)   /
+(VH)   /(NAQ) J /V H /(NAG) H /
+Z   /(CBD)   /Z D /(CB)   /
+(ZS)   /(CBD) F /Z D /(CBS)   /
+V   /(NAH)   /V H /(NA)   /
+(VH)   /(NAQ) J /V H /(NAG) H /
+(MSF)   /J   /  (MSG) /    /
+(MSFJ)   /W (MSFQ) /    /(MSFJ)   /
+    /(MSFJ)   /(MSFJ)  (MDGQ)/  (MSFJ) /
+    /(MSFJ)/

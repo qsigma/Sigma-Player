@@ -1,0 +1,84 @@
+第一版为一行一小节 排版版本往下翻
+H       Q W/
+(NHE) DW HQ   H   G/
+H    E    Q W/
+(NQE)  W  Q   H G/
+H  (ZT)  E   Q Q W/
+(VHE) VEB (AE)  E  E G/
+(BE) (BW)EMW(AE) WESWQ T/
+(NW) C M (AHQ)E (DJ)GDAM(CB)X/
+(CN) C(CN)N (CBMD) N BCN DN/
+(CS) D A (ND) N/
+(CBAQ)J DVGVDQJGD(XBM)G(BD)M/
+(XVNAQ)J(CA)D(NA)G(CAD)BQG(DHQ)Q(BMSGW)QWE/
+(ZBAD)Q(BW)EZQ(BW)T QWE(BMS)QWE/
+(VNAQ) (ZE)T(VY)Q(VY)TY   N/
+(ZC)      (BG) (ZB) (AH) (SJ)/
+(VDQ) (SJW)(AHQ) (AH)(CND)    D/
+(NDQ)   (CQ) (SG) (NH) H (AH)/
+H   (VFW)   (ZDQ)   (FW)/
+V Z (BFW)   (ZG)   (BQ)/
+(CD)   (MFR) D C (FR) (ND)/
+N (MSHW) (MD) D      Q/
+WQ W  Q F(QE)   Q/
+WQ W  Q (BGJ)E   E Q/
+(ZT) (ZT)   T (DY)[(GJ)W]  (ZT)/
+E   W Q (GW)HE   Q/
+W Q Q   (VDQ) Z V QB/
+AD(SW) Q   (BSQ) X B (AQ)/
+S G Q   (BMDG)  X(BSW) (MDE)/
+M (AQ) (BSW) D N C MCA/
+G/
+H Q W (NQE) D WQ/
+H G   H E/
+Q   W (NQE) W  Q/
+H G HH  T  E/
+H Q W (VH) E(VR)EB(AE)/
+VE  E G (BE) (BW)EMW(AE)/
+WESWQ T (VNW) C M (AH)(QE)/
+EJGDAMBX(CN) C(CN)N (BM)/
+N B N D M (ZS) B A/
+(VNAD) G N/
+
+
+
+    /    /  H /Q W /
+(NHE) DW/ HQ /  H /  G /
+H   /  E /    /Q W /
+(NQE)  W/  Q /  H /G   /
+H  (ZT)/  E /  Q /Q W /
+(VHE) VE/B (AE) / E  /E G /
+(BE) (BW)E/MW(AE) /WESW/Q T /
+(NW) C /M (AHQ)E/ (DJ)GD/AM(CB)X/
+(CN) C(CN)/N (CBMD) /N BC/N DN  /
+(CS) /D A /(ND)   /N   /
+(CBAQ)J D/VGVD/QJGD/(XBM)G(BD)M/
+(XVNAQ)J(CA)D/(NA)G(CAD)B/QG(DHQ)Q/(BMSGW)QWE/
+(ZBAD)Q(BW)E/ZQ(BW)T/ QWE/(BMS)QWE/
+(VNAQ) (ZE)T/(VY)Q(VY)T/Y   /N   /
+(ZC)   /    /(BG) (ZB) /(AH) (SJ) /
+(VDQ) (SJW)(AHQ)/ (AH)(CND) /    /D   /
+(NDQ)   /(CQ) (SG) /(NH) H /(AH)   /
+    /H   /(VFW)   /(ZDQ) (FW) /
+V Z /(BFW)   /(ZG)   /(BQ)   /
+(CD)   /(MFR) D /C (FR) /(ND)   /
+N (MSHW) /(MD) D /    /  Q /
+WQ W/  Q /F(QE)  /  Q /
+WQ W/  Q /(BGJ)E  / E Q/
+(ZT) (ZT) /  T /(DY)[(GJ)W]  /(ZT)   /
+E   /W Q /(GW)HE /  Q /
+W Q /Q   /(VDQ) Z /V QB/
+AD(SW) /Q   /(BSQ) X /B (AQ) /
+S G /Q   /(BMDG)  X/(BSW) (MDE) /
+M (AQ) /(BSW) D /N C /MCA   /
+G /    /    /      /
+H /Q W /(NQE) DW/  Q   /
+H /  G /H   /  E /
+    /Q W /(NQE)  W/  Q   /
+H /GH  /H  T/  E   /
+H /Q W /(VH)E(VR)E/B (AE) /
+VE  /E G /(BE) (BW)E/MW(AE) /
+WESW/Q T /(VNW) C /M (AH)(QE)/
+EJGD/AMBX/(CN) C(CN)/N (BM) /
+N B /N D /M (ZS) /B A /
+(VNAD) G /N/

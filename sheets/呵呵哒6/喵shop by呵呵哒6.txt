@@ -1,0 +1,35 @@
+第一版为一行一小节 排版版本往下翻
+(VT) (NAD)   (NADG)Q(CW) (BMSE) W (BMSQ)/
+(XJ) (CBM) Q (VNAW) (ZG) (CBM) (MS) (CBA)/
+(VT) (NAD)   (NADG)Q(CW) (BMSE) W (BMSQ)/
+(XJ) (CBM) Q (VNAW) (ZQ) (AD) (GJ) (DH)/
+(VT) (NAD)   (NADG)Q(CW) (BMSE) W (BMSQ)/
+(XJ) (CBM) Q (VNAW) (ZG) (CBM) (MS) (CBA)/
+(VT) (NAD)   (NADG)Q(CW) (BMSE) W (BMSQ)/
+(XJ) (CBM) Q (VNAW) (ZQ) (AD) (GJ) (DH)/
+V (NADG) G (NADG) (VG) (BMSF) D (BMSF)/
+(VG) (BMS) J (BMS) (VG) (BMS)   (BMS)/
+C (BMSG) G (BMSG) (CG) (BMSF) D (BMSF)/
+(CDG) (VNS)   (VNS) C (VNS)   (VNSH)W/
+(XF) (VNAE) E (VNAE) (XE) (VNAW) Q (VNAH)/
+C (BMSJE) (JE) (BMSJE) (CJE) (BMSHW) (JE) (BMSWT)/
+(VEY) (NAD)   (NAD) V   E Q/
+(XBW) (BM) (XM) (XB) (CBM)   (CBM)/
+
+
+(VT) (NAD) /  (NADG)Q/(CW) (BMSE) /W (BMSQ) /
+(XJ) (CBM) /Q (VNAW) /(ZG) (CBM) /(MS) (CBA) /
+(VT) (NAD) /  (NADG)Q/(CW) (BMSE) /W (BMSQ) /
+(XJ) (CBM) /Q (VNAW) /(ZQ) (AD) /(GJ) (DH) /
+(VT) (NAD) /  (NADG)Q/(CW) (BMSE) /W (BMSQ) /
+(XJ) (CBM) /Q (VNAW) /(ZG) (CBM) /(MS) (CBA) /
+(VT) (NAD) /  (NADG)Q/(CW) (BMSE) /W (BMSQ) /
+(XJ) (CBM) /Q (VNAW) /(ZQ) (AD) /(GJ) (DH) /
+V (NADG) /G (NADG) /(VG) (BMSF) /D (BMSF) /
+(VG) (BMS) /J (BMS) /(VG) (BMS) /  (BMS) /
+C (BMSG) /G (BMSG) /(CG) (BMSF) /D (BMSF) /
+(CDG) (VNS) /  (VNS) /C (VNS) /  (VNSH)W/
+(XF) (VNAE) /E (VNAE) /(XE) (VNAW) /Q (VNAH) /
+C (BMSJE) /(JE) (BMSJE) /(CJE) (BMSHW) /(JE) (BMSWT) /
+(VEY) (NAD) /  (NAD) /V   /E Q /
+(XBW) (BM) /(XM) (XB) /(CBM)   /(CBM)/

@@ -1,0 +1,779 @@
+建议先看一眼视频再尝逝
+C               /                /
+                / J              /
+                /                /
+  H             /           N    /
+
+                /    H           /
+             J(CJ) /                /
+       J      J /     J          /
+  H             /           J    /
+
+                /    J           /
+             G  /          H     /
+       F        /                /
+SC              /                /
+
+                /  E             /
+                /                /
+   W            /            J   /
+                /     J          /
+
+              G(CH)/            D   /
+         J      /      G         /
+   J        H   /     W        J /
+       W        /E        E      /
+
+                /  J             /
+           J    /                /
+    HC          /                /
+                /      J         /
+
+                /                /
+       H        /                /
+N               /         H      /
+                /  J(CJ)            /
+
+            J   /   J      J     /
+       H        /                /
+J               /         J      /
+                /  H            G/
+
+            F   /                /
+     SC         /                /
+                /                /
+                /                /
+
+       U        /                /
+                /                /
+                /U(CU)              /
+          Y     /                /
+
+               Y/                /
+                /    T           /
+             T  /                /
+      R         /          E     /
+
+         E(CW)     /       W        /
+    Q           / U            U /
+     Y      Y   /   T      T     /
+ R      E      E/      W     W   /
+
+Q    J   J      /H   H     G    G/
+    F     D   D /     S   S      /
+A   M      M    / N   N    B   B /
+  V(CJU)            /U            U  /
+
+          U     /       (HT)        /
+    (HT)           / (HT)            (HT) /
+           (HT)    /  (HT)      (HT)      /
+(HT)      (HT)   (HT)   (HT)/   (HT)   (HT)   (HT)   (HT)/
+
+   (HT)   (CN)        /    (CN)           /
+ (CN)(CNHE)            (CN)/            (CNHE)   /
+         (CN)      /      (CNHE)         /
+   (CN)            /(CNHE)            (CN)  /
+
+          (CNHE)     /       (CN)        /
+    (CNHE)           / (CN)            (CNHE) /
+           (CN)    /        (CNHE)       /
+     (CNHE)(CNHE)         /   (CN)            /
+
+(CNHE)            (CN)  /          (CNHE)     /
+       (CN)        /    (CNHE)           /
+ (CN)            (CNHE) /           (CNHE)    /
+        (CNHE)       /     (CN)          /
+
+  (CNHE)            (CNHE)/            (CNHR)   /
+         (CNHE)(CNHE)     / (CNHE)      (CNHE)       /
+     (CNHE)          /  (CN)            (CNHE)/
+            (CN)   /         (CNHE)      /
+
+      (CN)         /   (CNHE)            /
+(CNHE)            (CNHE)  /          (CN)     /
+       (CNHE)      (CNHE) /     (CNHE)          /
+  (CNHE)            (CNHW)/(CNU)            E  /
+
+          (CNQ)     /       (CNY)        /
+    E           / (CNJ)            (CNY) /
+           (CNW)    /        (CNJ)       /
+     (CNT)      (CN)   /   (CNW)            /
+
+(CNJ)            (CNT)  /    (CN)      (CNR)    /
+  (CN)      (CNE)      /      E(CNHEY)        /
+    (CNHE)           / (CNHEY)            (CN) /
+           (CNHE)    /        (CN)       /
+
+     (CNHQE)          /  (CNE)            (CNHE)/
+            (CNW)   /         (CNGJEU)      /
+      (CNJU)         /   (CNW)            /
+(CNW)            (CNE)  /          T(CNHEY)    /
+
+  (CNHE)      (CNHE)      /      (CNHEY)         /
+   (CN)            /(CNHE)            (CN)  /
+          (CNHQE)     /       (CNE)        /
+    (CNHE)      (CNHE)    /  (CNHQE)      (CNHE)      /
+
+(CNGJEU)      (CNHE)      (CNGJEU) /     (CNHE)      (NY)   /
+         U      /      Y         /
+   T(CNHEY)           / (CNHE)            (CNHEY) /
+           (CNHE)    /        (CNHE)       /
+
+     (CNHE)          /  (CNHQE)            (CNHE)/
+            (CNHE) (CN) /  (CN)   (CN)   (CNHQE)     /
+       (CNGJEU) (CN) (CN)  (CN) / (CN)   (CNGJEU)          /
+  (CNHQE) (CN) (CN)  (CN)   (CN)  / (CNHQE) (CN)   (CN)   (CN)   (CNHE)/
+
+ (CN) N  (CN)  (CN)   (CNHET) (CN)/ N  (CN)  (CN)(CN)       /
+                /             (CN)  /
+                /                /
+  (CN)             /                /
+
+       (CN)        /                /
+            (CN)   /         (CN)      /
+      (CN)         /   (CN)(BMSGJ)           /
+ M            (BM) /           M    /
+
+        (BM)       /     M          /
+  (BM)            M/            (BM)   /
+         M      /      (BMJ)        W/
+    M    W      /  (BMR)         T  M/
+
+       U    (BM)   / U       M  W(BMSGJW)  /
+        T M     / W      (BM)   W   /
+   U M     T    /  (BMT)      R      /
+(ME)      E      (BMW) /     W      (MQ)   /
+
+   J      (BMJ)     / H      (MH)      G/
+      (BMG)      F  /    (MD)      D    /
+  (BMS)      S      /(NA)      M      (BM) /
+     N      (BM)   /   B(BMY)           /
+
+ (MU)            (BMEU) /           M    /
+        (BMEU)       /     (MEU)          /
+  (BMEU)      (EU)      /(MEU)      (EU)      (BMEU) /
+           (MEU)    /        (BMQEY)       /
+
+     (MJWY)          /  (BMQTU)            (BMWTU)/
+            (BMWRY)   /         (BMET)(BME)     /
+       Q        /    (BMH)           /
+ E            J /           (BMG)    /
+
+        (BMW)       /     (BMJ)          /
+  (BMG)            (BMW)/            (BMH)   /
+         (BMF)      /      (BMQ)         /
+   (BMJ)            /(BMFJE)            (BMH)(CN) /
+
+     (CN)      (CN)   /   (CN)      (CN)     /
+       N        /    (CN)           /
+ N            (CN) /  M   M   A   (NS) /
+  S   D   D   (CND) /           N    /
+
+        (CND)       /     (ND)          /
+  (CN)            (ND)/            (CND)   /
+         N(CN)     /       N        /
+    (CN)           / N            (CN) /
+
+           N    /        (CNH)   J   /
+J   Q   (NW)   W   /E   E   (CNHE)       /
+                / (CNHE)            (HE) /
+           (CN)    /        (CNHE)       /
+
+     (CNHE)          /  (CN)(CN)    (CN)    (CN)  /
+  (CN)            (CN)/            N   /
+         (CN)      /      N         /
+   (CNY)   U   U   Q/   (NW)   W   E   E/
+
+   (CNEY)            /N            (CNEY)  /
+          (NQEY)     /       (CN)        /
+    (NWT)           / (CNJWT)            (NQRU)(CND)/
+            H   /         (CNW)      /
+
+      (ND)         /   G            /
+(CNQ)            (CNS)  /          (CNG)     /
+       (CNJ)        /    (CNS)           /
+ (CNF)            (CNJ) /           (CNH)    /
+
+        (CN)       /     (CNH)          /
+  (CN)(CN)            /                /
+                /    (CNHE)           /
+ (CNHE)            (CNHE) /           (CNHE)    /
+
+        (CNHE)       /     (CNHE)          /
+  (CNHE)            (CNHE)/            (CNHE)   /
+         (CNHE)      /      (CNHEY)      (HEY)  /
+    (CNHEY)      (HEY)(CNHE)   /         (CNHE)      /
+
+      (CNHE)         /   (CNHE)            /
+(CNHE)            (CNHE)  /    (NHE)      (CNHE)    /
+        (CNHE)       /     (XVNHWY)      (HWY)   /
+   (XBHWY)            /(XBGQT)            (XBGQT)  /
+
+          (ZCBGTU)     / (GTU)      (ZVGTU)      (GTU)/
+      (XVMDEY)         /   (XVMDEY)(CN)           /
+ (CN)            (CNHE) /           (CNHE)    /
+        (CNHE)       /     (CNHE)          /
+
+  (CNHE)            (CNHE)/            (CNHE)   /
+   (NHE)      (CNHE)     / (NHE)      (CNHE)       /
+     (CNHE)          /  (CNHE)            (CNHE)/
+            (CNDE)   /   (SW)      (CNSW)     /
+
+ (AQ)(CNDE)            (CNDE)/            (CNDE)   /
+         (CNDE)      /      (CNFR)      (FR)  /
+    (CNFR)      (FR)    /  (CNGT)      (GT)      /
+(CNGT)      (GT)      (JU) /           (DQ)    /
+
+        (HQ)       /     D          /
+  (JU)            (DE)/            (JU)   /
+         (DY)(CNHY)     /                /
+   (CNH)            /            (CNDHE)   /
+
+   (NHE)      (CNHE)     / (NHE)      (CNHEY)       /
+     (CNHE)          /  (CNHEY)      (NHE)      /
+(CNHE)      (NHE)      (CNHE) /     (NHE)      (CNHE)   /
+   (NHE)      (CNDHE)     /       (CNHE)        /
+
+    (CNHEY)      (HEY)    /  (CNHEY)      (HEY)(CNGJEU)     /
+ (NHE)      (CNHE)      (NHE)/      (CBMJY)         /
+   (XVNGW)      (BGW)     / (XVNDGWR)      (BGW)      (CBMJT)/
+            (XVNGJWU)   /   (BGW)      (CNHR)     /
+
+       (CNE)        /Y    (CN)    R     /
+   (CNW)        Y   / (CN)    E        (CNW)/
+        T    (CN)  /  E        (XVNQ)    /
+    T    (CN)    S(CND)/      (CD)      (CND)  /
+
+    (CD)      (XVNF)    /  (VF)      (XVNG)      /
+(BG)      (XVNG)      (BG) /     (CNH)      (NH)   /
+   (CNH)      (NH)     / (CBMJ)      (MJ)      (CBMJ)/
+      (AQ)      (CNSW)  /    (SW)      (CNDE)    /
+
+  (DE)      (CNFR)      /(GT)      (CNGT)      (HY) /
+     (CNHY)      (JU)   /   (CNJU)      Q     /
+ (CNW)      W(JU)      /      U         /
+   U            /U            (HT)  /
+
+          T     /       T        /
+    T           / (HT)            (HT) /
+           (HR)    /        (HE)       /
+     (HE)      (HW)   /   (HW)      (HQ)     /
+
+ (GJ)      (GJ)      H/      H(CBM)        /
+    M           / M            M /
+           M    /        M       /
+     M          /  M            M/
+
+            M   /         M      /
+      M         /   M            /
+M            M  /          MM    /
+        M       /     M          /
+
+  M            M/            M   /
+         (MGT)      /      M         /
+   Z            /            Z   /
+                /     Z          /
+
+              ZM/            M   /
+         M      /      M         /
+   M            /M            M  /
+          M     /       M        /
+
+    M           / M            M /
+           M    /        M       /
+     M          /  MM            /
+M            M  /          M     /
+
+       M        /    M           /
+ M            M /           (ME)    /
+        (MFR)       /     (NGT)          /
+  (NAQ)            (VNSW)/            (VNH)   /
+
+         (VMJ)      /      (CBG)(CNU)        /
+    E           / (CNQ)            Y /
+           (CNE)    /        J       /
+     (CNY)          /  W            (CNJ)/
+
+            T   /         (CNW)      /
+      H         /   (CNT)            /
+(CNR)            (CNE)  /          (CNE)(CNU)    /
+        E       /     (CNQ)          /
+
+  Y            (CNE)/            J   /
+         (NEY)      /      W         /
+   J            /T            W  /
+          H     /       (CNT)        /
+
+    T           / (CNY)            Y(CNU)/
+            (CNE)   /         (CNQ)      /
+      (CNY)         /   (CNE)            /
+(CNJ)            (CNY)  /          (CNW)     /
+
+       (CNJ)        /    (CNT)           /
+ (CNW)            (CNH) /           (CNT)    /
+        (CNR)       /     (CNE)          /
+  (CNE)(CN)            /            N   /
+
+                /     N          /
+              N /                /
+       (JU)        /                /
+V            V  /          (XNS)     /
+
+       (XN)        /    (XNA)           /
+ (XN)(ZVEU) (ZV)   (ZV)   (ZV)   /(ZVQT)  (ZV)  (ZV)  (ZV)    (ZVHE) /
+     (ZV)      (ZVEU) (ZV) /  (ZV)   (ZV)   (ZVJT)  (ZV)  /
+(ZV)  (ZV)    (ZVGW)      (ZV)/      (ZVWY) (ZV)   (ZV)   /
+
+(ZV)   (ZVJR)  (ZV)  (ZV)  (ZV)  /  (ZVGW)            (ZVWY)/
+            (ZVHE)   /   (ZV)      (ZVFQ)     /
+ (ZV)      (ZVQT)      (ZV)/      (ZVHE)      (ZV)  /
+    (ZVGW)      (ZV)    /  (ZVDJ)      (ZV)(ZVEU) (ZV)   /
+
+(ZV)   (ZV)   (ZVQT)  (ZV)  (ZV) / (ZV)    (ZVHE)      (ZV)  /
+    (ZVEU) (ZV)   (ZV)   (ZV) /  (ZVJT)  (ZV)  (ZV)  (ZV)    /
+(ZVGW)      (ZV)      (ZVWY) /     (ZV)      (ZVJR)   /
+   (ZV)      (ZVGW)     / (ZV)      (ZVWY)      (ZV)/
+
+      (ZVHE)      (ZV)  /    (ZVFQ)      (ZV)    /
+  (ZVQT)            (ZVWY)/            (ZVWY)   /
+         (ZVEU)(ZVEU) (ZV)   /(ZV)   (ZV)   (ZVQT)  (ZV)  (ZV) /
+ (ZV)    (ZVHE)      (ZV)  /    (ZVEU) (ZV)   (ZV)   (ZV) /
+
+  (ZVJT)  (ZV)  (ZV)  (ZV)    /(ZVGW)      (ZV)      (ZVWY) /
+(ZV)   (ZV)   (ZV)   (ZVJR)  (ZV)/  (ZV)  (ZV)    (ZVGW)     /
+       (ZVWY)        /    (ZVHE)      (ZV)    /
+  (ZVFQ)      (ZV)      /(ZVQT)      (ZV)      (ZVHE) /
+
+     (ZV)      (ZVGW)   /   (ZV)      (ZVDJ)     /
+ (ZV)(ZVEU) (ZV)   (ZV)   (ZV)   /(ZVQT)  (ZV)  (ZV)  (ZV)    (ZVHE) /
+     (ZV)      (ZVEU) (ZV) /  (ZV)   (ZV)   (ZVJT)  (ZV)  /
+(ZV)  (ZV)    (ZVGW)      (ZV)/      (ZVWY)      (ZV)  /
+
+    (ZVJR)      (ZV)    /  (ZVGW)      (ZV)      /
+(ZVWY)      (ZV)      (ZVHE) /     (ZV)      (ZVFQ) (ZVF) /
+  (ZVF)   (ZVF)   (JU)     / (GT)      W      (JU)/
+      T      E  /    Y      Q(ZVEY) (ZV) /
+
+  (ZV)   (ZV)   (ZVQE)  (ZV)  /(ZV)  (ZV)    (ZVQY)      (ZV)/
+      (ZVET) (ZV)   (ZV)   /(ZV)   (ZVEU)  (ZV)  (ZV)  (ZV)  /
+  (ZVTU)      (ZV)      /(ZVWT) (ZV) V  (ZV)  (ZV)   (ZVWU) /
+ (ZV) (ZV)  (ZV)    (ZVTU)    /        (ZVWR)       /
+
+     (ZVWY)      (ZV)   /   (ZVRY)      (ZV)     /
+ (ZVQE)      (ZV)      (ZVWY)/      (ZV)      (ZVTU)  /
+    (ZV)      (ZVTU)    /  (ZV)(ZVEY) (ZV)   (ZV)   (ZV)  /
+ (ZVQE)  (ZV)  (ZV)  (ZV)    (ZVQY)/      (ZV)      (ZVET) (ZV)/
+
+   (ZV)   (ZV)   (ZVEU)  (ZV) / (ZV)  (ZV)    (ZVTU)      /
+(ZV)      (ZVWT)      (ZV) /     (ZVWU)      (ZV)   /
+   (ZVTU)            /(WR)            (VWY)  /
+          (RY)     /       (ZVQE)        /
+
+    (ZVWR)           / (ZVWT)            (ZVET)(ZVEY)/
+ (ZV) V  (ZV)  (ZV)   (ZVQE)  /(ZV)  (ZV)  (ZV)    (ZVQY)    /
+ (ZV)      (ZVET) (ZV)   (ZV) /  (ZV)   (ZVEU)  (ZV) (ZV)  (ZV) /
+   (ZVTU)      (ZV)     / (ZVWT)   (ZV)   (ZV)   (ZV)  /
+
+ (ZVWU)   (ZV) (ZV) V (ZV)    /(ZVTU)      (ZV)      (ZVWR) /
+     (ZV)      (ZVWY)   /   (ZV)      (ZVRY)     /
+ (ZV)      (ZVQE) V (ZV)  (ZV)/  (ZV)   (ZVWR) (ZV) V   (ZV) /
+ (ZV)   (ZVWT)  (ZV) V (ZV)   /(ZV)   (ZVET) (ZV) V  (ZV)   (ZV)/
+
+(JU)            U  /          U     /
+       U        /    (HT)           /
+ T            T /           T    /
+        (HT)       /     (HT)          /
+
+  (HR)            (HE)/            (HE)   /
+   (HW)      (HW)     / (HQ)      (GJ)      (GJ)/
+      H      H(CN)(CBMDE)/                /
+                /                /
+
+W               /         (CBMD)      /
+      J         /   J            /
+(BMDJ)            J  /                /
+      (BMSJ)         /               (BMSG)/
+
+            E   /         (BMD)      /
+                /  (BMDJ)             /
+           J    /        (BMD)       /
+     H          /  J            (BMDJ)/
+
+            W   /         (BMDT)      /
+                /  (BMDW)(CBMDE)            /
+                /                /
+    W           /             (CBMD)  /
+
+          J     /       J        /
+    (BMDJ)           / J              /
+          (BMSJ)     /                /
+   (BMSG)H           / J            (MDGJ) /
+
+           W    /        (MDGT)       /
+     W          /  W            (MDGE)/
+            E   /   E      E     /
+ E      (MDGE)      E/      E      E  /
+
+    (BMSE)           / W            (BMSJ) /
+           J(CBMDE)   /                /
+                /             (CW)  /
+                /      (CBMD)         /
+
+   J            /(BJ)            (BMDJ)  /
+          J     /                /
+   (BMSJ)            /            (BMSG)N  /
+          E     /       (BMD)        /
+
+                /(BMDJ)               /
+         J      /      (BMD)         /
+   (MGJU)            /(JU)            (BMDJW)  /
+          (MJWU)     /       (BMDWT)        /
+
+    W           / (BMDQE)            (MT)(CBMDEY)/
+                /        (CHY)       /
+     H          /  (CE)             /
+           (CBMDW)    /        (JU)       /
+
+     (BJU)          /  (BMDJU)            (BJU)/
+            B   /         (BMSJU)      /
+      B         /   (BMSGT)            /
+B(NDH)              /                /
+
+      (CND)         /                /
+           (CN)    /                /
+    (CND)      N    /  (CND)      N      /
+N      N      N /     N      (NDH)   /
+
+   N      (NDH)     / N      (NDH)      N/
+      (NDH)      N(CMY) /                /
+       (HY)        /    H           /
+ E              /          W     /
+
+       (JU)        /    (XBJU)           /
+ (JU)            (JU) /                /
+       (JU)        /                /
+(GT)(CNY)              /          (HY)     /
+
+       H        /    E           /
+             W  /          (JU)     /
+       (CBMJU)        /    (JU)           /
+ W            (JU) /           W    /
+
+        W       /     E          /
+  T(CMY)            /            (HY)   /
+         H      /      E         /
+               W/            (JU)   /
+
+         (XBJU)      /      (JU)         /
+   (JU)            /            (JU)   /
+                /     (GT)(BMHY)         /
+   (JU)            /(JU)            W  /
+
+          Y     /       W        /
+    E           / E            (BME) /
+     E      E   /   E      E     /
+ E      E      E/      E         /
+
+   W            /(JU)            (JU)(CMY) /
+                /       (CMHY)        /
+    H           / (CME)              /
+          (CMW)     /       (JU)        /
+
+    (XBJU)           / (JU)            (XBJU) /
+                /       (XBJU)        /
+    (XB)           / (XBGT)            (XB)(CNY)/
+                /        (CNHY)       /
+
+     H          /  (CNE)             /
+           (CNW)    /        (JU)       /
+     J          /  J            (BMW)/
+            (BMJ)   /         (BMSW)      /
+
+      (BMW)         /   (BME)            /
+(BMT)(CMY)            (CM) /           (CMHY)    /
+        (CMH)       /     (CME)          /
+  (CM)            (CMW)/            (CMJU)   /
+
+         (XBJU)      /      (XBJU)         /
+   (XBJU)            /(XB)            (XBJU)  /
+          (XB)     /       (XBGT)        /
+    (XB)(JU)          /  U            U/
+
+            U   /         (HT)      /
+      (HT)         /   (HT)            /
+(HT)            (HT)  /    (HT)      (HT)    /
+  (HT)      (HT)   (HT)  / (HT)   (HT)   (HT)   (HT)  /
+
+ (HT)   (HT)   (CN)      /      (CN)         /
+   (CN)(CMY)           / (CM)            (CMHY) /
+           (CMH)    /        (CME)       /
+     (CM)          /  (CMW)            (CMJU)/
+
+            (XBJU)   /         (XBJU)      /
+      (XBJU)         /   (XB)            /
+(XBJU)            (XB)  /          (XBGT)     /
+       (XB)(CNY)       /     (CN)          /
+
+  (CNHY)            (CNH)/            (CNE)   /
+         (CN)      /      (CNW)         /
+   (CNJU)            /(BMJU)            (BMJU)  /
+          (BMW)     /       (BMJU)        /
+
+    (BMW)           / (BMW)            (BME) /
+     (BM)      (BMT)(CMY)  /          (CM)     /
+       (CMHY)        /    (CMH)           /
+ (CME)            (CM) /           (CMW)    /
+
+        (CMJU)       /     (XBJU)          /
+  (XBJU)            (XBJU)/            (XB)   /
+         (XBJU)      /      (XB)         /
+   (XBGT)            /(XB)(BMHY)            (BMJU) /
+
+           (BMJU)    /        (BMW)       /
+     (BMY)          /  (BMW)            (BME)/
+            (BME)   /         (BME)      /
+(BME)      (BME)      (BME) /     (BME)      E   /
+
+   (BME)      E     / (BME)            (BMW) /
+           (BMJU) (BM)  / (BM)   (BM)   (BMJU) (BM)   (BM)/
+   (BM)(CMY)           / (CM)            (CMHY) /
+           (CMH)    /        (CME)       /
+
+     (CM)          /  (CMW)            (CMJU)/
+            (XBJU)   /         (XBJU)      /
+      (XBJU)         /   (XB)            /
+(XBJU)            (XB)  /          (XBGT)     /
+
+       (XB)(CNY)       /     (CN)          /
+  (CNHY)            (CNH)/            (CNE)   /
+         (CN)      /      (CNW)         /
+   (CNJU)            /(BMJU)            (BMW)  /
+
+          (BME)     /       (BMY)        /
+    (BMU)           / (BMU)            (BMT) /
+     (BM)      (BMT)(CMY)  /          (CM)     /
+       (CMHY)        /    (CMH)           /
+
+ (CME)            (CM) /           (CMW)    /
+        (CMJU)       /     (XBJU)          /
+  (XBJU)            (XBJU)/            (XB)   /
+         (XBW)      /      (XBW)         /
+
+   (XBE) (XB)   (XB)   (XB)  / (XBT) (XB)   (XB)   (XB)(CNE)   /
+         Y      /      (CNQ)         /
+   (CNW)            /T            (CNU)  /
+          (CNW)     /       (CNT)        /
+
+    (CNU)           / (CNQ)      (CN)      (CNR)/
+            (CNY)   /         (CNY)      /
+(CN)      (CN)      (CN) /     (CN)          /
+  U   Q   W   W(CMDHEY)/            (CMDHE)   /
+
+         (CMDHE)      /      (CMDHEY)         /
+   (CMDHE)            /(CMDHE)            (CMDHEY)  /
+          (CMDHE)     /       (XBDHE)        /
+    (XBDHEY)           / (XBDHE)            (XBDHEY) /
+
+           (XBDHET)    /        (XBDHE)       /
+     (XBHWRY)      (HEY)   /   (XBHEY)      (HEY)(CNDHEY)    /
+        (CNDHE)       /     (CNDHE)          /
+  (CNDHEY)            (CNDHE)/            (CNDHE)   /
+
+         (CNDHEY)      /(DHE)      (CNDHE)        /
+    (BMWTU)           / (BMWT)            (BMJEU) /
+           (BMJEU)    /        (BMJETU)       /
+     (BMJEU)          /  (BMGJET)      (GJT)      /
+
+(BMGQT)(CMDHEY)            (CM) /           (CMDHE)    /
+        (CMDHEY)       /     (CMDHE)          /
+  (CMDHE)            (CMDHEY)/            (CMDHE)   /
+         (XBDHE)      /      (XBDHEU)         /
+
+   (XBDHE)            /(XBDHEU)            (XBDHET)  /
+    (DHE)      (XBDHE)    /  (DHE)      (XBEY)      /
+(EY)      (XBWT)      (WT)(CNGJET)/      (GJT)      (CNGJET)  /
+          (CNGJT)     /       (CNGJET)        /
+
+    (CNDJE)           / (CNDJET)            (CNDJE) /
+     (DJE)      (CNDJE)   /         (BMDHET)      /
+      (BMDJEU)         /   (BMFJWR)            /
+(BMGJET)            (BMJEU)  /          (BMJEU)     /
+
+       (BMGJT)      (GJT) /     (BMGQT)      (GQT)(CMDHEY)  /
+          (CMDHE)     /       (CMDHE)        /
+    (CMDHEY)           / (CMDHE)            (CMDHE) /
+           (CMDHEY)    /        (CMDHE)       /
+
+     B          /  (XY)            B/
+            Y   /         (BT)      /
+                /  (BT)            B/
+(CNDHEY)            (CNDHE)  /          (CNDHE)     /
+
+       (CNDHEY)        /    (CNDHE)      (DHE)    /
+  (CNDHE)            (CNDHEY)/      (DHE)      (CNDHE)  /
+          U     /                /
+   U            /H            T  /
+
+          H     /       E(CMDHEY)       /
+     (CMDHE)          /  (CMDHE)            (CMDHEY)/
+            (CMDHE)   /         (CMDHE)      /
+      (CMDHEY)      (DHE)  /    (CMDHE)      (DHE)    /
+
+  (XBDHE)      (DHE)      /(XBDHEU)      (DHE)      (XBDHE) /
+     (DHE)      (XBDHEU)   /   (DHE)      (XBDHET)     /
+ (DHE)      (XBDHE)      (DHE)/      (XBDHQE)   (DHE)   (DHE) /
+     (XBDHQE)   (DHE)   (DHE)(CBMJ) /           E    /
+
+        U       /     (CNJ)          /
+  E            U/            (CNJ)   /
+         E      /      T         /
+   (CNY)            /W            E  /
+
+          (CNE)     /       E        /
+    (CNW)           / J(CMHEY)      (EY)      /
+(CMEY)      (EY)      (CMDEY) /     (EY)      (CMHEY)   /
+   (EY)      (CMEY)     / (EY)      (CMDEY)      (EY)/
+
+      (CMHEY)      (EY)  /    (CMEY)      (EY)    /
+  (XBSJEU)      (RU)      /(XBSTU)      (QT)      (XBSJWTU) /
+     (WY)      (XBSEU)   /   (EU)      (XBSGQET)     /
+ (WT)      (XBSWT)      (EY)/      (XBADEU)      (RU)  /
+
+    (XBSTU)      (QT)(JU)   /         U      /
+      U         /   U            /
+(HT)            T  /          T     /
+       T        /    (NHT)           /
+
+ (BHT)            (BHR) /           (VHE)    /
+        (CHE)      (CHW)/      (XHW)      (XHQ)  /
+    (ZGJ)      (MGJ)    /  (MH)      (NH)(CNU)     /
+       E        /    (CNQ)           /
+
+ Y            (CNE) /           J    /
+        (CNY)       /     W          /
+  (CNJ)            T/            (CNW)   /
+         H      /      (CNT)         /
+
+   (CNR)            /(CNE)            (CNE)(CNU) /
+           E    /        (CNQ)       /
+     Y          /  (CNE)            J/
+            (NEY)   /         W      /
+
+      J         /   T            /
+W            H  /          (CNT)     /
+       T        /    (CNY)           /
+ Y(CNU)            (CNE)/            (CNQ)   /
+
+         (CNU)      /      (CNT)         /
+   (CNW)            /(CNW)            (CNY)  /
+          (CNE)     /       (CNE)        /
+    (CNU)           / (CNR)            (CNU) /
+
+           (CNW)    /        (CNR)       /
+     (CNT)(CN)         /                /
+           (CN)    /        N       /
+                / N              /
+
+          (CN)     /                /
+   V            /V            (XNSJU)  /
+          (XN)     /       (XNA)        /
+    (XN)(ZVMDJ) (ZV)   (ZV)   (ZV)/   (ZCBAG)  (ZV)  (ZV)  (ZV)   /
+
+ (XVND)      (ZV)      (ZVMDJ)/ (ZV)   (ZV)   (ZV)   (ZCBMG)  /
+(ZV)  (ZV)  (ZV)    (ZCBS)    /  (ZV)      (ZVNSH) (ZV)   (ZV)/
+   (ZV)   (ZVMF)  (ZV)  (ZV)  /(ZV)    (ZCBS)          /
+  (ZVNSH)            (XVND)/      (ZV)      (ZVA)  /
+
+    (ZV)      (ZCBAG)    /  (ZV)      (XVND)      /
+(ZV)      (ZCBS)      (ZV) /     (XVM)      (ZV)(ZVMDJ) (ZV)/
+   (ZV)   (ZV)   (ZCBAG)  (ZV) / (ZV)  (ZV)    (XVND)      /
+(ZV)      (ZVMDJ) (ZV)   (ZV)  / (ZV)   (ZCBMG)  (ZV)  (ZV)  (ZV) /
+
+   (ZCBS)      (ZV)     / (ZVNSH)      (ZV)      (ZVMF)/
+      (ZV)      (ZCBS)  /    (ZV)      (ZVNSH)    /
+  (ZV)      (XVND)      /(ZV)      (ZVA)      (ZV) /
+     (ZCBAG)          /  (ZVNSH)            (ZVNSH)/
+
+            (ZVMDJ)(ZVMDJ) (ZV)/   (ZV)   (ZV)   (ZCBAG)  (ZV) /
+ (ZV)  (ZV)    (XVND)      /(ZV)      (ZVMDJ) (ZV)   (ZV)  /
+ (ZV)   (ZCBMG)  (ZV)  (ZV)  (ZV) /   (ZCBS)      (ZV)     /
+ (ZVNSH) (ZV)   (ZV)   (ZV)   (ZVMF)/  (ZV)  (ZV)  (ZV)    (ZCBS)  /
+
+          (ZVNSH)     /       (XVND)      (ZV) /
+     (ZVA)      (ZV)   /   (ZCBAG)      (ZV)     /
+ (XVND)      (ZV)      (ZCBS)/      (ZV)      (XVM)  /
+    (ZV)(ZVMDJ) (ZV)   (ZV)   (ZV)/   (ZCBAG)  (ZV)  (ZV)  (ZV)   /
+
+ (XVND)      (ZV)      (ZVMDJ)/ (ZV)   (ZV)   (ZV)   (ZCBMG)  /
+(ZV)  (ZV)  (ZV)    (ZCBS)    /  (ZV)      (ZVNSH)      /
+(ZV)      (ZVMF)      (ZV) /     (ZCBS)      (ZV)   /
+   (ZVNSH)      (ZV)     / (XVND)      (ZV)      (ZVA)/
+
+ (ZV)   (ZV)   (ZV)   (MJ)  /    (BG)      (SW)    /
+  (MJ)      (GT)      /(DE)      (HY)      Q(ZVHEY)/
+ (ZV)   (ZV)   (ZV)   (ZVDQE)  /(ZV)  (ZV)  (ZV)    (ZVAHQ)    /
+  (ZV)      (ZVGET) (ZV)   (ZV)/   (ZV)   (ZVDJE)  (ZV)  (ZV)  /
+
+(ZV)    (ZVMGJ)      (ZV)   /   (ZVGWT) (ZV) V  (ZV)  (ZV)  /
+ (ZVSJW)  (ZV) (ZV)  (ZV)    (ZVMGJ) /           (ZVFWR)    /
+        (ZVSHW)      (ZV)/      (ZVNFH)      (ZV)  /
+    (ZVDQE)      (ZV)    /  (ZVSHW)      (ZV)      /
+
+(ZVMGJ)      (ZV)      (ZVMGJ) /     (ZV)(ZVHEY) (ZV)   (ZV)   /
+(ZV)   (ZVDQE)  (ZV)  (ZV)  (ZV)  /  (ZVAHQ)      (ZV)      /
+(ZVGET) (ZV)   (ZV)   (ZV)   (ZVDJE) / (ZV)  (ZV)  (ZV)    (ZVMGJ)   /
+   (ZV)      (ZVGWT)     / (ZV)      (ZVSJW)      (ZV)/
+
+      (ZVMGJ)         /   (FWR)            /
+(VSHW)            (NFH)  /          (ZVDQE)     /
+       (ZVFWR)        /    (ZVGWT)           /
+ (ZVGET)(ZVHEY) (ZV) V  (ZV)  (ZV)   /(ZVDQE)  (ZV)  (ZV)  (ZV)    (ZVAHQ) /
+
+    (ZV)      (ZVGET) (ZV)  / (ZV)   (ZV)   (ZVDJE)  (ZV) (ZV) /
+ (ZV)    (ZVMGJ)      (ZV)  /    (ZVGWT)   (ZV)   (ZV)   /
+(ZV)   (ZVSJW)   (ZV) (ZV) V (ZV) /   (ZVMGJ)      (ZV)     /
+ (ZVFWR)      (ZV)      (ZVSHW)/      (ZV)      (ZVNFH)  /
+
+    (ZV)      (ZVDQE) V (ZV)/  (ZV)  (ZV)   (ZVFWR) (ZV) V  /
+ (ZV)  (ZV)   (ZVGWT)  (ZV) V (ZV)/   (ZV)   (ZVGET) (ZV) V  (ZV) /
+  (ZV)(CN)            /            N   /
+                /     N          /
+
+              N /                /
+       (XNJU)        /                /
+(XN)               /         (XNS)      /
+      (XNS)         /   (XNA)            /
+
+(XN)(ZVADE) (ZV) V  (ZV)  (ZV)   (ZVNAQ)/  (ZV)  (ZV)    (ZV)   (XVNH) /
+  (ZV)   (ZV)   (ZV)   (ZVSGT) /     (ZV)      (ZVMSW)   /
+(ZV)   (ZV)   (ZV)   (ZCBMJ)   /(ZV)   (ZV)   (ZV)   (ZVDHY) V /
+(ZV)   (ZV)  (ZV)   (ZVADE) V (ZV)/  (ZV)  (ZV)   (ZVGJU)      /
+
+(ZV)      (ZVSGT)      (ZV) /     (ZVMSW)      (ZV)   /
+   (ZVHQ)      (ZV)     / (ZVDHY) V (ZV)   (ZV)  (ZV)   /
+(ZVADE) (ZV)   (ZV)  (ZV)   (ZVJW)  / (ZV)   (ZV)   (ZV)   (ZVGJU) (ZV)/
+   (ZV)   (ZV)(ZVQE)      (ZV)/  (HQ)    (ZV)    (DHY)  (ZV)/
+
+      (ZVWT)      (ZV) (JW)/    (ZV)   (ZVGJ) U  V  /
+    (ZVEY)      (ZV) (QE)  /  (ZV)   (ZVHQ) Q  V    /
+  (ZVTU) (ZV)   (ZVWT)  (ZV)   (ZVJW)/ V (ZV)  (ZVJE)  (ZV)   (ZVQE)  /
+ (ZV)   (ZVWR)      (ZVWT)   /(ZV)   (ZVET)      (ZVEY)   (ZV)/
+
+   (ZVRY)      (ZVTU)   (ZV) /  (ZVTU)      (ZVQY)   (ZV)  /
+ (ZVWY)      (ZVWU)   (ZV)   /(ZVEU)      (ZVQE)   (ZV)   (ZVWR)/
+      (ZVWT)   (ZV)   (ZVET)(HTU)/                /
+                /                /
+
+H               /                /
+                / H              /
+                /                /
+  H             /           H    /
+
+        H(HTU)      /      (HTU)         /
+   (HTU)            /(HTU)            (HTU)  /
+          (HTU)     /       (HTU)        /
+    (HTU)           / (HTU)      (HTU)      (GTU)/
+
+      (GTU)      (GTU)  /    (GTU)      (FTU)    /
+  (FTU)      (DTU)      /(DTU)      (DTU)      (DTU) /
+     (STU)      (STU)   /   (STU)      (STU)(CN)/

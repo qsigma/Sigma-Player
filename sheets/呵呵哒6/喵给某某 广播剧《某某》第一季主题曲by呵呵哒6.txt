@@ -1,0 +1,91 @@
+第一版为一行一小节 排版版本往下翻
+Z(BG)(ZG)(CG) AAG/
+(NG)A(CM)A   A/
+(VG)(ZA)(VA)(NA) AAD/
+BA(XM)A/
+Z(BA)(ZQ)(CQ)JQ G/
+NG(CF)D DFG/
+V(ZD)(VF)(NG) DFG/
+(BG)D(XS)S/
+BXB M/
+Z(BG)(ZG)(BG)Z(BG)(ZG)(BG)/
+N(CG)(NF)(CD)N(CH)(ND)(CG)/
+(VG)ZVZ(VG)(ZD)V(ZS)/
+BXBXBXBX/
+Z(BG)(ZG)(BG)Z(BG)(ZG)(BG)/
+(NG)(CG)(NQ)(CQ)N(CQ)(NW)(CE)/
+(VE)(ZE)V(ZE)(VE)(ZR)(VE)(ZW)/
+(BW)XBXBXBX/
+V(ZA)(VQ)(ZQ)(VJ)(ZQ)V(ZW)/
+X(NQ)S(NJ)S(NQ)S(NQ)/
+NCNCNC(NQ)(CW)/
+BXBXBXBX/
+V(ZQ)(VQ)(ZQ)V(ZQ)V(ZT)/
+X(NQ)S(NQ)(SQ)(NQ)(SW)(NE)/
+N(CE)N(CE)N(CE)(NE)(CR)/
+(BE)X(BW)(XW)BXBX/
+ZBA(BQ)(DQ)(BQ)(DQ)(BQ)/
+(NQ)(CU)(NU)(CU)A(CT)A(CE)/
+VZ(VR)(ZT)N(ZE)(NR)(ZT)/
+B(XE)B(XT)M(XQ)(ME)(XW)/
+BXBXMX(ME)(XT)/
+(ZQ)B(AU)(BU)D(BT)D(BE)/
+N(CW)(NQ)CAC(AQ)(CT)/
+VZVZN(ZY)(NE)(ZW)/
+BXB(XQ)(MQ)(XQ)(MQ)(XQ)/
+(ZQ)(BU)(AU)(BU)D(BT)D(BE)/
+NC(NR)(CT)A(CE)(AR)(CT)/
+V(ZE)V(ZT)N(ZQ)(NE)(ZW)/
+BXBXMX(ME)(XT)/
+(ZQ)B(AU)(BU)D(BT)D(BE)/
+N(CW)(NQ)CAC(AQ)(CW)/
+(VE)Z(VE)(ZE)V(ZE)V(ZW)/
+BXBXBX(BJ)(XQ)/
+ZBABA/
+
+
+
+
+Z (BG) /(ZG) (CG) /  A /A G /
+(NG) A /(CM) A /    /  A /
+(VG) (ZA) /(VA) (NA) /  A /A D /
+B A /(XM) A /    /    /
+Z (BA) /(ZQ) (CQ) /J Q /  G /
+N G /(CF) D /  D /F G /
+V (ZD) /(VF) (NG) /  D /F G /
+(BG) D /(XS) S /    /    /
+B X /B   /M   /    /
+Z (BG) /(ZG) (BG) /Z (BG) /(ZG) (BG) /
+N (CG) /(NF) (CD) /N (CH) /(ND) (CG) /
+(VG) Z /V Z /(VG) (ZD) /V (ZS) /
+B X /B X /B X /B X /
+Z (BG) /(ZG) (BG) /Z (BG) /(ZG) (BG) /
+(NG) (CG) /(NQ) (CQ) /N (CQ) /(NW) (CE) /
+(VE) (ZE) /V (ZE) /(VE) (ZR) /(VE) (ZW) /
+(BW) X /B X /B X /B X /
+V (ZA) /(VQ) (ZQ) /(VJ) (ZQ) /V (ZW) /
+X (NQ) /S (NJ) /S (NQ) /S (NQ) /
+N C /N C /N C /(NQ) (CW) /
+B X /B X /B X /B X /
+V (ZQ) /(VQ) (ZQ) /V (ZQ) /V (ZT) /
+X (NQ) /S (NQ) /(SQ) (NQ) /(SW) (NE) /
+N (CE) /N (CE) /N (CE) /(NE) (CR) /
+(BE) X /(BW) (XW) /B X /B X /
+Z B /A (BQ) /(DQ) (BQ) /(DQ) (BQ) /
+(NQ) (CU) /(NU) (CU) /A (CT) /A (CE) /
+V Z /(VR) (ZT) /N (ZE) /(NR) (ZT) /
+B (XE) /B (XT) /M (XQ) /(ME) (XW) /
+B X /B X /M X /(ME) (XT) /
+(ZQ) B /(AU) (BU) /D (BT) /D (BE) /
+N (CW) /(NQ) C /A C /(AQ) (CT) /
+V Z /V Z /N (ZY) /(NE) (ZW) /
+B X /B (XQ) /(MQ) (XQ) /(MQ) (XQ) /
+(ZQ) (BU) /(AU) (BU) /D (BT) /D (BE) /
+N C /(NR) (CT) /A (CE) /(AR) (CT) /
+V (ZE) /V (ZT) /N (ZQ) /(NE) (ZW) /
+B X /B X /M X /(ME) (XT) /
+(ZQ) B /(AU) (BU) /D (BT) /D (BE) /
+N (CW) /(NQ) C /A C /(AQ) (CW) /
+(VE) Z /(VE) (ZE) /V (ZE) /V (ZW) /
+B X /B X /B X /(BJ) (XQ) /
+Z B /A B /A/

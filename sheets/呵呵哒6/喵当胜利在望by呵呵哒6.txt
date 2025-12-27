@@ -1,0 +1,84 @@
+第一版为一行一小节 排版版本往下翻
+(VE) A F H Q Q W Q/
+(BG) S G S J S G S/
+(NQ)  D D  D  W/
+N U (HQ) Q (BW) S G/
+V Z A F H (FQ) (HY) (FQ)/
+(BT) E S Y J  T/
+(NY)   J H G H/
+N D H Q/
+(VHQ)    (HQR)  F/
+(BJW)  S  (GJW)  S/
+(NDHQ)  D  (HQ)  D/
+(JWT)/
+(VHQ)    (HQR)  G/
+(BJW)    (JWT)  B/
+(AHQE)/
+(NQE)    (GJW)/
+(VFHQ)  A  (FHQ)  F/
+(BJW)    (GJW)  S/
+(NHQ)    (HQ)/
+(NQE)    (GJW)/
+(BJW)  F  (FHQ)  F/
+(BGJW)    (GJW)  B/
+(NDHQY)    (HQE)  D/
+B/
+(VHQ)/
+(BJ)  S  (GJ)  G/
+(NDH)/
+N C D A B B G/
+N C N A H V F A/
+(BE) Q  G J (SG) G G/
+N     N D/
+N    N/
+(VFHQ)  (FHQ) F V   F/
+(BJW)  S  B/
+(NHQ)  (DHQ) (NDHQ) (NHQ) (DHQ) (DHQ) D/
+(NHQE) (ND) (DHQ) D (BGJW) (GJW) (GJW) B/
+(NHQE) (NHQE) (NHQE) (NHQE) (VHQ) (VFHQ) (VFHQ) (VFHQ)/
+(BGJ) (BGJ) (SGJ) (GJ) (BSGJ) (GJ) (SGJ) (GJ)/
+(NHQE) (NHQE) (NHQE) (NHQE) (NHQE) (NHQE) (NHQE) (NHQE)(NHQE)/
+(NDHQ)/
+
+
+
+(VE) A /F H /Q Q /W Q /
+(BG) S /G S /J S /G S /
+(NQ)   /D D /  D /  W /
+N U /(HQ) Q /(BW) S /G   /
+V Z /A F /H (FQ) /(HY) (FQ) /
+(BT) E /S Y /J   /T   /
+(NY)   /  J /H G /H   /
+N D /H Q /    /    /
+(VHQ)   /    /(HQR)   /F   /
+(BJW)   /S   /(GJW)   /S   /
+(NDHQ)   /D   /(HQ)   /D   /
+    /    /(JWT)   /    /
+(VHQ)   /    /(HQR)   /G   /
+(BJW)   /    /(JWT)   /B   /
+(AHQE)   /    /    /    /
+(NQE)   /    /(GJW)   /    /
+(VFHQ)   /A   /(FHQ)   /F   /
+(BJW)   /    /(GJW)   /S   /
+(NHQ)   /    /(HQ)   /    /
+(NQE)   /    /(GJW)   /    /
+(BJW)   /F   /(FHQ)   /F   /
+(BGJW)   /    /(GJW)   /B   /
+(NDHQY)   /    /(HQE)   /D   /
+    /    /B   /    /
+(VHQ)   /    /    /    /
+(BJ)   /S   /(GJ)   /G   /
+(NDH)   /    /    /    /
+N C /D A /B B /G   /
+N C /N A /H V /F A /
+(BE) Q /  G /J (SG) /G G /
+N   /    /  N /D   /
+N   /    /N   /    /
+(VFHQ)   /(FHQ) F /V   /  F /
+(BJW)   /S   /B   /    /
+(NHQ)   /(DHQ) (NDHQ) /(NHQ) (DHQ) /(DHQ) D /
+(NHQE) (ND) /(DHQ) D /(BGJW) (GJW) /(GJW) B /
+(NHQE) (NHQE) /(NHQE) (NHQE) /(VHQ) (VFHQ) /(VFHQ) (VFHQ) /
+(BGJ) (BGJ) /(SGJ) (GJ) /(BSGJ) (GJ) /(SGJ) (GJ) /
+(NHQE) (NHQE) /(NHQE) (NHQE) /(NHQE) (NHQE) /(NHQE) (NHQE)(NHQE)/
+(NDHQ)/

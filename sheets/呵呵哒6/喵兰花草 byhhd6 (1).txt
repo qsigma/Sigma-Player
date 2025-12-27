@@ -1,0 +1,52 @@
+第一版为一行一小节 排版版本往下翻
+(NH) (CE) (NW) E (NQ) (CW) (NJ) G
+(NH) D H  N D H
+(NH) (CE) (NW) E (NY) (CU) (NT) Y
+(CE) M D  C M D
+(ND) (CQ) (NQ) J (NH) C (ND) G
+(XS) N S  X N S
+(NH) (CQ) (NQ) E (NW) (CJ) (NG)
+(NH) D H  N D H
+(NH) (CE) (NE) E (NE) C N W
+(NQ) CW(NQ) J (NH) C N
+(NY) (CY) (NY) Y (NY) C N T
+(CE) (MT) (CT) R (CE) M C
+(NE) (CY) (NY) T (CE) M C W
+(NQ) CW(NQ) J (NH) C N
+(ND) (CQ) (NQ) J (NH) C N E
+(XW) NQ(XJ) G (NH) C N
+(NH) (CE) (NE) E (NE) C N W
+(NQ) CW(NQ) J (NH) C N
+(NY) (CY) (NY) Y (NY) C N T
+(CE) (MT) (CT) R (CE) M C
+(NE) (CY) (NY) T (CE) M C W
+(NQ) CW(NQ) J (NH) C N
+(ND) (CQ) (NQ) J (NH) C N E
+(CW) MQ(CJ) G (NH) C N
+
+
+
+(NH) (CE) /(NW) E /(NQ) (CW) /(NJ) G /
+(NH) D /H   /N D /H   /
+(NH) (CE) /(NW) E /(NY) (CU) /(NT) Y /
+(CE) M /D   /C M /D   /
+(ND) (CQ) /(NQ) J /(NH) C /(ND) G /
+(XS) N /S   /X N /S   /
+(NH) (CQ) /(NQ) E /(NW) (CJ) /(NG)   /
+(NH) D /H   /N D /H   /
+(NH) (CE) /(NE) E /(NE) C /N W /
+(NQ) CW/(NQ) J /(NH) C /N   /
+(NY) (CY) /(NY) Y /(NY) C /N T /
+(CE) (MT) /(CT) R /(CE) M /C   /
+(NE) (CY) /(NY) T /(CE) M /C W /
+(NQ) CW/(NQ) J /(NH) C /N   /
+(ND) (CQ) /(NQ) J /(NH) C /N E /
+(XW) NQ/(XJ) G /(NH) C /N   /
+(NH) (CE) /(NE) E /(NE) C /N W /
+(NQ) CW/(NQ) J /(NH) C /N   /
+(NY) (CY) /(NY) Y /(NY) C /N T /
+(CE) (MT) /(CT) R /(CE) M /C   /
+(NE) (CY) /(NY) T /(CE) M /C W /
+(NQ) CW/(NQ) J /(NH) C /N   /
+(ND) (CQ) /(NQ) J /(NH) C /N E /
+(CW) MQ/(CJ) G /(NH) C /N/

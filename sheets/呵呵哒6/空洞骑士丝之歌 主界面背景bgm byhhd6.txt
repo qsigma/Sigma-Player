@@ -1,0 +1,23 @@
+(NE) D /(JW)   /(NE) D /(HQ)   /
+(NW) D /(HQ)   /(NW) D /(GJ)   /
+(NQ) D /(GJ)   /(NQ) D /(FH)   /
+(NJ) S /D   /N M /A S /
+(NE) D /(JW)   /(NE) D /(HQ)   /
+(NW) D /(HQ)   /(NW) D /(GJ)   /
+(NQ) D /(GJ)   /(NQ) D /(FH)   /
+(NJ) S /D   /N M /A S /
+(VE) A /(HW)   /(VE) S /(HQ)   /
+(BW) S /(GQ)   /(BW) D /(GJ)   /
+(NQ) D /(GJ)   /(VQ) N /(SH)   /
+(ZJ) B /A D /G J /Q W /
+(VE) A /(FW)   /(VE) S /(FQ)   /
+(BW) S /(GQ)   /(BW) D /(GJ)   /
+(NQ) F /(GJ)   /(NQ) D /(FH)   /
+(NJ) S /D   /N M /A S /
+N M /A S /(NE) (MW) /(AE) (SQ) /
+(NW) (MQ) /(AW) (SJ) /(NQ) (MJ) /(AQ) (SH) /
+(NJ) M /A S /(NE) (MW) /(AE) (SQ) /
+(NW) (MJ) /(AQ) (SJ) /(NQ) (MJ) /(AQ) (SH) /
+(NJ) M /A S /N M /A S /
+N D /    /N D /    /
+N/

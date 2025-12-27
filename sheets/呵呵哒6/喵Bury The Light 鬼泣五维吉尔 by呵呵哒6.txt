@@ -1,0 +1,71 @@
+第一版为一行一小节 排版版本往下翻
+(XVNS)  [(XS)S]B [(XNS)S] [(CD)D]N
+[(XVNSF)F] [(XBS)S] N[(VNF)F]B [(XS)S]B
+[(ZCBMSG)G]  B N  [(XS)S]N
+(ZCBMS)  B NN B [(XS)S]B
+[(XBMSH)H]  B N  [(XS)S]N
+(XBMS)  [(BG)G] N[(VNG)G]B [(BG)G]B
+[(CBMG)G] [(XS)S]B [(XNS)S] [(XNS)S]B
+(ZCBMS) B [(XNS)S]B NNBNNNBN
+(XVNS)  [(XS)S]B [(XNS)S] [(CD)D]N
+[(XVNSF)F] [(XBS)S] N[(VNF)F]B [(XS)S]B
+(ZCBMSG)   [(VNH)H](NH)   N
+(ZCBMH)  B NN B  B
+[(XBMG)G][(NH)H] (VNH) N   N
+[(XBMS)S] (XS)(BS) (XS)[SN](XNS) B  B
+[(ZCBMS)S] (XS)S [(CBD)D](VNF)F (BG)(NG) [(CBF)F]
+[(CBMFHY)Y]B(HY)(NY) [(BHY)Y](NHY)NBNNNBN
+(XVNH) F S (BF) [(NHY)Y]F S (NF)
+[(XVNFHRY)T]F (BS) FN[(NFHR)R](BF) S (BF)
+[(ZVNDWR)E]N [(SFR)R](BF) (ND) N [(ADQ)Q](NF)
+[(ZVNDQE)E]N [(BSFR)R]FN(ND) (VN) D (BF)
+(ZCB) M A (BM) [(VNGT)T]M [(AGT)T](BM)
+[(ZCBFET)R]M [(BAFR)R]MN[(VNDE)E](BM) [(ADE)E](BM)
+[(XBSQE)W]M A (BM) (VN) M [(NADE)E](BM)
+[(XVNFWR)R](BM) (NA) (BM) (VN)N(BM)N(NA)N(BM)N
+(XVNHR) F S (BF) [(NHY)Y]F S (NF)
+[(XVNFHRY)T]F (BS) FN[(NFHR)R](BF) S (BF)
+[(ZVNDWR)E]N [(SFR)R](BF) (ND) N [(SFR)R](NF)
+(ZVNSFR) N (BD) FN(ND) (VN) D (BF)
+(ZCB) M A (BM) [(VNGT)T]M [(AGT)T](BM)
+[(ZCBFET)R]M [(BAFR)R]MN[(VNDE)E](BM) [(AGT)T](BM)
+[(XBGT)T]M A (BM) (VN) M (NA) (BM)
+(XVNGT) (BM) (NA) (BM) (VN)N(BM)N(NA)N(BM)N
+T
+
+
+
+
+(XVNS)   /[(XS)S] B /[(XNS)S]   /[(CD)D] N /
+[(CBF)F]   /[(XBS)S]  N/[(VNF)F] B /[(XS)S] B /
+[(ZCBMG)G]   /  B /N   /[(XS)S] N /
+B   /B  N/N B /[(XS)S] B /
+[(XBMH)H]   /  B /N   /[(XS)S] N /
+B   /[(BG)G]  N/[(VNG)G] B /[(BG)G] B /
+[(CBMG)G]   /[(XS)S] B /[(XNS)S]   /[(XNS)S] B /
+N B /[(XNS)S] B /NNBN/NNBN/
+(XVNS)   /[(XS)S] B /[(XNS)S]   /[(CD)D] N /
+[(CBF)F]   /[(XBS)S]  N/[(VNF)F] B /[(XS)S] B /
+(ZCBMG)   /  (VNH)H/ (NH)  /   N /
+B  / B  /NN B/   B /
+(XBMG)G /(NH)H  / (VNH) N/     /
+N [(XBS)S]/  (XS)(BS)/ (XS)[SN](XNS)/ B   /
+B [(ZCBMS)S]/  (XS)S/ (CBD)D /(VNF)F (BG)/
+(NG) (CBF)F/ [(NHY)Y] B/(HY)(NY) (BHY)/Y (NHY)N/
+BNNN/BN(XVNH) /F S /(BF) [(NHY)Y] /
+F S /(NF) [(BFHT)T] /F (BS) /FN[(NFHR)R] /
+(BF) S /(BF) [(ZVNDE)E] /N [(SFR)R] /(BF) (ND) /
+N [(ADQ)Q] /(NF) [(BDE)E] /N [(BSFR)R] /FN(ND) /
+(VN) D /(BF) (ZCB) /M A /(BM) [(VNGT)T] /
+M [(AGT)T] /(BM) [(BFR)R] /M [(BAFR)R] /MN[(VNDE)E] /
+(BM) [(ADE)E] /(BM) [(XBSW)W] /M A /(BM) (VN) /
+M [(NADE)E] /(BM) [(VNFR)R] /(BM) (NA) /(BM) (VN)N/
+(BM)N(NA)N/(BM)N(XVNH) /F S /(BF) [(NHY)Y] /
+F S /(NF) [(BFHT)T] /F (BS) /FN[(NFHR)R] /
+(BF) S /(BF) [(ZVNDE)E] /N [(SFR)R] /(BF) (ND) /
+N [(SFR)R] /(NF) (BD) /N (BD) /FN(ND) /
+(VN) D /(BF) (ZCB) /M A /(BM) [(VNGT)T] /
+M [(AGT)T] /(BM) [(BFR)R] /M [(BAFR)R] /MN[(VNDE)E] /
+(BM) [(AGT)T] /(BM) [(XBGT)T] /M A /(BM) (VN) /
+M (NA) /(BM) (VN) /(BM) (NA) /(BM) (VN)N/
+(BM)N(NA)N/(BM)N/

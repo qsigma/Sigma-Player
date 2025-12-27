@@ -1,0 +1,31 @@
+第一版为一行一小节 排版版本往下翻
+D  (NH) Q J(NH)/
+E (NW)   (NJ)  /
+(NH)QJ (DH)  (CJ) (ND)  A/
+D  (CD) (NH) QJ (NH)/
+E [(BG)(ADQT)] T [(VF)(MSJR)] W [(VF)(NSHR)]/
+(SR)EE [(BD)(BM)] Q (NH)  A/
+D  (CQ) (NHE)  (AQ) (DHE)/
+(CQ) (NHR)  (AE) (FJE) [NMAS(DJ)SAM(NHQ)]/
+(NHQ)E(AE) (VMD)  (AD) (NQE) [NMASDSAM]/
+N [NMAS(DQ)SAM(NHE)]  (AQ) (DHE)/
+(AQ) [(BG)(ADQT)] T [(VF)(MSJR)] W [(VF)(MSHR)]/
+(SR)EE [(BD)(BM)] Q (NH)  A/
+D  C N  A D/
+
+
+
+
+    /D (NH) / QJ /(NH)   /
+E (NW) /    /(NJ)   /  (NH)  /
+QJ /(DH)   /(CJ) (ND) /  A /
+D   /(CD) (NH) / QJ /(NH)   /
+E [(BG)(ADQT)] /  T /[(VF)(MSJR)]   /W [(VF)(NSHR)]  /
+EE /[(BD)(BM)]   /Q (NH) /  A /
+D   /(CQ) (NHE) /  (AQ) /(DHE)   /
+(CQ) (NHR) /  (AE) /(FJE) [NMAS(DJ)SAM(NHQ)] / E(AE) /
+(VMD)   /(AD) (NQE) /[NMASDSAMN] [NMAS(DQ)SAM(NHE)] /  (AQ) /
+(DHE)   /(AQ) [(BG)(ADQT)] /  T /[(VF)(MSJR)]   /
+W [(VF)(MSHR)] / EE /[(BD)(BM)]   /Q (NH)   /
+A /D   /C N /  A /
+D/

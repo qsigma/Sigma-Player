@@ -1,0 +1,36 @@
+第一版为一行一小节 排版版本往下翻
+(VR)(BT)(BT)(VR)(CBMT) TT(VR)B(BT)V(CBMT) TT/
+(VR)(BT)(BT)(VR)(CBMT) TT(VQ)B(BU)V(VMU)/
+(VR)(BT)(BT)(VR)(CBMT) TT(VR)(BT)(BT)(VR)(CBMT) TT/
+(VR)(BR)(BR)(VR)(CBMQ) Q (VJ)B(BG)V(VMG)/
+U   Y   T   R/
+T TT/
+U   Y   T   R/
+T TT/
+(VR)(BT)(BT)(VR)(CBMT) TT(VR)B(BT)V(CBMT) TT/
+(VR)(BT)(BT)(VR)(CBMT) TT(VQ)B(BU)V(VMU)/
+(VR)(BT)(BT)(VR)(CBMT) TT(VR)(BT)(BT)(VR)(CBMT) TT/
+(VR)(BR)(BR)(VR)(CBMQ) Q (VJ)B(BG)V(VMG)/
+U   Y   T   R/
+T TT/
+U   Y   T   R/
+T TT/
+
+
+
+(VR)(BT)(BT)(VR)/(CBMT) TT/(VR)B(BT)V/(CBMT) TT/
+(VR)(BT)(BT)(VR)/(CBMT) TT/(VQ)B(BU)V/(VMU)   /
+(VR)(BT)(BT)(VR)/(CBMT) TT/(VR)(BT)(BT)(VR)/(CBMT) TT/
+(VR)(BR)(BR)(VR)/(CBMQ) Q /(VJ)B(BG)V/(VMG)   /
+U   /Y   /T   /R   /
+T TT/    /    /    /
+U   /Y   /T   /R   /
+T TT/    /    /    /
+(VR)(BT)(BT)(VR)/(CBMT) TT/(VR)B(BT)V/(CBMT) TT/
+(VR)(BT)(BT)(VR)/(CBMT) TT/(VQ)B(BU)V/(VMU)   /
+(VR)(BT)(BT)(VR)/(CBMT) TT/(VR)(BT)(BT)(VR)/(CBMT) TT/
+(VR)(BR)(BR)(VR)/(CBMQ) Q /(VJ)B(BG)V/(VMG)   /
+U   /Y   /T   /R   /
+T TT/    /    /    /
+U   /Y   /T   /R   /
+T TT/

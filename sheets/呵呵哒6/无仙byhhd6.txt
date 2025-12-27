@@ -1,0 +1,41 @@
+Z A /AM B/  Q /QJ G/
+(XB) H /G A /  Y /T (VQ) /
+(ZV) S /  D /D   /E   /
+(XB) S /  D /S   /    /
+(NA) Q /(CNQ)(CNJ) (CNG)/  Q /QJ(CN)G/
+B H /(XBG)(XB)A(XB)/  H /G (XBA) /
+V S /(ZV)(ZV)D(ZV)/(ZVD)   /  (ZV) /
+B S /(XB)(XB)D(XB)/(XBS)   /(BM)   /
+(CNA) Q /(CNQ)(CNJ) (CNG)/(CNG)   /(CN)(CN)H(CN)/
+(XBG) A /(XB)(XBA)H(XB)/(XBG) A /(XB)(XB)S(XB)/
+(ZVA) Q /(ZVQ)(ZVJ) (ZVG)/(ZVG)   /(ZV)(ZV)H(ZV)/
+(XBG) A /(XB)(XBA)H(XB)/(XBJ) G /(XB)(XB)N(XB)/
+(CNA) Q /(CNQ)(CNJ) (CNG)/(CNG)   /(CN)(CN)H(CN)/
+(XBG) A /(XB)(XBA)H(XB)/(XBG) A /(XB)(XB)S(XB)/
+(ZVA) Q /(ZVQ)(ZVJ) (ZVG)/(ZVG)   /(ZV)(ZV)H(ZV)/
+(XBG) A /(XB)(XBA)H(XB)/(XBJ)   /(XBQ)(XB) (XB)/
+(ZCNA) (CNAQ) /(CNAQ)(CNMJ) (CBNG)/(CN) (CBNG) /(CND)(CN)(NH)(CN)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBG) (ZXBA) /(XB)(ZXBA)(XS)(XB)/
+(ZVA) (ZVAQ) /(ZVAQ)(ZVMJ) (ZVBG)/(ZV) (ZVBG) /(ZCVD)(ZV)(NH)(ZV)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBMJ) (XBG) /(XB)(XB)(XS)(XB)/
+(ZCNA) (CNAQ) /(CNAQ)(CNMJ) (CBNG)/(CN) (CBNG) /(CND)(CN)(NH)(CN)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBG) (ZXBA) /(XB)(ZXBA)(XS)(XB)/
+(ZVA) (ZVAQ) /(ZVAQ)(ZVMJ) (ZVBG)/(ZV) (ZVBG) /(ZCVD)(ZV)(NH)(ZV)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBMJ) (XBNH) /(XBMJ)(XB)(AQ)(XB)/
+(NH) QJ/H QJ/(NH) (NH) /(NQ)(NW)Q(NJ)/
+(BG) (BQ)J/(BG)BQ(BJ)/(BG) (BQ)W/(BE)(BW)Q(BJ)/
+(VH) (VQ)H/(VF)VQ(VH)/(VF) (VQ)W/(VQ)(VJ)H(VG)/
+(BG) (BQ)J/(BG)B(BQ)(BJ)/GBQ(BW)/(BE)W(BQ)J/
+(CNH) (CNQ)J/(CNH)(CN)Q(CNJ)/(CNH) (CNH) /(CNQ)(CNW)Q(CNJ)/
+(XBG) (XBQ)J/(XBG)(XB)Q(XBJ)/(XBG) (XBQ)W/(XBE)(XBW)Q(XBJ)/
+(ZVH) (ZVQ)H/(ZVF)(ZV)Q(ZVH)/(ZVF) (ZVQ)W/(ZVQ)(ZVJ)H(ZVG)/
+(XBG) (XBQ)J/(XBG)(XB)Q(XBJ)/(XBG) (XBQ)W/(XBE)(XBW)Q(XBJ)/
+(ZCNA) (CNAQ) /(CNAQ)(CNMJ) (CBNG)/(CN) (CBNG) /(CND)(CN)(NH)(CN)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBG) (ZXBA) /(XB)(ZXBA)(XS)(XB)/
+(ZVA) (ZVAQ) /(ZVAQ)(ZVMJ) (ZVBG)/(ZV) (ZVBG) /(ZCVD)(ZV)(NH)(ZV)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBMJ) (XBG) /(XB)(XB)(XS)(XB)/
+(ZCNA) (CNAQ) /(CNAQ)(CNMJ) (CBNG)/(CN) (CBNG) /(CND)(CN)(NH)(CN)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBG) (ZXBA) /(XB)(ZXBA)(XS)(XB)/
+(ZVA) (ZVAQ) /(ZVAQ)(ZVMJ) (ZVBG)/(ZV) (ZVBG) /(ZCVD)(ZV)(NH)(ZV)/
+(XBG) (ZXBA) /(XB)(ZXBA)(NH)(XB)/(XBMJ) (XBNH) /(XBMJ)(XB)(AQ)(XB)/
+N N /NN N/(N)/

@@ -36,7 +36,7 @@
 140D-D-D-D-D-FA--G-|G-G-+G-G-G-D-|M-D-DX-D--D-D-F-|
 143-A-A-A-N-A-MBX-A-|AC+++CD+|B++M+D--|
 146ZN++++|++S-N-DN-Z-|CA-D-DAN-D--CAD-CAD-CAF-|
-149-GA-GAC-G-GA-G-G-F-|B-A-A-A-H-A-A-S-|-ZBD-ZBD-D--D-D-DB-|
+149-GA-GAC-G-GA-G-G-F-|B-A-A-A--A-A-S-|-ZBD-ZBD-D--D-D-DB-|
 152ZND-D-D-D--ND-ZD-FV-|-G-G-G-G-G-G-F-|XB-D-DX-D--D-D-F-|
 155-M-M-M-N-A-BX-A-|AC+++CD+|B++M+AB+|
 158ZNV++++|+S+DA+ZCA+|++++|+CA+AG+D+|
@@ -50,4 +50,3 @@
 修改：旅长天狼星
 原琴适配修改：旅长天狼星
 脚本谱制作：旅长天狼星
-修改版2024.1.12

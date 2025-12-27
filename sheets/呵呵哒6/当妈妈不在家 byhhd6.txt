@@ -1,0 +1,12 @@
+(MG) W(MT) T (MT) T (MT) W
+(ME) T (MT) E (MW)  M
+(MG) W(MT) T (MT) T (MT) W
+(ME) W (MJ) H (MG)  M
+M  M  M  M
+M M M M M M M M
+MMMMMMMMMMMMMMMM
+M
+(MG) W(MT) T (MT) T (MT) W
+(ME) T (MT) E (MW)  M
+(MG) W(MT) T (MT) T (MT) W
+(ME) W (MJ) H (MG)

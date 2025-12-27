@@ -1,0 +1,20 @@
+N   /  N /    /    /
+N   /  N /  B /  B /
+(NAD)   /  N /    /    /
+N   /  N /  B /  B /
+(NAD)   /  N /    /  B /
+(NAD)   /    /  H /H H /
+(NADQ) H /  N /  H /H (MDH) /
+(NQ) H /  N /    /  (XSFHW) /
+    /W Q /(CDGJW) Q /H G /
+(NH) H /G (NDHQ) /    /  (XSFHW) /
+    /W Q /(CDGJW) Q /H G /
+(NH) H /Q (NADH) /    /  (XSFHW) /
+    /W Q /(CDGJW) Q /H G /
+(NH) H /G (NQ) /    /  (XSFHW) /
+    /W Q /(CDGJW) Q /H G /
+(NHQEY) (HQEY) /(HQEY) (NHQEY) /    /    /
+(DHE) N /    /N   /    /
+(DHQE) N /    /N   /    /
+(XSFHW)   /    /(CDGJE)   /    /
+(NHQEY)/

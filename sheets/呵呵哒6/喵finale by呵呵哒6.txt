@@ -1,0 +1,140 @@
+第一版为一行一小节 排版版本往下翻
+(BF)   F G H   F/
+(BG)   G H D   A/
+(NF)   F G H   R/
+(NE)   Q   G   D/
+(MF)   F G H   F/
+(MG)   G H D   A/
+(MG)   G G H   W/
+(MW)   E   W/
+(BF)   F G H   F/
+(BG)   G H D   A/
+(NF)   F G H   R/
+(NE)   Q   G   D/
+(MF)   F G H   F/
+(MG)   G H D   A/
+(MG)   G G H   W/
+(MW)   E   W/
+(BSF) CB(SF)B(DG)C(BFH) B (CG)B(SFH)B/
+(BDG)CB (BDG) (CFH)B(AD)B C(BS) (VNAD)/
+(NSF) BN(SF)N(DG)B(NFH) N (BG)N(WRY)N/
+(NQE)BN (NJ) (BHQ)NFN(DG)B(NS) (NADG)/
+(MSF) BM(SF)M(DG)B(MFH) M (BG)M(SFH)M/
+(MDG)BM (MDG) (BFH)M(AD)M B(MS) (NADG)/
+(MSG) NM(SG)M(DG)N(MFH) M (NG)M(JW)M/
+(MHW)NM (MJE) NM(DHW)M NM M/
+(BSF) CB(SF)B(DG)C(BFH) B (CG)B(SFH)B/
+(BDG)CB (BDG) (CFH)B(AD)B C(BS) (VNAD)/
+(NSF) BN(SF)N(DG)B(NFH) N (BG)N(WRY)N/
+(NQE)BN (NJ) (BHQ)NFN(DG)B(NS) (NADG)/
+(MSF) BM(SF)M(DG)B(MFH) M (BG)M(SFH)M/
+(MDG)BM (MDG) (BFH)M(AD)M B(MS) (NADG)/
+(MSG) NM(SG)M(DG)N(MFH) M (NG)M(JW)M/
+(MHW)NM (MJE) NM(DHW)M NM M/
+(CBM)    (CB) S   (BM)/
+(XBMF)    (CB) H   (BM)/
+(ZVNG)    (VN)    (ZN)/
+(XVND)    (ZN) A   (VN)/
+(XVMS)    (XM)      (BM)/
+(CBMS)    (XM) (XM)   (BM)/
+[(XNA)SF]   (BM) (BM)   (XM)/
+(BMSF)    (XM) (XM)   (BM)/
+(BM)    (CB) (CBMS)   (BM)/
+(XVNSF)    (BM) (BMFH)   (CB)/
+(ZNGQ)    (VN) (VN)   (ZN)/
+(CBMDG)    (ZN) (ZNAD)   (VN)/
+(XMSF)    (XM) (XM)   (BM)/
+(ZBMSF)    (XM) (XM)   (BM)/
+(XBG) B (XBG) (BG) (XBH) B (XBW) B/
+(XBJ) B (XB) B (XBH) H H H/
+(BSF) CB(SF)B(DG)C(BFH) B (CG)B(SFH)B/
+(BDG)CB (BDG) (CFH)B(AD)B C(BS) (VNAD)/
+(NSF) BN(SF)N(DG)B(NFH) N (BG)N(WRY)N/
+(NQE)BN (NJ) (BHQ)NFN(DG)B(NS) (NADG)/
+(MFW) BMHM(DGJW)B(MHW) M (BG)M(SFH)M/
+(MDGW)BM (MDG) (BFH)M(AD)M B(MS) (NADG)/
+(NADGW) NM(SG)M(DH)N(MSG) M (NAF)M M/
+(NADGW)NM M NMFM(SH)NM M/
+(MSFW) (NF)MGMHN(MQ) (MH) (NF)MSM/
+(NADGW)NM M NM(SH)M NM M/
+(BSFW) CB(SF)B(DG)C(BFH) B (CG)B(SFH)B/
+(BDGW)CB (BDG) (CFH)B(AD)B C(BS) (VNAD)/
+(NSFW) BN(SF)N(DG)B(NFH) N (BG)N(WRY)N/
+(NFQE)BN (NJ) (BHQ)NFN(DG)B(NS) (NADG)/
+(MFW) BMHM(DGJW)B(MHW) M (BG)M(SFH)M/
+(MDG)BM (MDG) (BFH)M(AD)M B(MS) (NADG)/
+(MSF) (NF)MGMHN(MQ) (MH) (NF)MSM/
+(NADG)NM M NM(SH)M NM M/
+(VNAF)/
+(CBMSFH)      F/
+
+
+
+(BF)   /F G /H   /F   /
+G   /G H /D   /A   /
+(NF)   /F G /H   /R   /
+E   /Q   /G   /D   /
+(MF)   /F G /H   /F   /
+G   /G H /D   /A   /
+(MG)   /G G /H   /W   /
+W   /E   /W   /    /
+(BF)   /F G /H   /F   /
+G   /G H /D   /A   /
+(NF)   /F G /H   /R   /
+E   /Q   /G   /D   /
+(MF)   /F G /H   /F   /
+G   /G H /D   /A   /
+(MG)   /G G /H   /W   /
+W   /E   /W   /    /
+(BSF) CB/(SF)B(DG)C/(BFH) B /(CG)B(SFH)B/
+(DG)CB /(BDG) (CFH)B/(AD)B C/(BS) (VNAD) /
+(NSF) BN/(SF)N(DG)B/(NFH) N /(BG)N(WRY)N/
+(QE)BN /(NJ) (BHQ)N/FN(DG)B/(NS) (NADG) /
+(MSF) BM/(SF)M(DG)B/(MFH) M /(BG)M(SFH)M/
+(DG)BM /(MDG) (BFH)M/(AD)M B/(MS) (NADG) /
+(MSG) NM/(SG)M(DG)N/(MFH) M /(NG)M(JW)M/
+(HW)NM /(MJE) NM/(DHW)M N/M M /
+(BSF) CB/(SF)B(DG)C/(BFH) B /(CG)B(SFH)B/
+(DG)CB /(BDG) (CFH)B/(AD)B C/(BS) (VNAD) /
+(NSF) BN/(SF)N(DG)B/(NFH) N /(BG)N(WRY)N/
+(QE)BN /(NJ) (BHQ)N/FN(DG)B/(NS) (NADG) /
+(MSF) BM/(SF)M(DG)B/(MFH) M /(BG)M(SFH)M/
+(DG)BM /(MDG) (BFH)M/(AD)M B/(MS) (NADG) /
+(MSG) NM/(SG)M(DG)N/(MFH) M /(NG)M(JW)M/
+(HW)NM /(MJE) NM/(DHW)M N/M M /
+(CBM)   /  (CB) /S   /(BM)   /
+(XBMF)   /  (CB) /H   /(BM)   /
+(ZVNG)   /  (VN) /    /(ZN)   /
+(XVND)   /  (ZN) /A   /(VN)   /
+(XVMS)   /  (XM) /    /  (BM) /
+(CBM)   /  (XM) /(XM)   /(BM)   /
+[(XNA)S]F  /   (BM)/ (BM)  / (XM)   /
+(BM)  /   (XM)/ (XM)  / (BM)   /
+(BM)  /   (CB)/ (CBMS)  / (BM)   /
+(XVNSF)  /   (BM)/ (BMFH)  / (CB)   /
+(ZNGQ)  /   (VN)/ (VN)  / (ZN)   /
+(CBMDG)  /   (ZN)/ (ZNAD)  / (VN)   /
+(XMSF)  /   (XM)/ (XM)  / (BM)   /
+(ZBM)  /   (XM)/ (XM)  / (BM)   /
+(XBG) B/ (XBG) (BG)/ (XBH) B/ (XBW) B /
+(XBJ) B/ (XB) B/ (XBH) H/ H H /
+(BSF) C/B(SF)B(DG)/C(BFH) B/ (CG)B(SFH)/
+B(DG)CB/ (BDG) (CFH)/B(AD)B /C(BS) (VNAD) /
+(NSF) B/N(SF)N(DG)/B(NFH) N/ (BG)N(WRY)/
+N(QE)BN/ (NJ) (BHQ)/NFN(DG)/B(NS) (NADG) /
+(MFW) B/MHM(DGJW)/B(MHW) M/ (BG)M(SFH)/
+M(DG)BM/ (MDG) (BFH)/M(AD)M /B(MS) (NADG) /
+(MSG) N/M(SG)M(DH)/N(MSG) M/ (NAF)M /
+M(SG)NM/ M N/MFM(SH)/NM M /
+(MS) (NF)/MGMH/N(MQ) (MH)/ (NF)MS/
+M(SG)NM/ M N/M(SH)M /NM M /
+(BSF) C/B(SF)B(DG)/C(BFH) B/ (CG)B(SFH)/
+B(DG)CB/ (BDG) (CFH)/B(AD)B /C(BS) (VNAD) /
+(NSF) B/N(SF)N(DG)/B(NFH) N/ (BG)N(WRY)/
+N(QE)BN/ (NJ) (BHQ)/NFN(DG)/B(NS) (NADG) /
+(MFW) B/MHM(DGJW)/B(MHW) M/ (BG)M(SFH)/
+M(DG)BM/ (MDG) (BFH)/M(AD)M /B(MS) (NADG) /
+(MS) (NF)/MGMH/N(MQ) (MH)/ (NF)MS/
+M(SG)NM/ M N/M(SH)M /NM M /
+(VNA)  /    /    /     /
+(ADH)  /    / F/

@@ -1,0 +1,68 @@
+(ZG) (BD) (CA) G D A (ZG) (CD) (BA) (CG)
+(ZH) (NF) (VA) H F A (ZH) (VF) (NA) (VH)
+(ZG) (BD) (CA) G D A (ZG) (CD) (BA)
+(BS) B (XS) (BG) (MJ) (SW)
+(ZT) (BE) (CQ) T E Q (ZT) (CE) (BQ) (CT)
+(ZY) (NR) (VQ) Y R Q (ZY) (VR) (NQ) (VY)
+(ZT) (BE) (CQ) T E Q (ZT) (CE) (BQ)
+(BW) B (MS) (XG) (BJ) (MGW)
+(ZY)R(BQ)R(CQ)H(BQ)H(CF)H(BF)A(CF)A(VN)A(CN)VB X V
+(BT)E(XQ)E(MQ)G(XQ)G(MD)G(XD)A(MD)ABA(XB)C(ZV) B C
+(ZY)R(BQ)R(CQ)H(BQ)H(CF)H(BF)A(CF)A(VN)A(CN)VB X V
+(BT)E(XQ)E(MQ)G(XQ)G(MD)G(XD)A(BD)ABA(XB)C
+(ZV) B D B D B D B
+Z N F N F N F N
+Z B D B D B D B
+Z  B  A  S
+(ZS) (BD) (CD) (BD) C B C B
+Z B C (BS) (CF) (BD) (CS) (BA)
+(ZS) (BD) (CD) (BD) C B C B
+Z B C (BS) (CF) (BD) (CS) (BA)
+(XN) (NS) (VS) (NS) V N V N
+B X V (XA) (VS) (XA) (VS) (BA)
+(ZS) (BD) (CD) (BD) C B C B
+[BXV] G  Q  W
+(ZW) (BE) (DE) (BE) D B D B
+Z B D (BW) (DR) (BE) (DW) (BQ)
+(ZW) (BE) (DE) (BE) D B D B
+Z B D (BW) (DR) (BE) (DW) (BQ)
+(XH) (NW) (FW) (NW) F N F N
+B S F (SQ) (FW) (SQ) (FW) (SQ)
+(ZW) (BE) (DE) (BE) D B D B
+(ZE) N F (NQ) (FW) (NQ) (FW) (BQ)
+(ZW) (BE) (DE) (QE)
+(ZY)R(BQ)R(CQ)H(BQ)H(CF)H(BF)A(CF)A(VN)A(CN)VB X V
+(BT)E(XQ)E(MQ)G(XQ)G(MD)G(XD)A(MD)ABA(XB)C(ZV) B C
+(ZY)R(BQ)R(CQ)H(BQ)H(CF)H(BF)A(CF)A(VN)A(CN)VB X V
+(BT)E(XQ)E(MQ)G(XQ)G(MD)G(XD)A(MD)ABA(XB)C(ZV) B C
+(ZG) (BD) (CA) G D A (ZG) (CD) (BA) (CG)
+(ZH) (NF) (VA) H F A (ZH) (VF) (NA) (VH)
+(ZG) (BD) (CA) G D A (ZG) (CD) (BA)
+(BS) B (XS) (BG) (MJ) (SW)
+(ZT) (BE) (CQ) T E Q (ZT) (CE) (BQ) (CT)
+(ZY) (NR) (VQ) Y R Q (ZY) (VR) (NQ) (VY)
+(ZT) (BE) (CQ) T E Q (ZT) (CE) (BQ)
+(BW) B (MS) (XG) (BJ) (MW)
+[(ZG)QE]B D B D B D B
+[(ZH)QR]N F N F N F N
+[(ZG)QE]B D B D B D B
+Z  G  Q  W
+(ZS) (BD) (CD) (BD) C B C B
+Z B C (BS) (CF) (BD) (CS) (BA)
+(ZS) (BD) (CD) (BD) C B C B
+Z B C (BS) (CF) (BD) (CS) (BA)
+(XN) (NS) (VS) (NS) V N V N
+B X V (XA) (VS) (XA) (VS) (BA)
+(ZS) (BD) (CD) (BD) C B C B
+[BXV] G  Q  W
+(ZW) (BE) (DE) (BE) D B D B
+Z B D (BW) (DR) (BE) (DW) (BQ)
+(ZW) (BE) (DE) (BE) D B D B
+Z B D (BW) (DR) (BE) (DW) (BQ)
+(XH) (NW) (FW) (NW) F N F N
+B S F (SQ) (FW) (SQ) (FW) (SQ)
+(ZW) (BE) (DE) (BE) D B D B
+(ZE) N F (NQ) (FW) (NQ) (FW) (BQ)
+(ZW) (BE) (DE) (BE) D B D B
+A H R (HQ) (WR) (HQ) (WR) (HQ)
+(ZW) (BE) (DE) (QE)

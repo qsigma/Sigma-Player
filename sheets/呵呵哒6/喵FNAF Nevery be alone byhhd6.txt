@@ -1,0 +1,70 @@
+第一版为一行一小节 排版版本往下翻
+N H QWE(BW) Q  Q
+(AT) Q E Q (SW) H QWE
+N H QWE(BW) Q  Q
+(VT) Q E Q (CW) H H H
+N H QWE(BW) Q  Q
+(AT) Q E Q (SW) H QWE
+C J H W N Q J Q
+V J H H C
+N Q Q H (BQ) Q H H
+(AQ) W  Q S
+V Q Q H (NQ) W Q Q
+(CJ)    N
+N Q Q Q B Q H
+(AQ) W  Q X
+V Q Q H (NQ) W Q Q
+(CJ)    N  C
+V E (VE) W (ZAE) E (BH)
+(BM) E (NE) W (BE) E (CH)
+V E (VE) W (ZAE) E B E
+(NE)  N  B  C
+V E (VE) W (ZAE) E (BH)
+N E (NE) W (BE) E (CH)
+V E (VE) W (ZAE) E (CB) E
+(CE)  C  N
+N H (NQ)WE(BW) Q B Q
+(ZAT) Q (ZAE) Q (XSW) H (XSQ)WE
+(VW) Q V Q (NH) Q C Q
+(CW) Q (CW) Q (CW) E (CR) E
+N H (NQ)WE(BW) Q B Q
+(ZAT) Q (ZAE) Q (XSW) H (XSQ)WE
+(VW) Q V Q (NH) Q (CW) Q
+(CJ) J (CJ) W (CJ)  Q
+(NH)  N  B  B
+
+
+N H /Q W /E (BW) /Q   /
+Q (AT) /Q E /Q (SW) /H Q /
+W E /N H /Q W /E (BW) /
+Q   /Q (VT) /Q E /Q (CW) /
+H H /H N /H Q /W E /
+(BW) Q /  Q /(AT) Q /E Q /
+(SW) H /Q W /E C /J H /
+W N /Q J /Q V /J H /
+H C /    /  N /Q Q /
+H (BQ) /Q H /H (AQ) /W   /
+Q S /    /  V /Q Q /
+H (NQ) /W Q /Q (CJ) /      /
+N /    /  N /Q Q /
+Q B /Q H /  (AQ) /W   /
+Q X /    /  V /Q Q /
+H (NQ) /W Q /Q (CJ) /      /
+N /  C /  V /E (VE) /
+W (ZAE) /E (BH) /  (BM) /E (NE) /
+W (BE) /E (CH) /  V /E (VE) /
+W (ZAE) /E B /E (NE) /  N   /
+B /  C /  V /E (VE) /
+W (ZAE) /E (BH) /  N /E (NE) /
+W (BE) /E (CH) /  V /E (VE) /
+W (ZAE) /E (CB) /E (CE) /  C   /
+N /    /  N /H (NQ) /
+W E /(BW) Q /B Q /(ZAT) Q /
+(ZAE) Q /(XSW) H /(XSQ) W /E (VW) /
+Q V /Q (NH) /Q C /Q (CW) /
+Q (CW) /Q (CW) /E (CR) /E N /
+H (NQ) /W E /(BW) Q /B Q /
+(ZAT) Q /(ZAE) Q /(XSW) H /(XSQ) W /
+E (VW) /Q V /Q (NH) /Q (CW) /
+Q (CJ) /J (CJ) /W (CJ) /  Q   /
+(NH) /  N /  B /  B/

@@ -1,0 +1,52 @@
+C   /    /    /    /
+X   /    /E R /RTE /
+B   /    /    /  RT/
+(ZE) WQ/    /    /    /
+C   /    /    /    /
+X   /    /E R /RTE /
+B   /    /    /  RT/
+(ZE) WQ/    /    /    /
+CNDS/DSAD/ SDS/DSAD/
+XSD /  DH/ G D/  DG/
+(BH) D /    /    /  DG/
+(ZH) JG/D SG/D   /  A /
+CNDS/DSAD/ SDS/DASS/
+X HG/G  Q/JHGH/G DG/
+(BH) QH/    /    /QWEW/
+(XE)WQ /    /  QH/   G/
+(CE)WQW/QH  /EWQW/W  Q/
+(XE)WQW/QH  /EWQW/W  Q/
+(BE)WQW/QH  /EWQW/W  Q/
+(ZE)WQW/QH  /EWQW/W  Q/
+(CE)WQW/Q  G/GHQW/   Q/
+(XE)EET/Q  G/GHQW/  QW/
+(BE)WQW/EWQW/E QW/EWQW/
+(ZE) WW/ EWQ/WE  /    /
+(CE) E /E WT/  R /EWQW/
+(XE) E /E WT/  R /EWQW/
+(BE) EE/    /    /QWEW/
+(ZE)  W/W   /  H /   H/
+(CE) E /E WT/  R /EWQW/
+(XE) E /E WT/  R /EWQW/
+(BE) EE/    /    /QWET/
+(ZE)  W/W   /  H /    /
+CNDS/DSAD/ SDS/HGDS/
+(XG)DS /  DH/ G D/  DG/
+(BH) D /D   /    /  DG/
+(ZH) QG/D SG/D S /  A /
+CADG/H  D/D GH/ G  /
+XDDG/H  J/Q JH/ GDG/
+(BH) S /S A /    / QQW/
+(ZE) QH/GWJH/G GH/   G/
+(CE)WQW/QH  /EWWW/W  Q/
+(XE)WQW/QH  /EWQW/W  [QW(BE)]/
+WQWE/WQWE/ QWE/WQW(ZE) /
+WW /EWQW/E   /   (CE) /
+E E/ WT / R E/WQW(XE) /
+E E/ WT / R E/WQW(BE) /
+EE /    /   Q/WEW(ZE)  /
+WW/    / H  /  H(CE) /
+E E/ WT / R E/WQW(XE) /
+E E/ WT / R E/WQW(BE) /
+EE /    /   Q/WET(ZE)  /
+WW/

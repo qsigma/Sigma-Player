@@ -1,0 +1,85 @@
+第一版为一行一小节 排版版本往下翻
+(CNA)    N   (CA) (BM) (CA)/
+(CNA)       (CNA) M (CNA)/
+(CNA)       (CNA) M (CA)/
+(VNS)      N (VS) D F/
+(CND)      M   S/
+(CNA)    M N/
+(XBM)      N   N M/
+(CM)/
+(CNA)    N   (CA) (BM) (CA)/
+(CNA)       (CNA) M (CNA)/
+(CNA)       (CNA) M (CA)/
+(VNS)      N (VS) D F/
+(CND)      M   S/
+(CNA)    M N/
+(VN) Z N   B X M/
+N C N A D/
+(ZC)   S   S   D/
+(XVNS)   D   F/
+(MG) X (VF)   (ND) X (VS)/
+(ND) C N   A/
+(VA) Z V   M   A/
+(XV) N X   A/
+(MS) V (NA)   M   (BM)/
+(CM) M X C N/
+(NA) C (AH) J B X (BQ)/
+(BHW) X E H V Z N/
+(CJ) M (CH) N (MD)   S A/
+(NA) C N M A/
+(BMS) X (NS)   D   F X/
+(BMS) X (NS)   D   F X/
+(MSG)   F   (ND)   (NS) M/
+(CBMD) M C N (ND)/
+(NA) C (AH) J B X (BQ)/
+(BHW) X E H V Z N/
+(CJ) M (CH) N (MD)   S A/
+(NA) C N M A/
+(BMS) X (NS)   D   F X/
+(BMS) X (NS)   D   F X/
+(NG) C A N X B N M/
+(VA) Z (VM)   (VN) X M/
+(CN)/
+
+
+(CNA)   /  N /  (CA) /(BM) (CA) /
+(CNA)   /    /  (CNA) /M (CNA) /
+(CNA)   /    /  (CNA) /M (CA) /
+(VNS)   /    /N (VS) /D F /
+(CND)   /    /M   /S   /
+(CNA)   /  M /N   /    /
+(XBM)   /    /N   /N M /
+(CM)   /    /    /    /
+(CNA)   /  N /  (CA) /(BM) (CA) /
+(CNA)   /    /  (CNA) /M (CNA) /
+(CNA)   /    /  (CNA) /M (CA) /
+(VNS)   /    /N (VS) /D F /
+(CND)   /    /M   /S   /
+(CNA)   /  M /N   /    /
+(VN) Z /N   /B X /M   /
+N C /N A /D   /    /
+(ZC)   /S   /S   /D   /
+(XVNS)   /D   /F   /    /
+(MG) X /(VF)   /(ND) X /(VS)   /
+(ND) C /N   /A   /    /
+(VA) Z /V   /M   /A   /
+(XV) N /X   /A   /    /
+(MS) V /(NA)   /M   /(BM)   /
+(CM) M /X C /N   /    /
+(NA) C /(AH) J /B X /(BQ)   /
+(BHW) X /E H /V Z /N   /
+(CJ) M /(CH) N /(MD)   /S A /
+N C /N M /A   /    /
+(BMS) X /(NS)   /D   /F X /
+(BMS) X /(NS)   /D   /F X /
+(MSG)   /F   /(ND)   /(NS) M /
+(CBMD) M /C N /(ND)   /    /
+(NA) C /(AH) J /B X /(BQ)   /
+(BHW) X /E H /V Z /N   /
+(CJ) M /(CH) N /(MD)   /S A /
+N C /N M /A   /    /
+(BMS) X /(NS)   /D   /F X /
+(BMS) X /(NS)   /D   /F X /
+(NG) C /A N /X B /N M /
+(VA) Z /(VM)   /(VN) X /M   /
+(CN)/

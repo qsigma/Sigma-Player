@@ -1,0 +1,169 @@
+A   /    /    /    /
+A   /    /    /    /
+A   /    /    /    /
+A   /    /    /    /
+F   /    /    /    /
+D   /    /    /    /
+S   /    /    /    /
+H   /    /    /    /
+Y   /    /    /    /
+T   /    /    /    /
+R   /    /    /    /
+E   /    /    /    /
+H   /    /Q   /    /
+H   /    /Q   /    /
+R   /    /    /    /
+D   /    /    /    /
+G   /    /    /    /
+H   /    /    /Q   /
+W Q /  J /    /    /
+Q   /    /    /    /
+F   /    /    /    /
+H   /    /    /Q   /
+W   /    /Q   /J   /
+H   /    /    /    /
+G   /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+H   /    /    /  JQ/
+W   /    /    /  QJ/
+Q   /    /    /    /
+E   /    /H   /    /
+H   /    /    /  JQ/
+W   /Q   /J   /Q   /
+J   /    /D   /E   /
+W   /    /J   /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+DHQE/EQHD/DHQE/EQHD/
+FHQR/RQHF/FHQR/RQHF/
+DHQE/EQHD/DHQE/EQHD/
+FHQR/RQHF/FHQR/RQHF/
+FHRY/YRQH/FHRY/YRQH/
+DHQE/YEQH/DHQE/YEQH/
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /      /
+H /  J /    /Q   /
+W E /  R /R   /E   /
+Q   /    /    /    /
+Q   /    /    /      /
+H /  J /    /Q   /
+W   /  Q /    /J   /
+Y   /    /    /    /
+T   /    /E   /    /
+Q  W/  E /E  W/  Q /
+E   /  W /    /    /
+    /    /W  Q/  J /
+W   /    /Q   /    /
+Q  J/  H /Q  J/  H /
+Q  J/  H /Q  J/  Q /
+W   /E   /DDGJ/JETU/
+EEUT/TEJG/JGDJ/EJG /
+D   /    /    /    /
+F   /    /    /    /
+    /    /D   /    /
+    /    /S   /    /
+    /    /D   /    /
+F   /    /    /    /
+D   /    /    /    /
+D   /H   /    /    /
+H   /  J /    /Q   /
+W E /  R /    /E   /
+Q   /    /    /    /
+Q   /    /    /      /
+H /  J /    /Q   /
+W Q /  J /J   /H   /
+H   /    /    /    /
+G   /    /D   /    /
+DHQE/EQHD/DHQE/EQHD/
+FHQR/RQHF/FHQR/RQHF/
+DHQE/EQHD/DHJQ/WQJH/
+DGQH/WQJF/DGJE/EJGD/
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /    /
+D   /  H /    /Q   /
+J   /  W /    /Q   /
+J   /  Q /    /W   /
+W   /    /Q   /    /
+W   /    /    /    /
+T   /  R /R   /    /
+ERWE/ERWE/QWHQ/WEWQ/
+Q   /  QW/E   /    /
+D   /    /H   /    /
+Q   /    /    /    /
+Q   /    /    /    /
+Q   /    /J   /    /
+J   /  Q /    /J   /
+J   /    /H   /    /
+H  J/  Q /E  W/  H /
+Q   /    /J   /    /
+H   /    /    /E   /
+Q   /    /    /  HJ/
+Q   /  W /    /Q   /
+Q   /    /J   /    /
+J   /  Q /    /J   /
+J   /  HG/H   /    /
+H  J/  Q /E  W/  H /
+Q   /    /J   /    /
+Q Q /Q Q /    /H H /
+H H /    /J J /W W /
+Q Q /Q Q /    /H H /
+H H /    /J J /W W /
+E E /E E /    /Q Q /
+Q Q /    /J J /R R /
+A   /  D /    /A   /
+S   /    /G   /    /
+H   /    /H  J/  Q /
+Q   /  JH/J  Q/  W /
+E   /    /    /    /
+EREW/EWQJ/QJHD/HDSA/
+H   /    /H  J/  Q /
+Q   /  JH/J  Q/  J /
+H   /    /    /  JH/
+G   /    /    /    /
+H   /    /    /    /
+Q   /    /J   /    /
+J   /W   /    /    /
+W   /    /Q   /    /
+W   /    /    /    /
+W   /    /    /    /
+QGHJ/QHJQ/WJQW/EWQJ/
+H   /  JQ/J   /  QW/
+E   /    /    /  WQ/
+W   /    /J   /    /
+W   /    /W  E/  R /
+R   /  EW/E   /    /
+E   /    /E  R/  T /
+T   /    /R   /    /
+E   /    /EQJQ/JHQW/
+E   /    /    / EEE/
+E   /    /E  R/  E /
+E   /    /    /    /
+Y/ 

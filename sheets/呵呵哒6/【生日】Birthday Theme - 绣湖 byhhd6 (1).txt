@@ -1,0 +1,32 @@
+N   /(AD)   /(AD)   /N   /
+(ADHQ)   /(ADHQ)   /N   /(ADGJ)   /
+(ADHW)   /N   /(ADHE)   /(ADHT)   /
+(NE)   /(HQ) R /(HQT)   /(SR)   /
+F E /F W /(VQ)   /(FH) J /
+F H /(MG)   /(MS)   /(SF)   /
+(ND)   /(ADH)   /(AD)   /N   /
+(ADHQ)   /(ADHQ)   /N   /(ADGJ)   /
+(ADHW)   /N   /(ADHT)   /(ADH) W /
+(NE)   /(HQ) R /(HQT)   /(SR)   /
+(FH) E /F W /(VQ)   /(FH) J /
+H   /(MG)   /M   /(SF)   /
+(ZD)   /(AH)   /(AD)   /Z   /
+(AW)   /(AD)   /(VF)   /    /
+D F /D   /    /S   /
+(ND)   /(ADH)   /(AD)   /N   /
+(ADHQ)   /(ADHQ)   /N   /(ADGJ)   /
+(ADHW)   /N   /(ADHT)   /(ADH) W /
+(NE)   /(HQ) R /(HQT)   /(SR)   /
+(FHE)   /F W /(VQ)   /(FH) J /
+F H /(MG)   /(MS)   /(MSF)   /
+(ND)   /(ADH)   /(AD)   /N   /
+(AD)   /(AD)   /N   /(ADHQ)   /
+(ADGJ)   /N   /(ADHW)   /(ADHT)   /
+(NE)   /(HQ) R /(HQT)   /(SR)   /
+F E /F W /(VQ)   /(FH) J /
+H   /(MG)   /S F /(MS)   /
+(ZD)   /(MSFH)   /(AD)   /Z   /
+A W /(AD)   /(VH)   /  A /
+D F /D   /    /S   /
+C Z /C N /S D /G H /
+Q E /Y/

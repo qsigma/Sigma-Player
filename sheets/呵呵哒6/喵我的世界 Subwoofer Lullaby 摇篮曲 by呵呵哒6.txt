@@ -1,0 +1,115 @@
+第一版为一行一小节 排版版本往下翻
+A (DJ) G (DJ)/
+A (DJ) G (DJ)/
+A (DJ) G (DJ)/
+A (DJ) G (DJ)/
+(ZA) (ADJ) (ZG) (ADJ)/
+(ZA) (MDJ) (ZG) (MDJ)/
+(ZA) (ADJ) (ZG) (ADJ)/
+(ZA) (MDJ) (ZG) (MDJ)/
+(ZAJ)Q(MDW)EBW(MD)J/
+(ZAQ) (MD) (BG) (MDJ)/
+(NJ)E(ADW)ENT(AD)E/
+N (ADW) N (ADJ)/
+(VR)E(NA)QVH(NAQ)/
+(BJ)G(MS)EBW(NAD)F/
+(VR)E(NA)QVH(NAY)/
+(BT) (MSE)WBJ(MSG)/
+Z (AJT) (ZGE) (AJT)/
+Z (MDJT) (ZGE) (MDJT)/
+Z (AJT) (ZGE) (AJT)/
+Z (MDJT) (ZGE) (MDJT)/
+(CMD)/
+(ZBDU)  T/
+Q   E/
+(CNAH) Q/
+(ZVNT)  H/
+(XBMW)  J/
+(ZBDU)  T/
+Q/
+Z (BM) (CB)/
+G  S/
+Z (BM) (CB)/
+S  D/
+(VQ) (ADT) (NAE) H/
+G  D/
+(VT) (ADY) (NAQ)/
+E  D/
+(ZU) (BMT) (CBW)/
+E  Q/
+(ZJ)[QW(BME)]T(CB)/
+S W D/
+(VQ) (ADT) (NAE) H/
+G  D/
+(VT) (ADY) (NAQ)/
+E  D/
+(ZAGQ) (BM) (CB)/
+G  S/
+(ZA) (BM) (CB)/
+S  D/
+(ZA) (BM) (CB)/
+Z (BM) (CB)/
+Z (BM) (CB)/
+Z (BM) (CB)/
+
+
+
+A   /(DJ)   /G   /(DJ)   /
+A   /(DJ)   /G   /(DJ)   /
+A   /(DJ)   /G   /(DJ)   /
+A   /(DJ)   /G   /(DJ)   /
+(ZA)   /(ADJ)   /(ZG)   /(ADJ)   /
+(ZA)   /(MDJ)   /(ZG)   /(MDJ)   /
+(ZA)   /(ADJ)   /(ZG)   /(ADJ)   /
+(ZA)   /(MDJ)   /(ZG)   /(MDJ)   /
+(ZAJ) Q /(MDW) E /B W /(MD) J /
+(ZAQ)   /(MD)   /(BG)   /(MDJ)   /
+(NJ) E /(ADW) E /N T /(AD) E /
+N   /(ADW)   /N   /(ADJ)   /
+(VR) E /(NA) Q /V H /(NAQ)   /
+(BJ) G /(MS) E /B W /(NAD) F /
+(VR) E /(NA) Q /V H /(NAY)   /
+(BT)   /(MSE) W /B J /(MSG)   /
+Z   /(AJT)   /(ZGE)   /(AJT)   /
+Z   /(MDJT)   /(ZGE)   /(MDJT)   /
+Z   /(AJT)   /(ZGE)   /(AJT)   /
+Z   /(MDJT)   /(ZGE)   /(MDJT)   /
+(CMD)   /    /    /    /
+    /    /    /    /
+(ZBDU)   /    /T   /    /
+Q   /    /    /  E /
+(CNAH)   /Q   /    /    /
+    /    /    /    /
+(ZVNT)   /    /H   /    /
+    /    /    /    /
+(XBMW)   /    /J   /    /
+    /    /    /    /
+(ZBDU)   /    /T   /    /
+Q   /    /    /    /
+Z   /(BM)   /(CB)   /    /
+G   /    /S   /    /
+Z   /(BM)   /(CB)   /    /
+S   /    /D   /    /
+(VQ)   /(ADT)   /(NAE)   /H   /
+G   /    /D   /    /
+(VT)   /(ADY)   /(NAQ)   /    /
+E   /    /D   /    /
+(ZU)   /(BMT)   /(CBW)   /    /
+E   /    /Q   /    /
+(ZJ) QW/(BME) T /(CB)   /    /
+S   /W   /D   /    /
+(VQ)   /(ADT)   /(NAE)   /H   /
+G   /    /D   /    /
+(VT)   /(ADY)   /(NAQ)   /    /
+E   /    /D   /    /
+(ZAGQ)   /(BM)   /(CB)   /    /
+G   /    /S   /    /
+(ZA)   /(BM)   /(CB)   /    /
+S   /    /D   /    /
+(ZA)   /(BM)   /(CB)   /    /
+    /    /    /    /
+Z   /(BM)   /(CB)   /    /
+    /    /    /    /
+Z   /(BM)   /(CB)   /    /
+    /    /    /    /
+Z   /(BM)   /(CB)/

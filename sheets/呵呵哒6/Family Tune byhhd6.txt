@@ -1,0 +1,32 @@
+(NQE)   /(NAD)   /(NAD)   /(CJT)   /
+(BMD)   /(BMD)   /(NQE)   /(NAD)   /
+(NAD)   /(CJT)   /(BMD)   /(BMD)   /
+(NQE)   /(NAD)   /(NAD)   /(CJT)   /
+(BMD)   /(BMD)   /(AQE)   /(BAD)   /
+(BAD)   /(BJT)   /(BMS)   /(BMS) B /
+(NQE)   /(NAD)   /(NAD)   /(CJT)   /
+(BMD)   /(BMD)   /(VQE)   /(VNA)   /
+(VNA)   /(XJT)   /(NSF)   /A M /
+(NH) G /(NADH) J /(NADQ) W /(XE) T /
+(BMDE) Y /(BMDE)   /(AW) E /(BADQ) W /
+(BADJ) Q /(BH)   /(BMS) G /(BMS)   /
+(NHQE)   /(NAD)   /(NAD)   /(CJT)   /
+(BMD)   /(BMD)   /(NQE)   /(NAD)   /
+(NAD)   /(CJT)   /(BMD)   /(BMD)   /
+(NH) G /(NADH) J /(NADQ) W /(CE) T /
+(BMDY) E /(BMDT) W /(VE) Q /(VNAW) J /
+(VNAQ) H /(XJ) G /(NSFH)   /A M /
+(NQE)   /(NAD)   /(NAD)   /(CJT)   /
+(BMD)   /(BMD)   /(AQE)   /(BAD)   /
+(BAD)   /(BJT)   /(BMS)   /(BMS) B /
+(NQE)   /(NAD)   /(NAD)   /(CJT)   /
+(BMD)   /(BMD)   /(VQE)   /(AFH)   /
+(AFH)   /(XJT)   /(NSF)   /A M /
+(NH) G /(NADH) J /(NADQ) W /(CE) T /
+(BMDE) Y /(BMDE)   /(VW) E /(VNAQ) W /
+(VNAJ) Q /(XH)   /(NSF) G /A M /
+(NHQE)   /(NAD)   /(NAD)   /(CJT)   /
+(BMD)   /(BMD)   /(NQE)   /(NAD)   /
+    /(CJT)   /(BMD)   /    /
+(NQE)   /(NAD)   /    /(CJT)   /
+(NAD)   /    /(NHQE)/

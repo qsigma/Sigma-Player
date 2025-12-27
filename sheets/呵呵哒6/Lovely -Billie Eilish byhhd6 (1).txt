@@ -1,0 +1,47 @@
+H Q H Q H Q H Q H Q H Q H Q H Q
+(VDH) Q H Q H Q H Q H Q H Q (DHE) Q H Q
+(NDH) Q H Q H Q H Q (CDG) J G J E J G J
+(VADH) Q H Q H Q H Q H Q H Q (FH) Q H (DQ)
+(NDH) Q H Q H Q  Q (CGQ) J G J (JE) J G J
+(VW) (AE) (NE) (AW) (NW) A N A N A N A D A N A
+(NJW) (AQE) (NQE) (AJW) (NJW) A (NHQ) A (CH) (MJ) (BH) (MG) (BD) M (BQ) (MQ)
+(VW) (AE) (NE) (AW) (NW) A N A (NJ) (AQ) (NQ) (AJ) (DJ) A (NHQ) (AHQ)
+(NJW) (AQE) (NQE) (AJW) (NJW) A (NHQ) A C M (BJW) (MQE) (DJW) M (BHQ) M
+(VFH) A N A (NGJ) A N A (NHQ) A N A (DJW) A (NQE) A
+(NEY) A N A (NWT) A N A (CQE) M (BJW) (MQE) (BJW) M (BHQ) M
+(VFH) A N A (NGJ) A N A (NHQ) A N A (DJW) A (NQE) A
+(NEY) A N A (NWT) A N A (CQE) M (BJW) (MQE) (DJW) M (BHQ) M
+(VFH) A N A (NGJ) A N A (NHQ) A N A (DJW) A (NQE) A
+(NEY) A N A (NWT) A N A (CQE) M (BJW) (MQE) (BJW) M (BHQ) M
+(VFH) A N A (NGJ) A N A (NHQ) A N A (DJW) A (NQE) A
+(NEY) A N A (NWT) A N A (CQE) M B M D M B M
+[(AE)DFH]  WQJ  H     WQJ
+[(NE)ADH]  WQJ  H  [(BJ)MDG] H  Q
+[(VE)NAD]  WQJ  H     WQJ
+(NADH)  J Q J    (BMDGJ)  H    Q
+(VQ) A N A N A N A N A N A D A N A
+(VW) (ZE) (NE) (AW) (NW) A (NE) A N A N A D A N A
+(NW) (CE) (NE) (AW) (NW) (AQ) (NQ) A (CJ) (MQ) (BJ) (MH) (DW) (MH) (BH) M
+(VW) (ZE) (NE) (AW) (NW) A N A (NW) (AE) (NW) (AQ) (DJ) A N A
+(NJW) (CQE) (NQE) (AJW) (NJW) A (NHQ) A C M (BMS) (NAD) (NADG) M (VNAD) M
+(ZVAFH) Z N Z (NSGJ) Z N Z (NDHQ) Z N Z (CGJW) Z (NGQE) Z
+(CNHQEY) Z N Z (NGJWT) Z N Z (CMHQE) M (BJW) (MQE) (BJW) M (BHQ) M
+(ZVAFH) Z N Z (NSGJ) Z N Z (NDHQ) Z N Z (CGJW) Z (NGQE) Z
+(CNHQEY) Z N Z (NGJWT) Z N Z (CMHQE) M (BJW) (MQE) (BJW) M (BHQ) M
+(ZVAFH) Z N Z (NSGJ) Z N Z (NDHQ) Z N Z (CGJW) Z (NGQE) Z
+(CNHQEY) Z N Z (NGJWT) Z N Z (CMHQE) M (BJW) (MQE) (BJW) M (BHQ) M
+(VAFH) Z N Z (NSGJ) Z N Z (NDHQ) Z N Z (CGJW) Z (NGQE) Z
+(NHQEY) C N Z (NGJWT) Z N Z (CDHQE) M B M C M B M
+[(FE)HE]  WQJ  H     WQJ
+[(NE)ADH]  WQJ  H  [(BJ)MDG] H  Q
+[(VQE)NAD]  (JW)(HQ)(GJ)  (DH)     (JW)(HQ)(GJ)
+(NADH)  (GJ) (HQ) (GJ)    (BMDGJ) (BMDG) (BMSFH) (BMDG) (BMDG) (BMDG) (BMSFHQ) (BMDG)
+(VFHQE) Z N A N A N A (NQET) (AQEY) N A D A N (AQET)
+(NQET) C N A (NQE) (AQR)(QE)(NJW) (AHQ) (CGJ) M B M D M B M
+(VDJ) (ZDQ) (NDJ) (ZDQ) (NDJ) Z N Z N Z (NDH) Z (CHE) (ZHR) (NHE) (ZHR)
+(NHE) C N Z (NHQ) Z N Z (CJW) M B M C M B M
+[(AE)DFH]  WQJ  H     WQJ
+(NADHE)   WQJ  H  (BMDGJ)  H  (HQ)
+(VNADE)   WQJ  H     WQJ
+(NADH)  J Q J    (BMDGJ)  H  Q J H G
+(VNADH)

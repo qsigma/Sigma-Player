@@ -1,0 +1,202 @@
+第一版为一行一小节 排版版本往下翻
+(BG)
+(NAH) C N (CDJ) (ADQ) C N NB
+V (ZGJ) N (ZHQ) N Z (NHW) (ZE)
+Z (BQ)W(CE) (BW) (CR) (BE) (CQ) B
+(NQ) C N M N C N C
+M (CJ) (MW) C (MQ) C (MJ) C
+C C C C C (CJ) (CG) D
+(NAH) C (NA) (CDJ) (NADQ) C (NA) NB
+V (ZGJ) (NA) (ZHQ) (NA) Z (NAHW) (ZE)
+Z (BQ)W(CBE) (BW) (CBR) (BE) (CBQ) B
+(NQ) C N M N C N C
+M (CJ) (MW) C (MQ) C (MJ) C
+(NH) N N N N N N N
+(NAD) (AD)(AD) (AD)(AD) (AD)(AD) (AD)(MD) (MD)(MS)
+(CMS) (MS)(MS) (MS)(MS) (MS)(MS) (MS)(MS)(MS)(MS)M
+(CM) (CM)(CM) (CM) (CM)(CM)(CM)(CM)(NA)(NA)(NA)(NA)(MS)
+(MS)(MS)(MS)(MS)(MS)(MS)(MS)(MS)(CM)(CM)(CM)(CM)(CM)(CM)(CM)(CM)
+(NHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(MJ)D(MJ)D
+(BMDHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(NDJ)(DJ)(NDJ)(DJ)
+(NDJ) (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N (CD) (ZND) (CN)N(XN) (ND) (XS) NN
+N (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N (CH) (ZNG) (CD)D(XS) (NS)S(XA) NN
+N (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N (CD) (ZND) (CN)N(XN) (ND) (XS) NN
+N (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N C (ZN) (CD) (XD) (NH) (XJ) (NH)J
+(NAHQ) C (NADH) (CJ) (NAFW) (CQ) (NADJ) (CSH)
+(CBMSHQ) C (NH) (CSQ) (BMJ) (CH) (BMH) (CJ)
+(CNAHQ) C (NADH) (CJ) (NAFW) (CQ) (NADJ) (CSH)
+(CBMSHQ) C (NH) (CSQ) (BMJ) (CG) (BMH) (CJ)
+(CNJ) NNN NNN NNN NN
+N NNN NNN (NG)N(NH) N(BMJ)
+(NAHQ) (AQ)C(NAQ) N N (MJ)C(NAQ) (NSW)
+(NADQE) C(NA) N N (SW)C(NAFR) (NDE)
+(VNADQE) (AQ)Z(VNAQ) V V (MJ)Z(VNSW) (VAQ)
+(VNAHQ) C(NA) N N (BG)C(NAH) (BMJ)
+(NAHQ) C(NA) N N (MJ)C(NAQ) (NSW)
+(NADQE) C(NA) N N (SW)C(NAFR) (NDE)
+(VNADQE) Z(VN) V V (MJ)Z(VNSW) (VAQ)
+(VNAHQ) C(NA) N N C(NA) N
+(NHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(MJ)D(MJ)D
+(BMDHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(NDJ)(DJ)(NDJ)(DJ)
+(NDJ) (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N (CD) (ZND) (CN)N(XN) (ND) (XS) NN
+N (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N (CH) (ZNG) (CD)D(XS) (NS)S(XA) NN
+N (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N (CD) (ZND) (CN)N(XN) (ND) (XS) NN
+N (CD) (ZND) (CD) (XD) (NS)S(XB)NNN
+N C (ZN) (CD) (XD) (NH) (XJ) (NH)J
+(NAHQ) C (NADH) (CJ) (NAFW) (CQ) (NADJ) (CSH)
+(CBMSHQ) C (NH) (CSQ) (BMJ) (CH) (BMH) (CJ)
+(CNAHQ) C (NADH) (CJ) (NAFW) (CQ) (NADJ) (CSH)
+(CBMSHQ) C (NH) (CSQ) (BMJ) (CG) (BMH) (CJ)
+(CNJ) NNN NNN NNN NN
+N NNN NNN (NG)N(NH) N(BMJ)
+(NAHQ) (AQ)C(NAQ) N N (MJ)C(NAQ) (NSW)
+(NADQE) C(NA) N N (SW)C(NAFR) (NDE)
+(VNADQE) (AQ)Z(VNAQ) V V (MJ)Z(VNSW) (VAQ)
+(VNAHQ) C(NA) N N (BG)C(NAH) (BMJ)
+(NAHQ) C(NA) N N (MJ)C(NAQ) (NSW)
+(NADQE) C(NA) N N (SW)C(NAFR) (NDE)
+(VNADQE) Z(VN) V V (MJ)Z(VNSW) (VAQ)
+(VNAHQ) C(NA) N N C(NA) N
+(NHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(MJ)D(MJ)D
+(BMDHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(NDJ)(DJ)(NDJ)(DJ)
+(NDJ)(ND)(ND)(ND)(VNS)(NS)(NS)(NS)(VNA)(NA)(NA)D(CD) DW
+(CNW) (CQ)(NAQ) NJ(NQ) (CD)(NAD) (ND)Q
+(NHQ) (CH)(NAH) NG(NH) (CD)(NAD) (ND)W
+(VNW) (ZQ)(VNQ) VJ(VQ) (ZD)(VND) (VD)Q
+(VNHQ) (CH)(NAH) NG(NH) (CD)(NAD) (ND)W
+(NW) (CQ)(NAQ) NJ(NQ) (CD)(NAD) (ND)Q
+(NHQ) (CH)(NAH) NG(NH) (CD)(NAD) (ND)W
+(VNW) (ZQ)(VNQ) VJ(VQ) (ZD)(VND) (VD)Q
+(VNHQ) (CH)(NAH) NG(NH) (CD)(NAD) (ND)W
+(NW) (CQ)(NAQ) NJ(NQ) (CD)(NAD) (ND)Q
+(NHQ) (CH)(NAH) NG(NH) (CD)(NAD) (ND)W
+(VNW) (ZQ)(VNQ) VJ(VQ) (ZD)(VND) (VD)Q
+(VNHQ) (CH)(NAH) NG(NH) (CD)(NAD) (ND)D
+(NADQ) (AQ)C(NAQ) N N (MJ)C(NAQ) (NSW)
+(NADQE) C(NA) N N (SW)C(NAFR) (NDE)
+(VNADQE) (AQ)Z(VNAQ) V V (MJ)Z(VNSW) (VAQ)
+(VNAHQ) C(NA) N N (BG)C(NAH) (BMJ)
+(NAHQ) (AQ)C(NAQ) N N (MJ)C(NAQ) (NSW)
+(NADQE) C(NA) N N (SW)C(NAFR) (NDE)
+(VNADQE) (AQ)Z(VNAQ) V V (MJ)Z(VNSW) (VAQ)
+(VNAHQ) C(NA) N N C(NA) N
+(NHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(MJ)D(MJ)D
+(BMDHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(ZHQ) (CD)(XHW) (XHW)
+(XNGJW) (CA)(ZHQ) (CA)(ZHQ) (CA)(ZHQ) (CA)(NA)
+(NA)
+
+
+
+    /    /    /  (BG) /
+(NAH) C /N (CDJ) /(ADQ) C /N NB/
+V (ZGJ) /N (ZHQ) /N Z /(NHW) (ZE) /
+Z (BQ)W/(CE) (BW) /(CR) (BE) /(CQ) B /
+(NQ) C /N M /N C /N C /
+M (CJ) /(MW) C /(MQ) C /(MJ) C /
+C C /C C /C (CJ) /(CG)  D/
+(NAH) C /(NA) (CDJ) /(NADQ) C /(NA) NB/
+V (ZGJ) /(NA) (ZHQ) /(NA) Z /(NAHW) (ZE) /
+Z (BQ)W/(CBE) (BW) /(CBR) (BE) /(CBQ) B /
+(NQ) C /N M /N C /N C /
+M (CJ) /(MW) C /(MQ) C /(MJ) C /
+(NH) N /N N /N N /N N /
+    /    /(NAD) (AD)(AD)/ (AD)(AD) /
+(AD)(AD) (AD)/(MD) (MD)(MS)/(CMS) (MS)(MS)/ (MS)(MS) /
+(MS)(MS) (MS)/(MS)(MS)(MS)M/(CM) (CM)(CM)/ (CM) (CM)/
+(CM)(CM)(CM)(NA)/(NA)(NA)(NA)(MS)/(MS)(MS)(MS)(MS)/(MS)(MS)(MS)(MS)/
+(CM)(CM)(CM)(CM)/(CM)(CM)(CM)(CM)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(MJ)D(MJ)/D(NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(NDJ)(DJ)(NDJ)/(DJ)N (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN (CD)/ (ZND) (CN)/
+N(XN) (ND)/ (XS) N/NN (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN (CH)/ (ZNG) (CD)/
+D(XS) (NS)/S(XA) N/NN (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN (CD)/ (ZND) (CN)/
+N(XN) (ND)/ (XS) N/NN (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN C/ (ZN) (CD) /
+(XD) (NH)/ (XJ) (NH)/J(NAQ) C/ (NADH) (CJ) /
+(NAFW) (CQ)/ (NADJ) (CSH)/ (NAQ) C/ (NH) (CSQ) /
+(BMJ) (CH)/ (BMH) (CJ)/ (NAQ) C/ (NADH) (CJ) /
+(NAFW) (CQ)/ (NADJ) (CSH)/ (NAQ) C/ (NH) (CSQ) /
+(BMJ) (CG)/ (BMH) (CJ)/ N N/NN N/
+NN N/NN N/NN N/NN N/
+NN (NG)/N(NH) N/(BMJ)(NAQ) (AQ)/C(NAQ) N /
+N (MJ)/C(NAQ) (NSW)/ (NDE)  /C(NA) N /
+N (SW)/C(NAFR) (NDE)/ (VAQ) (AQ)/Z(VNAQ) V /
+V (MJ)/Z(VNSW) (VAQ)/ (NH)  /C(NA) N /
+N (BG)/C(NAH) (BMJ)/ (NAQ)  /C(NA) N /
+N (MJ)/C(NAQ) (NSW)/ (NDE)  /C(NA) N /
+N (SW)/C(NAFR) (NDE)/ (VAQ)  /Z(VN) V /
+V (MJ)/Z(VNSW) (VAQ)/ (NH)  /C(NA) N /
+N  /C(NA) N/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(MJ)D(MJ)/D(NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(NDJ)(DJ)(NDJ)/(DJ)N (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN (CD)/ (ZND) (CN)/
+N(XN) (ND)/ (XS) N/NN (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN (CH)/ (ZNG) (CD)/
+D(XS) (NS)/S(XA) N/NN (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN (CD)/ (ZND) (CN)/
+N(XN) (ND)/ (XS) N/NN (CD)/ (ZND) (CD) /
+(XD) (NS)/S(XB)NN/NN C/ (ZN) (CD) /
+(XD) (NH)/ (XJ) (NH)/J(NAQ) C/ (NADH) (CJ) /
+(NAFW) (CQ)/ (NADJ) (CSH)/ (NAQ) C/ (NH) (CSQ) /
+(BMJ) (CH)/ (BMH) (CJ)/ (NAQ) C/ (NADH) (CJ) /
+(NAFW) (CQ)/ (NADJ) (CSH)/ (NAQ) C/ (NH) (CSQ) /
+(BMJ) (CG)/ (BMH) (CJ)/ N N/NN N/
+NN N/NN N/NN N/NN N/
+NN (NG)/N(NH) N/(BMJ)(NAQ) (AQ)/C(NAQ) N /
+N (MJ)/C(NAQ) (NSW)/ (NDE)  /C(NA) N /
+N (SW)/C(NAFR) (NDE)/ (VAQ) (AQ)/Z(VNAQ) V /
+V (MJ)/Z(VNSW) (VAQ)/ (NH)  /C(NA) N /
+N (BG)/C(NAH) (BMJ)/ (NAQ)  /C(NA) N /
+N (MJ)/C(NAQ) (NSW)/ (NDE)  /C(NA) N /
+N (SW)/C(NAFR) (NDE)/ (VAQ)  /Z(VN) V /
+V (MJ)/Z(VNSW) (VAQ)/ (NH)  /C(NA) N /
+N  /C(NA) N/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(MJ)D(MJ)/D(NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(NDJ)(DJ)(NDJ)/(DJ)(ND)(ND)(ND)/(ND)(VNS)(NS)(NS)/
+(NS)(VNA)(NA)(NA)/D(CD) D/W(NW)  /(CQ)(NAQ) N/
+J(NQ)  /(CD)(NAD) (ND)/Q(NJ)  /(CH)(NAH) N/
+G(NH)  /(CD)(NAD) (ND)/W(VW)  /(ZQ)(VNQ) V/
+J(VQ)  /(ZD)(VND) (VD)/Q(NJ)  /(CH)(NAH) N/
+G(NH)  /(CD)(NAD) (ND)/W(NW)  /(CQ)(NAQ) N/
+J(NQ)  /(CD)(NAD) (ND)/Q(NJ)  /(CH)(NAH) N/
+G(NH)  /(CD)(NAD) (ND)/W(VW)  /(ZQ)(VNQ) V/
+J(VQ)  /(ZD)(VND) (VD)/Q(NJ)  /(CH)(NAH) N/
+G(NH)  /(CD)(NAD) (ND)/W(NW)  /(CQ)(NAQ) N/
+J(NQ)  /(CD)(NAD) (ND)/Q(NJ)  /(CH)(NAH) N/
+G(NH)  /(CD)(NAD) (ND)/W(VW)  /(ZQ)(VNQ) V/
+J(VQ)  /(ZD)(VND) (VD)/Q(NJ)  /(CH)(NAH) N/
+G(NH)  /(CD)(NAD) (ND)/D(NAQ) (AQ)/C(NAQ) N /
+N (MJ)/C(NAQ) (NSW)/ (NDE)  /C(NA) N /
+N (SW)/C(NAFR) (NDE)/ (VAQ) (AQ)/Z(VNAQ) V /
+V (MJ)/Z(VNSW) (VAQ)/ (NH)  /C(NA) N /
+N (BG)/C(NAH) (BMJ)/ (NAQ) (AQ)/C(NAQ) N /
+N (MJ)/C(NAQ) (NSW)/ (NDE)  /C(NA) N /
+N (SW)/C(NAFR) (NDE)/ (VAQ) (AQ)/Z(VNAQ) V /
+V (MJ)/Z(VNSW) (VAQ)/ (NH)  /C(NA) N /
+N  /C(NA) N/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(MJ)D(MJ)/D(NHQ) (CD)/(ZHQ) (CD)(ZHQ) /
+(CD)(ZHQ) /(CD)(XHW) (XHW)/ (NHQ) (CA)/(ZHQ) (CA)(ZHQ) /
+(CA)(ZHQ) /(CA)(NA)/

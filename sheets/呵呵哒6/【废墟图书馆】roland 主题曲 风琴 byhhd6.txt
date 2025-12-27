@@ -1,0 +1,169 @@
+N D /H D /H D /(HY) D /
+(NT) F /(HR) F /H F /(HE) (FW) /
+(NQE) D /H D /H D /H D /
+(NJW) F /H F /H F /H   /
+(VNH) A /(FQRY) A /(FHE) A /(FQRY) A /
+(CNHE) A /(DQEY) A /(DHE) A /(DQEY) A /
+(CMJE) V /(MY) V /(MJE) V /(MY) V /
+(CHWY)   /    /(MSH)   /    /
+(NQY)   /    /  (HQE) /(HE) (QEY) /
+(NHQT)   /    /    /  (HQT)(HQT)/
+(NHQR)   /    /  (QT) / (HR)  /
+(NDHQE)   /    /(HQR) E /Q H /
+(VAFH)  (FJ)/  (FQ) /    /    /
+(CDH)  (FJ)/  (FQ) /    /    /
+(XFJR)  (SJW)/  (MJ) /    /(FJR)   /
+(CBMD)   /    /    /    /
+(CBMDG)   /    /    /    /
+(NDH)   /  (MDJ) /    /(AHQ)   /
+(NSHW) (AHQ) /  (MDJ) /    /(NH)   /
+(NADQ)   /    /    /    /
+(NAF)   /    /    /    /
+(CNAD) H /  J /    /(AQ)   /
+(XSFW) Q /  J /    /H   /
+(CNDH)   /    /    /    /
+(CBMDG)   /    /(CBMD)   /    /
+N CA/NAAN/CNAD/DHQE/
+(NY) DA/NADH/DANA/DHQE/
+(NY)EQH/EQHQ/HDQH/DHDA/
+(NT)QHQ/HDQH/DHDA/NANA/
+(CN)MAM/ASDF/DFGH/GHGF/
+(XD)FGH/FG H/JHJQ/WQJH/
+(CM)ASD/FGHG/FDSD/FGHJ/
+(CQ)JQJ/WQWQ/EWEW/RERE/
+(XADHQ)   /    /    /S FH/
+(XQ) Q /Q H /Q H /(SR) E /
+(ZADGQ)   /    /  D /N (HQ) /
+Z E /N Q /Q J /H D /
+(ZXVNAS)   /  (NA) /  (DG) /  (GQ) /
+X (HW) /S (QT) /X (QR) /(SF) E /
+C D /(DJ) D /D (DJ) /D (DGJ) /
+C D /(GJE) D /(GJ) M /(MD) M /
+N   /(NA)   /(NS)   /(NAD)   /
+(NAF)   /(NAD)   /(NS)   /(NA)   /
+N   /(NA)   /(NS)   /(NAD)   /
+(NS)   /(NM)   /(BM)   /(CN)   /
+(NADH) C /N C /N (CA)D/(NAH) (CAH)(AH)/
+(CNAF)N(AFH) /(FQ)AN(VRY)/(CNRY)VNA/(FQR)A(NF)V/
+(NADH) C /(NHQE) C /(NAQ) C /(NQY)ANC/
+(NRU) V /(NFR) V /(NFW) V /(SJ)ANV/
+(VNF) ZH/(VH)F(ZA)N/(VAQ)(JU)(ZHY)D/(VAQ)(JU)(ZHY)D/
+(CND) (ZA)D/(CH)D(ZA)N/(CAQ)(JU)(ZHY)D/(CAQ)(JU)(ZHY)D/
+(MJE) V /(MY) V /(MJE) V /(MY) V /
+(CD)JWY/(CD)JWY/(MD)J(MW)E/(MY)W(ME)R/
+(NHQY)   /(HY)(FR)(DE)(AQ)/(NH)   /(NH)(MJ)(AQ)(SW)/
+(NGQT)   /(GT)(DE)(AQ)(NH)/(CD)   /(CD)(NH)(MJ)(AQ)/
+(NFHWR)   /  (FHWR)(FHWR)/(FHWR)  (GQT)/  (FR) /
+(NDQE)   /    /HFDA/NMAS/
+(VN)  (VM)/  (VA) /  (FHQR)(FHQR)/(FHQR)   /
+(CVN)  (VM)/  (VA) /  (FHQR)(FHQR)/(FHQR)   /
+(XFHR)  (SFW)/  (MFJ) /    /(FJR)   /
+(CDGJE)   /    /(CD)(MJ)(DE)(MJ)/(DE)(MJ)(DE)(HY)/
+(CGJET)   /(CGJET)   /    /    /
+N (NDH) /(NDH) (MDJ) /  (NAD) /(ADHQ)   /
+(SHW) (DQE) /  (FWR) /    /(DQE)   /
+(NAHQ)   /(AQ)(MJ)(NH)(MJ)/(NH)(CD)(ZA)N/(CD) (NAF)(NAF)/
+(VNAF)   /DHJH/QWEQ/QEY /
+V (NADH) /  (MSFJ) /    /(AFQ)   /
+(XSFHW) (SHW) /  (AFQ) /    /(MSFJ)   /
+(CNMDH)  M/  (CD) /(NH) (MJ) /(DE) (HY) /
+(CGET)   /    /(BDJE)   /    /
+(CDHQ)   /  C /(ADE)  (SW)/  (AQ) /
+V (XG)(MJ)/(VSW) (MJ) /(SW) (MJ) /(VSW) (XGT) /
+(VGT)   /  X /(VSW)  Q/  J /
+N (BFR) /(ZFR)(DE)(BFR)Q/(ZVH)Q(FR) /(FR)QE(FR)/
+(NFR)(DE)(FR)C/  (XSW) /(VFR)(DE)(FR)C/  X /
+(NFR)(DE)(FR)C/  (XSW) /(VMJ) (SW)C/(DE) (VFR) /
+(CNS)   /(CND)   /CCBM/MDGJ/
+(CE)EJG/GDMB/MBCM/CMB /
+N (CD) /(ZNA) (CD) /(NH) (AQ) /(DE) (HY) /
+(MFR) (GT) /(FR) (DE) /(FR) (SW) /(MJ) (BG)[MAF(NDE)] /
+(AQ) (NH)/ (CD) (NH)/ (CD) (ZA)/ N M /
+(XS) (VF)/ (MJ) (SW)/ (DE) (FR)/ (SW)[MAF(NDE)] /
+(AQ) (NH) /(CD) (ZA) /(CD) (NH) /(AQ) (MSW) /
+(DE) (FR) /(MSW) (MJ) /(AQ) (MSW) /(MJ) (CDGJE) /
+    /  (CD)(MJ)/(DE)(MJ)(DE)(MJ)/(DE)(HY)(CGJET)   /
+(CGJET) /    /    /  N /
+(NDH) (NDH) /(MDJ)   /(NAD) (ADHQ) /  (SHW) /
+(DQE)   /(FWR)   /  (DQE) /  (NAHQ)   /
+(AQ)(MJ)/(NH)(MJ)(NH)(CD)/(ZA)N(CD) /(NAF)(NAF)(VNAF)   /
+(CD)(NH)/(MJ)(NH)(AQ)(SW)/(DE)(AQ)(AQ)(DE)/(HY) V /
+(NADH)   /(MSFJ)   /  (AFQ) /  (XSFHW) /
+(SHW)   /(MFJ)   /  (NSFH) /  (CNDH)  /
+M  /(CD) (NH) /(MJ) (DE) /(HY) (CGET) /
+    /  (BDJE) /    /  (NHEY) /
+N N /N N /N N /N (MFJWR) /
+M M /M M /M M /M[MAF(NDHQE)] N /
+N N/ (VADHQ) V/ V V/ (CBMDG) C /
+C C/ (BDGE) B/ B B/ (NADH)DH/
+QER(NADE)/WEWQ/W(NADQ)JH/G(MSF)JW/
+REW(MSFQ)/WQJQ/J(MSFH)JH/G(NADH)DH/
+QER(NADE)/WEWQ/W(NADQ)JH/G(MSF)MS/
+F(MSFJ)S(MSF)/JWFJ/W(MSFR)JW/R(CNADH)   /
+HDH/JQ  / JWQ/H(CBDGJ)  /
+(HQ)  (JW)/ (JW)CB/MSMB/C(XBMSDGW)   /
+WJQ/W(JW)  / WRE/W(ZCNADHQ)  /
+(JW)  (QE)/ (QE)CN/ADAN/C(ZCNADHQ)  /
+(HW)  (QE)/ (QE)  /(WR)  (ET)/ (XVNSET)  /
+(WR)  (QE)/ (WR)VN/SFSN/V(CBMDGJE) (CBMG)/
+JGJD/J(CNADHQE) (CNAD)/QHQD/Q(VNSFWR) (VNSF)/
+WHWF/H(CBMDE)R(CBMDE)/WEWQ/J(CNADHQ) N/
+ADHQ/HDAH/DADA/N(CBMDGJ)BM/
+DGJG/DMGD/MBDM/B(XBMDGJ) X/
+CBMS/DGJG/DSMB/C(ZCAHQ) N/
+ADAD/HADH/QEQH/D(ZNDQE) N/
+ADH(QE)/(HQE)(DQE)AD/(AWR)NA(NET)/C(XVNHWT) S/
+FHW(HR)/WRWH/FHFS/ (CBMDGJE) B/
+MSDG/J(CNADHQE) A/DADH/Q(VNSHW) S/
+FSFH/W(CBMDGE) D/GJEY/E(CNADHQE) C/
+NADA/N(CHQ)NA/(DJW)AN(CHQ)/ (VNAFHQ) N/
+AFAN/V(NHQ)AN/AF  / (VNAHQ) V/
+NASA/N(AHQ)SF/(SJW)AN(AHQ)/N(CBMDGQ) B/
+(MG) B(MG)/ (MDGJ)DM/B(MDE)BC/M(CBMDGJ) M/
+CBMC/B(MDGJ)DM/(BDGJ)MB(CDGJ)/M(XVNMSFJ)  /
+    / (NFH)  / (NSH)  / (ZVNFH)  /
+(GJ)  (HQ)/ (QE)  /(JW)  (FH)/ (NMDH)  /
+    / (MDG)  / (MDG) E/ (NADQ) D/
+N  A/D(HQ)  /(JW)D (HQ)/ (VNAFHQ) F/
+N  A/F(HQ)  /(JW)F (QE)/ (VNDHQE) G/
+N  A/Q(QE)  / (GHQ) R/ (CNMDGJ) M/
+N  M/H(GJ)  / (NDE)  / (CBMDGJ) C/
+M  C/B(MGJ)  /(GQ)  (MGQ)/B(XVNSFJ) X/
+N  N/X(NFH)  / (DG) N/V(ZNF)   /
+Z V/ N  / N N/ (NDHQ) C /
+N  / (BDGJ)  / (BDGJ)  / (ZCNA) (ZCNA) /
+(ZCNA) (ZCNA)/    / (ZVN) (ZVN)/ (ZVN) (ZVN)/
+    / (XBMSJ) (XBMSJ)/ (BMSGW) (BMSGW)/ (ZCNADQ) (ZCNA) /
+(ZCNA) (ZCNA)/    / (ZVN) (ZVN)/ (ZVN) (ZVN)   /
+J/Q(XBSJ)Q(XBSW)/E(BMGW)Q(BMGJ)/ (ZCNADQ) (ZCNA) /
+(ZCNA) (ZCNA)/    / (ZVN) (ZVN)/ (ZVN) (ZVN)/
+    / (XBMSJ) (XBMSJ)/ (BMSGW) (BMSGW)/ (ZNH)D(ZNF)/
+H(ZNJ)G(ZNH)/JQHJ/Q(MSW)J(MSQ)/W(MSJ)Q(MSW)/
+ERER/T(SJY)T(SJY)/T(SJW)J(SGJ)/ (ZVN)AF/
+(VH)FH(NQ)/ (AF)HQ/(NE)QH(VF)/A(BA) G/
+(BS)GJ(MW)/ (ST) W/(MT)WJ(BG)/S(ND) D/
+(CS)DH(NW)/ (SD)HW/(NE)WH(CD)/S(NAD) (DH)/
+C(DH) (NH)/D(AH)QH/(NQ)EQ(CE)/Y(XNS)SF/
+(XS)FH(VW)/ (NSF)HW/RWHF/S(CMS)DG/
+(CD)GJ(BE)/ (MG)JE/TEJG/D(CDH)WE /
+HJE/ J E/JHJE/H(BMDGY) J/
+EJEJ/ YUT/ETEJ/G(CNADH)   /
+HDH/JQ  / JWQ/H(CBDGJ)  /
+(HQ)  (JW)/ (JW)CB/MSMB/C(XBMSDGW)   /
+WJQ/W(JW)  / WRE/W(ZCNADHQ)  /
+(JW)  (QE)/ (QE)CN/ADAN/C(ZCNADHQ)  /
+(HW)  (QE)/ (QE)  /(WR)  (ET)/ (XVNSET)  /
+(WR)  (QE)/ (WR)VN/SFSN/V(CBMDGJE) (CBMG)/
+JGJD/J(CNADHQE) (CNAD)/QHQD/Q(VNSFWR) (VNSF)/
+WHWF/H(CBMDE)R(CBMDE)/WEWQ/J(CNADHQ) N/
+ADHQ/HDAH/DADA/N(CBMDGJ)BM/
+DGJG/DMGD/MBDM/B(XBMDGJ) X/
+CBMS/DGJG/DSMB/C(ZCAHQ) N/
+ADAD/HADH/QEQH/D(ZNDQE) N/
+ADH(QE)/(HQE)(DQE)AD/(AWR)NA(NET)/C(XVNHWT) S/
+FHW(HR)/WRWH/FHFS/ (VDHQE) V/
+NAD(ADE)/(NDE)(VDE)NA/(DFR)  (DE)/ (CDHQE) N/
+A(CD)HD/A(CN)AD/HC (CD)/(CA)(CN)AD/
+HC Q/H(CD)HQ/H(CD)HQ/H(CBMD) C /
+C C/ C C/ C (CBMDG)/(BMDG)(CBMDG) C /
+C C/ (CDGJE)CC/CCCC/(C)/

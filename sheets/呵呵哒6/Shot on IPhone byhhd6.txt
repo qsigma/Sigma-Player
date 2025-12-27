@@ -1,0 +1,14 @@
+(VF)  (NAH) FE Q (NA) G
+C  (BMQ) QG Q (BMJ)
+(VF)  (NAH) FE Q (NA) G
+C  (BMQ) QG Q (BMJ)
+(VF)  (NAFH) F(FE) F (NAQ) (DG)
+(CDG)  (BMDQ) DQG (DQ) (BMFJ)
+(VF) F (NAFH) FF(FE) F (NAQ) (DG)
+C  (BMDQ) DQG (DQ) (BMFJ)
+(VF)  (NAH) FF(FE) F (NAQ) (DG)
+S  S G S F
+(VFR)  (NAFR)  (VFR) (FR) (NAFR) (SW)
+C  (BMSW) (CSW) (CGT) (SW) (BMFR)
+(VFR) (FR) (NAFR) (FR) (VFR) (FR) (NAFR) (SW)
+C  (BMSW) (CSW) (CGT) (SW) (BMDE)

@@ -1,0 +1,57 @@
+Z                        Z      (ZC)      (ZB)      
+(ZD)      (ZS) S    Z A M A Z    M M N M   M   A   M   S   M
+(ZA)      (ZB)      (ZC)      Z      (XM)      (CM)      (VM)      (CM)(ZC)XMM(BM)
+(ZB)      (ZC)      Z      (X)      M      (ZM)      (XM)      (CM) V B B
+Z      Z      Z      Z      Z      Z      (ZC)      (ZB)
+(ZD) D D D (ZD) D D D (ZH) H H H (ZH) H H H (XH)      (XG)      (XH)      (XH) G G F
+(CJ)      (CG)      (CD)      (CA)      (VS)      (VD)      (VF)      (VD) D S S
+(CG)      (CD)      (CA)      (CB)      M      (BM)      (NA) M A M (NA) M A M
+(ZA)      Z      Z      Z      (ZB)      (ZBHU)      (ZBJE)      (ZBEY)
+(ZBAD)      (ZBS) S (BA) H (ZB)    G (ZBG) F D G (XM)   H A (XM)   S  (XMG)      (XM)
+(ZBAQ)      (ZCBSG)      (ZCBD)      (ZBA)      (XMS)      (ZCMD)      (XVMF)      (ZCM)CX(ZM)M(BM)
+(ZBG)      (ZCBD)      (ZBA)      (ZB)      (XMS)      (XMD)      (ZCMD)      (ZCMD) (BG) (NH) (NH)
+(ZBA)      (ZB)      (ZB)      (ZB)      (ZB)      (ZB)      (ZCB)      (ZB)
+(ZBD) D D D (ZBD) D D D (ZBJ) J J J (ZBJ) J J J (XBH)      (XBG)      (XBH)      (XBH) G G F
+(CJ)      (CG)      (CD)      (CA)      (VS)      (VD)      (VF)      (VD) D S S
+(CG)      (CD)      (CA)      (CB)      M      (BM)      (NA) M A (NA) M A M
+(ZA)      Z      Z      Z      (ZNS)   (NSH)   (FY)      (HE)      (QE)
+(ZNR)   W      J   Q   H   J   W   (XMGJ)   H   (QY)      (QE)      E
+(XMJ)   E   G   T   J   E   (QE)   W   (XE)   H   Y      W      (QE)
+(XQ)   V      C   U   Z   (CY)   V   (XVNT)   V   C   Z   (CR)      (ZY)
+(CDT)      X      (XS)         M   (ZN)      (VF)      (BH)      (BQ)
+(ZNR)   V      C   Q   Z   C   V   (XMJ)   Z   (AQ)      (BW)      B
+(XMJ)   B   G   M   J   B   (BW)   V   (XE)   Z   A      (BW)      (BQ)
+(XQ)   V      C   W   Z   (CE)   V   (XVNW)   V   (CQ)   Z   (CJ)      (ZH)
+(CDG)      X      (XS)         M   (ZN)      (VF)      (NAH)      (BAQ)
+(ZVNFR)   V      C   (AQ)   Z   C   V   (XMJ)   Z   (AQ)      (BSW)      B
+(XMJ)   B   (BG)   M   (MJ)   B   (BSW)   V   (ZCDE)   Z   A      (BSW)      (BAQ)
+(ZCQ)   V      C   (JU)   Z   (CHY)   V   (XVNGT)   V   C   Z   (CFR)      (ZHY)
+(CDGT)      X      (XS)         M   (ZN)   Z   (VF)      (NAH)      (BAQ)
+(ZVNFR)         C   (AQ)   Z   C   V   (XMJ)   Z   (AQ)      (BSW)      B
+(XMJ)   B   (BG)   M   (MJ)   B   (BSW)   V   (XDE)   Z   A      (BSW)      (BAQ)
+(XAQ)   V      C   (SW)   Z   (CDE)   V   (XVNSW)   V   (CAQ)   Z   (CMJ)      (ZNH)
+(CDGT)      X      (XS)         M   (NAD)   D   D   D   D   D   D   D
+(NAD)   D   D   D   J   J   J   J   (MSJ)   J   J   J   J   J   J   J
+(ZMS)   Z   Z   Z   Z   Z   Z   Z   (CMS)   C   C   C   C   C   C   C
+(CAD)   C   C   C   C   C   C   C   C   C   C   C   C   C   C   C
+C   C   C   C   C   C   C   C   (NA)   N   N   N   N   N   N   N
+(NA)   N   N   N   X   X   X   X   (XVS)   X   X   X   X   X   X   X
+(ZVS)   Z   Z   Z   Z   Z   Z   Z   (ZBA)   Z   Z   Z   Z   Z   Z   Z
+(ZBA)   Z   Z   Z   Z   Z   Z   Z   Z   Z   Z   Z   Z   Z   Z   Z
+Z   Z   Z   Z   Z   (ZM)   (ZM)   (ZN)   (ZVNA)   (ZVN)   (NA)   N   (VN)   N   N   (VN)
+(VNA)   (VN)   N   (CN)   X   (X)   (ZC)   (XV)   (XMS)   (X)   (XA)   X   (XB)   X   X   (XB)
+(ZBMS)   Z   (ZB)   Z   (ZM)   Z   (ZB)   (ZV)   (ZCMS)   (ZC)   (CA)   C   (CB)   C   C   (CB)
+(XVD)   C   (XV)   C   C   C   (ZC)   C   (XV)   (CB)   (XV)   C   (ZC)   C   (ZC)   C
+C   C   C   C   (ZC)   C   (CM)   C   (NA)   (ZN)   (ZN)   (NA)   N   (VN)   N   (VN)
+(VNA)   (VN)   N   (CN)   X   (X)   (ZC)   (XB)   (XVS)   (X)   (XA)   X   (XB)   X   X   (XB)
+(ZVS)   (ZB)   Z   (ZM)   Z   (ZB)   (ZB)   (ZV)   (ZBA)   Z   (ZAD)   Z   (ZBS)   Z   Z   (ZBM)
+(ZVNA)   (ZBS)   Z   (ZCA)   Z   (ZV)   (ZCB)   (ZVM)   (ZB)   (ZV)   (ZCD)   (ZD)   (ZCS)   (ZS)   (ZS)   (ZM)
+(ZCN)   (ZS)   (XS)   (ZA)   (ZA)   (ZV)   (ZBM)   (ZM)   Z   Z   (ZA)      B         B
+B   V      C      Z   C   V   Z   Z   (ZA)      B         B
+B   B      M      B   B   V   Z   Z   (ZA)      B         B
+(CB)   V      C      Z   C   V   B   V   C   Z   C      Z
+C      (ZC)      Z      M   Z   Z   (ZA)      B         B
+B   V      C      Z   C   V   Z   Z   (ZA)      B         B
+(CB)   B      M      B   B   V   V            V
+V            V            V            V
+V            V

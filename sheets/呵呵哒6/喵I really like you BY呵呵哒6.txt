@@ -1,0 +1,167 @@
+第一版为一行一小节 排版版本往下翻
+(FHQ)/(AGQ)/(GJW)G            /        G    (NDG)  /
+  H    E    Q(VNAW)  /          W    W/
+    W    W    W /   W(CBAW)    W      /
+      G    G    /H    E    Q(BMSW)    /
+
+        W    W  /  W    W    Q   /
+ H(BMSG)             /       G    (CNAG)   /
+ H    E    Q(VNAW)   /         W    W /
+   W    W    W  /  W(CBAQ)    H       /
+
+     G    G    H/    E    Q(BMSW)     /
+       W    W   / W    W    Q    /
+H(BMSG)              /      Q    (CNA)    /
+H(VNAJ)            Q /           Q    /
+
+        G(CBAE)      /      T    E    /
+        E       /     Q(BMSJ)         /
+   Q            /Q            G(BMSE) /
+           T    /E    (CNA)    W     /
+
+       Q(VNAJ)       /     Q          /
+  Q            W/(CBAE)            T  /
+  E            W/    W(BMSW)(BMS)GQ    H  /
+  G    (CNAQ)    Q   / H    G(VNA)    Y   /
+
+ (VNAT)    E    (VNAT)    /E    (VNAW)    Q(CBAW)    /
+Q    (CBAH)    G    (CBAH)/    Q    (CBAE)    W(BAW)/
+            (BA)   / QQ(BAQ)    E    (BA)  /
+  HG(BMSQ)    E    (BMS) /   HG(CNAQ)    Q    (CNAH)/
+
+(VNA)    Y    (VNAT)    E/    (VNAT)    E    (VNAW) /
+   Q(CBAW)    Q    (CBAH) /   G    (CBAH)    Q  /
+  (CBAE)    W(BAW)       /     (BA)    QQ(BAQ)   /
+ E    (BA)    HG(BMSQ)  /  E    (BMS)    HH(CNAQ) /
+
+   Q    (CNAH)(VNAR)      /      (VNA)         /
+   (VNA)    T    (VNAE)  /  T(CBAT)    Q    (CBA)  /
+          (CBA)    T/    (CBAE)    T(BMST)    Q/
+    (BMS)           / (BMS)    T    (BMSE)    /
+
+T(BMST)    Q    (BMS)    /        (CNA)    T  /
+  (CNAT)    Q(VNA)    Y  /  (VNAT)    E    (VNAT)   /
+ E    (VNAW)    Q(CBAW)   / Q    (CBAH)    G    /
+(CBAH)    Q    (CBAE)    W/(BAW)            (BA)  /
+
+  QQ(BAQ)    E    (BA) /   HG(BMSQ)    E    (BMS)/
+    HG(CNAQ)    Q    /(CNAH)               /
+ GG    G    H   / E    Q(VNAW)        /
+    W    W    W /   W    W    W(CBAW) /
+
+   W            /        G    H  /
+  E    Q(BMSW)       /     W    W    W/
+    W    Q    H(BMSG)/                /
+    G    (CNAG)    H /   E    Q(VNAW)      /
+
+      W    W    /W    W    E    W/
+(CBAQ)    H          /          E    W/
+    W    W(BMSW)     /       W    E   /
+ W    Q    Q    /H(BMSG)              /
+
+      Q    (CNA)    /H(VNAJ)            Q /
+           Q    /        G(CBAE)      /
+      T    E    /        E       /
+     Q(BMSJ)         /   Q            /
+
+Q            G(BMSE) /           T    /
+E    (CNA)    W     /       Q(VNAJ)       /
+     Q          /  Q            W/
+(CBAE)            T  /  E            W/
+
+    W(BMSW)(BMS)GQ    H  /  G    (CNAQ)    Q   /
+ H    G(VNA)    Y   / (VNAT)    E    (VNAT)    /
+E    (VNAW)    Q(CBAW)    /Q    (CBAH)    G    (CBAH)/
+    Q    (CBAE)    W(BAW)/            (BA)   /
+
+ QQ(BAQ)    E    (BA)  /  HG(BMSQ)    E    (BMS) /
+   HG(CNAQ)    Q    (CNAH)/(VNA)    Y    (VNAT)    E/
+    (VNAT)    E    (VNAW) /   Q(CBAW)    Q    (CBAH) /
+   G    (CBAH)    Q  /  (CBAE)    W(BAW)       /
+
+     (BA)    QQ(BAQ)   / E    (BA)    HG(BMSQ)  /
+  E    (BMS)    HH(CNAQ) /   Q    (CNAH)(VNAR)      /
+      (VNA)         /   (VNA)    T    (VNAE)  /
+  T(CBAT)    Q    (CBA)  /          (CBA)    T/
+
+    (CBAE)    T(BMST)    Q/    (BMS)           /
+ (BMS)    T    (BMSE)    /T(BMST)    Q    (BMS)    /
+        (CNA)    T  /  (CNAT)    Q(VNA)    Y  /
+  (VNAT)    E    (VNAT)   / E    (VNAW)    Q(CBAW)   /
+
+ Q    (CBAH)    G    /(CBAH)    Q    (CBAE)    W/
+(BAW)            (BA)  /  QQ(BAQ)    E    (BA) /
+   HG(BMSQ)    E    (BMS)/    HG(CNAQ)    Q    /
+(CNAH)/
+
+
+
+(FHQ)   /    /    /    /
+(AGQ)   /    /    /    /
+(GJW)   /    /    /    /
+    /  G /(NDG) H /E Q /
+(VNAW)   /W W /W W /W W /
+(CBAW) W /  G /G H /E Q /
+(BMSW)   /W W /W W /Q H /
+(BMSG)   /  G /(CNAG) H /E Q /
+(VNAW)   /W W /W W /W W /
+(CBAQ) H /  G /G H /E Q /
+(BMSW)   /W W /W W /Q H /
+(BMSG)   /  Q /(CNA) H /    /
+(VNAJ)   /Q   /Q   /G   /
+(CBAE)   /T E /  E /  Q /
+(BMSJ)   /Q   /Q   /G   /
+(BMSE)   /T E /(CNA) W /  Q /
+(VNAJ)   /Q   /Q   /W   /
+(CBAE)   /T E /  W /W   /
+(BMS)   /    /    /    /
+(BMS)GQ /H G /(CNAQ) Q /H G /
+(VNA) Y /(VNAT) E /(VNAT) E /(VNAW) Q /
+(CBAW) Q /(CBAH) G /(CBAH) Q /(CBAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BMSQ) E /(BMS) HG/(CNAQ) Q /(CNAH)   /
+(VNA) Y /(VNAT) E /(VNAT) E /(VNAW) Q /
+(CBAW) Q /(CBAH) G /(CBAH) Q /(CBAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BMSQ) E /(BMS) HH/(CNAQ) Q /(CNAH)   /
+(VNAR)   /(VNA)   /(VNA) T /(VNAE) T /
+(CBAT) Q /(CBA)   /(CBA) T /(CBAE) T /
+(BMST) Q /(BMS)   /(BMS) T /(BMSE) T /
+(BMST) Q /(BMS)   /(CNA) T /(CNAT) Q /
+(VNA) Y /(VNAT) E /(VNAT) E /(VNAW) Q /
+(CBAW) Q /(CBAH) G /(CBAH) Q /(CBAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BMSQ) E /(BMS) HG/(CNAQ) Q /(CNAH)   /
+    / GG /G H /E Q /
+(VNAW)   /W W /W W /W W /
+(CBAW) W /    /G H /E Q /
+(BMSW)   /W W /W W /Q H /
+(BMSG)   /  G /(CNAG) H /E Q /
+(VNAW)   /W W /W W /E W /
+(CBAQ) H /    /E W /W W /
+(BMSW)   /W E /W Q /Q H /
+(BMSG)   /  Q /(CNA) H /    /
+(VNAJ)   /Q   /Q   /G   /
+(CBAE)   /T E /  E /  Q /
+(BMSJ)   /Q   /Q   /G   /
+(BMSE)   /T E /(CNA) W /  Q /
+(VNAJ)   /Q   /Q   /W   /
+(CBAE)   /T E /  W /W   /
+(BMS)   /    /    /    /
+(BMS)GQ /H G /(CNAQ) Q /H G /
+(VNA) Y /(VNAT) E /(VNAT) E /(VNAW) Q /
+(CBAW) Q /(CBAH) G /(CBAH) Q /(CBAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BMSQ) E /(BMS) HG/(CNAQ) Q /(CNAH)   /
+(VNA) Y /(VNAT) E /(VNAT) E /(VNAW) Q /
+(CBAW) Q /(CBAH) G /(CBAH) Q /(CBAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BMSQ) E /(BMS) HH/(CNAQ) Q /(CNAH)   /
+(VNAR)   /(VNA)   /(VNA) T /(VNAE) T /
+(CBAT) Q /(CBA)   /(CBA) T /(CBAE) T /
+(BMST) Q /(BMS)   /(BMS) T /(BMSE) T /
+(BMST) Q /(BMS)   /(CNA) T /(CNAT) Q /
+(VNA) Y /(VNAT) E /(VNAT) E /(VNAW) Q /
+(CBAW) Q /(CBAH) G /(CBAH) Q /(CBAE) W /
+(BA)   /(BA) QQ/(BAQ) E /(BA) HG/
+(BMSQ) E /(BMS) HG/(CNAQ) Q /(CNAH)/

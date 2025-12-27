@@ -1,0 +1,39 @@
+第一版为一行一小节 排版版本往下翻
+N   C   N   C   N   C   N   C/
+N   (CHQ)   (NHQ)   (CHQ)   (NHQ)   C JQ(NW)   (CQ)/
+(NJ)   (CW)   (NJW)   (CJW)   (NJW)   C QW(NE)   (CW)/
+(NQ)   (CE)   (NY)   (CT)   (NJE)   (CJ)   (NE) W (CQ) J/
+(NH)   (CE)   (NY)   (CT)   (NJE)   (CJ)   (NE) W (CQ) J/
+(NH)   (DE)   (SE)   (DE)   (SE)   (GE)   (NY) T (GR) E/
+(SW)   E   (GJ)   R   (FH)   W   (DG)   W/
+(SW)   (FW)   (AW)   (SW)   (MW)   (SW)   (BT) R (ME) W/
+(NQ)   (AH)   (MJ) Q (NW) E (NE)   (CD)   (XF) G (MG) H/
+(NH)   (CHQ)   (NHQ)   (CHQ)   (NHQ)   C JQ(NW)   (CQ)/
+(NJ)   (CW)   (NJW)   (CJW)   (NJW)   C QW(NE)   (CW)/
+(NQ)   (CE)   (NY)   (CY)   (NJE)   (CJ)   (NE) W (CQ) J/
+(NH)   (CE)   (NY)   (CT)   (NJE)   (CJ)   (NE) W (CQ) J/
+(NH)   Y   (CNT)   E   Y   Y   (CNY)   E/
+(CNY)   (QE)   (CN)   (JW)      (HQ)   (CN)   J/
+(NH)   Y   (CNT)   E   Y   Y   (CNY)   E/
+(CNY)   (QE)   (CN)   (JW)      (HQ)   (CN)   J/
+H   (CWY)   (NQY)/
+
+
+N C /N C /N C /N C /
+N (CHQ) /(NHQ) (CHQ) /(NHQ) C[JQ(NW)]/ (CQ) (NJ) /
+(CW) (NJW)/ (CJW) (NJW)/ C[QW(NE)] /(CW) (NQ) /
+(CE) (NY) /(CT) (NJE) /(CJ) (NE)W/(CQ)J(NH) /
+(CE) (NY) /(CT) (NJE) /(CJ) (NE)W/(CQ)J(NH) /
+(DE) (SE) /(DE) (SE) /(GE) (NY)T/(GR)E(SW) /
+E (GJ) /R (FH) /W (DG) /W S /
+(FW) (AW) /(SW) (MW) /(SW) (BT)R/(ME)W(NQ) /
+(AH) (MJ)Q/(NW)E(NE) /(CD) (XF)G/(MG)H(NH) /
+(CHQ) (NHQ) /(CHQ) (NHQ) /C[JQ(NW)] (CQ)/ (NJ) (CW) /
+(NJW) (CJW)/ (NJW) C/[QW(NE)] (CW) /(NQ) (CE) /
+(NY) (CY) /(NJE) (CJ) /(NE)W(CQ)J/(NH) (CE) /
+(NY) (CT) /(NJE) (CJ) /(NE)W(CQ)J/(NH) Y /
+(CNT) E /Y Y /(CNY) E /Y (QE) /
+(CN) (JW) /  (HQ) /(CN) J /(NH) Y /
+(CNT) E /Y Y /(CNY) E /Y (QE) /
+(CN) (JW) /  (HQ) /(CN) J /H (CWY) /
+(NQY)/

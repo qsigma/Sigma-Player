@@ -1,0 +1,121 @@
+第一版为一行一小节 排版版本往下翻
+A A A/
+A      AAA/
+A      AAA/
+(AD)  (AD)(AD)(AD)(AD)  (AD)(AD)(AD)/
+(ADG)  (ADG)(ADG)(ADG)(ADG)  (ADG)(ADG)(ADG)/
+(NAGQ)    (BMSGJ)   (MSG)/
+(CMFH)  (CMDG)  (VNSF)  (VNS)/
+(CBA) [SASASA(CBM)]A(CBMS)  (CB) S/
+(ZCBAD)  (ZA) (CD) (BG) (ZAQ) (CDE) (BGT)/
+(NAGQ)    (BMJTU)   (MJET)/
+(CJRY)  (CJET)  (VHWR)  (VHW)/
+(CBGQ) [WQWQWQ(CBJ)]Q(CBGJW)  (CBGJW) E/
+(CBGJW)    (ZCDGQ)  AAA/
+A  ADGQ  AAA/
+A  DGQE  AAA/
+(AD)  (AD)(AG)(AQ)(ADE)  (ADG)(ADQ)(ADE)/
+(ADGT)  (ADG)(ADQ)(ADE)(ADGT)  (ADGQ)(ADGE)(ADGT)/
+(NAGQ)    (BMJWTU)   (MJWT)/
+(CJRY)  (CJET)  (VHWR)  (VHW)/
+(CBGQ)[WQ]W[QWQ(CBJ)]Q(CBGJW)  (CBG) (GW)/
+(ZCBGQE)  (ZA) (CD) (BG) (ZAQ) (CDE) (BGT)/
+(NAGQ)    (BMJTU)   (MJET)/
+(CJRY)  (CJET)  (VHWR)  (VHW)/
+(CBGQ) [WQWQWQ(CBJ)]Q(CBGJW)  (CBGJW) E/
+(CBGJW)    (ZCDGQ)/
+(ZDGQ)    (ZDGQ)   (ZDGQ)/
+(BGQE)  (BGJW)  (BSGJ)  (BADG)/
+(ZADG)  Z (DGQ) (CDGQ)  Z (GQE)/
+(BGQE)  (BGJW)  (BSGJ)  (BADG)/
+(ZADG)  B (DGQ) (CDGQ)  Z (GQE)/
+(VHQET)    (HWR)  (VGQE)/
+(VHW)  (VHW) E(BHW)  (BH) Q/
+(BGJ)  (BGT)  (BHY)  (BJU)/
+(NAGQ)    (BMJTU)   (MJET)/
+(CJRY)  (CJET)  (VHWR)  (VHW)/
+(CBGQ)[WQ]WQW[Q(CB)J]Q(CBGJW)  (CBG) (GW)/
+(ZCBGQE)  (ZA) (CD) (BG) (ZAQ) (CDE) (BGT)/
+(NAGQ)    (BMJWRU)   (MJWT)/
+(CRY)  (CJET)  (VHWR)  (VHW)/
+(CBGQ) WQWQW[Q(CB)J]Q(CBGJW)  (CBGJW) E/
+(CBGJW)    (ZCDGQ)/
+(ZDGQ)    (ZDGQ)   (ZDGQ)/
+(BGQE)  (BGJW)  (BSGJ)  (BADG)/
+(ZADG)  Z (DGQ) (CDGQ)  Z (GQE)/
+(BGQE)  (BGJW)  (BSGJ)  (BADG)/
+(ZADG)  B (DGQ) (CDGQ)  Z (GQE)/
+(VHQET)    (HWR)  (VGQE)/
+(VHW)  (VHW) E(BHW)  (BH) Q/
+(BGJ)  (BGT)  (BHY)  (BJU)/
+(NAGQ)    (BMJTU)   (MJET)/
+(CJRY)  (CJET)  (VHWR)  (VHW)/
+(CBGQ)[WQ]WQW[Q(CB)J]Q(CBGJW)  (CBG) (GW)/
+(ZCBGQE)  (ZA) (CD) (BG) (ZAQ) (CDE) (BGT)/
+(NAGQ)    (BMJWTU)   (MJWT)/
+(CRY)  (CJET)  (VHWR)  (VHW)/
+(CBGQ) WQWQW[Q(CB)J]Q(CBGJW)  (CBGJW) E/
+(CBGJW)    (ZCDGQ)/
+
+
+
+
+A A /A A /    /      /
+A /A A /A   /    /
+    /A A /A (AD) /  (AD) /
+(AD) (AD) /(AD)   /(AD) (AD) /(AD) (ADG)   /
+(ADG) /(ADG) (ADG) /(ADG)   /(ADG) (ADG) /
+(ADG) (NAGQ) /    /  (BMSGJ) /    /
+(MSG) (CMFH) /  (CMDG) /  (VNSF) /  (VNS)   /
+(CBA) /SASA/SA(CBM)A/(CBMS)   /
+(CB)  S/(ZCBAD)   /(ZA) (CD) /(BG) (ZAQ) /
+(CDE) (BGT) /(NAGQ)   /    /(BMJTU)     /
+(MJET) /(CJRY)   /(CJET)   /(VHWR)   /
+(VHW)   /(CBGQ) WQ/WQWQ/(CBJ)Q(CBGJW)   /
+(CBGJW) / E(CBGJW) /    /  (ZCDGQ)   /
+A /A A /A   /A D /
+G Q /  A /A A /A   /
+D G /Q E /  A /A A /
+(AD)   /(AD) (AG) /(AQ) (ADE) /  (ADG) /
+(ADQ) (ADE) /(ADGT)   /(ADG) (ADQ) /(ADE) (ADGT)   /
+(ADGQ) /(ADGE) (ADGT) /(NAGQ)   /    /
+(BMJWTU)   /  (MJWT) /(CJRY)   /(CJET)   /
+(VHWR)   /(VHW)   /(CBGQ) WQ/WQWQ/
+(CBJ)Q(CBGJW) /  (CBG) / (GW)(ZCBGQE) /  (ZA) /
+(CD) (BG) /(ZAQ) (CDE) /(BGT) (NAGQ) /      /
+(BMJTU) /    /(MJET) (CJRY) /  (CJET)   /
+(VHWR) /  (VHW) /  (CBGQ) /WQWQ/
+WQ(CBJ)Q/(CBGJW)   /(CBGJW)  E/(CBGJW)   /
+    /(ZCDGQ)   /    /(ZDGQ)   /
+    /(ZDGQ)   /  (ZDGQ) /(BGQE)   /
+(BGJW)   /(BSGJ)   /(BADG)   /(ZADG)   /
+Z (DGQ) /(CDGQ)   /Z (GQE) /(BGQE)   /
+(BGJW)   /(BSGJ)   /(BADG)   /(ZADG)   /
+B (DGQ) /(CDGQ)   /Z (GQE) /(VHQET)   /
+    /(HWR)   /(VGQE)   /(VHW)   /
+(VHW)  E/(BHW)   /(BH)  Q/(BGJ)   /
+(BGT)   /(BHY)   /(BJU)   /(NAGQ)   /
+    /(BMJTU)   /  (MJET) /(CJRY)   /
+(CJET)   /(VHWR)   /(VHW)   /(CBGQ) WQ/
+WQW[Q(CB)J]/Q(CBGJW)  / (CBG)  /(GW)(ZCBGQE)   /
+(ZA) (CD)/ (BG) (ZAQ)/ (CDE) (BGT)/ (NAGQ)  /
+    / (BMJWRU)  /   (MJWT)/ (CRY)   /
+(CJET)  / (VHWR)  / (VHW)  / (CBGQ) W/
+QWQW/[Q(CB)J]Q(CBGJW) /  (CBGJW) / E(CBGJW) /
+    /  (ZCDGQ) /    /  (ZDGQ) /
+    /  (ZDGQ) /    /(ZDGQ) (BGQE)   /
+(BGJW) /  (BSGJ) /  (BADG) /  (ZADG)   /
+Z /(DGQ) (CDGQ) /  Z /(GQE) (BGQE)   /
+(BGJW) /  (BSGJ) /  (BADG) /  (ZADG)   /
+B /(DGQ) (CDGQ) /  Z /(GQE) (VHQET) /
+    /  (HWR) /  (VGQE) /  (VHW)   /
+(VHW) / E(BHW) /  (BH) / Q(BGJ)   /
+(BGT) /  (BHY) /  (BJU) /  (NAGQ) /
+    /  (BMJTU) /    /(MJET) (CJRY)   /
+(CJET) /  (VHWR) /  (VHW) /  (CBGQ) /
+WQWQ/W[Q(CB)J]Q(CBGJW)/   (CBG)/  (GW)(ZCBGQE)   /
+(ZA)/ (CD) (BG)/ (ZAQ) (CDE)/ (BGT) (NAGQ)/
+    /   (BMJWTU)/    / (MJWT) (CRY)   /
+(CJET)/   (VHWR)/   (VHW)/   (CBGQ) /
+WQW/QW[Q(CB)J]Q/(CBGJW)   /(CBGJW)  E/
+(CBGJW)   /    /(ZCDGQ)/

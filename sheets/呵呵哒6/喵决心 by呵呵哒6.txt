@@ -1,0 +1,69 @@
+第一版为一行一小节 排版版本往下翻
+(NQ) (NJ) (ZH) (XG) (CH) (ZD)/
+(XG) X (BS) N (BH) (XJ)/
+(VQ) N (MW) Z (XT) M/
+(ZE) M N B N C/
+(NQ) (NJ) (ZH) (XG) (CH) (ZD)/
+(XG) B (NS) Z (CN) (XM)/
+(VA) N (XM) C (BM) B/
+(ZN) M N B N M/
+(NQ) (NJ) (ZH) (XG) (CH) (ZD)/
+(XG) X (BS) N (BH) (XJ)/
+(VQ) N (MW) Z (XT) M/
+(ZE) M N B N C/
+(NQ) (NJ) (ZH) (XG) (CH) (ZD)/
+(XG) B (NS) Z (CN) (XM)/
+(VA) N (XM) C (BM) B/
+(ZN) M N B N M/
+(ZN) M N B N C/
+(MJW) (VHQ) (XGJ) (ZFH) (CDG) (XFJ)/
+(ZDH) X (NAD) M (BAD) (NDH)/
+(MJW) (VHQ) (XGJ) (ZFH) (CDG) (XFJ)/
+(ZDH)      (CN) (NS)/
+(XDG) (NSG) (BAD) (CMS) (XAD) (MSG)/
+(NAD) M (ZCN) M (ZCN) (XBM)/
+(XVNA)   (NAF)   (CAFH)/
+(XMDH) Z M N N M/
+(MJW) (VHQ) (XGJ) (ZFH) (CDG) (XFJ)/
+(ZDH) X (NAD) M (BAD) (NDH)/
+(MJW) (VHQ) (XGJ) (ZFH) (CDG) (XFJ)/
+(ZDH)      (CN) (NS)/
+(XDG) (NSG) (BAD) (CMS) (XAD) (MSG)/
+(NAD) M (ZCN) M (ZCN) (XBM)/
+(XVNA)   (NAF)   (CAFH)/
+(XMDH) Z M N N M/
+(XDG) (SG) (AD) (MS) (AD) (SG)/
+(NAD)   (CN)   (ZCN) (XBM)/
+(XVNA)   (XBM)   (CBM)/
+(ZCN)/
+
+
+
+(NQ) (NJ) /(ZH) (XG) /(CH) (ZD) /(XG) X /
+(BS) N /(BH) (XJ) /(VQ) N /(MW) Z /
+(XT) M /(ZE) M /N B /N C /
+(NQ) (NJ) /(ZH) (XG) /(CH) (ZD) /(XG) B /
+(NS) Z /(CN) (XM) /(VA) N /(XM) C /
+(BM) B /(ZN) M /N B /N M /
+(NQ) (NJ) /(ZH) (XG) /(CH) (ZD) /(XG) X /
+(BS) N /(BH) (XJ) /(VQ) N /(MW) Z /
+(XT) M /(ZE) M /N B /N C /
+(NQ) (NJ) /(ZH) (XG) /(CH) (ZD) /(XG) B /
+(NS) Z /(CN) (XM) /(VA) N /(XM) C /
+(BM) B /(ZN) M /N B /N M /
+(ZN) M /N B /N C /(MJW) (VHQ) /
+(XGJ) (ZFH) /(CDG) (XFJ) /(ZDH) X /(NAD) M /
+(BAD) (NDH) /(MJW) (VHQ) /(XGJ) (ZFH) /(CDG) (XFJ) /
+(ZDH)   /    /(CN) (NS) /(XDG) (NSG) /
+(BAD) (CMS) /(XAD) (MSG) /(NAD) M /(ZCN) M /
+(ZCN) (XBM) /(XVNA)   /(NAF)   /(CAFH)   /
+(XMDH) Z /M N /N M /(MJW) (VHQ) /
+(XGJ) (ZFH) /(CDG) (XFJ) /(ZDH) X /(NAD) M /
+(BAD) (NDH) /(MJW) (VHQ) /(XGJ) (ZFH) /(CDG) (XFJ) /
+(ZDH)   /    /(CN) (NS) /(XDG) (NSG) /
+(BAD) (CMS) /(XAD) (MSG) /(NAD) M /(ZCN) M /
+(ZCN) (XBM) /(XVNA)   /(NAF)   /(CAFH)   /
+(XMDH) Z /M N /N M /(XDG) (SG) /
+(AD) (MS) /(AD) (SG) /(NAD)   /(CN)   /
+(ZCN) (XBM) /(XVNA)   /(XBM)   /(CBM)   /
+(ZCN)/

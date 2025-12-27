@@ -1,0 +1,97 @@
+(NQ)   (NJ) H (NQ) N/
+H (NJ) Q (NT) E (NW)/
+N (NQ) (NJ) H (BQ)/
+(BJ) G (BQ) B H (BJ)/
+Q (BT) E (BW) B (BQ)/
+JBH (VQ)   (VJ) F/
+(VQ) V H (VJ) Q TV/
+E (VW) V (VQ) (VJ) H/
+(CJ)   (CH) G (CJ) C/
+D (BF) G (BW)   (BJ)/
+(BJ) (BQ) (BJ) G (NQ)/
+(NJ) H (NQ) N H (NJ)/
+Q (NT) E (NW) N QN/
+(NJ) H (BQ)   (BJ) G/
+(BQ) B H (BJ) Q (BT)/
+E WB B QB(BJ) H/
+(VQ)   (VJ)  F (VQ) V/
+H (VJ) Q (VT) E WV/
+V (VQ) JVH (CJ)/
+(CH) G (CJ) C D (BF)/
+G (BW)   (BJ) B (BQ)/
+(BJ)   G/
+M/
+V/
+B/
+B    B/
+Q [NW] (NJ) H (NQ) N/
+H (NJ) (NQ) T E (NW)/
+N (NQ) (NJ) H (BQ)/
+(BJ) G (BQ) B H (BJ)/
+Q (BT) E (BW) B (BQ)/
+[JB] H(VQ)   (VJ) F/
+(VQ) V H (VJ) Q (VT)/
+E (VW) V (VQ) (VJ) H/
+(CJ) H (CG)   (CJ) C/
+D (BF) G (BW)   (BJ)/
+B (BQ)J(BG)   (NQ)/
+(NJ) H (NQ) NHN J/
+Q (NT) E (NW) N (NQ)/
+(NJ) H  (BQ) J (BG)/
+(BQ) B H (BJ) Q (BT)/
+E (BW) B QBJBH/
+(VQ)   (VJ)  F (VQ) V/
+H (VJ) Q (VT) E WV/
+V (VQ) (VJ) H (CJ)/
+(CH) G (CJ) C D (BF)/
+G (BW)   (BJ) B (BQ)/
+(BJ)   G/
+M/
+M/
+V/
+B      M/
+M      (NQ)/
+(NJ) H (NQ) N H (NJ)/
+(NQ) T E (NW) N Q N/
+(NJ) H (BQ) J (BG)/
+(BQ) B H (BJ) Q (BT)/
+E (BW) B (BQ) (BJ)  H/
+(VQ)   (VJ) F (VQ) V/
+H (VJ) Q (VT) E (VW)/
+V (VQ) (VJ) H (CJ)/
+(CH)   (CG)JC D (BF)/
+G (BW)   (BJ) B QB/
+(BJ)   (NG) Q (NJ) H/
+(NQ) N H J (NQ) (NT)/
+E (NW) N (NQ) (NJ) H/
+(BQ)   (BJ)   (BG)QB/
+H BJ Q (BT) E (BW)/
+B QB (BJ) H (VQ)/
+[JV] F (VQ) V H (VJ)/
+Q (VT) E WV V (VQ)/
+JVH (CJ) H (CG)/
+(CJ) C D (BF) G (BW)/
+(BJ) B (HQ) B(BG)/
+(MJ)   J U M/
+(NQ)   (NJ)   H/
+(NQ) NHN J (NQ) T/
+E (NW) N (NQ) (NJ) H/
+(BQ) J (BG)   (BQ) B/
+H (BJ) Q (BT) E (BW)/
+B (BQ) (BJ) H (VQ)/
+(VJ) F (VQ) V H (VJ)/
+Q TV E (VW) V (VQ)/
+(VJ) H  (CJ) H (CG)/
+(CJ)  C D (BF) G (BW)/
+J B B (BQ)J(BG)/
+(NQ)   (NJ) H  (NQ) N/
+(NH) J (NQ) (NT) E (NW)/
+N (NQ) (NJ) H (BQ)/
+(BJ)   (BG)QB H (BJ)/
+Q (BT) E (BW)BQ B/
+(BJ) H (VQ)   [JV] F/
+(VQ) V H (VJ) Q (VT)/
+(QE) V  V (VQ) (VJ) H/
+(CJ)   (CH) G (CJ) C/
+D (BF) G (BW)   (BJ)/
+B (BQ) (BJ) G/

@@ -1,0 +1,96 @@
+第一版为一行一小节 排版版本往下翻
+(MJ) G (BMJ) G (ZQ) G (NAQ) G (XW) G (MSW) (MSG) (ZQ) G (NAQ) G
+(MJ) G (BMJ) G (ZQ) G (NAQ) G (XW) G (MSW) (MSG) (ZQ) G (NAQ) G
+(BW)   (BMJ)   (XG)   (XBW)   (BW) E (BMW) (BMQ) (XW)   (XBW) T
+(BR)   (XBR) E W   (XQ)   (XNJ) B Q (XB) (XBW) X   (XN)
+(BW)   (BMJ)   (XG)   (XBW)   (BW) E (BMW) (BMQ) (XW)   (XBE) R
+(BT)   (XBQ) (XJ) Q (XN) T   (XBR)   (XBE)   (VNW)
+(GW)   (XBMW) W (GQ)   (XBMQ)   (GJ) J (XBMJ) J H   (XBMH)
+G   (ZVNG) G H   (ZVNH)   (XBMGJ)   (XBMQ)   (XBMGW)
+(GW)   (XBMW) W (GQ)   (XBMW)   (GE) E (ZCNE) R (GT)   (ZCNR) E
+(GW)   (ZVNW) Q (GJ)   (ZVNH)   (BG)   (XM) (XM) (XMT)
+(BSW) (XBM) (MJ)   (XBG)   (XBMSW)   (SW) (BDE) (SW) (XVNAQ) (XBMSW) X (SW) (XBMGT)
+(BFR) (XVN) (XFR) (DE) (XVNSW)   (AQ) B (MJ) (XVN) (XVNAQ) X (SW) (XVN)
+(BSW)   (XBMJ)   (XBG)   (XBMSW)   (BSW) (DE) (XBMSW) (XVNAQ) (XSW)   (XBMDE) (FR)
+(BGT)   (XVNAQ) (MJ) (XAQ)   (XVNGT)   (XVNFR)   (XVNDE)   (XBSW)
+(BT) (BW) (BMT) W (XR) (XW) (XBR) W (BE) (BJ) (XBE) J (XW) (XJ) (XNW) J
+(BQ) (BG) (XBQ) G (XJ) (XG) (XNJ) G (BQ) (BG) (BMQ) G (XW) (XG) (XBW) G
+(BT) BW(BM) T W (XR) XW(XB) R W (BE) BJ(XB) E J (XW) XJ(XN) W J
+(BG) (BG)   (BG) (NH)   (MJ)   (ZAQ)    ERF
+(ET)   (WRY)   (CB)            (CB)            (CB)            (CB)         U
+(BS)   (XBM)   (XB)   (XBMS)   (BS) D (XBMS) (XVNA) (XS)   (XBMS) G
+(BF)   (XVNF) D (XS)   (XVNA) B M   (XVNA) (XVN) (XS)   (XVN)
+(BS)   (XBM)
+(XVN)   N   N M N B (ZVN)   M M
+S   B V (ZVN)   S   M   M   (ZVN)
+W      Q   (BM)(BM)  J      H
+G   (XB)(ZCB)  H      J
+(BMW)(BM)     Q    (XB)(XB)E      T
+(VNW)(VN)     J      G
+(XVMSW) (SW) (SW) (SW) (XVNAQ) (AQ) (AQ) (AQ) (XVMJ) (MJ) (MJ) (MJ) (ZCBMH) (NH) (NH) (NH)
+(ZCBMG) (BG) (BG) (BG) (ZCBMH) (NH) (NH) (NH) (XVMJ) (MJ) (MJ) (MJ) (XVMJ) (MJ) (MJ) (MJ)
+(XVMSW) (SW) (SW) (SW) (XVNAQ) (AQ) (AQ) (AQ) (XVMDE) (DE) (DE) (DE) (XVMGT) (GT) (GT) (GT)
+(XVMSW) (SW) (SW) (SW) (XVMJ) (MJ) (MJ) (MJ) (ZCBMG) (BG) (BG) (BG) (ZCBMG) (BG) (BG) (BG)
+(ZCBMSW)   (MJ)   (ZCBMG)   (SW)   (ZCBMSW) (DE) (SW) (AQ) (XVMSW)   (SW) (GT)
+(ZCBMFR)   (FR) (DE) (XVMSW)   (AQ)   (ZCBMJ)   (AQ)   (XVMSW)
+(ZCBMSW)   (MJ)   (ZCBMG)   (SW)   (ZCBMSW) (DE) (SW) (AQ) (XVMSW)   (DE) (FR)
+(ZCBMGT)   (AQ) (MJ) (XVNAQ)   (GT)   (ZCBMFR)   (DE)   (XVMSW)
+(XVMSW) (SW) (XVMSW) (SW) (XVNAQ) (AQ) (XVNAQ) (AQ) (XVMJ) (MJ) (XVMJ) (MJ) (ZCBMH) (NH) (ZCBMH) (NH)
+(ZCBMG) (BG) (ZCBMG) (BG) (ZCBMH) (NH) (ZCBMH) (NH) (ZCBMJ) (MJ) (ZCBMJ) (MJ) (ZCBMJ) (MJ) (ZCBMJ) (MJ)
+(ZCBMSW) (SW) (XVMSW) (SW) (XVNAQ) (AQ) (XVNAQ) (AQ) (ZCBMDE) (DE) (XVMDE) (DE) (ZCBMGT) (GT) (XVMGT) (GT)
+(ZCBMSW) (SW) (XVMSW) (SW) (ZCBMJ) (MJ) (XVMJ) (MJ) (ZCBMG) (BG) (ZCBMG) (BG) (ZCBMG) (BG) (ZCBMG) (BG)
+(BW)   (BMJ)   (XG)   (XBW)   (BW) E (BMW) (BMQ) (XW)   (XBW) (BT)
+(BR)   (XBR) E (XW)   (XNQ)   (BJ)   (XBQ) (XB) (XW)   (XN)
+(BW)   (BMJ)   (XG)   (XBW)   (BW) E (BMW) (BMQ) (XW)   (XBJ) Q
+(BW)   (XBW) Q J X H (XN) (BG)      G   G
+Q            X(HQ)(NSG)(MDJ)(SHW)(GE)(JT)(HE)
+
+
+
+
+    /    /    /    /
+(MJ)G(BMJ)G/(ZQ)G(NAQ)G/(XW)G(MSW)(MSG)/(ZQ)G(NAQ)G/
+(MJ)G(BMJ)G/(ZQ)G(NAQ)G/(XW)G(MSW)(MSG)/(ZQ)G(NAQ)G/
+(BW) (BMJ) /(XG) (XBW) /(BW)E(BMW)(BMQ)/(XW) (XBW)T/
+(BR) (XBR)E/W (XQ) /(XNJ)BQ(XB)/(XBW)X (XN)/
+(BW) (BMJ) /(XG) (XBW) /(BW)E(BMW)(BMQ)/(XW) (XBE)R/
+(BT) (XBQ)(XJ)/Q(XN)T /(XBR) (XBE) /(VNW)   /
+(GW) (XBMW)W/(GQ) (XBMQ) /(GJ)J(XBMJ)J/H (XBMH) /
+G (ZVNG)G/H (ZVNH) /(XBMGJ) (XBMQ) /(XBMGW)   /
+(GW) (XBMW)W/(GQ) (XBMW) /(GE)E(ZCNE)R/(GT) (ZCNR)E/
+(GW) (ZVNW)Q/(GJ) (ZVNH) /(BG) (XM)(XM)/(XMT)   /
+(BSW)(XBM)(MJ) /(XBG) (XBMSW) /(SW)(BDE)(SW)(XVNAQ)/(XBMSW)X(SW)(XBMGT)/
+(BFR)(XVN)(XFR)(DE)/(XVNSW) (AQ)B/(MJ)(XVN)(XVNAQ)X/(SW)(XVN)  /
+(BSW) (XBMJ) /(XBG) (XBMSW) /(BSW)(DE)(XBMSW)(XVNAQ)/(XSW) (XBMDE)(FR)/
+(BGT) (XVNAQ)(MJ)/(XAQ) (XVNGT) /(XVNFR) (XVNDE) /(XBSW)   /
+(BT)(BW)(BMT)W/(XR)(XW)(XBR)W/(BE)(BJ)(XBE)J/(XW)(XJ)(XNW)J/
+(BQ)(BG)(XBQ)G/(XJ)(XG)(XNJ)G/(BQ)(BG)(BMQ)G/(XW)(XG)(XBW)G/
+(BT)[BW(BM)]TW/(XR)[XW(XB)]RW/(BE)[BJ(XB)]EJ/(XW)[XJ(XN)]WJ/
+(BG)(BG) (BG)/(NH) (MJ) /(ZAQ)  [ERF]/   (ET) /
+(WRY) (CB)/    /   (CB)/       /
+(CB)/    /   (CB)/     /
+U (BS)/ (XBM) (XB)/ (XBMS) (BS)/D(XBMS)(XVNA)(XS) /
+(XBMS)G(BF)/ (XVNF)D(XS)/ (XVNA)BM/ (XVNA)(XVN)(XS) /
+(XVN) (BS)/ (XBM) (XVN)/ N N/MNB(ZVN) /
+MMS/ BV(ZVN)/ S M/ M (ZVN)   /
+W/   Q/ [(BM)(BM)] J/   H   /
+G/ [(XB)(ZCB)] H/   J/       /
+[(BMW)(BM)]/   Q/  [(XB)(XB)E] /  T   /
+[(VNW)(VN)] /  J /  G /      /
+(XVMSW)(SW)/(SW)(SW)(XVNAQ)(AQ)/(AQ)(AQ)(XVMJ)(MJ)/(MJ)(MJ)(ZCBMH)(NH)/
+(NH)(NH)(ZCBMG)(BG)/(BG)(BG)(ZCBMH)(NH)/(NH)(NH)(XVMJ)(MJ)/(MJ)(MJ)(XVMJ)(MJ)/
+(MJ)(MJ)(XVMSW)(SW)/(SW)(SW)(XVNAQ)(AQ)/(AQ)(AQ)(XVMDE)(DE)/(DE)(DE)(XVMGT)(GT)/
+(GT)(GT)(XVMSW)(SW)/(SW)(SW)(XVMJ)(MJ)/(MJ)(MJ)(ZCBMG)(BG)/(BG)(BG)(ZCBMG)(BG)/
+(BG)(BG)(ZCBMSW) /(MJ) (ZCBMG) /(SW) (ZCBMSW)(DE)/(SW)(AQ)(XVMSW) /
+(SW)(GT)(ZCBMFR) /(FR)(DE)(XVMSW) /(AQ) (ZCBMJ) /(AQ) (XVMSW)   /
+(ZCBMSW) /(MJ) (ZCBMG) /(SW) (ZCBMSW)(DE)/(SW)(AQ)(XVMSW) /
+(DE)(FR)(ZCBMGT) /(AQ)(MJ)(XVNAQ) /(GT) (ZCBMFR) /(DE) (XVMSW)   /
+(XVMSW)(SW)/(XVMSW)(SW)(XVNAQ)(AQ)/(XVNAQ)(AQ)(XVMJ)(MJ)/(XVMJ)(MJ)(ZCBMH)(NH)/
+(ZCBMH)(NH)(ZCBMG)(BG)/(ZCBMG)(BG)(ZCBMH)(NH)/(ZCBMH)(NH)(ZCBMJ)(MJ)/(ZCBMJ)(MJ)(ZCBMJ)(MJ)/
+(ZCBMJ)(MJ)(ZCBMSW)(SW)/(XVMSW)(SW)(XVNAQ)(AQ)/(XVNAQ)(AQ)(ZCBMDE)(DE)/(XVMDE)(DE)(ZCBMGT)(GT)/
+(XVMGT)(GT)(ZCBMSW)(SW)/(XVMSW)(SW)(ZCBMJ)(MJ)/(XVMJ)(MJ)(ZCBMG)(BG)/(ZCBMG)(BG)(ZCBMG)(BG)/
+(ZCBMG)(BG)(BW) /(BMJ) (XG) /(XBW) (BW)E/(BMW)(BMQ)(XW) /
+(XBW)(BT)(BR) /(XBR)E(XW) /(XNQ) (BJ) /(XBQ)(XB)(XW) /
+(XN) (BW) /(BMJ) (XG) /(XBW) (BW)E/(BMW)(BMQ)(XW) /
+(XBJ)Q(BW) /(XBW)QJX/H(XN)(BG) /  G /
+G Q /    /  [X(HQ)(NSG)(MDJ)(SHW)(GE)(JT)(HE)]/

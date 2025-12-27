@@ -1,0 +1,142 @@
+第一版为一行一小节 排版版本往下翻
+
+A         SFG/
+(VH) Z V (ZQ) (NH)   (ZA)SFH/
+(XW) N X (NQ) (VH)   (NA)SFH/
+(MR) V M (VR)W(XR) H V W/
+(ZDQ) B Z B (ZW)EQGQGQ/
+(VH) Z V (ZG) (NF)   (ZA)SFH/
+(XW) N X (NQ) (VW)   (NA)SFH/
+(BG) X B GF(ZG) (BA) (ZS)F/
+(VF) Z V Z B Z N Z/
+(VH) Z (VH) (ZG)F(NF)   Z/
+(CQ) NH(ZH)AA (XS) N X N/
+(MS) V (MS) FGB X B X/
+(ZA)H(BG)F(ZG) (BH)GC B Z B/
+(VH) Z (VH) (ZQ)WC (NQ) Z C/
+(XW)W(NW)Q(XQ) (NH) (CH) N Z C/
+(MS) V (MS) (VH)H(BG) X B X/
+(ZQ) (BH) ZGB C B Z B/
+(VH) Z (VH) (ZG)F(NF)   Z/
+(CQ) NH(ZH)AA (XS) N X N/
+(MS) V (MS) FGB X B X/
+(ZA)H(BG)F(ZG) (BH)GC B Z B/
+(VH) Z (VH) (ZQ)WC (NQ) Z C/
+(XW)W(NW)Q(XQ) NH(CH) N Z C/
+(MS) V (MS) (VH)H(BG) X B X/
+(ZQ) (BH) ZGB (CG) B (ZG) (BF)S/
+(VG) ZF(VF) Z N   (ZA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VH)   (NF)GHQ/
+(MR) V MRVW(XR)  HVQ W/
+(ZW)QB Z B C   (BA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VW)   (NA)SFH/
+(MG) V M GF(ZG) (BA) Z SF/
+V (ZF) V Z N Z V Z/
+(VH) Z (VH) (ZG)F(NF)   Z/
+(CQ) NH(ZH)AA (XS) N X N/
+(MS) V (MS) FGB X B X/
+(ZA)H(BG)F(ZG) (BH)GC B Z B/
+(VH) Z (VH) (ZQ)WC (NQ) Z C/
+(XW)W(NW)Q(XQ) NH(CH) N Z C/
+(MS) V (MS) (VH)H(BG) X B X/
+(ZQ) (BH) ZGB (CG) B (ZG) (BF)S/
+(VG) ZF(VF) Z N   (ZA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VH)   (NF)GHQ/
+(MR) V MRVW(XR)  HVQ W/
+(ZW)QB Z B C   (BA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VW)   (NA)SFH/
+(MG) V M GF(ZG) (BA) Z SF/
+V (ZF) V Z N Z V Z/
+(VF) (ZF) V Z N   (ZA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VH)   (NF)GHQ/
+(MR) V MRVW(XR)  HVQ W/
+(ZW)QB Z B C   (BA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VW)   (NA)SFH/
+(BG) X B GF(ZG) (BA) Z SF/
+V (ZF) V Z N   (ZA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VH)   (NF)GHQ/
+(MR) V MRVW(XR)  HVQ W/
+(ZW)QB Z B C   (BA)SFG/
+(VH) Z V (ZQ) (NH)   (ZF)GHQ/
+(XW) N X (NQ) (VW)   (NA)SFH/
+(BG) X B GF(ZG) (BA) Z SF/
+V (ZF) V B N/
+
+
+
+
+    /    /    /ASFG/
+(VH) Z /V (ZQ) /(NH)   /(ZA)SFH/
+(XW) N /X (NQ) /(VH)   /(NA)SFH/
+(MR) V /M (VR)W/(XR) H /V W /
+(ZDQ) B /Z B /(ZW)EQG/QGQ /
+(VH) Z /V (ZG) /(NF)   /(ZA)SFH/
+(XW) N /X (NQ) /(VW)   /(NA)SFH/
+(BG) X /B GF/(ZG) (BA) /(ZS)F  /
+(VF) Z /V Z /B Z /N Z /
+(VH) Z /(VH) (ZG)F/(NF)   /Z   /
+(CQ) NH/(ZH)AA /(XS) N /X N /
+(MS) V /(MS) FG/B X /B X /
+(ZA)H(BG)F/(ZG) (BH)G/C B /Z B /
+(VH) Z /(VH) (ZQ)W/C (NQ) /Z C /
+(XW)W(NW)Q/(XQ) (NH) /(CH) N /Z C /
+(MS) V /(MS) (VH)H/(BG) X /B X /
+(ZQ) (BH) /ZGB /C B /Z B /
+(VH) Z /(VH) (ZG)F/(NF)   /Z   /
+(CQ) NH/(ZH)AA /(XS) N /X N /
+(MS) V /(MS) FG/B X /B X /
+(ZA)H(BG)F/(ZG) (BH)G/C B /Z B /
+(VH) Z /(VH) (ZQ)W/C (NQ) /Z C /
+(XW)W(NW)Q/(XQ) NH/(CH) N /Z C /
+(MS) V /(MS) (VH)H/(BG) X /B X /
+(ZQ) (BH) /ZGB /(CG) B /(ZG) (BF)S/
+(VG) ZF/(VF) Z /N   /(ZA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VH)   /(NF)GHQ/
+(MR) V /MRVW/(XR)  H/VQ W/
+(ZW)QB /Z B /C   /(BA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VW)   /(NA)SFH/
+(MG) V /M GF/(ZG) (BA) /Z SF/
+V (ZF) /V Z /N Z /V Z /
+(VH) Z /(VH) (ZG)F/(NF)   /Z   /
+(CQ) NH/(ZH)AA /(XS) N /X N /
+(MS) V /(MS) FG/B X /B X /
+(ZA)H(BG)F/(ZG) (BH)G/C B /Z B /
+(VH) Z /(VH) (ZQ)W/C (NQ) /Z C /
+(XW)W(NW)Q/(XQ) NH/(CH) N /Z C /
+(MS) V /(MS) (VH)H/(BG) X /B X /
+(ZQ) (BH) /ZGB /(CG) B /(ZG) (BF)S/
+(VG) ZF/(VF) Z /N   /(ZA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VH)   /(NF)GHQ/
+(MR) V /MRVW/(XR)  H/VQ W/
+(ZW)QB /Z B /C   /(BA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VW)   /(NA)SFH/
+(MG) V /M GF/(ZG) (BA) /Z SF/
+V (ZF) /V Z /N Z /V Z /
+(VF) (ZF) /V Z /N   /(ZA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VH)   /(NF)GHQ/
+(MR) V /MRVW/(XR)  H/VQ W/
+(ZW)QB /Z B /C   /(BA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VW)   /(NA)SFH/
+(BG) X /B GF/(ZG) (BA) /Z SF/
+V (ZF) /V Z /N   /(ZA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VH)   /(NF)GHQ/
+(MR) V /MRVW/(XR)  H/VQ W/
+(ZW)QB /Z B /C   /(BA)SFG/
+(VH) Z /V (ZQ) /(NH)   /(ZF)GHQ/
+(XW) N /X (NQ) /(VW)   /(NA)SFH/
+(BG) X /B GF/(ZG) (BA) /Z SF/
+V (ZF) /V B /N/

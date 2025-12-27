@@ -1,0 +1,275 @@
+BPM:135 4/4拍
+
+
+
+(DNC)  /  /  /  /1
+
+/  /  /  /
+
+/  /  /  /
+
+/  /  /  /
+
+
+
+/  /C  /  /5
+
+B  /  /  /  /
+
+V  /  /X  /  /
+
+XCBM /  /  /  /
+
+
+
+/  /  /  /9
+
+(ZV)BA /  /  /  /
+
+/  /Z  /X  /
+
+(CX)BM /  /N  /  /
+
+
+
+X  /  /X  /  /13
+
+ZVNA /  /N  /  /
+
+(XB)  /SDG/SDG /G  /
+
+(DN)  N  D  A  /
+
+
+
+G  /  /S  /A  /17
+
+(MV)  / N/N  /  /
+
+M  /A S /(GSB)  /  /
+
+(HDN) J /(QZ) C /B J /H G /
+
+
+
+D  /  /(SB)  /X G /21
+
+(DV)  /Z S /(SC)  /  /
+
+/  /B D /H J /
+
+(QH) N /M J /(QG) J /H G /
+
+
+
+D  /  /(SB) X /Z (GB) /25
+
+(DV) N /M (JA) /(JG)  /  /
+
+/  /(HSC)  /G  /
+
+(FX)  /X B /N  /F G /
+
+
+
+H Z /C B /(GX)  / G /29
+
+(HCZ) D /  /M  /  /
+
+H C /X B /(JB)  /B  /
+
+(QN)  /  /(QM) J /H G /
+
+
+
+(DAZ)  /X B /(SNX)  /G  /33
+
+(DV)  / (WS) /(WS)  /  /
+
+V /N  /D  /  /
+
+(BX)  /  /  /  /
+
+
+
+/  /  /  /37
+
+V A /D H / Q /D H /
+
+B J /G H /V G /S D /
+
+Z A /D H /A J /D H /
+
+
+
+(AZ) J /D H / E /H J /41
+
+(HB) S /G  /S W /D G /
+
+S W /D H /N G /S D /
+
+Z S /H W /Y  /  /
+
+
+
+W E /(WS)  /(QAC)  /(GB)  /45
+
+(QAV)  /V Z /C  /(TV) (TZ) /
+
+V  /XCBN/(MB)  /Q E /
+
+(TQN)YET/(YN) C /(AN)  /N C /
+
+
+
+(WN) (EC) /(WN)  /(QC)  /G  /49
+
+(HDV)  /(NV) Z /C  /(EV) (EZ) /
+
+(HV)  /Z  /(WB)  /  /
+
+(QSX)  /X N /(TVX)  /X N /
+
+
+
+(WX) E /W  /(QC)  /T  /53
+
+(TV) E /(TV) Z /(NC)  /(YV) (TZ) /
+
+V (VZ) /V  /(GB)  /E E /
+
+N  /N C /(QN) (TC) /(WN)  /
+
+
+
+B  /(EB) (QX) /(MB) Q /(HB)  /57
+
+(SX)  /X (GN) /(QFS) J /H  /
+
+(SB)  /B (GM) /(QGS) J /H  /
+
+(DV)  /V (GA) /(QHD) W /W  /
+
+
+
+(EGB)  /  /B  /  /61
+
+(WV) Q /(JV) (QZ) /(ENC) W /(QV) (JZ) /
+
+(QV) Z / (QV) /(WB) (QX) /J (QB) /
+
+(JN)  /N (HC) /(HAN)  /N C /
+
+
+
+(JB) B / (EB) /(EBX)  /  /65
+
+(WV) Q /(JV) (QZ) /(ENC) W /(QV) (JZ) /
+
+(QV) Z / (QV) /(WB) (QX) /J (QB) /
+
+(JN)  /N (HC) /(HN)  /N C /
+
+
+
+(JB) B / (TB) /(TBX)  / T /69
+
+(TX)  /(RX) N /(RVX)  /(EX) E /
+
+C  /C (WM) /(WBC)  /(EC) E /
+
+N  /N C /(DAN)  /N  /
+
+
+
+(EZ)  /Z C /(YAN)  /Z  /73
+
+(TV)  /R  /R  /E E /
+
+C  /M  /(WBC)  /E E /
+
+(JN) H /(QN) W /(QN) J /(HN) J /
+
+
+
+(QN)  /  /N N /(RN) N /77
+
+(EDN)  /N  /(WNC)  /N  /
+
+(RN)  /N  /(YNC)  /N  /
+
+(TV)  /V  /(YVZ)  /V  /
+
+
+
+V  /V  /(RVZ)  /V E /81
+
+B  /(WB)  /(HBX)  /B  /
+
+(EX) H /(EX) H /(TNX) H /(TX) H /
+
+(YHX)  /X  /(ENX)  X  /
+
+
+
+(FX)  /X  /(WC)  /(QC) E /85
+
+(EN) N /(HC) N /(GX) N /(GX) N /
+
+(QF) N /(QF) N /(WSN) /(WDN) /
+
+(EV) N /(ED) N /(WS) N /(WS) N /
+
+
+
+(QD) N /(QD) N /(JS) N /(GD) N /89
+
+(NZ) N /(NZ) N /(AZ) N /(AZ) N /
+
+(DZ) N /(DZ) N /(SZ) N /(DZ) N /
+
+(FX) N /(FX) N /(GS) N /(GS) N /
+
+
+
+(HNV) N /(HV) N /(GB) D/(SB)  /93
+
+(MXN)  /  /  /  /
+
+/  /BMSG /  /
+
+VNAD /  /  /  /
+
+
+
+H  /  /  / H /97
+
+D N /S M /A G /H J /
+
+Q T /  /B S /A B /
+
+V D /M A /H S /J Q /
+
+
+
+E  /  /S  /  /101
+
+(WN) (QN) /(JM) (QA) /(EG) W /Q J /
+
+Q  / Q /W (QS) /(JA) (QB) /
+
+(QV) (JN) /M (HA) /G  /E  /
+
+
+
+H  /  /  /  /105
+
+(HN)JQT /  /  /  /
+
+/  / W /Q G /
+
+N H /J A /G H /ADS /
+
+
+
+H W /109

@@ -1,0 +1,57 @@
+    /    /Q  J/  (CNADGQ)   /
+C /N (ADGQ) /(DGQ)  J/  (VFHW)   /
+Z /V N /(AF) Q /J Q /
+(BGJW) X /(BG) (ME) /S R /  (GQE) /
+Z B /A D /(GQ)  T/  (CBQET)   /
+Z /C B /(AGQ)  T/  (VHQT) /
+V Z /V (NQ) /  Q /(AFJ) QN/
+(AHQE)   /W (BMQ) /  J /(VQ) Q /
+(CADGQ) C /B (ZGQET) /C C /(ZADGQ) B /
+(XVN) (VMJ) /(NAQ) Z /(VMJ) (VAQ) /(ZBG) (ZA) /
+(BAQ) B /M (XGJWT) /M B /(BMSGJ) B /
+(XVN) (NAQ) /(ZSW) C /(NFR) (BDE) /(CAQ) (ZBG) /
+(CADGQ) C /B (ZGQET) /C C /(ZADGQ) B /
+(XVN) (VMJ) /(NAQ) Z /(VMJ) (VAQ) /(ZBG) (ZA) /
+(NAQ) (MJ) /(XVNAQ) (BSW) /  (AQ) /(XBMSW) (VGT)   /
+(NH) /(MJ) (AQ) /(ZVFR) (DE) /(SW) (AQ) /
+(CADG) C /(BW) (AE) /(DW) (GE) /(QE) (DE) /
+(QR) (GE) /D (AW) /B (CQ) /C C /
+(VADG) V /(NW) (AE) /(FE) H /(QE) (FE) /
+(JR) (HE) /F (AW) /V (ZQ) /V V /
+(NADG) N /(AW) (DE) /(NE) (GE) /(DE) (HQY) /
+B (BT) /D (BE) /G (DW) /B (DQ) /
+(VW) V /(AHQ) (VHQ) /F A /V Q /
+(VE)   /(VNAW) (BQ) /  (BW) /S M /
+(XNSG) X /(VT)T(NT)T/(ST) (FT) /H (ST) /
+(WY) H /(FT) (SE) /N (VT) /X X /
+(CADG) C /(BT) (AT)T/(DT) (GT) /Q (DT) /
+(QY) G /(DU) (AY) /B (CT) /C C /
+(VADG) V /(NT)T(AT)T/(FT) (HT) /Q (FT) /
+(QY) (HT) /F (AE) /V (VT) /V (VT) /
+(BHY) B /B (SGT) /(MGJWT) S /M (BGT) /
+(BHY)   /(GT) (BMSHY) /  (BMSGJWTU) /  B /
+B   /    /(AQ)  (MJ)/  (NADGQ)   /
+(ZC) /(CNA) (ZA) /(CBADHQ)  (BMDGJ)/  (VSFHW)   /
+(ZN) /(ZV) N /(VAF) (ZAQ) /(VMJ) (ZAQ) /
+(BSGJW) X /(BMSG) (MDGJE) /X (BDGJR) /X (BDGQE) /
+Z Z /Z (BAQ) /(ZADGQ)  (MDGJ)/  (NADGQ)   /
+(ZN) /(CNA) (ZA) /(CBADHQ)  (BMDGJ)/  (VSFHW)   /
+(ZN) /(ZV) N /(VAF) (ZAQ) /(VMJ) (ZAQ) /
+(BSGJW) X /(BDGJE) (MSGJW) /X (BAQ) /X (BMJ) /
+(NADGQ) N /(ZN)(CB)A(DG)/(NADGQ)  (VMDGJ)/  (CADGQ) /
+    /(ZCADGQ)(ZCB)(ZB)(CBQ)/(ADGQ)  (CMDGJ)/  (VSFHW) /
+    /(ZVSFHW)(ZVN)(VN)(ZVN)/(NFH) (AQ) /(VMJ) (AQ) /
+(BSGJW)   /(XBMSG) (DGJE) /M (FR) /(XBM) (DGQE) /
+Z   /(DGQE)(ZC)(ZB)(ZB)/(ZCBA)  (CBAG)/  (CBADG) /
+    /C(ZC)(ZBADG)(ZCB)/(CBA)  (CBAG)/  (VNAG) /
+    /V(ZV)(VN)(ZVN)/(ZVN) (ZA) /M (ZA) /
+(CBD)   /(XS) (XVNA) /  M /(ZVA) (ZA) /
+(CADGQ) C /B (ZGQET) /C B /(ADGQ)   /
+(XVNA) (VMJ) /(NAQ) A /(VMJ) (AQ) /G A /
+(BAQ) B /M (SGJWT) /M B /(BMSGJ) B /
+(VNAD) (NAQ) /(MSW) D /(NFR) (DGE) /(DQ) G /
+(CADGQ) C /B (AGQET) /C D /(ADGQ) C /
+(XVNA) (VMJ) /(NAQ) A /(VMJ) (AQ) /G A /
+(BAQ) (MJ) /(AQ) (BMSW) /  (AQ) /(SW) (BGT)   /
+(NH) /(MJ) (AQ) /(FR)   /(DE)   /
+(SW)   /(AQ)/

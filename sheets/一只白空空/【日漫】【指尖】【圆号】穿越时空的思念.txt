@@ -1,9 +1,9 @@
-《0.575》
+《0.55》
 D+G+A··AF··AFH+-▲··H+Q+S··SG··SGJ··SGJW+-▲··/
 E+T+A··AD··ADH··ADHE+-W+Q+A··AD··ADH+-▲··/
 E+W+A··AF··AFH+-▲··E+W+S··SG··SGH+-▲··/G++AD+▲D+DH+DJ+DQ+▲+/
 
-D+G+H+FH+AH+Q+GW+JW+/SE+T+HE+AE+DW+Q+H+AH+/
+D+G+H+■ FH+AH+Q+GW+JW+/SE+T+HE+AE+DW+Q+H+AH+/
 DE+W+H+FH+AE+W+H+AH+/SG++H+DH+▲H+HJ+HQ+▲+/
   
 D+▲DG+▲DH+FH+AH+G+H+AH+/SJ+G+H+AH+DG+S+D+AD-=▲=/
@@ -17,6 +17,3 @@ DG+DH+FH+AH+G+H+Q+SJ+/G+AD+D+DH+DJ+DQ+HE+▲GET+/
 FEY+HY+ADY+T+GY+JY+SDU+T+/HY+AY+DT+W+GE+AE+▲DE+W+/
 H+FH+ADE+W+GH+AH+SDG++/H+DH+▲H+HJ+HQ++▲E+W+/
 A=AF=AFH+-E+W+S=SG=SGH+-G++/A=AD=ADH+++++▲++-/
-
-
-

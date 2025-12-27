@@ -1,0 +1,105 @@
+第一版为一行一小节 排版版本往下翻
+(ZBA)   (ZBAGQ)  C (ZBA)  A (ZBAGQ)/
+(BM)   (BMGJ)   (VNA)   (BMGJ)/
+(NA)   (NAFH)  B (NA)   (VNAFH)/
+(XVNA)   (XVNAF)  Z (VNA)   (VNAF)/
+(XVNA)   (ZCBMSF)  X (XVNA)  A (XBMSF)/
+(BM)   (BMSG)  M (BM)   (BMSG)/
+(ZBA)   (ZBAGQ)  C (ZBA)  M (ZBAGQ)/
+(NS)   (VNAD)  N (NS) B (NAD)V/
+(XVNA)   (XBMS)  X (XVNA)  M(XBMS)/
+(BM)   (BMSG)   (BM)   (BMSG)/
+(CBM)   (CBMD)  C (CBM)  M(CBMD)/
+(BMS)   (NAD)   (NS)  B (NAD)/
+(XVNA)   (XBMS)   (XNA)   (XBMS)/
+(BM)   (BMSG)   (BMD)   (VNADG)/
+(ZBA)   (ZBAGQ)   (ZBA)   (ZBAGQ)/
+(ZBAD)      H/
+(ZBA)   (ZBAGQ)  C (ZBA)  A (ZBAGQ)/
+(BM)   (BMGJ)   (VNA)   (BMGJ)/
+(NA)   (NAFH)  B (NA)   (VNAFH)/
+(XVNA)   (XVNAF)  Z (VNA)   (VNAF)/
+(XVNA)   (ZCBMSF)  X (XVNA)  A (XBMSF)/
+(BM)   (BMSG)  M (BM)   (BMSG)/
+(ZBA)   (ZBAGQ)  C (ZBA)  M (ZBAGQ)/
+(NS)   (VNAD)  N (NS) B (NAD)V/
+(XVNA)   (XBMS)  X (XVNA)  M(XBMS)/
+(BM)   (BMSG)   (BM)   (BMSG)/
+(CBM)   (CBMD)  C (CBM)  M(CBMD)/
+(BMS)   (NAD)   (NS)  B (NAD)/
+(XVNA)   (XBMS)   (XNA)   (XBMS)/
+(BM)   (BMSG)   (BMD)   (VNADG)/
+(ZBA)   (ZBAGQ)   (ZBA)   (ZBAGQ)/
+(ZBAD)      H/
+(VNAD)   (VNAD)  (VNAD) (AD)  (VNAD)(VNAD)  (VNAD)/
+(VNADH)  N (VNAD)  [(VNAD)A]D  (VNAD)(VNAD)  (VNAD)/
+(XVNAD)   (CBMD)  (CBMD) (BG)  [N(CBMD)](CBMD)  (CBMD)/
+(CBMDJ)   (CBMD)  (CBMD) G  (CBMD)(XVNAD)  (CBMD)/
+(ZCBMSF)   (XVNSF)  (XNSF) V  [A(XNSF)](XNSF)  (XNSF)/
+(XBMSG)   (XVNAG)  (XBMG)   (XBMG)(XBMG)  (XBMG)/
+(XVNAD)  B (ZCBAD)  (ZCBAD)   (ZCBAD)(ZCBAD)  (ZCBAD)/
+(XVNAD)   (CNAD)  (CNAD) N  (CNAD)(CNAD)  (CNAD)/
+(XVNSF)   (XNSF)  (XNSF) V  [A(XNSF)](XNSF)  (XNSF)/
+(XBMG)   (XVNAG)  (XBMG)   (XBMG)(XBMG)  (XBMG)/
+(XVNAD)   (CBMD)  (CBMD) B  [M(CBMD)](CBMD)  (CBMD)/
+(CNAD)   (CNAD) M[(CNAD)N]B  (CNAD)(CNAD)  (CNAD)/
+(ZCBMSF)   (XVNSF)  (XNSF) V  [A(XNSF)](XNSF)  (XNSF)/
+(XBMSG)   (XVNAG)  (XBMG) S  [A(XBMG)](XBMG)  [(XBMG)M]/
+(XVNAD)  A(ZCBAD)  (ZCBAD)   (ZCBAD)(ZCBAD)  (ZCBAD)/
+(ZCBAD)/
+
+
+
+
+    /    /    /    /
+(ZBA)   /(ZBAGQ)  C/ (ZBA)  /A (ZBAGQ)   /
+(BM) /  (BMGJ) /  (VNA) /  (BMGJ)   /
+(NA) /  (NAFH) / B (NA)/   (VNAFH)   /
+(XVNA)/   (XVNAF)/  Z /(VNA)   /
+(VNAF)   /(XVNA)   /(ZCBMSF)  X/ (XVNA)  /
+A (XBMSF) /  (BM) /  (BMSG) / M (BM)   /
+(BMSG)/   (ZBA)/   (ZBAGQ)/  C /
+(ZBA)  M/ (ZBAGQ)  / (NS)  / (VNAD)  /
+N (NS) /B (NAD)V/  (XVNA) /  (XBMS)  /
+X (XVNA)/  M(XBMS)/   (BM)/   (BMSG)   /
+(BM)/   (BMSG)/   (CBM)/   (CBMD)  /
+C /(CBM)  M/(CBMD)   /(NS)   /
+(NAD)   /(NS)  B/ (NAD)  / (XVNA)   /
+(XBMS)  / (XNA)  / (XBMS)  / (BM)   /
+(BMSG)  / (BMD)  / (VNADG)  / (ZBA)   /
+(ZBAGQ)  / (ZBA)  / (ZBAGQ)  / (ZBAD)  /
+    / H  /    / (ZBA)   /
+(ZBAGQ)  /C (ZBA) / A (ZBAGQ)/   (BM)   /
+(BMGJ)/   (VNA)/   (BMGJ)/   (NA)   /
+(NAFH)/  B /(NA)   /(VNAFH)   /
+(XVNA)   /(XVNAF)  Z/ (VNA)  / (VNAF)   /
+(XVNA)  / (ZCBMSF)  /X (XVNA) / A (XBMSF)   /
+(BM)/   (BMSG)/  M /(BM)   /
+(BMSG)   /(ZBA)   /(ZBAGQ)  C/ (ZBA)  /
+M (ZBAGQ) /  (NS) /  (VNAD) / N (NS) /
+B (NAD)/V  (XVNA)/   (XBMS)/  X /
+(XVNA)  M/(XBMS)   /(BM)   /(BMSG)   /
+(BM)   /(BMSG)   /(CBM)   /(CBMD)  C /
+(CBM)  /M(CBMD)  / (NS)  / (NAD)   /
+(NS)  /B (NAD) /  (XVNA) /  (XBMS)   /
+(XNA) /  (XBMS) /  (BM) /  (BMSG)   /
+(BMD) /  (VNADG) /  (ZBA) /  (ZBAGQ)   /
+(ZBA) /  (ZBAGQ) /  (ZBAD) /      /
+H /    /  (VNAD) /  (VNAD)  /
+(VNAD) (AD)/  (VNAD)(VNAD)/  (VNAD) /(VNADH)  N /
+(VNAD)  /[(VNAD)A]D  /(VNAD)(VNAD)  /(VNAD) (XVNAD)   /
+(CBMD) / (CBMD) (BG)/  [N(CBMD)](CBMD)/  (CBMD) /
+(CBMDJ)   /(CBMD)  (CBMD)/ G  /(CBMD)(XVNAD)  /
+(CBMD) (ZCBMSF) /  (XVNSF) / (XNSF) V/  [A(XNSF)](XNSF)  /
+(XNSF) /(XBMSG)   /(XVNAG)  (XBMG)/    /
+(XBMG)(XBMG)  /(XBMG) (XVNAD) / B (ZCBAD)/  (ZCBAD)    /
+(ZCBAD)/(ZCBAD)  (ZCBAD)/ (XVNAD)  / (CNAD)  /
+(CNAD) N / (CNAD)(CNAD) / (CNAD) (XVNSF)/   (XNSF)  /
+(XNSF) /V  [A(XNSF)]/(XNSF)  (XNSF)/ (XBMG)   /
+(XVNAG)  /(XBMG)   / (XBMG)(XBMG) / (XBMG) (XVNAD)   /
+(CBMD)/  (CBMD) /B  [M(CBMD)]/(CBMD)  (CBMD) /
+(CNAD)  / (CNAD) M/[(CNAD)N]B  /(CNAD)(CNAD)  /
+(CNAD) (ZCBMSF) /  (XVNSF) / (XNSF) V/  [A(XNSF)](XNSF)  /
+(XNSF) /(XBMSG)   /(XVNAG)  (XBMG)/ S  /
+[A(XBMG)](XBMG)  /[(XBMG)M](ZCBAD)  /A(ZCBAD)  /(ZCBAD)    /
+(ZCBAD)(ZCBAD) / (ZCBAD) (ZCBAD)/

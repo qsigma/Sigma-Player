@@ -1,0 +1,113 @@
+第一版为一行一小节 排版版本往下翻
+(NH) (ADQ) (CQ) (ADQ)/
+(NQ) (AD) C (ADJ)/
+(NH) (ADQ) (CJ) (ADH)/
+(NJ) (AD) C (AD)/
+(NJ) (ADQ) (CW) (ADR)/
+(NE) (ADW) (CQ) (ADJ)/
+(NH) (AD) (CH) (ADH)/
+(NADH)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADR)/
+(NE) (NAD) (CHQE) (NADHQE)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADH)/
+(NH) (NAD) (CQEY) (NADQEY)/
+(NH) (NADJ) (CQ) (NADR)/
+(NE) (NADQE) (CQE) (NADQE)/
+(NE) (NADR) (CE) (NADW)/
+(NE) (NADQE) (CQE) (NADQE)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADR)/
+(NE) (NAD) (CHQE) (NADHQE)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADH)/
+(NH) (NAD) (CQEY) (NADQEY)/
+(NH) (NADQ) (CQ) (NADQ)/
+(NQ) (NADQE) (CQE) (NADJ)/
+(NH) (NADQ) (CJ) (NADH)/
+(NJ) (NADQE) (CQE) (NADQE)/
+(NJ) (NADQ) (CW) (NADR)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CHQEY) (NADHQEY)/
+(NHQEY)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADR)/
+(NE) (NAD) (CHQE) (NADHQE)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADH)/
+(NH) (NAD) (CQEY) (NADQEY)/
+(NH) (NADJ) (CQ) (NADR)/
+(NE) (NADQE) (CQE) (NADQE)/
+(NE) (NADR) (CE) (NADW)/
+(NE) (NADQE) (CQE) (NADQE)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADR)/
+(NE) (NAD) (CHQE) (NADHQE)/
+(NE) (NADW) (CJ) (NADQ)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CH) (NADH)/
+(NH) (NAD) (CQEY) (NADQEY)/
+(NH) (NADQ) (CQ) (NADQ)/
+(NQ) (NADQE) (CQE) (NADJ)/
+(NH) (NADQ) (CJ) (NADH)/
+(NJ) (NADQE) (CQE) (NADQE)/
+(NJ) (NADQ) (CW) (NADR)/
+(NE) (NADW) (CQ) (NADJ)/
+(NH) (NAD) (CHQEY) (NADHQEY)/
+(NHQEY)/
+(NHQE) HJQJHG/
+(NHQE) (NHQE) N/
+(NHQE) HJQJHG/
+(NHQE) (NHQE) N/
+(NH) J Q W/
+(BQ) W E T/
+(NQEY)  (NQEY) (NQEY)/
+(NQEY)/
+
+
+
+
+(NH) (ADQ) /(CQ) (ADQ) /(NQ) (AD) /C (ADJ) /
+(NH) (ADQ) /(CJ) (ADH) /(NJ) (AD) /C (AD) /
+(NJ) (ADQ) /(CW) (ADR) /(NE) (ADW) /(CQ) (ADJ) /
+(NH) (AD) /(CH) (ADH) /(NADH)   /    /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADR) /(NE) (NAD) /(CHQE) (NADHQE) /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADH) /(NH) (NAD) /(CQEY) (NADQEY) /
+(NH) (NADJ) /(CQ) (NADR) /(NE) (NADQE) /(CQE) (NADQE) /
+(NE) (NADR) /(CE) (NADW) /(NE) (NADQE) /(CQE) (NADQE) /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADR) /(NE) (NAD) /(CHQE) (NADHQE) /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADH) /(NH) (NAD) /(CQEY) (NADQEY) /
+(NH) (NADQ) /(CQ) (NADQ) /(NQ) (NADQE) /(CQE) (NADJ) /
+(NH) (NADQ) /(CJ) (NADH) /(NJ) (NADQE) /(CQE) (NADQE) /
+(NJ) (NADQ) /(CW) (NADR) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CHQEY) (NADHQEY) /(NHQEY)   /    /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADR) /(NE) (NAD) /(CHQE) (NADHQE) /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADH) /(NH) (NAD) /(CQEY) (NADQEY) /
+(NH) (NADJ) /(CQ) (NADR) /(NE) (NADQE) /(CQE) (NADQE) /
+(NE) (NADR) /(CE) (NADW) /(NE) (NADQE) /(CQE) (NADQE) /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADR) /(NE) (NAD) /(CHQE) (NADHQE) /
+(NE) (NADW) /(CJ) (NADQ) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CH) (NADH) /(NH) (NAD) /(CQEY) (NADQEY) /
+(NH) (NADQ) /(CQ) (NADQ) /(NQ) (NADQE) /(CQE) (NADJ) /
+(NH) (NADQ) /(CJ) (NADH) /(NJ) (NADQE) /(CQE) (NADQE) /
+(NJ) (NADQ) /(CW) (NADR) /(NE) (NADW) /(CQ) (NADJ) /
+(NH) (NAD) /(CHQEY) (NADHQEY) /(NHQEY)   /    /
+(NHQE) HJ/QJHG/(NHQE) (NHQE) /N   /
+(NHQE) HJ/QJHG/(NHQE) (NHQE) /N   /
+(NH) J /Q W /(BQ) W /E T /
+(NQEY)   /(NQEY) (NQEY) /(NQEY)/

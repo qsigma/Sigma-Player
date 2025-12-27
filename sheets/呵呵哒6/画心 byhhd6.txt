@@ -1,0 +1,66 @@
+N C /M   /J Q /G H /
+(VS) (ZD) /(NA) YE/QH  / G   /
+N C/ M  / J Q/ G H /
+(VS) (ZD)/ (VA) Y/EWH /  G   /
+(XH) /N (XH) /(NJ)Q(XW) /(NQ)WQ(XJ) /
+(NH) (CG)/ M (CJ)/ M (CD)/ (MW)EW/
+(CQ) (MJ) /(VH) Z /VF(ZH)Q/(VW) (ZW)E/
+W(VQ) (ZJ)/ (CH) M/ X (CH)/ (CBG)   /
+G G/ (VH) Z/ (NH) (VQ)/ (BJ) (XH) /
+(BG) X/ (ZS) B/D(ZJ) (XQ)/ (CG)   /
+D G/ (VH) Z/ (NH) (VQ)/ (BJ) (XG) /
+(BQ) (XW)/ N (CE)/ N M/ A   /
+T E/ (XE) N/ (XW) Q/ (CW) M /
+(CQ) J/ (VQ) (ZW)/ (BJ) (XG)/ (NH) C /
+(ND) G/ (VH) Z/ (VH) E/ (BW) (XQ) /
+(BJ)  / (NG) (CH)/ N M/ A D /
+D G/ (VH) Z/ (VH) Q/ (BJ) (XH) /
+(BG) H/ (ZD) B/DZ (XD)/G(CQ)   /
+D G/ (VH) Z/ (VH) Q/ (BJ) (XG) /
+(BQ) W/ N (CE)/ N M/ A   /
+T E/ (XE) N/ (XW) (NQ)/ (CW) M /
+(CQ) (MJ)/ (VQ) (ZW)/ (BJ) (XG)/ (NH) C /
+(ND) G/ (VH) Z/ (VH) (ZE)/ (BW) (XQ) /
+(BJ) X/ (NG) C/HN M/ A   /
+T E/ (XE) N/ (XW) (NQ)/ (BW) X /
+(BW) (XT)/ Z (CE)/BZBA/SD   /
+T E/ (XE) N/ (XW) Q/ (BW) (XT) /
+(BY)  / (ZW) (CE)/BZBA/SD   /
+T E/ (XE) N/ (XW) (NQ)/ (CW) M /
+(CQ) (MJ)/ (VQ) (ZW)/ (BJ) (XG)/ (NH) C /
+(ND) G/ (VH) Z/ (VH) E/ (BW) (XQ) /
+(BJ)  / (NG) (CH)/ N M/ N   /
+C  / (XN)X(VN)/N(XS)N(BM)/A(XS) (NA)/
+SA(XM) /N (CM)C/(BM)M(CD)B/MS(CD) /
+(MS)DS(CA)/ (MS) (VN)/ Z V/V(ZN)A(VD) /
+(ZS)DS/(VA) (ZM) /(CN) M /X (CN) /
+(CB)   /G G /(VH) Z /(NH) (VQ) /
+(BJ) (XH) /(BG) X /(ZS) B(ZD)/(XJ) (CQ) /
+(BG)   /D G /(VH) Z /(NH) (VQ) /
+(BJ) (XG) /(BQ) (XW) /N (CE) /N M /
+A   /T E /(XE) N /(XW) Q /
+(CW) M /(CQ) J /(VQ) (ZW)V/(BJ) (XG)B/
+(NH) C /(ND) G /(VH) Z /(VH) E /
+(BW) (XQ) /(BJ) G /N (CH) /N M /
+A   /G G /(VH) (ZH)V/(NH) (VQ) /
+(BJ) (XH)B/(MG) (BH) /(ZD) BD/Z (XD)G/
+(CQ)   /D G /(VH) ZV/(NH) (VQ) /
+(BJ) (XG)B/(MQ) (BW) /N (CE) /N M /
+A   /T E /(XE) N /(XW) (NQ) /
+(CW) M /(CQ) (MJ) /(VQ) (ZW)V/(BJ) (XG)B/
+(NH) C /(ND) G /(VH) Z /(VH) (ZE) /
+(BW) (XQ) /(BJ) X /(NG) CH/N M /
+A   /T E /(XE) N /(XW) (NQ) /
+(BW) X /(BW) (XT) /Z (BE)Z/CBAS/
+D   /T E /(XE) N /(XW) Q /
+(BW) (XT) /(BY)   /(ZW) (BE)Z/CBAS/
+D   /T E /(XE) N /(XW) (NQ) /
+(CW) M /(CQ) (MJ) /(VQ) (ZW)V/(BJ) (XG)B/
+(NH) C /(ND) G /(VH) Z /(VH) E /
+(BW) (XQ) /(BJ)   /(NG) (CH) /N M /
+N   /C   /(NJ) CH/(NJ) CQ/
+(NW) CQ/(NJ) CH/(VJ) ZH/(VJ) ZQ/
+(VW) EZ/W (VQ) /JZH /(NJ) CH/
+(NJ) CQ/(NW) CQ/(NJ) CH/(VJ) ZH/
+(VJ) ZQ/(VW) EZ/W (VQ) /JZH /
+N/

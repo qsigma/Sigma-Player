@@ -1,0 +1,61 @@
+Y   /    /   [TREWQJHGFDSAMN]/  N  /
+N (ZAE)/  (ZA) / (ZA) (CJ)/ HCG /
+(CH) (CT)/  C / C (NH)/  N  /
+N (ZAE)/  (ZA) / (ZA) (CJ)/ HCG /
+(CH) (CW)/  C / C (NH)/  N  /
+N (ZAE)/  (ZA) / (ZA) (CT)/  (CR)  /
+(CE) (XW)/  XH/ X (ZH)/  Z  /
+Z (XE)/  X / X (CJ)/  (CG)  /
+(CJ) (NH)/  N / N (NH)/  N  /
+N (ZAE)/  (ZA) / (ZA) (CJ)/ HCG /
+(CH) (CT)/  C / C (NH)/  N  /
+N (ZAE)/  (ZA) / (ZA) (CJ)/ HCG /
+(CH) (CW)/  C / C (NH)/  N  /
+N (ZAE)/  (ZA) / (ZA) (CT)/  C  /
+(CE) (XW)/  XH/ X (ZH)/  Z  /
+Z (XE)/  X / X (CJ)/  (CG)  /
+(CJ) (CH)/  CQ/W(CE)T(NH)/  N  /
+N (ZADE)/  (ZA) / (ZA) (CMJ)/ (NH)C(BG) /
+(CNH) (CGT)/  C / C (NH)/  N  /
+N (ZADE)/  (ZA) / (ZA) (CMJ)/ (NH)C(BG) /
+(CNH) (CSW)/  C / C (NH)/  N  /
+N (ZADE)/  (ZA) / (ZA) (CGT)/  (CFR)  /
+(CDE) (XSW)/  X(NH)/ X (ZNH)/  Z  /
+Z (XDE)/  X / X (CMJ)/  (CBG)  /
+(CMJ) (NH)/  N / N (NH)/  N  /
+N (ZADE)/  (ZA) / (ZA) (CMJ)/ (NH)C(BG) /
+(CNH) (CGT)/  C / C (NH)/  N  /
+N (ZADE)/  (ZA) / (ZA) (CMJ)/ (NH)C(BG) /
+(CNH) (CSW)/  C / C (NH)/  N  /
+N (ZADE)/  (ZA) / (ZA) (CHY)/  (CGT)  /
+(CFR) (XDE)/  X(NH)/ X (ZNH)/  Z  /
+Z (XDE)/  X / X (CMJ)/  C(BG) /
+C (NH)/  N / N N/   A   /
+(NS)/   D/   (NH)/   G   /
+(NF)/   D/   N/   A   /
+(NS)/   D/   (CH)/   G   /
+(CF)/   D/   N/   A   /
+(NS)/   D/   (XH)/   G   /
+(XF)/   D/   (XN)/   A   /
+(XS)/   D/   (CH)/   (CG)   /
+(CF)/   (CD)/FGG(NH)/ NN(NAQ) /
+NN(NSW)/ NN(NDE)/ NN(NHY)/ NN(NGT) /
+NN(NFR)/ NN(NDE)/ NN(NH)/ NN(NAQ) /
+NN(NSW)/ NN(NDE)/ NN(CHY)/ CC(CGT) /
+CC(CFR)/ CC(CDE)/ CC(NH)/ NN(NAQ) /
+NN(NSW)/ NN(NDE)/ NN(CHY)/ CC(CGT) /
+CC(CFR)/ CC(CDE)/ CC(XNH)/ XX(XAQ) /
+XX(XSW)/ XX(XDE)/ XX(CHY)/ CC(CGT) /
+CC(CFR)/ CC(CDE)/(FR)(CGT)(CHY)(NHY)/ (NDE) (NH) /
+(NHY) (NGT)/ (NDE) (NH)/ (NGT) (XFR)/ (XSW) (XNH) /
+(XFR) (XGT)/ (XDE) (XGT)/ (XGT)(GT)(NHY)/ (NDE) (NH) /
+(NHY) (NGT)/ (NDE) (NH)/ (NGT) (CFR)/ (CSW) (CNH) /
+(CFR) (CAQ)/ (CSW) (CHY)/ (CGT)(GT)(NHY)/ (NDE) (NH) /
+(NHY) (NGT)/ (NDE) (NH)/ (NGT) (XFR)/ (XSW) (XNH) /
+(XFR) (XGT)/ (XDE) (XNH)/ (XGT) (XHY)/ (XDE) (XNH) /
+(XHY) (XGT)/ (XDE) (XNH)/ (XGT) (CFR)/ (CSW) (CNH) /
+(CFR) (CGT)/ (CDE) (CGT)/ (BGT)(BGT)(NHY)/    /
+    /    /    /    /
+    /    /   X/ N S/
+    /    /    / (XNS)     /
+(XNS)/    / (XNS)/

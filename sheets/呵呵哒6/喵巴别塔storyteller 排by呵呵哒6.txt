@@ -1,0 +1,220 @@
+第一版为一行一小节 排版版本往下翻
+A/
+A            Q/
+Q/
+Q/
+(NAQ)      D    (ZN) CN/
+(AHQ)            (BMS)      D    B/
+(BM)CM          E          V/
+(VNE)S     D      (ZCN)/
+(XVE)            (XVN)      N/
+(CB)      Z      (XE)      Z/
+(XVNE)      C      (ZVN)/
+(NE)          CN(ND)      N/
+(ZCM)            Z      C/
+(MS)            (XV)/
+F            (CMD)      X/
+(CBMD)      M      D          C/
+(CND)A     V      N      Z/
+(CF)      V    CB(BMD)      V/
+(BMD)      (MH)      (CJ)      (VQ)    F/
+(VFH) W    N      X      C/
+(VQ)      N      (ZAG)      B/
+(ZAG)      X      (MD)      Z/
+(XSF)      V      N      (MD)/
+(XF)      (VQ)      (NAJ)      C/
+(ND)      M      (CH)      V/
+(XMH)      N      M      X/
+(VD)      N      (ZCMF)      N/
+(MF)      C      (ND)      M/
+(ND)      V      N      Z/
+(CF)      V      (BD)      V/
+(BD)      (MH)      (CJ)      (VQ)/
+(VW)      (CN)      X      C/
+(VQ)      N      (ZGE)      B/
+(ZGE)      X      M      Z/
+(XR)      V      N      (ME)/
+(XR)      V      (NW)      C/
+(BM)      (NAQ)      (CFW)      (VD)/
+(XSJ)      N      M      X/
+(VR)      N    H (ZCJ)E     (CN)/
+(BMGJE)      (CM)      (ND)      M/
+(ND)      V      (NH)      Z/
+(CH)      (VH)      (BJ)      V/
+(BD)      M      C      V/
+(VD)      (CN)      X      C/
+(VH)      N      (ZG)      B/
+(ZG)      X      M      Z/
+(XF)      V      N      (MF)/
+(XW)      (VQ)      (NJ)      (CQ)/
+(ND)      M      C      V/
+(XMS)      N      (VM)      X/
+(VF)      N      (CBMD)      N/
+(BMD)      C      N      M/
+N      V      (NH)      Z/
+(CH)      V      B      (VD)/
+(BM)      (NA)      (CN)      V/
+(VN)      (CN)      (XH)      C/
+(VH)      N      (ZG)      B/
+(ZG)      X      M      Z/
+X      V      (NF)      M/
+(XF)      V      N      (CN)/
+(BM)      (NA)      (CF)      (VD)/
+(XVS)      N      (MS)      X/
+(VS)      N      (ZC)      N/
+M      (CS)      D    N M M/
+(BM)/
+(BM)/
+(BM)/
+(ZNA) D    (XV)      N      Z/
+(CF)      V      (XB)MD    (XV)/
+(BMD)      (MH)      (CJ)      (VQ)    F/
+(XVFH) W    (CN)      N      C/
+(VQ)      N      (ZBAG)      N/
+(ZAG)      X      (MD)      Z/
+(XF)      (VG)      (NF)      M/
+(XF)      (VQ)      (NJ)      C/
+(NH)      M      (CD)      V/
+(XMH)      N      M      X/
+(VS)      N      [(XF)C]     N/
+(MF)      C      (ND)      M/
+(ZND)      (XV)      N      Z/
+(CF)      V      (XBD)      (XV)/
+(BMD)      (MH)      (CJ)      (VQ)/
+(XVW)      (CN)      N      C/
+(VQ)      N      (ZBE)      N/
+(ZE)      X      M      Z/
+(XR)      V      N      (ME)/
+(XR)      V      (NW)      C/
+(BMW)      (NAQ)      (CFW)      (VD)/
+(XSJ)      N      M      X/
+(VFJR)      N      (ZCDE)      N/
+(MDE)      C      N      M/
+(ZCND)      V      N      Z/
+(CD)      V      (CBM)      V/
+(BM)      M      (CD)      V/
+V      (CN)      (XS)      (CD)
+(VS)      (NA)      (ZB)      B/
+(ZB)      X      M      Z/
+X      V      N      M/
+X      (VQ)      (NJ)      C/
+(NH)      M      (CD)      V/
+(XF)      N      M      X/
+(VS)      N      [(XD)C]     N/
+(MD)         C         N/
+N      M/
+M         N      Z   C B   N/
+(XVN)
+(XVN)                      J/
+
+
+
+
+
+    /    /    /  A /
+    /    /Q   /    /
+    /    /    /    /
+    /    /    /    /
+(NA)   /D  (ZN)/[CN]   /    /
+(AH)   /    /(BMS)   /D  B /
+[MCM]  /    /E   /   V/
+[(VN)S]   /D   /(ZCN)   /    /
+V   /    /(XVN)   /N   /
+(CB)   /Z   /(XE)   /Z   /
+(XVN)   /C   /(ZVN)   /    /
+N   /   [CN(ND)]/   N/   (ZCM)/
+    /   Z/   C/   (MS)/
+    /   (XV)/    /   F/
+    /   (CMD)/   X/   (CBM)   /
+M/   D/    /  C[(ND)A]   /
+V/   N/   Z/   (CF)   /
+V/  [CB(BMD)] /  V /  B   /
+(MH) /  (CJ) /  (VQ) / F(VH)W  /
+N /  X /  C /  (VQ)   /
+N /  (ZAG) /  B /  Z   /
+X /  (MD) /  Z /  (XSF)   /
+V /  N /  (MD) /  (XF)   /
+(VQ) /  (NAJ) /  C /  (ND)   /
+M /  (CH) /  V /  (XMH)   /
+N /  M /  X /  (VD)   /
+N /  (ZCMF) /  N /  M   /
+C /  (ND) /  M /  (ND)   /
+V /  N /  Z /  (CF)   /
+V /  (BD) /  V /  B   /
+(MH) /  (CJ) /  (VQ) /  (VW)   /
+(CN) /  X /  C /  (VQ)   /
+N /  (ZGE) /  B /  Z   /
+X /  M /  Z /  (XR)   /
+V /  N /  (ME) /  (XR)   /
+V /  (NW) /  C /  (BM)   /
+(NAQ) /  (CFW) /  (VD) /  (XSJ)   /
+N /  M /  X /  (VR)   /
+N / H[(ZCJ)E] /  (CN) /  (BM)   /
+(CM) /  (ND) /  M /  (ND)   /
+V /  (NH) /  Z /  C   /
+(VH) /  (BJ) /  V /  (BD)   /
+M /  C /  V /  (VD)   /
+(CN) /  X /  C /  (VH)   /
+N /  (ZG) /  B /  Z   /
+X /  M /  Z /  (XF)   /
+V /  N /  (MF) /  (XW)   /
+(VQ) /  (NJ) /  (CQ) /  (ND)   /
+M /  C /  V /  (XMS)   /
+N /  (VM) /  X /  (VF)   /
+N /  (CBMD) /  N /  M   /
+C /  N /  M /  N   /
+V /  (NH) /  Z /  (CH)   /
+V /  B /  (VD) /  (BM)   /
+(NA) /  (CN) /  V /  V   /
+(CN) /  (XH) /  C /  (VH)   /
+N /  (ZG) /  B /  Z   /
+X /  M /  Z /  X   /
+V /  (NF) /  M /  (XF)   /
+V /  N /  (CN) /  (BM)   /
+(NA) /  (CF) /  (VD) /  (XVS)   /
+N /  (MS) /  X /  (VS)   /
+N /  (ZC) /  N /  M   /
+(CS) /  D / NMM/    /
+    /    /    /    /
+    /    /    /    /
+    /    /    /  (ZNA)D  /
+(XV) /  N /  Z /  (CF)   /
+V /  [(XB)MD] / (XV)  / (BM)   /
+(MH)  / (CJ)  / (VQ)  /F(XVH)W  /
+(CN)  / N  / C  / (VQ)   /
+N  / (ZBAG)  / N  / Z   /
+X  / (MD)  / Z  / (XF)   /
+(VG)  / (NF)  / M  / (XF)   /
+(VQ)  / (NJ)  / C  / (NH)   /
+M  / (CD)  / V  / (XMH)   /
+N  / M  / X  / (VS)   /
+N  / [(XF)C]  / N  / M   /
+C  / (ND)  / M  / (ZND)   /
+(XV)  / N  / Z  / (CF)   /
+V  / (XBD)  / (XV)  / (BM)   /
+(MH)  / (CJ)  / (VQ)  / (XVW)   /
+(CN)  / N  / C  / (VQ)   /
+N  / (ZBE)  / N  / Z   /
+X  / M  / Z  / (XR)   /
+V  / N  / (ME)  / (XR)   /
+V  / (NW)  / C  / (BM)   /
+(NAQ)  / (CFW)  / (VD)  / (XSJ)   /
+N  / M  / X  / (VFR)   /
+N  / (ZCDE)  / N  / M   /
+C  / N  / M  / (ZCN)   /
+V  / N  / Z  / (CD)   /
+V  / (CBM)  / V  / (BM)   /
+M  / (CD)  / V  / V   /
+(CN)  / (XS)  / (CD)  / (VS)   /
+(NA)  / (ZB)  / B  / Z   /
+X  / M  / Z  / X   /
+V  / N  / M  / X   /
+(VQ)  / (NJ)  / C  / (NH)   /
+M  / (CD)  / V  / (XF)   /
+N  / M  / X  / (VS)   /
+N  / [(XD)C]  / N  / M     /
+C/    / N  /     /
+M  /    /    /       /
+N/   Z/ CB /N   /
+    /    /    /    /
+    /    /    / J/

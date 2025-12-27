@@ -1,0 +1,121 @@
+第一版为一行一小节 排版版本往下翻
+Z (BAD) /(BAD) B /
+(BMS)(BMS) N/ (NAD) (NAD)/
+ B(BMS) /(ZBAD) V /
+(VNAD) (VNAD)C/ (CBMS) (CBMS)/
+
+ X (VN)/(VNA) (BM) /
+A (BST)W/(ZQ)(BADW) (BADE)/
+ (BT) (BMSE)/ (BMSW)(NQ) /
+(NAD) (NADJ) /(BG) (BMS)(BMSG)/
+
+ (VQ) (VNAW)/ (VNAE) (BT)/
+(BMSE) (BMSW) /(ZQ) (BAD) /
+(BMSJ)(ZCBAQ)  / (BG) (ZQ)/
+ (BADW)(BADE) /(BT) (BMSE) /
+
+(BMSW) (NQ)(NADQ)/ (NADJ) (BG)/
+ (BMS) (BMSG)/(VQ) (VNAW) /
+(VNAE) (BT) /(BMSE)(BMSW) (ZQ)/
+ (BAD) (BMSJ)/ (ZCBAQ)(ZCBAQ) /
+
+(BG) (VQ) /(CNA) (CNAW)(CJ)/
+ (CBM) (CBMJ)/ (VQ) (VNAW)/
+(VNAE) (CW) /(CBMQ) (CBMJ) /
+(VQ)(VNAW) (VNAE)/ (BR) (BMST)/
+
+ (BMSY)(NT) /(CNA) (CNA) /
+Z (CNA)(CNAJ)/ (VQ) (VNA)/
+ (VNAW) (CJ)/(CBM) (CBMJ) /
+(VQ) (VNAW) /(VNAE)(CW) (CBMQ)/
+
+ (CBMJ) (VQ)/ (VNAW)(VNAE) /
+(BR) (BMST) /(BMSQ) (ZU)(CBAY)/
+ (CBMU) (BAQET)/CBA(DQ)/
+(GQ)(ZQ)B(ZW)/X(CE)B[TB]/
+
+X(BGE)M(XW)/M(NDQ)CN/
+Z(CJ)Z(BMSG)/X(BMSG)X(BMG)/
+X(VQ)Z[VW]/B(NQE)Z(BWT)/
+X(BGE)N(MGW)/X(ZDQ)BZ/
+
+C(BJ)M(ZADQ)/B(ZC)B[(ZC)G]/
+B(ZQ)B(ZW)/X(CE)B(BT)/
+X(BGE)M(XW)/M(NDQ)CN/
+Z(CJ)Z(BMSG)/X(BM)X(BMG)/
+
+X(VQ)Z(VW)/B(NQE)Z(BWT)/
+X(BGE)N(MGW)/X(ZDQ)BZ/
+C(BJ)M(ZADQ)/B(ZC)B(ZCG)/
+B[V(GQ)]ZV/B(NW)Z(CDJ)/
+
+MCB(MGJ)/B(VHQ)Z(VHW)/
+Z(NE)Z(CW)/B(MQ)C(BGJ)/
+C(VQ)N(ZW)/V(NQE)V(BWR)/
+X(BET)M(XRY)/M(NGET)CN/
+
+ZCNA/N(CGET)Z(NJ)/
+N(VGQ)ZV/B(NW)Z(CDJ)/
+MCB(MGJ)/B(VHQ)Z(VHW)/
+Z(NE)Z(CW)/B(MQE)(CR)(BJE)/
+
+(CW)(VHQ)Z(VJW)/N(ZQE)V(BWR)/
+X(BWT)M(XQ)/B(ZJEU)B(ZHQY)/
+C(BJEU)M[Z(QET)]/
+
+
+
+Z   /(BAD)  (BAD)/   B/   (BMS)   /
+(BMS)/   N/   (NAD)/   (NAD)   /
+B/   (BMS)/   (ZBAD)/   V   /
+(VNAD)/  (VNAD) /  C /  (CBMS)  /
+(CBMS)  / X  / (VN)  / (VNA)   /
+(BM)  / A  / (BST) W/ (ZQ)   /
+(BADW)  / (BADE)  / (BT)  / (BMSE)   /
+(BMSW)  / (NQ)  / (NAD)  / (NADJ)   /
+(BG)  / (BMS)  / (BMSG)  / (VQ)   /
+(VNAW)  / (VNAE)  / (BT)  / (BMSE)   /
+(BMSW)  / (ZQ)  / (BAD)  / (BMSJ)   /
+(ZCBAQ)  /    /(BG)   /(ZQ)   /
+(BADW)   /(BADE)   /(BT)   /(BMSE)   /
+(BMSW)   /(NQ)   /(NAD)   /(NADJ)   /
+(BG)   /(BMS)   /(BMSG)   /(VQ)   /
+(VNAW)   /(VNAE)   /(BT)   /(BMSE)   /
+(BMSW)   /(ZQ)   /(BAD)   /(BMSJ)   /
+(ZCBAQ)   /   (BG)/   (VQ)/   (CNA)   /
+(CNAW)/   (CJ)/   (CBM)/   (CBMJ)   /
+(VQ)/   (VNAW)/   (VNAE)/   (CW)   /
+(CBMQ)/   (CBMJ)/   (VQ)/   (VNAW)   /
+(VNAE)/   (BR)/   (BMST)/   (BMSY)   /
+(NT)/   (CNA)/   (CNA)/   Z   /
+(CNA)/   (CNAJ)/   (VQ)/   (VNA)   /
+(VNAW)/   (CJ)/   (CBM)/   (CBMJ)   /
+(VQ)/   (VNAW)/   (VNAE)/   (CW)   /
+(CBMQ)/   (CBMJ)/   (VQ)/   (VNAW)   /
+(VNAE)/   (BR)/   (BMST)/   (BMSQ)   /
+(ZU)/   (CBAY)/   (CBMU)/   (BAQET) /
+C B/ A (DQ)/ (GQ) (ZQ)/ B (ZW) /
+X (CE)/ B [TB]/ X (BGE)/ M (XW) /
+M (NDQ)/ C N/ Z (CJ)/ Z (BMSG) /
+X (BM)/ X (BMG)/ X (VQ)/ Z [VW] /
+B (NQE)/ Z (BWT)/ X (BGE)/ N (MGW) /
+X (ZDQ)/ B Z/ C (BJ)/ M (ZADQ) /
+B (ZC)/ B [(ZC)G]/ B (ZQ)/ B (ZW) /
+X (CE)/ B (BT)/ X (BGE)/ M (XW) /
+M (NDQ)/ C N/ Z (CJ)/ Z (BMSG) /
+X (BM)/ X (BMG)/ X (VQ)/ Z (VW) /
+B (NQE)/ Z (BWT)/ X (BGE)/ N (MGW) /
+X (ZDQ)/ B Z/ C (BJ)/ M (ZADQ) /
+B (ZC)/ B (ZCG)/ B [V(GQ)]/ Z V /
+B (NW)/ Z (CDJ)/ M C/ B (MGJ) /
+B (VHQ)/ Z (VHW)/ Z (NE)/ Z (CW) /
+B (MQ)/ C (BGJ)/ C (VQ)/ N (ZW) /
+V (NQE)/ V (BWR)/ X (BET)/ M (XRY) /
+M (NGET)/ C N/ Z C/ N A /
+N C/ Z (NJ)/ N (VGQ)/ Z V /
+B (NW)/ Z (CDJ)/ M C/ B (MGJ) /
+B (VHQ)/ Z (VHW)/ Z (NE)/ Z (CW) /
+B (MQE)/ (CR) (BJE)/ (CW) (VHQ)/ Z (VJW) /
+N (ZQE)/ V (BWR)/ X (BWT)/ M (XQ) /
+B (ZJEU)/ B (ZHQY)/ C (BJEU)/ M [Z(QET)]/
+/

@@ -1,0 +1,115 @@
+        /      X / V  N  S/  F  H  /W  (AR)   W/  H  F  /
+S  N  V / X      /     S  /     B  /  X  N  / B   X N/
+   B  X /N  B   X/  N   B /  X N  B/   X  N /  B  X  /
+N   B  X/  N   B / X  N   /B  X  N /  B  X  /N  B  X /
+  N   B / X  N   /B  X  N /  B  X  /N   B  X/ N   B  /
+ X N   B/   X N  / B   (XN)  / B   X  /N   B  X/  N  B  /
+
+X  N   B/  X  N  /B  X   N/   B  X / N   B  /X  N   B/
+  X  N  / B  X  N/   B   X/  N   B / X  N   /B   X  N/
+   B   X/  N   B / X  N  B/   X  N /  B   X / N   B  /
+ X      /        /        /        /       D/  B   X /
+ N  B  X/  N   B / X  F   /B  X  N / B  X  N/   B  X /
+   A   B/   X  N /  B  X  /N   B  X/  N   B / X  N   /
+
+B  X  A /  B  (XA)  /D   B  X/  N  B  /X N  B  /X   F   /
+B  X  N / B   X  /N  B  X / A   B  / X      / (BN)   X  /
+ N   B  /X  N  B /  X  N  /B  X  N /  A  S  /(ND)   A  (XB)/
+   (NS)   (BA)/  (XB)  (NS)  / B  X  (NF)/   (BA)  X / (NS)  (BA)  (XB)/   (NS)   A/
+  B   (NA) /  B  X  /  (NS)  (BA)  /(XB)  (NS)   (BA)/   X  (NS) /  (BA)  (XB)  /
+N   (BA)  X/  A   N /  B   (ND) /  A   (XB) / N   (BA)  / X  (NS)   /
+
+(BA)  (XB)  (NF) /  (BNA)  X  /(NS)   (BA)  X/   (NS)   A/  B  (NG)  / A   (XBD)  /
+ N   (BA)  / X   (NS)  / (BA)   X  /(NS)   (BA)   /X  (NS)   (BA)/  X  N  /
+A   D   /(VA)    N  /S  H   G/     G  /(XF)   (BA)  (NF)/  (BD)  (XA)  /
+ (CD)     D/   (BG)    /      (VNF) /      S / H   G  /    G   /
+(XF)   (BA)  (VF)/   (BD)  (CA) / (VF)      /  (BG)     /     (NSFH)  /  N   (NS) /
+ H   G  /S  G   F/  A    (SG)/      S /  H   (SG) / S  G   /
+
+F  A   (BADG)/    N  S/  H   G / S  G   /(XF)   (BA)  (NF)/  (BD)  X A/
+  S  A  /B  N   A/  D   (VNAF) /   N   S/  H   G /  S   G /
+  F   A / (ZF)   D  /A   (CD)   /       (BG)/        / (VNF)    N /
+  S  H  / G  S  G/   (NF)   A/   (ZF)   D/  A   (VF) /        /
+ (BG)      /    (NH)   / N  S  (SH)/  G  S  / (XG)   F  /A       /
+   S   H/   G  N /S   (XG)   /F  A    /(BADG)    N  / S  H   /
+
+G  S   (XG)/  F   A /  F   D /  A   F /   D    / A      /
+        /        /        /        / S      /   H    /
+    (XS)   /     (XBSG)  /  S     /    Q   / (XS)      /   (NSH)    /
+ (BSG)    (XS) /        /(XSW)       / (XBSG)      /   (XS)    /     (CD)  /
+  Z     / S      /   (NH)    /    (XS)   /     (XBSG)  /  S     /
+   Q    /(XS)       / (NSH)      /   (AGQ)    /(AH)    (XG)  /       (XNSH)/
+
+    (XS)   / (AD)    (AD) /   S    / S    (SH) /   S    /H    G  /
+  (DH)     /    (AGHQ)   / (XS)    G /   (HQ)    / (SW)    (DGE) /   (FGWRT)    /
+(DE)    (SGW)  /  (SH)    G/    (AQ)   /  (XSH)    S/    S   / (DG)    S /
+   (AD)    /(SHW)       /  H     /G    (DH)  /   X    /(AGQ)    (XS)  /
+  G    (HQ)/    (SW)   / (DGE)    (FGWRT) /   (DFE)    /(SGW)    H  /  G    (XQ)/
+     (XSHW)  /  X    X/        /        /        /        /
+
+        /        /        /  X     /        /   (ZXB)    /
+        /   (ZCMA)    /        /        /    A J /E       /
+        /        /        /        /        /        /
+       (CN)/        /       (XB)/        /       (XBA)/        /
+  (ZV)     /     V  /        /        /        /        /
+        /        /        /      C /        /        /
+
+        / V      /        /        /   Z    /        /
+        /        /        /        /  Z     /    C   /
+        /        /        /V       /        /        /
+   Z    /        /        /        /        /      Z /
+  X   X /  B  N  / (CND)    B / N  X   /B  N   S/   N  B /
+  (XVF)     /        /     X  /B  N   (ZA)/    B  N/   X  B /
+
+ N   S  / N   B  / X      / N      /   (XA)   B/  N   C /
+   B  N /  X   B /  N   S /  N   B /  (XVF)     /        /
+    X   /B  N   (BG)/   N   (CD)/  B   (ZA) /  N   X /  B   N /
+    S   /        /        /      Z / X C V  /B  N   A/
+        / (VNF)     (XN)/  V  N  /S F  H  /W  H  (XF) /S  (ZVN)    /
+   (CD)    /      (BG) /        /(VNF)     X / B  A  S/  G  Q W/
+
+  Q  G  /S  (ZBA)    /    (VF)   /        /(BG)       /   (NSFH)    /
+ X  V  N/  S  F  /H  (XW) H  /F  S   G/     X  /V   S  F/
+     (XW)  /  F   S / (BADG)      / X   B  /N  S (XD) G/   H  W /
+        /        /        /        /       (NS)/        /
+  X     /    (XS)   /      (BSG) /        /C       /  (CS)     /
+   (VNFH)    /(BG)     (XS) /        /V       / (XG)      /   (NS)    /
+
+X     D /        /(NS)       /   X    /     (XS)  /       (BSG)/
+        / C      /   (CS)    /    (VNSFH)   /     (AQ)  /        /
+       (NSH)/     X  /  (CD)    C/        /      S /        /
+N       /  (DE)     /    (AGQ)   /        /  Z    (SW)/    (DE)   /
+ (FGR)    (DE) /   (SW)    /        /(AQ)    (NSH)  /       B/    B   /
+      C /   (SH)    /        /      (DE) /        /(ADGQ)       /
+
+      Z /   (SW)    /(DE)    (FR)  /   (DE)    /(SW)       /     (AQ)  /
+  (SHW)     /        /(BG)       /  (CD)    X/        /N (XS)     /
+  H  X  /S  N    / (CD)    B /   (CS)  G / Q    (CG) /D   B   /
+(VF)     N / S  (VF)  G/  W  H  /(VG)  F  S / N  C   / B    (CS) /
+ D G    / (CD)  S   / B  (XS)   /    N  (XS)/       H/ X  S  N/
+    C   /  B    (CS)/  G  Q  /  (CG)  D  /  B   (VF) /    N  S/
+
+  (VF)  G  /W  H  (VG) / F  S N / (BG)      / S  (CBG)   /  E  W (CB)/
+   G    /   (CN)    /        /        /(ZC)       /   X    /
+        /  (SJW)     /X       /  (XB)     /        / (SW)    X /
+        /N     B /   X    /     (SW)  /        /        /
+X V   S /F   (XSW)   /      (XAQ) /        /        /  X     /
+   (CB)    /        /  (SW)     /X       /  (XN)    B/    (XBA)   /
+
+        /   S    / X B N S/ G  H W /H G S N /B (XA)     /
+     (XVNS)  /        /        /  (CND)     /    (ZBA)   /        /
+        / (XS)    (CD) /   (VBSF)    /(CD)    (XS)  /        /    (ZA)   /
+  (ZN)     /        /        /        /X       /        /
+     (CND)  /       (ZBA)/        /        /   (XS)    /(CBD)    (VBSF)  /
+  (CD)     /(XS)       /       (ZA)/     (XVNS)  /        /        /
+
+ X  V  N/  S  F  /  H     / Q      /        /        /
+X     N / D F H W/        /        /        /        /
+        /        /        /        /        /        /
+        /        /        /        /        /        /
+        /    /
+
+
+制谱人：暗夜丶死神melanism
+演奏视频：BV12J4m187fR 
+在此感谢：dr_sigama老师的帮助         感谢月夜OnO老师的帮助

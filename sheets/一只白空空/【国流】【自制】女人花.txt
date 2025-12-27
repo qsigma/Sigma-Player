@@ -42,9 +42,8 @@ ZD+BG+AG+BH+SG+B+D+B+/BS+XG+BG+XH+NG+X+M+X+/
 NA+CS+ND+CQ+MH+CA+D+C+/CG+M+C+M+B+M+C+M+/
 VH+ZQ+VQ+ZW+BQ+Z+N+ZH+/CG+MH+CD+MS+NA+C+N+C+/
 N+ZA+VS+ZG+BD+X+BS+X+/ZA+B+A+S+D+M+X+/
-
+《0.35》
 VH+ZQ+VQ+ZW+BQ+Z+N+ZH+/CG+MH+CD+MS+NA+C+N+C+/
 N+ZA+VS+ZG+BD+X+BS+X+/ZA++B+A+S+D+++/
-《0.35》
-Z+B+A+B+S+B+D+B+/Z+B+A+B+S+B+D+B+/ZCBA++++++++/
 
+Z+B+A+B+S+B+D+B+/Z+B+A+B+S+B+D+B+/ZCBA++++++++/

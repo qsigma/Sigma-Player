@@ -1,15 +1,15 @@
 {
-    "current_version_pro": 5.1,
-    "current_version_normal": 5.1,
-    "current_version_beta": 5.1,
-    "current_version_name_pro": "Sigma Player Pro 5.1",
-    "current_version_name_normal": "Sigma Player 5.1",
-    "current_version_name_beta": "Sigma Player 5.1 Beta 3",
-    "new_version_description":"Sigma Player Pro 5.1: Sigma Player Pro 5.1现已发布！\n自动演奏现有歌单连播、瀑布流、进度条点按、播放动效等强力加持, \n按键映射扩展性大幅加强，琴谱转换新增快捷输入和副文本框，\n新增历史版本迁移助手，节奏拟合算法大加强，还有诸多修复与优化。",
-    "new_version_description_normal":"Sigma Player 5.1: Sigma Player 5.1现已发布！\n自动演奏现有歌单连播、瀑布流、进度条点按、播放动效等强力加持, \n按键映射扩展性大幅加强，琴谱转换新增快捷输入和副文本框，\n新增历史版本迁移助手，节奏拟合算法大加强，还有诸多修复与优化。",
-    "new_version_description_beta":"Sigma Player 5.0 Beta 4.1: Midi转谱,Midi播放支持保留黑键, 以#形式输出字符; 在按键映射冲突的时候自动演奏快捷键需要shift才会同时触发",
+    "current_version_pro": 5.11,
+    "current_version_normal": 5.11,
+    "current_version_beta": 5.2,
+    "current_version_name_pro": "Sigma Player Pro 5.11",
+    "current_version_name_normal": "Sigma Player 5.11",
+    "current_version_name_beta": "Sigma Player 5.2 Beta 2",
+    "new_version_description":"Sigma Player Pro 5.11: Sigma Player Pro 5.1现已发布！\n本次更新修复了若干问题。",
+    "new_version_description_normal":"Sigma Player 5.11: Sigma Player 5.1现已发布！\n本次更新修复了若干问题。",
+    "new_version_description_beta":"Sigma Player 5.2 Beta 2: 新增Midi播放配置页面，在线曲库现已接入交响诗班曲库。",
     "black_lisk": "[]",
     "broadcast_normal": "Sigma Player 5.1现已发布！声声不息，即刻更新！",
     "broadcast_pro": "Sigma Player Pro 5.1现已发布！声声不息，即刻更新！",
-    "sponsor": "Jimmy\n晚秋行舟\n百毒不侵\n一只白空空\n明月迢迢\n冬冬冬冬冬茗\n辞_灯花\n沙鸮\n爱情是件奢侈品\n雪琳娜LinnaSnow\n静步之最\n橘子头の神\n柠萌\n夜有星辰伴皓月\n破忒头"
+    "sponsor": "Jimmy\n辞_灯花\n晚秋行舟\n百毒不侵\n一只白空空\n明月迢迢\n冬冬冬冬冬茗\n雾散\n沙鸮\n爱情是件奢侈品\n雪琳娜LinnaSnow\n静步之最\n橘子头の神\n柠萌\n夜有星辰伴皓月\n破忒头"
 }

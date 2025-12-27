@@ -1,0 +1,90 @@
+曲名：灰色轨迹
+翻谱：苏佳意
+0.4
+(NE) (CW) /(NQ) (CH)E/A   /N (CQ)W/
+(ZE) (BT) /(AT) (BY) /(DE)WQ /A B /
+B (SW)W/(GW) (SE)W/M Q /(BQ)HX /
+
+(NE) D /H D /(AE) W /(NQ) (CJ) /
+(NE) (DW) /(HQ) (CH)E/A   /N (CQ)W/
+(ZE) (BT) /(AT) (BY) /(DE)WQ /A B /
+
+B (SW)W/(GW) (SE)W/M Q /(BQ)HX /
+(NE) D /H D /(AW) E /(NY)TCE/
+(XR) N /(SR) (NR)Y/F Y /(XR)E(NW)E/
+
+N D /H D /Q   /N C /
+X N /(SR) (NR)Y/F Y /(SR)E(NW)E/
+C M /D M /G   /D M /
+
+V (AY)Y/(FHY) (AY)U/B (SU) /(GJY)TS /
+(ZAE) T /(MJT) YE/(NHW) Q /(BG)   /
+V (AY)Y/(FHY) (AY)U/B (SU) /(GJY)TSE/
+
+N D /(HQ) D /(HQ ) D /(HQ) D /
+V (AH)H/(VFH) (AH)J/B (SJ) /(BMH)G(SG) /
+(ZAQ)   /(MJ)   /(NH)   /B   /EW/
+
+(VQ) A /(FH) (AE) /(BW) S /(BMQ)JXQ/
+Z B /(AD) B /(AD) B /(AD) B /
+V (AY)Y/(AHY) (AY)U/B (SU) /(GJY)TS /
+
+(ZAE) T /(MJT) YQ/(NH)   /(BG)   /
+V (AY)Y/(FHY) (AY)U/B (SU) /(GJY)TSE/
+Z B /(AD) B /(AD) B /(AD) B /
+
+V (AY)Y/(FHY) (AY)U/B (SU) /(GJY)TS /
+(ZAE) T /(MJT) YE/(NHW) Q /(BG)   /
+V (AY)Y/(FHY) (AY)U/B (SU) /(GJY)TSE/
+
+N D /(HQ) D /(HQ ) D /(HQ) D /
+V (AH)H/(VFH) (AH)J/B (SJ) /(BMH)G(SG) /
+(ZAQ)   /(MJ)   /(NH)   /B   /E W /
+
+(VQ) A /(FH) (AE) /(BW) S /(BMQ)JXQ/
+Z B /(AD) B /(AD) B /(AD) B /
+V (AY)Y/(AHY) (AY)U/B (SU) /(GJY)TS /
+
+(ZAE) T /(MJT) YQ/(NH)   /(BG)   /
+V (AY)Y/(FHY) (AY)U/B (SU) /(GJY)TSE/
+Z B /(AD) B /(AD) B /(AD) B /
+
+V (AH)H/(VFH) (AH)J/B (SJ) /(BMH)G(SG) /
+(ZAQ)   /(MJ)   /(NH)   /B   /E W /
+(VQ) A /(FH) (AE) /(BW) S /(BMQ)JXQ/
+Z B /(AD) B /(AD) B /(AD) B /
+
+V[SA]NA/(VD)G(VH)(XQ)/[(BW)Q]HQE/(BMSE) BX/
+Z[DG]HQ/(BME)T[WQ]H/(CNQ)HGH/[G(NADH)]ZXC/
+
+V[VN]M[AS]/(ZVF)H(NQ)V/(BSJW)   /(XB) BB/
+N[TE]QE/(NADQ)H[QH]G/(ZH)[G(MH)](GJ)(NGQ)/(NGE)CNB/
+
+VNMA/(ZVS)D(VF)(XG)/(BH)QET/(MSGE)Q(BG)(XQ)/
+[GQ(BAT)]GQT/(BMGJ)QGF/(CNAD)  N/(CB)Z(XS)(CA)/
+
+[A(VS)]   /(ZV)A(VA)(XM)/(BMD)  (BMD)/(XV) (BD)(XF)/
+(ZBAD)  Z/(CBA)ZZZ/(CBA)X (CBA)/CBN /
+
+V[SA]NA/(VD)G[(VH)G](XD)/(BG)HJQ/(BMSW) BX/
+Z[TE]QG/(BMD)GH /(NADH)  N/(CNAD)ZXC/
+
+V[HH]HH/(ZVF)[DN](VS)/[S(BD)][ S]D/(XBS) (BA)(BS)/
+[S(ND)] G[SSA]/(ZCN)ANB/N NN/(ZN)[ (ZN)](ZN)/
+
+(VN)BSA/(ZVD)H(VH)(XG)/(BGW)QTE/(MSGY)U(BY)(XU)/
+[Y(BAJU)]   /(BM)(HY)(GT)(HY)/(NADQ)  N/(CB)Z(XS)(CA)/
+
+[S(VD)] (GQ)[SD]/(ZV) (NS)(VA)/[(BS)DSDSDSD]/(XBS) (BA)M/
+(CBA)   /(CBA) Z(CBA)/ZZ(CBA) /(CBA)MMB/
+
+(VAFH)   /(VNA) [(VG)H][(XJ)Q]/(BGJW)   /(BMS) (BQ)(XW)/
+(ZGQE)TET/(MGJE) WE/(NDHQ)  N/(CNAD)ZXC/
+
+[G(VH)]   /(VNA) VX/[H(BJ)]   /(BMS) (BH)(BG)/
+[G(NH)]   /(NDG)  C/NN Z/ MB /
+VZXC/(ZB)N(VA)(XS)/[S(BD)]   /X (BS)(XA)/
+
+[S(ZD)]   /(MJ)DH[DS]/(CNA)  N/(ZC)Z(XS)(CD)/
+[(VS)D][SA]HQ/(ZVH)G[(VH)G](XD)/(BS)   /(XB) (BA)(XA)/
+(CB) N /(XB)   /    /    /

@@ -1,0 +1,62 @@
+第一版为一行一小节 排版版本往下翻
+(NAD) (NAD) (NAD) (NS) (NS) (NS) (ZCNS) (NS)CN/
+(NAD) (NAD) (ZCNAD) (NS) (NS) (NS) (ZCNS) (CNA/)
+(ND)   N C (ZD) M N (BF)/
+(ND) X C B   (XN) (CD) (XF)/
+(BD) Z B C (BA) C Z G/
+(BD) X C V (NS) C (XN) M/
+(VA) Z V C (VA) C D Z/
+(CBMS) B M Z X A (BM) B/
+(XVM) N X V X V N M N (CN) X N/
+(CND)   (CND) (CN)(CND)(CN) (CND) (CND) C/
+(XDHQE)NXV(NADH)VXN(XDHQE)NXV(NS)V(XFHQR)N/
+(XDGJE)NXC(BMD)CXNXN(XMJ)C(NJU)C(XHY)N/
+(ZDGQE)NZV(NADG)VZN(ZADQ)NZV(NA)V(ZGT)N/
+(MDHE)BMXNXMB(MSFHW)BMX(NH)X(MJ)B/
+(NAFHQ)VMX(VNF)XMV(NAFHQ)VMX(VNDHQE)XMV/
+(NSGJW)CNZ(CBGJWT)ZNCNCNZ(CBMSJ)ZNC/
+(XMSJ)   (VM)NMS(XNF)HJW(XVMF)HJW/
+(CDE)   (CNDH)  (DH)(CMDG)   C  X/
+(ZMSFH)   ZCBN(VNA)DGH(BA)DGH/
+(XMSFJ)   (XMSF)   (ZFHR)   (CNA)/
+(MF) M (VS) M (XF) M (VF) (MG)/
+(NF) N (CA) N (CF) (ZA) (VQ) (ZH)/
+(BD) B (CA) B (CS) (ZB) (BA) (ZG)/
+(BD) (XB) (NA) (XB) (NS) (XB) N M/
+(VADQ) V (NADH)   (ADQ) V (DQE)/
+(CSGJW) C (GJWT)   X   (BMGJ)/
+(VMJ)   Z V (CNA) V (ZAQ) N/
+(BDE) M Z B (NSW) X Z M/
+/
+
+
+
+(NAD) (NAD) /(NAD) (NS) /(NS) (NS) /(ZCNS) (NS)C/
+N(NAD) (NAD)/ (ZCNAD) (NS)/ (NS) (NS)/ (ZCNS) (CNA) /
+(ND)  / N C/ (ZD) M/ N (BF) /
+(ND) X/ C B/   (XN)/ (CD) (XF) /
+(BD) Z/ B C/ (BA) C/ Z G /
+(BD) X/ C V/ (NS) C/ (XN) M /
+(VA) Z/ V C/ (VA) C/ D Z /
+(CBMS) B/ M Z/ X A/ (BM) B /
+(XVM) N/ X V/ X V/ N M /
+N (CN)/ X N/ (CND)  / (CND) (CN)/
+(CND)(CN) (CND)/ (CND) C/   (XDHQE)/NXV(NADH)/
+VXN(XDHQE)/NXV(NS)/V(XFHQR)N(XDGJE)/NXC(BMD)/
+CXNX/N(XMJ)C(NJU)/C(XHY)N(ZDGQE)/NZV(NADG)/
+VZN(ZADQ)/NZV(NA)/V(ZGT)N(MDHE)/BMXN/
+XMB(MSFHW)/BMX(NH)/X(MJ)B(NAFHQ)/VMX(VNF)/
+XMV(NAFHQ)/VMX(VNDHQE)/XMV(NSGJW)/CNZ(CBGJWT)/
+ZNCN/CNZ(CBMSJ)/ZNC(XMSJ)/   (VM)/
+NMS(XNF)/HJW(XVMF)/HJW(CDE)/   (CNDH)  /
+(DH)(CMDG)/   C/  X(ZMSFH)/   Z/
+CBN(VNA)/DGH(BA)/DGH(XMSFJ)/   (XMSF)   /
+(ZFHR)/   (CNA)/   (MF)/ M (VS) /
+M (XF)/ M (VF)/ (MG) (NF)/ N (CA) /
+N (CF)/ (ZA) (VQ)/ (ZH) (BD)/ B (CA) /
+B (CS)/ (ZB) (BA)/ (ZG) (BD)/ (XB) (NA) /
+(XB) (NS)/ (XB) N/ M (VADQ)/ V (NADH)   /
+(ADQ)/ V (DQE)/   (CSGJW)/ C (GJWT)   /
+X/   (BMGJ)/   (VMJ)/   Z /
+V (CNA)/ V (ZAQ)/ N (BDE)/ M Z /
+B (NSW)/ X Z/ M/

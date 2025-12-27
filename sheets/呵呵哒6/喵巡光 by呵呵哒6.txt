@@ -1,0 +1,123 @@
+第一版为一行一小节 排版版本往下翻
+(NH) C (ND) M (AH) D H JQ/
+(VQ) Z V B (NQ) J H G/
+(ZG) B Z X (CG) H D S/
+(BS) X B N M/
+(NH) C (ND) M (AH) D H JQ/
+V Z V B (NQ) W Q W/
+(ZE) B Z X (CE) R E W/
+B X B N M E W Q/
+(NE) (CW)EN (ME) (AE) WE  E/
+(VE) (ZW)EV (BW) (NQ)   Q W/
+(ZE) (BW)EZ (XE) (CE) TTT Q/
+(BE) (XW) (BW) (NQ) (MW)   E Q/
+(NE) (CW)EN (ME) (AE) TT  Q/
+(VT)Y(ZT) (VQ) (BW) (NE)   Q E/
+(ZE) B (ZQ) (XE) (CE)   E R/
+(BT) X B N M Y T E/
+N (CE) (NAE) (CW)E(BME) (CT) (NAY) (CT)/
+(VT) (ZT) (VNT) (ZT)T(BMT) (ZQ) (VNW) (ZE)/
+Z (BE) (ZCE) (BE)E(ZV) (BT) (ZCT) (BW)/
+B (XW) (BMW) (XE)W(BAW) (XQ) (BMJ) (XQ)/
+N (CE) (NAE) (CW)E(BME) (CT) (NAY) (CT)/
+V (ZY) (VNY) (ZY)Y(BM) (ZQ) (VNW) (ZE)/
+Z (BE) (ZCE) (BE)E(ZVE) (BT) (ZCQ) (BW)/
+B (XW) (BMW) (XE)W(BAW) (XQ) (BMJ) (XJ)Q/
+(NQ) C N M A/
+(NH) C (ND) M (AH) D H JQ/
+(VQ) Z V B (NQ) J H G/
+(ZG) B Z X (CG) H D S/
+(BS) X B N M/
+(NH) C (ND) M (AH) D H JQ/
+V Z V B (NQ) W Q W/
+(ZE) B Z X (CE) R E W/
+(BW) X B N M E W Q/
+(NE) (CW)EN (ME) (AE) WE  E/
+(VE) (ZW)EV (BW) (NQ)   Q W/
+(ZE) (BW)EZ (XE) (CE) TTT Q/
+(BE) (XW) (BW) (NQ) (MW)   E Q/
+(NE) (CW)EN (ME) (AE) TT  Q/
+(VT)Y(ZT) (VQ) (BW) (NE)   Q E/
+(ZE) B (ZQ) (XE) (CE)   E R/
+(BT) X B N M Y T E/
+N (CE) (NAE) (CW)E(BME) (CT) (NAY) (CT)/
+(VT) (ZT) (VNT) (ZT)T(BMT) (ZQ) (VNW) (ZE)/
+Z (BE) (ZCE) (BE)E(ZV) (BT) (ZCT) (BW)/
+(BW) (XW) (BMW) (XE)W(BAW) (XQ) (BMJ) (XQ)/
+N (CE) (NAE) (CW)E(ME) (CT) (NAY) (CT)/
+V (ZY) (VNY) (ZY)Y(BM) (ZQ) (VNW) (ZE)/
+Z (BE) (ZCE) (BE)E(ZVE) (BT) (ZCQ) (BW)/
+(BW) (XW) (BMW) (XE)W(BAW) (XQ) (BMJ) (XJ)Q/
+(NQ) C N M M Y T E/
+N (CE) (NAE) (CW)E(ME) (CT) (NAY) (CT)/
+(VT) (ZT) (VNT) (ZT)T(BMT) (ZQ) (VNW) (ZE)/
+Z (BE) (ZCE) (BE)E(ZV) (BT) (ZCT) (BW)/
+B (XW) (BMW) (XE)W(BAW) (XQ) (BMJ) (XQ)/
+N (CE) (NAE) (CW)E(ME) (CT) (NAY) (CT)/
+V (ZY) (VNY) (ZY)Y(BM) (ZQ) (VNW) (ZE)/
+Z (BE) (ZCE) (BE)E(ZVE) (BT) (ZCQ) (BW)/
+B (XW) (BMW) (XE)W(BAW) (XQ) (BMJ) (XJ)Q/
+(NQ) C N M A/
+
+
+
+
+(NH) C /(ND) M /(AH) D /H JQ/
+(VQ) Z /V B /(NQ) J /H G /
+(ZG) B /Z X /(CG) H /D S /
+(BS) X /B N /M   /    /
+(NH) C /(ND) M /(AH) D /H JQ/
+V Z /V B /(NQ) W /Q W /
+(ZE) B /Z X /(CE) R /E W /
+B X /B N /M E /W Q /
+(NE) (CW)E/N (ME) /(AE) WE/  E /
+(VE) (ZW)E/V (BW) /(NQ)   /Q W /
+(ZE) (BW)E/Z (XE) /(CE) TT/T Q /
+(BE) (XW) /(BW) (NQ) /(MW)   /E Q /
+(NE) (CW)E/N (ME) /(AE) TT/  Q /
+(VT)Y(ZT) /(VQ) (BW) /(NE)   /Q E /
+(ZE) B /(ZQ) (XE) /(CE)   /E R /
+(BT) X /B N /M Y /T E /
+N (CE) /(NAE) (CW)E/(BME) (CT) /(NAY) (CT) /
+(VT) (ZT) /(VNT) (ZT)T/(BMT) (ZQ) /(VNW) (ZE) /
+Z (BE) /(ZCE) (BE)E/(ZV) (BT) /(ZCT) (BW) /
+B (XW) /(BMW) (XE)W/(BAW) (XQ) /(BMJ) (XQ) /
+N (CE) /(NAE) (CW)E/(BME) (CT) /(NAY) (CT) /
+V (ZY) /(VNY) (ZY)Y/(BM) (ZQ) /(VNW) (ZE) /
+Z (BE) /(ZCE) (BE)E/(ZVE) (BT) /(ZCQ) (BW) /
+B (XW) /(BMW) (XE)W/(BAW) (XQ) /(BMJ) (XJ)Q/
+(NQ) C /N M /A   /    /
+(NH) C /(ND) M /(AH) D /H JQ/
+(VQ) Z /V B /(NQ) J /H G /
+(ZG) B /Z X /(CG) H /D S /
+(BS) X /B N /M   /    /
+(NH) C /(ND) M /(AH) D /H JQ/
+V Z /V B /(NQ) W /Q W /
+(ZE) B /Z X /(CE) R /E W /
+(BW) X /B N /M E /W Q /
+(NE) (CW)E/N (ME) /(AE) WE/  E /
+(VE) (ZW)E/V (BW) /(NQ)   /Q W /
+(ZE) (BW)E/Z (XE) /(CE) TT/T Q /
+(BE) (XW) /(BW) (NQ) /(MW)   /E Q /
+(NE) (CW)E/N (ME) /(AE) TT/  Q /
+(VT)Y(ZT) /(VQ) (BW) /(NE)   /Q E /
+(ZE) B /(ZQ) (XE) /(CE)   /E R /
+(BT) X /B N /M Y /T E /
+N (CE) /(NAE) (CW)E/(BME) (CT) /(NAY) (CT) /
+(VT) (ZT) /(VNT) (ZT)T/(BMT) (ZQ) /(VNW) (ZE) /
+Z (BE) /(ZCE) (BE)E/(ZV) (BT) /(ZCT) (BW) /
+(BW) (XW) /(BMW) (XE)W/(BAW) (XQ) /(BMJ) (XQ) /
+N (CE) /(NAE) (CW)E/(ME) (CT) /(NAY) (CT) /
+V (ZY) /(VNY) (ZY)Y/(BM) (ZQ) /(VNW) (ZE) /
+Z (BE) /(ZCE) (BE)E/(ZVE) (BT) /(ZCQ) (BW) /
+(BW) (XW) /(BMW) (XE)W/(BAW) (XQ) /(BMJ) (XJ)Q/
+(NQ) C /N M /M Y /T E /
+N (CE) /(NAE) (CW)E/(ME) (CT) /(NAY) (CT) /
+(VT) (ZT) /(VNT) (ZT)T/(BMT) (ZQ) /(VNW) (ZE) /
+Z (BE) /(ZCE) (BE)E/(ZV) (BT) /(ZCT) (BW) /
+B (XW) /(BMW) (XE)W/(BAW) (XQ) /(BMJ) (XQ) /
+N (CE) /(NAE) (CW)E/(ME) (CT) /(NAY) (CT) /
+V (ZY) /(VNY) (ZY)Y/(BM) (ZQ) /(VNW) (ZE) /
+Z (BE) /(ZCE) (BE)E/(ZVE) (BT) /(ZCQ) (BW) /
+B (XW) /(BMW) (XE)W/(BAW) (XQ) /(BMJ) (XJ)Q/
+(NQ) C /N M /A/

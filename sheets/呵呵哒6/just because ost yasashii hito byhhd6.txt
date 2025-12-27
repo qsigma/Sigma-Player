@@ -1,0 +1,39 @@
+(CQ) (AW) /(ST)   /W   /Q (AFQ)   /
+G /  G /  G /    /
+(BQ) S /(GQ) S /(GQ) J /G (NQ)   /
+(DW) /(GE) (HR) /(GE) (DW) /(GQ) B /
+(CQ) (AW) /(ST)   /W   /Q (AFE)   /
+Q /  Q /  Q /  QW/
+(BQ) S /(GQ) (SW) /(GQ) (SJ) /G (NQ)   /
+(AG) /(NF) D /(CS) (BD) /(CS) A /
+(CA) Z /(CS) Z /(CA) Z /(CS) Z /
+(VA) Z /(VS) X /(VA) Z /(VS) Z /
+(BA) X /(BS) X /(BA) X /(BS) X /
+(ZA) B /(ZS) B /(NA) B /(ZS) B /
+(CA) Z /(CS) Z /(CA) Z /(CS) Z /
+(VA) Z /(VS) Z /(VA) Z /(VS) Z /
+(BA) X /(BS) X /(BA) X /(BS) X /
+(CA) Z /(BS)DZ /(XG)AZD/(BS)(CA)ZX/
+(CAGT) Z /(CS) Z /(CA) Z /(CS) (ZHY) /
+(VAGT) Z /(VS) Z /(VA) Z /(VS) Z /
+(BAGT) X /(BS) X /(BA) X /(BS) X /
+(ZE) B /X B /(MS) B /(XS) B /
+(CBAG) Z /(CS) Z /(CA) Z /(CS) (ZAQ) /
+(CBAG) Z /(VS) Z /(VA) Z /(VS) (ZSW) /
+(BADE) X /(BS) X /(BA) X /(BS) (XGT)(DE)/
+(CAW) Z /(BS)DZ /(XG)AZD/(BS)(CA)Z /
+(GT) Q /W Q /E Q /W   /
+(FT) Q /W Q /E Q /W   /
+(GT) Q /W Q /E Q /W   /
+(AT) Q /W   /(MT) Q /W   /
+(NT) Q /W Q /E Q /W   /
+(FT) Q /W Q /E Q /W   /
+(GT) Q /W Q /E Q /W   /
+(AGT) Q /W Q /W (AG) /W A /
+(CQ) (AW) /(ST)   /W   /Q (AFQ)   /
+G /  G /  G /    /
+(BQ) S /(GQ) S /(GQ) J /G (NQ)   /
+(DW) /(GE) (HR) /(GE) (DW) /(GQ) B /
+(CQ) (AW) /(ST)   /W   /Q (AFE)   /
+Q /  Q /  Q /  QW/
+(BQ) S /(GQ) (SW) /(GQ) (SJ) /G (NDQ)/

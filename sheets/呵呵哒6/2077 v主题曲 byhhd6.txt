@@ -1,0 +1,32 @@
+  N /(SJ) (CNAH) /(NF) (AH) /(NF) (CNS) /
+(CN) N /(SJ) (CNAH) /(NF) (AH) /(ND) (CNS) /
+(CN) N /(SJ) (CBAH) /(NF) (AH) /(NF) (XVNS) /
+(CN) N /(SJ) (CBAH) /(NF) (AH) /(ND) (CB) /
+(NF) N /(SJ) (CNAH) /(NF) (AH) /(NF) (CNS) /
+(CN) N /(SJ) (CNAH) /(NF) (AH) /(ND) (CNS) /
+(CN) N /(SJ) (CBAH) /(NF) (AH) /(NF) (XVNS) /
+(CN) N /(SJ) (CBAH) /(NF) (AH) /(ND) (CB) /
+(NF)   /N  N/  GG/GGHH/
+HHHQ/N  N/  GG/GGHH/
+HHHQ/N  N/  GG/GGHH/
+HHHQ/N  N/  F / (VNAD) H /
+(CNH) N/  N / G  / G   /
+(CN) N/  N / A  / S N /
+(CN) N/  N / G  / G   /
+(CN) N/  N / A  / S D /
+(CN) N/  N / G  / H Q /
+(ZN) A/  A / G  / G   /
+(XN) S/  S / G  / H Q /
+(CB)  /    / (CN)  /   G/
+H(NH) (XMH)/ (ZN)H(VN)/ (ZNT) (VN)/ (XNT) (CN) /
+N (XMQ)/ (ZN)H(VN)/ (ZNJ) (CN)/ (XN) (CN) /
+(NJ) (XMH)/ (ZN)G(VN)/ (ZNT) (VN)/ (XNT) (CN) /
+(NY) (XMQ)/ (ZN)H(VN)/ (ZNQ) (CN)/ W (VNE) /
+N (XMH)/ (ZN)H(VN)/ (ZNT) (VN)/ (XNY) (CNU) /
+N (XMW)/ (ZN)W(VN)/ (ZNT) (CN)/ (XNY) (CN) /
+N (XMQ)/ (ZN)Q(VN)/ (ZNT) (VNY)/ (XNU) (CN) /
+(NT) (XM)/ (ZN) (VN)/ (ZNY) (CN)/   (VN)   /
+H/  H / T  / T     /
+H/  H / T  / T     /
+H/  H / T  / T     /
+H/  H / T  / T/

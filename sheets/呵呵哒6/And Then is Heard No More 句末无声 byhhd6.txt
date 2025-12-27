@@ -1,0 +1,78 @@
+N   /S   /S   /  S /
+A   /M   /A M /N B /
+N   /    /    /    /
+N   /S   /D   /A   /
+    /M A /S   /A M /
+N   /    /    /N     /
+B /    /X   /    /
+X C /N   /  M /N C /
+C X /    /X C /V   /
+X   /N   /B   /  A /
+    /(NS)   /    /    /
+B   /    /    /(VN)   /
+    /  (CN) /(CN)   /  (CN) /
+(MS)   /(BS)   /  (BS) /(BS) (BD) /
+(VF) D /(VS) (CA) /(CA) (VS) /(CN)   /
+    /(BA) (BA) /(NS)   /    /
+    /(BS)   /    /    /
+X   /    /    /    /
+    /    /X V /N V /
+N V /X B /M B /M B /
+X V /N V /X V /Z C /
+N   /C   /(XS) N /(SFH) D /
+(SGW) N /(VFHW) N /(SQ) (DW) /(SQ) N /
+(BGJW) (NJ) /(SHQ) (DGJ) /(SFH) G /(XSH) N /
+(SHW) D /(FY)   /(XSY) N /(SFH) D /
+(SFW) (NGW) /(VFHE) N /(SFQR) D /(SJW) (NQ) /
+(BGJT) (NHQ) /(SJW) (DT) /(SGQR) (NJT) /(XNSHY)   /
+F   /(NADG)   /(XNH)   /S (FH) /
+W (NAGQY) /(XBMSWT)   /Q   /(SJ) D /
+(NAFHE)   /  (JWR) /(HQE) (DQ) /(MSGJ)   /
+(SGT)   /S D /(MFJW) S /(FH) S /
+(FHW)   /(AQE) D /H (DGQ) /H   /
+(XHW) X /(NW) (XE) /(NR) T /(VFY) V /
+(AW) V /(AY)  R/(BT) (BY) /(SU) A /
+[(MU)QU]  (XY)/   (NW)/   (SH)/   (XNS) /
+X (NS)/ (XD) (NF)/ G (VAH)/ V (ZW) /
+V (ZQ)/   (BSJ)/ (BQ) (XW)/ Z [(MQ)WQ]/
+J (XSH) /  N /  (XN) /  (ZNG)   /
+(XN) /  F /(ZNAD) (XBMS) /      /
+S /  (ZVNAG) /    /  F /
+D (XBMS) /    /    /A (MS) /
+X (VN) /X (VA) /F (ZAD) /C N /
+C (NA) /S (XS) /N X /(CS) V /
+(BD) (VF) /Z V /(NA) M /A (BS) /
+X (NH) /M (NS) /X (MS) /V M /
+A (XS) /D (XNF) /N (XN) /C (VMW) /
+(BA) (VSFH) /Z (VN) /(ND) (VS) /A (BMS) /
+X (NAH) /M (NS) /(XB) (BMS) /V A /
+V S /  (XSHWR) /W H /(HW) E /
+W (ZAHQE) /Q G /(GQ) E /Q (MJW) /
+J G /(SGJ) W /J (NDHQ) /H (GW) /
+S (ADQ) /N (XFW) /S N /S D /
+S (ZDGQ) /A B /A (DH) /A (MSFH) /
+M B /(MFW) S /(MDW) (CNHQ) /  (CND) /
+H (NDQ) /E (XNFHR) /  (VN) /(VN) (BS)   /
+(CBMSFHW) /  (XA) /  (XA) /(XA) (BMSGJ)   /
+(NA) /(BM) (VN) /(CB) (XNHWY) /  (NS) /
+    /  (XNFHR) /  (VN) /(VN) (BS)   /
+(VNAFHW) /  (XA) /(XA)   /  (BMSGJ) /
+(NA) (MS) /  (BA) /M (XNHWY) /    /
+    /  (ZNDHQ) /    /B   /
+B (XBMSGJ) /  A /  (XM) /C (ZNDHQ) /
+    /M (NA) /C (CMSGJ) /X B   /
+X /C (XVMS) /  (XN) /  (NS)   /
+(ZCBD) /    /(CNA)   /  (XNS) /
+X (NS) /(XD) (NF) /G (CBH) /V (ZS) /
+V (ZH) / F(BG) /(BH) (XJ) /Z [(MJ)QJ]  /
+(XH)  / (NS)  / (XN)  / (XNS) X /
+(NS) (XD)/ (NF) G/ (VAH) V/ (ZW) V /
+(ZQ)  / (BSJ) (BQ)/ (XW) Z/ [(MQ)WQ]J /
+(XSH)   /N   /(XN)   /(ZNG)   /
+(XN)   /F (ZNAD) /(XBMS)   /    /
+S   /(ZVNAG)   /    /F D /
+(XBMS)   /    /  A /(MS) X /
+(VN) X /(VA) F /(ZAD) C /N C /
+(NA) S /(XS) N /S N /D N /
+(XF) S /(NH) S /(CQ) S /(XW)   /
+    /    /X/

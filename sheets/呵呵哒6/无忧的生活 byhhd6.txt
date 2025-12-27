@@ -1,0 +1,86 @@
+D GD
+(VN) Z V A (BM) X (BM) NM
+(CB) M C X (CN) C (ND) GD
+(VN) Z V A (BM) X (BM) AS
+(ZB) B Z SF(MD) B (MD) GD
+(VN) Z V A (BM) X (BM) NM
+(CB) M CCSD(NA) C N MA
+(VN) Z V D (BS) X (BA) MA
+N C N B N C NDGD
+(VN) Z VVNA(BM) X BM(BM)M
+(CB) M C (XB) (CN) C NC(ZC)B
+(VN) Z VVNA(BM) X (BM) (NA)S
+(ZB) B Z (CS)F(MD) B (MD) (CS)D
+(VN) Z V (NA) (BM) X BM(BM)M
+(CB) M CC(BD)SN C N (ZM)A
+(VN) Z V (ND) (BS) X (BD) (MG)
+(NH) C N G (NH) C (NE) TE
+(VH) Z V HQ(BJ) X (BJ) HJ
+(CG) M C S (ND) C (NE) TE
+(VH) Z V E (BJ) X (BJ) QW
+(ZG) B ZGWG(MR) (BE) (ME) TE
+(VH) Z (VQ) JQ(BJ) X (BJ) (VH)
+(CG) M CDWE(NQ) C N JQ
+(VH) Z V E (BH) X B G
+(NH) C N B N
+(VE) (ZT) (VH)  (BE) (XT) (BH)
+(NE) (CT) (NH) G H C N C
+(VE) (ZT) (VH)  (BE) (XT) (BH) E
+(NQ) (CU) (NY) T (BE) C B
+(VE) (ZT) (VH)  (BE) (XT) (BH)
+(NE) (CT) (NH) G (BH) C (BD) G
+(VH) (ZE) (VH)  (BH) (XE) (BW) E
+(NE) (CH) (NH) (MG) (AH) M N
+(VE) (ZT)E(VH)  (BE) (XT)E(BH)
+(NE) (CT) (NH) G H C N C
+(VE) (ZT) (VH)  (BE) (XT)E(BH) E
+(NQ)U(CY)ENWET(BE) C B W
+(VE) (ZT)E(VH)  (BE) (XT)E(BH)
+(NE) (CT) (NH) G (BD) C (BD) G
+(VH) (ZE) (VH)  (BH) (XE) (BW) E
+(NE) (CH) (NH) G D G H (CJ)
+(NH) C N M N  D GD
+(VN) Z V A (BM) X (BM) NM
+(CB) M C X (CN) C (ND) GD
+(VN) Z V A (BM) X (BM) AS
+(ZB) B Z SF(MD) B (MD) GD
+(VN) Z V A (BM) X (BM) NM
+(CB) M CCSD(NA) C N MA
+(VN) Z V D (BS) X (BA) MA
+N C N B N C NDGD
+(VN) Z VVNA(BM) X BM(BM)M
+(CB) M C (XB) (CN) C NC(ZC)B
+(VN) Z VVNA(BM) X (BM) (NA)S
+(ZB) B Z (CS)F(MD) B (MD) (CS)D
+(VN) Z V (NA) (BM) X BM(BM)M
+(CB) M CC(BD)SN C N (ZM)A
+(VN) Z V (ND) (BS) X (BD) (MG)
+(NH) C N G H  F HF
+(VN) Z V A (BM) X (BM) NM
+(CB) M C X (CN) C (ND) GD
+(VN) Z V A (BM) X (BM) AS
+(ZB) B Z SF(MD) B (MD) GD
+(VN) Z V A (BM) X (BM) NM
+(CB) M CCSD(NA) C N MA
+(VN) Z V D (BS) X (BA) MA
+N C N B N C NDGD
+(VN) Z VVNA(BM) X (BM)M(BM)M
+(CB) M C (XB) (CN) C NC(ZC)B
+(VN) Z VVNA(BM) X (BM) (NA)S
+(ZB) B Z (CS)F(MD) B (MD) (CS)D
+(VN) Z V (NA) (BM) X (BM)M(BM)M
+(CB) M CC(BD)SN C N (ZM)A
+(VN) Z V (ND) (BS) X (BD) (MG)
+(NH) C N G (NH) C (NE) TE
+(VH) Z V HQ(BJ) X (BJ) HJ
+(CG) M C W (NE) C (NE) TE
+(VH) Z V E (BJ) X (BJ) QW
+(ZG) B ZGWG(MR) (BE) (ME) TE
+(VH) Z (VQ) JQ(BJ) X (BJ) (VH)
+(CG) M CDWE(NQ) C N J
+(VH) Z V E (BH) X B G
+(NH) C N B N  Q J
+(VH) Z V E (BH) X B G
+(NH) C N B N  Q J
+(VH) Z V E (BY) X B T
+(NY) C N M N

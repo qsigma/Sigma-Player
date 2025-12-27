@@ -1,0 +1,48 @@
+第一版为一行一小节 排版版本往下翻
+(XV)  C  (CBA)  N
+(CB)  V  (ZMS)
+(XVN)  C  (CBAD)  N
+(CBM)  V  (ZBMS)
+(XVN)  C  (CBAD)  N
+(CBM)  V  (ZBMS)
+(XVN)  (CG) H (CBAD)  N AS
+(CBM)  V DG(ZBMS)
+(XVN) Q (CH) G (CBAD)  N AS
+(CBM)  V GD(ZBMS)
+(XVN)  (CG) H (CBADQ)  N (AE)(SW)
+(CBMJ)  V (DQ)J(ZBMSG)
+(XVN)  (CH) G (CBAD)  N AS
+(CBM)  V DG(ZBMS)
+(XVN)  (CG) H (CBAD)  N AS
+(CBM)  V DG(ZBMS)
+(XVN)  (CG) H (CBADQ)  N QW
+(CBMJ)  (VE) DG(ZBMS)
+(VNAD)   HG(XNSG)  S A
+(XBM)  A S (XVN)
+(NADGQ)   HG(XNSG)  S (AW)
+(BMSGJ)  Q (AW)S(VNAFH)
+
+
+
+(XV)   /C   /(CBA)   /N   /
+(CB)   /V   /(ZMS)   /    /
+(XVN)   /C   /(CBAD)   /N   /
+(CBM)   /V   /(ZBMS)   /    /
+(XVN)   /C   /(CBAD)   /N   /
+(CBM)   /V   /(ZBMS)   /    /
+(XVN)   /(CG) H /(CBAD)   /N AS/
+(CBM)   /V DG/(ZBMS)   /    /
+(XVN) Q /(CH) G /(CBAD)   /N AS/
+(CBM)   /V GD/(ZBMS)   /    /
+(XVN)   /(CG) H /(CBADQ)   /N (AE)(SW)/
+(CBMJ)   /V (DQ)J/(ZBMSG)   /    /
+(XVN)   /(CH) G /(CBAD)   /N AS/
+(CBM)   /V DG/(ZBMS)   /    /
+(XVN)   /(CG) H /(CBAD)   /N AS/
+(CBM)   /V DG/(ZBMS)   /    /
+(XVN)   /(CG) H /(CBADQ)   /N QW/
+(CBMJ)   /(VE) DG/(ZBMS)   /    /
+(VNAD)   /  HG/(XNSG)   /S A /
+(XBM)   /A S /(XVN)   /    /
+(NADGQ)   /  HG/(XNSG)   /S (AW) /
+(BMSGJ)   /Q (AW)S/(VNAFH)/

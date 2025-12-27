@@ -1,0 +1,62 @@
+(ZD) C /(BG) (CD) /(XF) (VD) /(AF) V /
+(CG) (BQ) /(SJ) (BQ) /[(VNSH)QE]   /W   /
+(NADQ) G /(HQT) RE/(BADW) Q /G S /
+V Z /V B /A   /    /
+(ZBD)   /G H /(BMG)   /S   /
+(XVNA)   /J Q /(CBJ)   /G   /
+(ZVH)   /(ZV) H /(ZCH) G /(ZCA) D /
+(ZVF) D /(ZVS) A /(BD) N /(MS) B /
+(ZBD)   /(ZBG) H /(BMG)   /(BMS) A /
+(XVNA)   /(XVNJ) Q /(CBJ)   /(CBG)   /
+(ZVW) Q /G (ZVE) /(XBW) Q /G (XBQ) /
+(ZQ) B /A S /G (AU) /(SW) (GQ) /
+(ZA) B /A S /G   /    /
+[(AF)QE]   /    /[(SQ)WR] D /(MF) A /
+(ADG) Q /J Q /(NDG)   /(NDW) Q /
+(VAQ)   /G Q /(BSW) G /(BSQ) E /
+(ZBE)   /(ZB) E /(BMW)   /(BM)   /
+(ZBD)   /(ZB) D /(XNF) D /(XNF)   /
+(MG) Q /J Q /(VAE)   /W   /
+(NQ) D /(NQE)   /(BQT)   /(BWT)   /
+(VQ) A /G H /(DE)   /    /
+(NA) G /Q T /  Y /M G /
+Q W /  E /(AE) G /Q T   /
+E /(MW) G /Q (MGQT) /(MT) E /
+(VN) A /S G /  H /(MS) B /
+A S /  D /(ZD) B /(ZA) (ADG)   /
+D /M B /A (ADG) /G D /
+(ZBA) (ZB) /(ZB) (ZB) /(ZB) (ZB) /(ZBMS) (ZB) /
+(ZB) (ZB) /(ZB) (ZB) /(ZBAF) (ZB) /(ZB) (ZB) /
+(ZB) (ZB) /(ZBAG) (ZB) /(ZB) (ZB) /(ZB) (ZB) /
+(ZBAG)   /    /    /    /
+    /    /    /    /
+U E /W T /Q J /E H /
+G W /F D /J D /S A /
+M B /X Z /    /    /
+    /  B /    /    /
+    /  (ZMD) /    /      /
+(JU) /    /    /    /
+    /  [(BD)A] /  G /H (XBMG)   /
+S /  (CNA) /  J /Q (BDJ)   /
+G /  (ZVH) /  (ZV) /H (ZCH) /
+G (ZCA) /D (ZVF) /D (ZVS) /A (BD) /
+N (MS) /B (ZBD) /  (ZBG) /H (BMG)   /
+(BMS) /A (XVNA) /  (XVNJ) /Q (CBJ)   /
+(CBG) /  (ZVW) /Q G /(ZVE) (XBW) /
+Q J /(XBG)   /    /  (GT) /
+(GT) (GT)(DE)/(SW)(AQ)(ZAQ) /(DE)(DE)(CBADE) /(DE)(DE)(MDE) /
+(DE) (XBMSW) /(DE) (NAQ) /(DE)(DE)(ZCNDE) /(DE)(DE)(BDE) /
+(AQ) (CBMGT)(DE)/(SW)(AQ)(VAQ) /(DE)(DE)(ZVDE) /(DE)(DE)(CDE) /
+(DE) (ZCSW) /(DE) (VGT) /(GT)(HY)(ZVGT) /(GT)(HY)(BGT) /
+(NGT) (MGT)(DE)/(BSW)(AQ)(ZAQ) /(DE)(DE)(CBADE) /(DE)(DE)(MDE) /
+(DE) (XBMSW) /(DE) (NAQ) /(DE)(DE)(XVNDE) /(DE)(DE)(BDE) /
+(AQ) (CBMGT)(DE)/(SW)(AQ)(ZVAQ) /(DE)(DE)(DE) /(ZVDE)(DE)(XBDE) /
+(DE) (SW) /(XBDE) (ZGT) /(BGT)(HY)(AGT) /(SGT)(HY)(GT) /
+(AGT) (SGT)(DE)/(SGW)(AQ)(ZA) /B A /S G /
+    /  (ZD) /C (BG) /(CD) (XF) /
+(VD) (AF) /V (CG) /(BQ) (SJ) /(BQ) (VNSHQE)   /
+W /  (NDHQ) /G (QT) /RE(BADJW) /
+Q G /S V /A F /G Q /
+    /  V /A F /G Q /
+    /  V /A F /G Q /
+    /  (VDE) /A F /G Q/

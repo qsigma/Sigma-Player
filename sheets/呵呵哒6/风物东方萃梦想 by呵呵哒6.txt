@@ -1,0 +1,145 @@
+          (SW) (DE)/
+(ZVNGT)  (HY)  (VADE) /
+ (SW)  (XBMDE)  (NH)/
+  (AQ)  (MSW)(CNAJ) /
+ (AQ)  (BMSJ)  (BDG)/
+
+  (ZNDH)    (ZCNAQ)/
+  (MSW)(ZVADE)  N /
+ (NDH)  (NDE)  (XBMSW)/
+  (ADQ)  (MGJ)(CNAHQ) /
+
+  (CN) N N /
+(ZCB) B (CN)   /
+(CN) N N (ZCB) /
+B(CNAHQ)   (CN) N/
+
+ N (ZCB) B (CNA)/
+   (CN) N (CNS)/
+ (XBD) D(CNA)   /
+(CN) N N (ZCB) /
+
+B (CN)   (CN) /
+N N (ZCB) B(CN)/
+   (CN) N (CN)/
+ (XB)  (CN)  C/
+
+ C (ZAH) X (BSJ)/
+(CNDHQ)   N N /
+ (CGE)  (NAFW)  (DQ)/
+ N (NSJ) C (BFW)/
+
+(ZVAH)   V V /
+ (ZSJ)  (VAFQ)   /
+V V Z (VAH)(XBADGW)/
+   B B  /
+
+(XDQ)  (BSFW)  (DQ)[(FW)B(DQ)]/
+(BMFW) X (BGE)(CMDGE)  /
+ C C  (MFW) /
+E (CMDE)  X C/
+
+  C (NAH) (BSJ)(CNDHQ)/
+   N N  /
+(CGE)  (NAFW)  (DQ) /
+N (NFW) C (BGE)(ZVADGT)/
+
+   V V  /
+(ZFY)  (VDQ)   V/
+ V Z (VAH)(XBSGJ) /
+  B B  (XAH)/
+
+  (BSJ)  (DQ) B/
+ (BMFW) X (BSJ)(CBMDGJ) /
+  N N C /
+(BAQ) (SJ) (CNADH)   /
+
+ (XBSGT)(ZVNAHQ)  (NF) Z/
+ (VAQE) M (ZNF)  /
+(XBMQE)  (MG) (XA) (DJW)/
+ X (XSG)(CNAQE)  (AT)/
+
+ N (DQE)  (CMT) /
+ (XBM)  G (XN) /
+(ND)  (BMS)(ZVNAHQ)  (NF)/
+ Z (VAHQ) M (ZNF)/
+
+  (XBMQE)  (MG) (XA)/
+ (SJW) (XM) (XBG)(CNAQE) /
+ A N (DQE)  /
+(CM)  N  G /
+
+N (CNAD)  (XBMS)(ZVNQ) /
+ V Z (NAY) M/
+ (ZVF)  (XBMT)  B/
+ X (MSY) X (XBGY)/
+
+(CNA)  A N D/
+  (CM)  (XBM)  /
+G (XN) (ND)  (BMS)/
+(ZVNAHQ)  (NF) Z (VAHQ)/
+
+ M (ZNF)  (XBMQE) /
+ (MG) X (SJW) X/
+ (XBG)(CNAQE)  A N/
+ (DQE)  (CM)  (NQE)/
+
+  A N (CNADQE) /
+ (XBMG)(ZVNAFHQ)  (NF) Z/
+ (VAQE) M (ZNF)  /
+(XBMQE)  (MG) (XA) (DJW)/
+
+ X (XSG)(CNAQE)  (AT)/
+ N (DQE)  (CMT) /
+ (XBM)  G (XN) /
+(ND)  (BMS)(ZVNAHQ)  (NF)/
+
+ Z (VAHQ) M (ZNF)/
+  (XBMQE)  (MG) (XA)/
+ (SJW) (XM) (XBG)(CNAQE) /
+ A N (DQE)  /
+
+(CM)  N  G /
+N (CNAD)  (XBMS)(ZVNQ) /
+ V Z (NAY) M/
+ (ZVF)  (XBMT)  B/
+
+ X (MSY) X (XBGY)/
+(CNA)  A N D/
+  (CM)  (XBM)  /
+G (XN) (ND)  (BMS)/
+
+(ZVNAHQ)  (NF) Z (VAHQ)/
+ M (ZNF)  (XBMQE) /
+ (MG) X (SJW) X/
+ (XBG)(CNAEY)  A N/
+
+ (DEY)  (CM)  (NQE)/
+   N (XBMSGW)  /
+(CBDE)(XVDHET)  (VY)  (ZQE)/
+  (VW)  (BFJE)  /
+
+(BH)  (XFQ)  (BW)(CBDGJ)/
+  (NQ)  (XJ)  /
+(BSG)  (ZDH)  V /
+ (MQ)  (CW)(VHE)  /
+
+V  (ZH)  (VE) /
+ (XBDGJW)  (XBDGQ)  (XBDGJ)/
+(CN)   (CN) N /
+N (XB)  (CN)  /
+
+ (CN) N N (XB)/
+(CN)   (CN) N /
+N (XB)  (CN) A/
+  (CNA) N (CNS) /
+
+(XBD) (ND)(CNDH)   (CNDH)/
+ N N (XBSG)  /
+(CNDH)   (CNDH) N /
+N (XBSG)(CNDH)   (CNDH)/
+
+ N N (XBSG)  /
+(CNDH) H  (CMD) (CD)/
+  (XBSG)(CNDH)    /
+(CN)/

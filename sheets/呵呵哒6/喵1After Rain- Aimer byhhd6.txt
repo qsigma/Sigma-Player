@@ -1,0 +1,289 @@
+第一版为一行一小节 排版版本往下翻
+(NA) (BA)  (CM) A (BS)  (VD)
+N (ZS)  (BG)  (ZS)
+(NA) (BA)  (CM) A (BS)  (VND)
+N (XS)  (ZG)  (MS) Z
+(NQ) (BQ) G (CJ) (BQ) (AW) G (VE)
+(BG) (DE) G (ZW)  (BT) (ZW)
+(NQ) (BQ) G (CJ) (BQ) (AW) G (VE)
+(BG) (DE) G (ZW)  (BT) (BW) B
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZA) (CD) B S Z
+(CNA)   (XB)  D A (ZVNS)
+(ZB)   D (MF)
+(CND)   (XBS)  A S (ZVNS)
+A (ZB)  D (MS)
+(CNA)   (XB)  D A (ZVNS)
+(ZBS)   D (MF)
+(CNG)  A (XBA)  A M (ZCM)
+A A (ZB)
+(ZCN) Z Z (ZD) X (ZG)  (XBM)
+C    V
+(ZV)  X X  Z B (ZCB)
+C Q  J G D S
+(ZCN) Z Z (XD)  (ZG) Z (XBM)
+C    V
+(ZBD)  (ZV)  (ZV)  (VN) B
+B (BA) (BM) B  D G (VSJ)
+(VDQ) (ZVDQ) (DQ) (VDQ) V (ZVG) (SH)
+(BSH) (MG) (XB) (BMG)  (BD) (XBG) (CSJ)
+(CDQ) (CMDQ) (DQ) (CDQ) C (CMG) (GW)
+N (QE) (CNWR) (NQE)  (NE) (CNW) (VDQ)
+(VDQ) (ZVDQ) (DQ) (VDQ) V (ZV) (JW)
+B (HQ) (XB) (NGJ)  (NGJ) M (HQ)
+N (JW) (CNQE) N  (NE) (CNW) (BJW)
+M X (VF) (ZGQ)  D G (VGJ)
+(VGQ) (ZVGQ) (GQ) (VGQ) V (ZVG) (SH)
+B (SG) (XB) (BSG)  (BD) (XBG) (CGJ)
+(CGQ) (CMGQ) (CGQ)  C (CMG) W
+N (GE) (CNHR) (NGE)  (NE) (CNW) (MFQ)
+(MFQ) (VMFQ) (FQ) (MFQ) M (VMG) (GW)
+M (FQ) (VM) (FQ) M M (VM) (VGQ)
+(VGQ) (ZVGQ) (GQ) (VGQ) (VG) (ZV) (BGW)
+(BGQ) B (BGJ) (BGJ)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VDH)
+B (CDG)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZA) (CD) B S Z
+(NA) C B C  (BD) (XA) (VS)
+N Z (ZB) (BD) X (MF)
+(ND) C (BS) (CS)  (BA) (XS) (VS)
+(NA) Z Z (BD) X (MS)
+(NA) C B C  (BD) (XA) (VS)
+N Z (ZS) (BD) X (MF)
+(NG) C (BA) (CA)  (BA) (XM) (VM)
+(NA) Z (ZJ) Q(BJ)(XG) D S
+(NA)H(ZNA)H(ZNA)H(ZNA)H(XNA)H(ZNA)H(ZNA)H(XBMS)G
+(BS)G(BS)G(BS)G(BS)G(CBS)G(BS)G(CBS)G(BS)G
+(XVA)F(VA)F(XVA)F(XVA)F(VA)F(ZVA)F(CBA)F(ZBAD)Q
+(AD)Q(CAD)Q(AD)Q(ZAD)Q(NAD)Q(BAD)Q(CAD)Q(XAD)U
+(NA)C(NA)M(ZA) (CAD) Z (NAG) (BA) (BMS)
+X BMNMB(ZD)M (BF) X
+(ZVGE)  (ZV)  (ZV)  (VH) (BG)
+(BQ) (BJ) (BG) D  G (VSGJ)
+(VDGQ) (VDGQ) (ZDGQ) (NDGQ) Z (VG) (ZSH)
+B (BMG) X (BMG) M (ND) (BG) (CSGJ)
+(CDGQ) (CDGQ) (XDGQ) (CDGQ) B (CG) (XGW)
+N (NQE)C(NWR)M(AQE) M (NE) (BW) (VDHQ)
+(VDHQ) V(VDHQ)(ZDHQ) (NDHQ) Z V (ZJW)
+B (BHQ)XB (NGJ)  (NGJ) (BM) (XHQ)
+N (ZJW)C(NQE) M A (NE) (CW) (BJW)
+M X (VF) (ZGQ)  D G (VSGJ)
+(VDGQ) (VDGQ) (ZDGQ) (NDGQ) Z (VG) (ZADH)
+B (BMSG) X (BMSG) M (ND) (BG) (CSGJ)
+(CDGQ) (CDGQ) (XDGQ) (CDGQ) B (CG) (XW)
+N (NGE)C(NHR)M(AGE) M (NE) (BW) (MFQ)
+(MFQ) (VMFQ) (MFQ)  M (VMG) (GW)
+M (FQ) (VM) (FQ) M M (VM) (VDGQ)
+(VDGQ) (ZVDGQ) (DGQ) (VDGQ) (VSG) (ZV) (BGW)
+(BGQ) B (BGJ) (BGJ)
+(NGQ) J (CNAD) (NGW) N (NDQ) (CNADW) (DE)
+(CQ) (CG) (CBMD) (CF) (CH)A(CQ)A(CBMJ)AQA
+(VD) Q (VAD) (VSW) V (VQ) (VADJ) G
+(VH) (ZG)D(NS) (VA) (CM) (CBA) (CB) (CN)
+N D (ZCNQ) (NW) N (NQ) (ZCNW) E
+(CJ)G(CQ)G(CBMJ)G(CD) (CS) (CM) (CBM) N
+(VAD) GJ(XVQ)G(VD) (VF) (VD) (XVJ) D
+(BS) (XVNA) (XBM) (XBM) (XVNA) (XBM) (XBM) X
+(XVA) X (XVN) (XSF) (XF) (XG) (XVNSH) X
+(XGQ) X (XVNH) (XGQ) X (XFW) (XVN) X
+(CJ) (CGQ) (CBMJ) (CSG) C (CBD) (CBM) (CBD)
+C (CBG) (CBM) (CSGJ) C C (CBM) C
+(VA) V (ZVN) V (VF) (VG) (ZVNH) V
+(VGQ) V (ZVNH) (VGQ) V V (ZVNDW) V
+(BJE) (BJR) (XBMJE) (BJW) B B (XBMQ) B
+(BW) (BQ) (XBMJ) (BG) B (BDQ) (XBM) (BDW)
+(CHE) (CHR) (CBMHE) (CHW) C C (CBMDQ) C
+(CDGQE) C (CB) C (CMDGJE) C C C
+(CBAD)  T G  (VNAD)
+(BAD)   B (XN) (BM) X
+(CBS)  T G  (BMS)
+(CNA)     (CBA)
+(CBAD)  (VT) G V (NAD) V
+(XBS)  (CBA)  (XVM)  (XN)
+(VNAD)  (NG) (GQE) N (GJW) N (BSGJ)
+B B B (BADG)  D G (VSJ)
+(VDQ) (ZVDQ) (DQ) (VDQ) V (ZVG) (SH)
+B (MG) (XB) (BMG)  (BD) (XBG) (CSJ)
+(CDQ) (CMDQ) (CDQ)  C (CMG) (GW)
+N (QE) (CNWR) (NQE)  (NE) (CNW) (VDQ)
+(VDQ) (ZVDQ) (DQ) (VDQ) V (ZV) (JW)
+B (HQ) (XB) (NJ)  (NGJ) (BM) (HQ)
+N (JW) (CNQE) N  (NE) (CNW) (BJW)
+M X (VF) (ZGQ)  D G (VGJ)
+(VGQ) (ZVGQ) (GQ) (VGQ) V (ZVG) (SH)
+B (SG) (XB) (BSG)  (BD) (XBG) (CGJ)
+(CGQ) (CMGQ) (GQ) (CGQ) C (CMG) W
+N (GE) (CNHR) (NGE)  (NE) (CNW) (MFQ)
+(MFQ) (VMFQ) (MFQ)  M (VMG) (GW)
+M (FQ) (VM) (FQ) M M (VM) (VGQ)
+(VGQ) (ZVGQ) (GQ) (VGQ) (VG) (ZV) (BGW)
+(BGQ) B (BGJ) (BGJ)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VDH)
+B (CDG)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VDH)
+B (CDG)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VDH)
+B (CDG)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VAD)
+B (CD)  (ZS) C (BAG) (MS) (ZA)
+(NAQ) (BAD) G (CMS) (BA) (ZS) B (VDH)
+B (CDG)  (ZS) C (BAG) (MS) (ZA)
+
+
+
+(NA) (BA) /  (CM) /A (BS) /  (VD)   /
+N /  (ZS) /  (BG) /(ZS)   /
+(NA) (BA) /  (CM) /A (BS) /  (VND)   /
+N /  (XS) /  (ZG) /(MS) Z /
+(NQ) (BQ) /G (CJ) /(BQ) (AW) /G (VE) /
+(BG) (DE) /G (ZW) /  (BT) /(ZW)   /
+(NQ) (BQ) /G (CJ) /(BQ) (AW) /G (VE) /
+(BG) (DE) /G (ZW) /  (BT) /(BW) B /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZA) /(CD) B /S Z /
+(XVNA)   /  (ZCB) /  D /A (XVNS) /
+    /  (XB) /D   /(MF)   /
+(XVND)   /  (ZCBS) /  A /S (XVNS)   /
+A /  (XB) /D   /(MS)   /
+(XVNA)   /  (ZCB) /  D /A (XVNS) /
+    /  (XBS) /D   /(MF)   /
+(XVNG)   /A (ZCBA) /  A /M (ZCBM)   /
+A /A (XB) /    /    /
+(XVN) Z /Z (ZD) /X (ZG) /  (XBM) /
+    /    /C   /V   /
+(XV)   /X X /  Z /B (ZCB)   /
+C /  Q /J G /D S /
+(XVN) Z /Z (XD) /  (ZG) /Z (XBM) /
+    /    /C   /V   /
+(ZCBD)   /(ZV)   /(ZV)   /(VN) B   /
+(BA) /(BM) B /  D /G (VSJ)   /
+(VDQ) /(ZVDQ) (DQ) /(VDQ) V /(ZVG) (SH) /
+B (MG) /(XB) (BMG) /  (BD) /(XBG) (CSJ)   /
+(CDQ) /(CMDQ) (DQ) /(CDQ) C /(CMG) (GW) /
+N (QE) /(CNWR) (NQE) /  (NE) /(CNW) (VDQ)   /
+(VDQ) /(ZVDQ) (DQ) /(VDQ) V /(ZV) (JW) /
+B (HQ) /(XB) (NGJ) /  (NGJ) /(BM) (HQ) /
+N (JW) /(CNQE) N /  (NE) /(CNW) (BJW) /
+M X /(VF) (ZGQ) /  D /G (VGJ)   /
+(VGQ) /(ZVGQ) (GQ) /(VGQ) V /(ZVG) (SH) /
+B (SG) /(XB) (BSG) /  (BD) /(XBG) (CGJ)   /
+(CGQ) /(CMGQ)   /(CGQ) C /(CMG) W /
+N (GE) /(CNHR) (NGE) /  (NE) /(CNW) (MFQ)   /
+(MFQ) /(VMFQ) (FQ) /(MFQ) M /(VMG) (GW) /
+M (FQ) /(VM) (FQ) /M M /(VM) (VGQ)   /
+(VGQ) /(ZVGQ) (GQ) /(VGQ) (VG) /(ZV) (BGW)   /
+(BGQ) /B (BGJ) /  (BGJ) /    /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VDH) /
+B (CDG) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZA) /(CD) B /S Z /
+(NA) C /B C /  (BD) /(XA) (VS)   /
+N /Z (ZB) /(BD) X /(MF)   /
+(ND) C /(BS) (CS) /  (BA) /(XS) (VS)   /
+(NA) /Z Z /(BD) X /(MS)   /
+(NA) C /B C /  (BD) /(XA) (VS)   /
+N /Z (ZS) /(BD) X /(MF)   /
+(NG) C /(BA) (CA) /  (BA) /(XM) (VM)   /
+(NA) /Z (ZJ)Q/(BJ) (XG) /D S /
+(NA)H(ZNA)H/(ZNA)H(ZNA)H/(XNA)H(ZNA)H/(ZNA)H(XBMS)G/
+(BS)G(BS)G/(BS)G(BS)G/(CBS)G(BS)G/(CBS)G(BS)G/
+(XVA)F(VA)F/(XVA)F(XVA)F/(VA)F(ZVA)F/(CBA)F(ZBAD)Q/
+(AD)Q(CAD)Q/(AD)Q(ZAD)Q/(NAD)Q(BAD)Q/(CAD)Q(XAD)U/
+(NA)C(NA)M/(ZA) (CAD) /Z (NAG) /(BA) (BMS)   /
+XB/MNMB/(ZD) M /(BF) X /
+(ZVGE)   /(ZV)   /(ZV)   /(VH) (BG)   /
+(BQ) /(BJ) (BG) /  D /G (VSGJ)   /
+(VDGQ) /(VDGQ) (ZDGQ) /(NDGQ) Z /(VG) (ZSH) /
+B (BMG) /X (BMG) /M (ND) /(BG) (CSGJ)   /
+(CDGQ) /(CDGQ) (XDGQ) /(CDGQ) B /(CG) (XGW) /
+N (NQE)C/(NWR)M(AQE) /M (NE) /(BW) (VDHQ)   /
+(VDHQ)V/(VDHQ) (ZDHQ) /(NDHQ) Z /V (ZJW) /
+B (BHQ)X/B (NGJ) /  (NGJ) /(BM) (XHQ) /
+N (ZJW)C/(NQE) M /A (NE) /(CW) (BJW) /
+M X /(VF) (ZGQ) /  D /G (VSGJ)   /
+(VDGQ) /(VDGQ) (ZDGQ) /(NDGQ) Z /(VG) (ZADH) /
+B (BMSG) /X (BMSG) /M (ND) /(BG) (CSGJ)   /
+(CDGQ) /(CDGQ) (XDGQ) /(CDGQ) B /(CG) (XW) /
+N (NGE)C/(NHR)M(AGE) /M (NE) /(BW) (MFQ)   /
+(MFQ) /(VMFQ)   /(MFQ) M /(VMG) (GW) /
+M (FQ) /(VM) (FQ) /M M /(VM) (VDGQ)   /
+(VDGQ) /(ZVDGQ) (DGQ) /(VDGQ) (VSG) /(ZV) (BGW)   /
+(BGQ) /B (BGJ) /  (BGJ) /    /
+(NGQ) J /(CNAD) (NGW) /N (NDQ) /(CNADW) (DE) /
+(CQ) (CG) /(CBMD) (CF) /(CH)A(CQ)A/(CBMJ)AQA/
+(VD) Q /(VAD) (VSW) /V (VQ) /(VADJ) G /
+(VH) (ZG)D/(NS) (VA) /(CM) (CBA) /(CB) (XVN) /
+N D /(ZCNQ) (NW) /N (NQ) /(ZCNW) E /
+(CJ)G(CQ)G/(CBMJ)G(CD) /(CS) (CM) /(CBM) N /
+(VAD) GJ/(XVQ)G(VD) /(VF) (VD) /(XVJ) D /
+(BS) (XVNA) /(XBM) (XBM) /(XVNA) (XBM) /(XBM) X /
+(XVA) X /(XVN) (XSF) /(XF) (XG) /(XVNSH) X /
+(XGQ) X /(XVNH) (XGQ) /X (XFW) /(XVN) X /
+(CJ) (CGQ) /(CBMJ) (CSG) /C (CBD) /(CBM) (CBD) /
+C (CBG) /(CBM) (CSGJ) /C C /(CBM) C /
+(VA) V /(ZVN) V /(VF) (VG) /(ZVNH) V /
+(VGQ) V /(ZVNH) (VGQ) /V V /(ZVNDW) V /
+(BJE) (BJR) /(XBMJE) (BJW) /B B /(XBMQ) B /
+(BW) (BQ) /(XBMJ) (BG) /B (BDQ) /(XBM) (BDW) /
+(CHE) (CHR) /(CBMHE) (CHW) /C C /(CBMDQ) C /
+(CDGQE) C /(CB) C /(CMDGJE) C /C C /
+    /    /    /    /
+(CBAD)   /T G /  (VNAD) /    /
+(BAD)   /  B /(XN) (BM) /(XB)   /
+(CBMS)   /T G /  (BMS) /    /
+(XVNA)   /    /  (CBA) /    /
+(CBAD)   /(VT) G /V (NAD) /V   /
+(ZCBS)   /(CBA)   /(ZCBM)   /(XVN)   /
+(VNAD)   /(NG) (GQE) /N (GJW) /N (BSGJ)   /
+B /B (BADG) /  D /G (VSJ)   /
+(VDQ) /(ZVDQ) (DQ) /(VDQ) V /(ZVG) (SH) /
+B (MG) /(XB) (BMG) /  (BD) /(XBG) (CSJ)   /
+(CDQ) /(CMDQ)   /(CDQ) C /(CMG) (GW) /
+N (QE) /(CNWR) (NQE) /  (NE) /(CNW) (VDQ)   /
+(VDQ) /(ZVDQ) (DQ) /(VDQ) V /(ZV) (JW) /
+B (HQ) /(XB) (NGJ) /  (NGJ) /(BM) (HQ) /
+N (JW) /(CNQE) N /  (NE) /(CNW) (BJW) /
+M X /(VF) (ZGQ) /  D /G (VGJ)   /
+(VGQ) /(ZVGQ) (GQ) /(VGQ) V /(ZVG) (SH) /
+B (SG) /(XB) (BSG) /  (BD) /(XBG) (CGJ)   /
+(CGQ) /(CMGQ) (GQ) /(CGQ) C /(CMG) W /
+N (GE) /(CNHR) (NGE) /  (NE) /(CNW) (MFQ)   /
+(MFQ) /(VMFQ)   /(MFQ) M /(VMG) (GW) /
+M (FQ) /(VM) (FQ) /M M /(VM) (VGQ)   /
+(VGQ) /(ZVGQ) (GQ) /(VGQ) (VG) /(ZV) (BGW)   /
+(BGQ) /B (BGJ) /  (BGJ) /    /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VDH) /
+B (CDG) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VDH) /
+B (CDG) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VDH) /
+B (CDG) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VAD) /
+B (CD) /  (ZS) /C (BAG) /(MS) (ZA) /
+(NAQ) (BAD) /G (CMS) /(BA) (ZS) /B (VDH) /
+B (CDG) /  (ZS) /C (BAG) /(MS) (ZA)/

@@ -1,0 +1,135 @@
+(HS)  (GH)/S  (FH)/SHQG/(FH)SHV/
+  (GH)V/  (FH)V/  SV/  GZ/
+  FZ/  DZ/  AX/  HH/
+HGV / GHH/X  Q/HHHH/
+
+GX  /GHHQ/HZ  /V  H/
+HZ  /HGN / GZ / HGV/
+  DD/Z  Z/  DD/FDC /
+ DFD/Z  S/SX  /X  H/
+
+HHGV/  GH/HX  /QHHH/
+HGX / GHH/QHV / Z  /
+V  H/HZ  /HGN / GZ /
+ HGV/  DD/Z  Z/  Z /
+
+ DDF/DC  /DFDZ/  SS/
+SDFV/  F(ZV)/  GH/V  F/
+F(XV)  /WQFG/(VN)  G/(ZCB)  H/
+GB  /FSSD/FV  /FZ  /
+
+GB  /HZ  /N  V/  FF/
+WX  /QV  /N  V/  FR/
+(VN)  E/EZ  /C  H/QB  /
+HWRX/  WV/  N / RX /
+
+ WN / RS / HWN/  RW/
+X  V/  RW/V  R/HWV /
+ QYZ/  YY/V  Z/  N /
+ TZ / RV / EZ / QTZ/
+
+  TB/  Z / TC / RZ /
+ EB / RWZ/  X / (FR)X /
+ (SW)V / N  /(FR)X  /(SW)N  /
+(FR)S  /(NH)(SW)N / (FR)(SW)X/  V /
+
+ (FR)(SW)V/  (FR)H/(SW)V  /(AQ)V  /
+(HY)Z  /(HY)V  /Z  N/  (GT)Z/
+  (FR)V/  (DE)Z/  (AQ)C/  (GT)Z/
+  (GT)B/  Z / (GT)C / (FR)Z /
+
+ (DE)B / (FR)(SW)Z/  X / X  /
+HX  /HHGV/  V / GHH/
+X  Q/X  H/HHHG/X  X/
+  GH/HQHZ/  Z / V  /
+
+HV  /HZ  /HZ  /GN  /
+N  G/Z  H/Z  G/V  D/
+V  D/Z  Z/  Z / DZ /
+ DFD/C  C/  DF/DZ  /
+
+SZ  /SX  /HHHG/V  V/
+  GH/HX  /QX  /HHHH/
+GX  /X  G/HHQH/Z  Z/
+  V / HV / HZ / HZ /
+
+ GN / N  /GZ  /HZ  /
+GV  /DV  /DZ  /Z  Z/
+  DZ/  DF/DC  /C  D/
+FDZ / SZ / SSD/FB  /
+
+V  C/  FG/Z  H/V  V/
+  B / FN / FWQ/X  F/
+V  G/B  N/  GZ/  HG/
+B  F/SSDF/V  B/  N /
+
+ FV / GHV/  V / B  /
+FN  /FX  /WQX / FV /
+ RB / EN / EZ / B  /
+V  H/C  Z/  QX/  HW/
+
+RX  /WV  /N  R/X  W/
+N  R/S  H/WN  /RWX /
+ V  /RWV / RHW/V  Q/
+YZ  /YV  /Z  N/  TZ/
+
+  RV/  EZ/  QT/Z  T/
+B  Z/  TC/  RZ/  EB/
+  RW/Z  X/  (FR)X/  (SW)V/
+  N / (FR)X / (SW)N / (FR)S /
+
+ (NH)(SW)N/  (FR)(SW)/X  V/  (FR)(SW)/
+V  (FR)/H(SW)V / (AQ)V / (HY)Z /
+ (HY)V / Z  /N  (GT)/Z  (FR)/
+V  (DE)/Z  (AQ)/C  (GT)/Z  (GT)/
+
+B  Z/  (GT)C/  (FR)Z/  (DE)B/
+  (FR)(SW)/Z  X/  (SW)(HY)/X  (SW)/
+QC  /(SW)QV / WB / (SW)(HY)(SW)/
+QC  /(SW)QV / WB / V  /
+
+(SW)Z  /(HY)V  /(SW)Z  /QV  /
+(SW)Z  /QB  /WN  /(GT)Z  /
+Z  H/C  Q/HX  /(SW)(HY)X /
+ (SW)QC/  (SW)Q/V  W/B  (SW)/
+
+(HY)(SW)QC/  (SW)Q/V  W/B  V/
+  (SW)Z/  (HY)V/  (SW)Z/  QV/
+  (SW)Z/  QB/  WN/  (GT)Z/
+  Z / ERT/C  R/EWQR/
+
+X  W/V  X/  RV/  WC/
+  RV/  HW/B  R/WV  /
+X  R/V  W/C  R/V  H/
+WB  /QZ  /YYV / B  /
+
+V  V/  TC/  RV/  EB/
+  QT/TZ  /B  Z/  TV/
+  RC/  EV/  RW/B  X/
+  (FR)X/  (SW)V/  N / (FR)X /
+
+ (SW)N / (FR)S / (NH)(SW)N/  (FR)(SW)/
+X  V/  (FR)(SW)/V  (FR)/H(SW)V /
+ (AQ)V / (HY)Z / (HY)V / Z  /
+N  (GT)/Z  (FR)/V  (DE)/Z  (AQ)/
+
+C  (GT)/Z  (GT)/B  Z/  (GT)C/
+  (FR)Z/  (DE)B/  (FR)(SW)/Z  X/
+  (SW)(HY)/X  (SW)/QC  /(SW)QV /
+ WB / (SW)(HY)(SW)/QC  /(SW)QV /
+
+ WB / V  /(SW)Z  /(HY)V  /
+(SW)Z  /QV  /(SW)Z  /QB  /
+WN  /(GT)Z  /Z  H/C  Q/
+HX  /(SW)(HY)X / (SW)QC/  (SW)Q/
+
+V  W/B  (SW)/(HY)(SW)QC/  (SW)Q/
+V  W/B  V/  (SW)Z/  (HY)V/
+  (SW)Z/  QV/  (SW)Z/  QB/
+  WN/  (GT)Z/  Z / (GT)C /
+
+ (FR)(DE)(FR)/(SW)/
+
+制谱人：影之阁
+感谢:ds_sigma老师的帮助
+感谢：月夜Ono
