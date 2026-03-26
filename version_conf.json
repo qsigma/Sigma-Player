@@ -1,15 +1,15 @@
 {
-    "current_version_pro": 5.11,
-    "current_version_normal": 5.11,
+    "current_version_pro": 5.2,
+    "current_version_normal": 5.2,
     "current_version_beta": 5.2,
-    "current_version_name_pro": "Sigma Player Pro 5.11",
-    "current_version_name_normal": "Sigma Player 5.11",
+    "current_version_name_pro": "Sigma Player Pro 5.2",
+    "current_version_name_normal": "Sigma Player 5.2",
     "current_version_name_beta": "Sigma Player 5.2 Beta 2",
-    "new_version_description":"Sigma Player Pro 5.11: Sigma Player Pro 5.1现已发布！\n本次更新修复了若干问题。",
-    "new_version_description_normal":"Sigma Player 5.11: Sigma Player 5.1现已发布！\n本次更新修复了若干问题。",
+    "new_version_description":"Sigma Player Pro 5.2: Sigma Player Pro 5.2现已发布！\n本次更新带来了全新的联机合奏和交响诗班网络曲库，为Midi播放和Midi转谱设计了全新的操作台，以及Sigma自适应定调算法、自动播放时间校正等诸多改进。",
+    "new_version_description_normal":"Sigma Player 5.11: Sigma Player 5.2现已发布！\n本次更新带来了全新的联机合奏和交响诗班网络曲库，为Midi播放设计了全新的操作台，以及Sigma自适应定调算法、自动播放时间校正等诸多改进。",
     "new_version_description_beta":"Sigma Player 5.2 Beta 2: 新增Midi播放配置页面，在线曲库现已接入交响诗班曲库。",
     "black_lisk": "[]",
-    "broadcast_normal": "Sigma Player 5.1现已发布！声声不息，即刻更新！",
-    "broadcast_pro": "Sigma Player Pro 5.1现已发布！声声不息，即刻更新！",
+    "broadcast_normal": "Sigma Player 5.2现已发布！",
+    "broadcast_pro": "Sigma Player Pro 5.2现已发布！",
     "sponsor": "Jimmy\n辞_灯花\n晚秋行舟\n剑桥第一米黑\n百毒不侵\n一只白空空\n明月迢迢\n冬冬冬冬冬茗\n雾散\n沙鸮\n爱情是件奢侈品\n雪琳娜LinnaSnow\n静步之最\n橘子头の神\n柠萌\n夜有星辰伴皓月\n破忒头"
 }
